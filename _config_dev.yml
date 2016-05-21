@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en-UK"
 title                    : ">>> import diegor"
 title_separator          : "-"
 name                     : "Diego Russo"
@@ -15,7 +15,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+# breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
@@ -148,7 +148,7 @@ kramdown:
 # Outputting
 permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /page/:num/
 timezone: "Europe/London" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -186,16 +186,16 @@ tags:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
