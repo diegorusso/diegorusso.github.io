@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: use vim as default editor for git'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3597
+wordpress_url: http://www.diegor.it/2014/02/05/howto-use-vim-as-default-editor-for-git/
+date: '2014-02-05 15:21:15 +0000'
+date_gmt: '2014-02-05 15:21:15 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- git
+- vim
+comments: []
+---
+<p>Pick your favorite from the following ones:</p>
+<pre>
+#> export GIT_EDITOR=vim<br />
+#> git config --global core.editor "vim"<br />
+#> export VISUAL=vim<br />
+#> export EDITOR=vim<br />
+</pre><br />
+Git will respect this order.</p>

@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: print more than 20 documents in MongoDB''s shell'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3598
+wordpress_url: http://www.diegor.it/2014/02/06/howto-print-more-than-20-documents-in-mongodbs-shell/
+date: '2014-02-06 15:04:23 +0000'
+date_gmt: '2014-02-06 15:04:23 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- test
+- mongo
+comments: []
+---
+<pre>
+#> mongo<br />
+MongoDB shell version: 2.4.5<br />
+connecting to: test<br />
+> DBQuery.shellBatchSize = 100<br />
+100<br />
+> // Starting from now .find() will print out 100 documents each time<br />
+</pre></p>

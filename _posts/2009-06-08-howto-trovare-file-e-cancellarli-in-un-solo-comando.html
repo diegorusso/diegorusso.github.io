@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Trovare file e cancellarli in un solo comando'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1457
+wordpress_url: http://www.diegor.it/?p=1457
+date: '2009-06-08 15:18:20 +0000'
+date_gmt: '2009-06-08 13:18:20 +0000'
+categories:
+- osx
+- linux
+- various links
+- howto
+- programmazione
+tags:
+- howto
+- python
+- test
+comments: []
+---
+<p>Eccomi di nuovo. Oggi vedrai come trovare e cancellare file in un solo step con il comando "<a href="http://www.gnu.org/software/findutils/"><strong>find</strong></a>". Questo comando lo trovi in tutte le distribuzioni linux, in OSX, BSD ed in tutti i sistemi operativi *NIX like.</p>
+<p>"<a href="http://www.gnu.org/software/findutils/">find</a>" &egrave; molto potente ed ha una flessibilit&agrave; non indifferente. Oggi vedrai come cancellare i file che "find" trova. Come caso di esempio, hai un progetto <a href="http://www.python.org">python</a> o <a href="http://www.java.com">java</a> molto esteso. Questi due linguaggi di programmazione sono precompilati, ovvero generano del <a href="http://it.wikipedia.org/wiki/Bytecode">bytecode</a> che l'interprete eseguir&agrave;. Il Python genera file <em><strong>.pyc</strong></em>, mentr il Java genera file <strong><em>.class</em></strong>. &Eacute; da matti andare directory per directory e cancellare tutti i file uno ad uno. Il comando "find" ti viene in aiuto.<br />
+Infatti basta andare sulla root del progetto e digitare il seguente comando:</p>
+<pre>$ find . -iname&nbsp; *.pyc<br />
+$./trunk/progetto/urls.pyc<br />
+./trunk/progetto/utility_functions.pyc<br />
+./trunk/progetto/porting_conf.pyc</pre><br />
+Per trovare i file da cancellare. <span style="text-decoration: underline;">Ti consiglio sempre di testare il comando "find" prima di cancellare i file, per evitare brutte sorprese!</span> Una volta che sei sicuro dei file che vuoi cancellare ti basta lanciare il comando precedente con una opzione in pi&ugrave;:</p>
+<pre>$ find . -iname&nbsp; *.pyc -delete</pre><br />
+Puoi vedere il risultato del "<strong>delete</strong>" ricercando di nuovo i file *.pyc. Sicuramente vedrai che i file *.pyc non ci sono pi&ugrave;! :)<br />
+A seconda del sistema operativo che usi la sintassi del comando potrebbe cambiare leggermente. Questi comando sono stati provati su OSX. Per linux ad esempio lo stesso comando produrrebbe un errore. Su linux sarebbe in questo modo:</p>
+<pre>$ find . -iname&nbsp; "*.pyc" -delete</pre><br />
+Dunque ti consiglio sempre di leggerti prima il manuale di find digitando:</p>
+<pre>$ man find</pre><br />
+oppure andando <a href="http://unixhelp.ed.ac.uk/CGI/man-cgi?find">su questa pagina.</a></p>
+<p>Ti accorgerai che find far&agrave; molto di pi&ugrave; oltre a semplici ricerche.</p>
+<p>Happy find! :)</p>

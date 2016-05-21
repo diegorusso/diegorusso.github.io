@@ -1,0 +1,205 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Il modello di branching di Git'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2505
+wordpress_url: http://www.diegor.it/?p=2505
+date: '2010-07-03 16:49:16 +0000'
+date_gmt: '2010-07-03 14:49:16 +0000'
+categories:
+- private
+- car
+- friends
+- apple
+- various links
+- job
+- howto
+- lavoro
+- libro
+tags:
+- howto
+- test
+comments:
+- id: 1608
+  author: 'Tweets that mention HOWTO: Il modello di branching di Git &laquo; diegor
+    in &beta;* -- Topsy.com'
+  author_email: ''
+  author_url: http://topsy.com/www.diegor.it/2010/07/03/howto-il-modello-di-branching-di-git/?utm_source=pingback&amp;utm_campaign=L2
+  date: '2010-07-03 17:21:06 +0000'
+  date_gmt: '2010-07-03 15:21:06 +0000'
+  content: '[...] This post was mentioned on Twitter by Diego Russo, Diego Russo.
+    Diego Russo said: Nuovo post su http://www.diegor.it: "HOWTO: Il modello
+    di branching di Git" - http://tinyurl.com/38wxn6k [...] '
+- id: 5826
+  author: Giovanni
+  author_email: potomak84@gmail.com
+  author_url: http://www.focustheweb.com
+  date: '2011-12-10 13:00:23 +0000'
+  date_gmt: '2011-12-10 12:00:23 +0000'
+  content: 'Per chi non lo sapesse esiste uno strumento per automatizzare parecchie
+    delle nozioni illustrate nell''articolo: https://github.com/nvie/gitflow'
+- id: 5827
+  author: diegor
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it
+  date: '2011-12-10 19:00:54 +0000'
+  date_gmt: '2011-12-10 18:00:54 +0000'
+  content: Grazie mille per il link!! :)
+---
+<p style="text-align: left;"><strong><em>"Questo post &egrave; la traduzione del post originale '<a href="http://nvie.com/git-model?utm_source=diegor&amp;utm_medium=blog&amp;utm_campaign=branch-model" target="_blank">A successful Git branching model</a>' di Vincent Driessen." Se troverai errori o incomprensioni nella traduzione ti prego di farmelo presente. Lo corregger&ograve; prima possibile.</em></strong></p><br />
+In questo post ti presento il modello di sviluppo che ho introdotto per tutti i miei progetti (sia sul lavoro e privato) circa un anno fa, e che ha rivelato un grande successo. Sono sempre stato motivato a scrivere su Git, ma non ho mai trovato il tempo per farlo bene, fino ad ora. Non voglio parlare di uno qualsiasi dei dettagli dei progetti ma solo sulla strategia di branching e della gestione delle release.</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/git1.png"><img class="alignnone size-full wp-image-2506" title="git1" src="{{site.url}}/images/git1.png" alt="" width="611" height="815" /></a></p></p>
+<p style="text-align: left;">Ci concentreremo su <a href="http://git-scm.com/">Git</a> come strumento di versione per tutti i nostri sorgenti</p></p>
+<h2><strong>Perch&eacute; Git?</strong></h2><br />
+Per una discussione approfondita sui pro ed i contro di Git rispetto ai sistemi centralizzati di revisione del codice sorgente, <a href="http://whygitisbetterthanx.com/" target="_blank">vedi</a> <a href="http://www.looble.com/git-vs-svn-which-is-better/" target="_blank">il</a> <a href="https://git.wiki.kernel.org/index.php/GitSvnComparsion" target="_blank">web</a>.&nbsp;Ci sono un sacco di flame l&agrave;.&nbsp;Come sviluppatore, preferisco Git rispetto a tutti gli altri strumenti in giro oggi.&nbsp;Git ha veramente cambiato il modo di pensare degli sviluppatori riguardo il merging ed il branching.&nbsp;Dal classico mondo CVS/Subversion da cui provengo, &nbsp;il merging/branching &egrave; sempre stato considerato un po' inquietante ("Attenzione ai conflitti del merge, ti mordono!"), come qualcosa da fare una volta ogni tanto.</p>
+<p>Ma con Git, queste azioni sono estremamente economiche e semplici, e sono considerate una delle parti fondamentali del flusso di lavoro giornaliero, davvero.&nbsp;Per esempio, nei <a href="http://svnbook.red-bean.com/" target="_blank">libri</a> di CVS/Subversion, branching e merging sono discussi solo negli ultimi capitoli (per utenti avanzati), mentre in <a href="http://book.git-scm.com/" target="_blank">ogni</a><a href="http://pragprog.com/titles/tsgit/pragmatic-version-control-using-git" target="_blank"> libro</a> di <a href="http://github.com/progit/progit" target="_blank">Git</a> gi&agrave; rientra nel capitolo 3 (basi).</p>
+<p>Come conseguenza della sua semplicit&agrave; e natura ripetitiva, branching e merging&nbsp;non sono pi&ugrave; qualcosa di cui aver paura. Strumenti di controllo di versione sono tenuti a contribuire al branching e merging pi&ugrave; di ogni altra cosa.</p>
+<p>Basta sugli strumenti, entriamo nel merito sul modello di sviluppo.&nbsp;Il modello che ho intenzione di presentare qui, &egrave; sostanzialmente non pi&ugrave; di un insieme di procedure che ogni membro del team deve seguire al fine di giungere ad un processo di sviluppo software gestito.</p>
+<h2>Decentralizzato ma centralizzato</h2><br />
+La configurazione repository che usiamo e che funziona bene con questo modello di branching, &egrave; quella con un repo centrare "vero".&nbsp;Si noti che questo repo &egrave; considerato solo per essere quello centrale (dato che Git &egrave; un DVCS, non c'&egrave; nessuna cosa considerata come un repo centrale a livello tecnico).&nbsp;Si far&agrave; riferimento a questo repository come <strong><em>origin</em></strong>, dal momento che questo nome &egrave; familiare a tutti gli utenti Git.</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/git2.png"><img class="alignnone size-full wp-image-2507" title="git2" src="{{site.url}}/images/git2.png" alt="" width="478" height="356" /></a></p></p>
+<p style="text-align: left;">Ogni sviluppatore compie i propri push e pull in&nbsp;<strong>origin</strong>.&nbsp;Ma oltre le relazioni centralizzata push-pull, ogni sviluppatore pu&ograve; effettuare i pull di modifiche da altri peers e formare sottosquadre. Ad esempio, questo potrebbe essere utile per lavorare insieme a due o pi&ugrave; sviluppatori su una grande novit&agrave;, prima di effettuare il push prematuro dei lavori in corso in <strong><em>origin</em></strong>. Nella figura sopra, ci sono sottosquadre di Alice e Bob, Alice e Davide, e Clair e David.<br />
+Tecnicamente, questo non significa niente pi&ugrave; che Alice ha definito un Git remoto, di nome <strong>bob</strong>, che punta al repository di Bob, e viceversa.</p></p>
+<h2>I branch principali</h2><br />
+Nel core, il modello di sviluppo &egrave; fortemente ispirato ai modelli gi&agrave; esistenti precedentemente. Il repository centrale ha due branch principali, con durata infinita:</p>
+<ul>
+<li><strong>master</strong></li>
+<li><strong>develop</strong></li><br />
+</ul><br />
+Il branch <strong>master</strong> in <strong>origin</strong> dovrebbe essere familiare ad ogni utente Git. Parallelamente al branch&nbsp;<strong>master,</strong> ne esiste un altro chiamato <strong>develop</strong>.</p>
+<p>Consideriamo <strong>origin/master</strong> come branch principale dove il codice sorgente di <strong>HEAD</strong> rispecchia sempre lo stato di produzione.</p>
+<p>Consideriamo <strong>origin/develop</strong> come branch principale dove il codice sorgente di <strong>HEAD</strong> rispecchia sempre uno stato con gli ultimi cambiamenti di sviluppo consegnati per la prossima release. Qualcuno vorrebbe chiamare questo branch "integration branch" (branch di integrazione). Questo &egrave; da dove ogni automatica build giornaliera viene compilata.</p>
+<p>Quando il codice sorgente nel branch&nbsp;<strong>develop</strong> raggiunge un punto stabile ed &egrave; pronto per essere rilasciato, tutti i cambiamenti dovrebbero essere portati nel <strong>master</strong> in qualche modo e poi "taggati" con il numero di release. Come fare questo verr&agrave; discusso pi&ugrave; avanti.</p>
+<p>Quindi, ogni volta che i cambiamenti sono portati nel <strong>master</strong>, per <em>definizione</em> questa &egrave; la nuova release di produzione. Tendiamo ad essere molto severi in questo, in modo che, teoricamente, si potrebbe usare uno hook script di Git per fare il build e il roll-out del nostro software nei server di produzione ogni volta che c'&egrave; un commit nel master.</p>
+<h2>I branch di supporto</h2><br />
+Accanto ai branch principali <strong>master</strong> e <strong>develop</strong>, il nostro modello di sviluppo usa una variet&agrave; di branch di supporto per aiutare lo sviluppo parallelo tra i membri del team, facilitare il tracking delle funzionalit&agrave;, preparare le release di produzione e contribuire a risolvere i problemi di produzione in maniera rapida. A differenza dei branch principali, questi hanno sempre una durata limitata, in quanto saranno rimossi alla fine della loro vita.</p>
+<p>I diversi branch che possiamo utilizzare sono i seguenti:</p>
+<ul>
+<li><em>Feature branches</em>: branch di nuove features</li>
+<li><em>Release braches</em>: branch per i rilasci</li>
+<li><em>Hotfix branches</em>: branch per la risoluzione di problemi</li><br />
+</ul><br />
+Ognuno di questi branch ha degli scopi precisi e sono limitati a delle regole severe, ovvero da dove dovrebbero essere generati e dove devono essere rimergiati.. Li analizzeremo tra poco.</p>
+<p>In nessun caso sono branch "speciali" dal punto di vista tecnico. I tipi di branch sono suddivisi in categorie dipendentemente da come li usiamo.</p>
+<h3>Feature branches</h3><br />
+Si dovrebbero formare da: <strong>develop<br />
+</strong>Devono essere rimergiati in: <strong>develop<br />
+</strong>I nomi che solitamente si usano: tutti tranne&nbsp;<strong>master, develop, release-*, hotfix-*</strong></p>
+<p style="text-align: center;"><strong> </strong><img class="alignnone size-full wp-image-2509" title="git4" src="{{site.url}}/images/git4.png" alt="" width="133" height="352" /></p><br />
+<em>Feature branches</em> (a volte chiamati topic branches) sono usati per sviluppare nuove features per release future pi&ugrave; o meno lontane. Quando si parte allo sviluppo di una nuova feature, la release di destinazione in cui la funzionalit&agrave; dovr&agrave; essere incorporata potrebbe essere sconosciuta fino a quel momento. L'essenza del feature branch &egrave; che esiste finch&eacute; la funzionalit&agrave; &egrave; in sviluppo, fin quando eventualmente sar&agrave; rimergiata in&nbsp;<strong>develop</strong> (per aggiungerla definitivamente alla prossima release) oppure scartata (esperimento fallito).</p>
+<p>Feature branch esiste tipicamente solo nel repository dello sviluppatore, non in <strong>origin</strong>.</p>
+<h4>Creazione di un feature branch</h4><br />
+Quando si inizia a lavorare su una nuova feature, si dirama dal branch&nbsp;<strong>develop</strong></p>
+<pre><strong>$ git checkout -b myfeature develop</strong><br />
+Switched to a new branch "myfeature"</pre></p>
+<h4>Incorporare una feature terminata nel develop</h4><br />
+Le funzionalit&agrave; terminate dovrebbero essere fuse nel branch&nbsp;<strong>develop</strong> in modo da aggiungerle nella prossima release:</p>
+<pre><strong>$ git checkout develop</strong><br />
+Switched to branch 'develop'<br />
+<strong>$ git merge --no-ff myfeature</strong><br />
+Updating ea1b82a..05e9557<br />
+(Summary of changes)<br />
+<strong>$ git branch -d myfeature</strong><br />
+Deleted branch myfeature (was 05e9557).<br />
+<strong>$ git push origin develop</strong></pre><br />
+Il flag <strong>--no-ff</strong> causa il merge per creare sempre un nuovo oggetto commit, anche se il merge potrebbe essere eseguito con un fast-forward. Ci&ograve; evita la perdita di informazioni circa l'esistenza storica del feature branch e raggruppa tutti i commit che hanno aggiunto questa feature. Confronta:</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/git5.png"><img title="git5" src="{{site.url}}/images/git5.png" alt="" width="463" height="414" /></a></p></p>
+<p style="text-align: left;">In quest'ultimo caso, &egrave; impossibile vedere dalla storia di git che l'insieme di commit hanno implementato una nuova funzionalit&agrave; - si dovrebbero leggere manualmente dai messaggi di log. Il ripristino di una intera funzionalit&agrave; (cio&egrave; un gruppo di commit) fa venire il mal di testa in questo ultimo caso, mentre &egrave; presto fatto se &egrave; stato usato il flag <strong>--no-ff</strong>.</p></p>
+<p style="text-align: left;">Si, verranno creati un po' pi&ugrave; oggetti commit (vuoti), ma il guadagno &egrave; molto pi&ugrave; grande del costo.</p></p>
+<p style="text-align: left;">Sfortunatamente, non ho trovato un modo per avere il <strong>--no-ff</strong> come comportamento di default per il <strong>git merge</strong>, ma in realt&agrave; dovrebbe esserlo.</p></p>
+<h3>Release branches</h3><br />
+Si dovrebbero formare da: <strong>develop</strong><br />
+Devono essere rimergiati in: <strong>develop</strong> e <strong>master</strong><br />
+I nomi che solitamente si usano: <strong>release-*</strong></p>
+<p>I branch di release supportano la preparazione per una nuova release di produzione. Essi consentono gli aggiustamenti e le rifiniture dell'ultimo minuto (n.d.r. <a href="http://en.wiktionary.org/wiki/dot_the_i's_and_cross_the_t's">mettere i puntini sulle i</a>). Inoltre, essi consentono le correzioni di bug minori e la preparazione di meta-dati per un rilascio (numero di versione, build date, ecc.). Facendo tutto questo lavoro su un release branch, il branch <strong>develop</strong> &egrave; autorizzato a ricevere funzionalit&agrave; per la prossima grande release.</p>
+<p>Il momento chiave per creare un branch di release branch da <strong>develop</strong> &egrave; quando develop rispecchia (quasi) lo stato desiderato della nuova release.&nbsp;Almeno tutte le caratteristiche previste per la release-da-buildare devono essere mergiate in <strong>develop </strong>a questo punto nella timeline.&nbsp;Tutte le caratteristiche previste per le versioni future, non possono/devono aspettare fino a dopo che il release branch &egrave; stato formato.</p>
+<p>Ed &egrave; proprio all'inizio di unrelease branch che alla prossima release viene assegnato un numero di versione - nessuno precedentemente.&nbsp;Fino a quel momento, il branch <strong>develop</strong> rispecchiava i cambiamentei per la "prossima release", ma non &egrave; chiaro se questa "prossima release" diventer&agrave; eventualmente un 0.3 oppure una 1.0, fino a quando release branch sar&agrave; avviato.&nbsp;Tale decisione &egrave; effettuata all'inizio della release branch ed il numero &egrave; assegnato secondo le regole del progetto.</p>
+<h4>Creare un release branch</h4><br />
+I release branch sono creati dal branch <strong>develop</strong>. Per esempio, diciamo che la versione 1.1.5 &egrave; la release di produzione corrente ed abbiamo una nuova grande release che sta arrivando. Lo stato di <strong>develop</strong> &egrave; pronto per la "prossima release" ed abbiamo deciso che questa diventer&agrave; la versione 1.2 (invece che la 1.1.6 oppure 2.0). Allora creiamo un branch e diamo al release branch un nome che rispecchi il nuovo numero di versione:</p>
+<pre><strong>$ git checkout -b release-1.2 develop</strong><br />
+Switched to a new branch "release-1.2"<br />
+<strong>$ ./bump-version.sh 1.2</strong><br />
+Files modified successfully, version bumped to 1.2.<br />
+<strong>$ git commit -a -m "Bumped version number to 1.2"</strong><br />
+[release-1.2 74d9424] Bumped version number to 1.2<br />
+1 files changed, 1 insertions(+), 1 deletions(-)</pre><br />
+Dopo la creazione del nuovo branch e dopo aver cambiato in esso, gli diamo il numero di versione. Qui, <em>bump-version.sh</em> &egrave; un finto script di shell che cambia qualche file nella working copy per rispecchiare la nuova versione. (Questo pu&ograve; essere fatto anche manualmente - il punto &egrave; che alcuni file cambiano). Successivamente, la versione numerata &egrave; committata.</p>
+<p>Questo nuovo branch pu&ograve; esistere per un po' di tempo, finch&eacute; la release non verr&agrave; lanciata definitivamente. Durante questo intervallo, i bug fix possono essere applicati a questo branch (anzich&eacute; al branch <strong>develop</strong>). Aggiungere nuove grandi feature &egrave; severamente vietato. Devono essere mergiate nel <strong>develop</strong>, e quindi, aspettare la prossima grande release.</p>
+<h4>Finire un release branch</h4><br />
+Quando lo stato del release branch &egrave; pronto per diventare una vera release, &egrave; necessario eseguire qualche azione. Primo, il release branch &egrave; mergiato nel <strong>master</strong> (ricorda che ogni commit nel <strong>master</strong> &egrave; una nuova release<strong> <em><span style="font-weight: normal;">per definizione<span style="font-style: normal;">). Successivamente, quel commit nel <strong>master</strong> deve essere taggato per una facile consultazione futura a questa versione storica. Alla fine, i cambiamenti fatti nel release branch nccessitano di essere rimergiati nel <strong>develop</strong>, cos&igrave; le future release contengono questi bug fix.</span></span></em></strong></p>
+<p>I primi due step in Git:</p>
+<pre><strong>$ git checkout master</strong><br />
+Switched to branch 'master'<br />
+<strong>$ git merge --no-ff release-1.2</strong><br />
+Merge made by recursive.<br />
+(Summary of changes)<br />
+<strong>$ git tag -a 1.2</strong></pre><br />
+La release &egrave; creata e taggata per una futura consultazione.<br />
+<strong><span style="text-decoration: underline;">Edit</span></strong><span style="text-decoration: underline;">: Puoi usare anche il flag </span><strong><span style="text-decoration: underline;">-s</span></strong><span style="text-decoration: underline;"> oppure </span><strong><span style="text-decoration: underline;">-u <key></span></strong><span style="text-decoration: underline;"> per firmare crittograficamente i tuoi tag.</span></p>
+<p>Per mantenere i cambiamenti apportati nel release branch, dobbiamo mergiarli nel <strong>develop</strong>. In Git:</p>
+<pre><strong>$ git checkout develop</strong><br />
+Switched to branch 'develop'<br />
+<strong>$ git merge --no-ff release-1.2</strong><br />
+Merge made by recursive.<br />
+(Summary of changes)</pre><br />
+Questo passaggio pu&ograve; anche portare ad un conflitto di merge (probabilmente anche dal fatto che abbiamo cambiato il numero di versione). Se cos&igrave; fosse, correggilo e committa.<br />
+A questo punto abbiamo veramente finito ed il release branch pu&ograve; essere rimosso dal momento che non ne abbiamo pi&ugrave; bisogno:</p>
+<pre><strong>$ git branch -d release-1.2</strong><br />
+Deleted branch release-1.2 (was ff452fe).</pre></p>
+<h3>Hotfix branches</h3><br />
+Si dovrebbero formare da: <strong>master</strong><br />
+Devono essere rimergiati in: <strong>develop</strong> e <strong>master</strong><br />
+I nomi che solitamente si usano: <strong>hotfix-*</strong></p>
+<p style="text-align: center;"><strong><a href="{{site.url}}/images/git6.png"><img class="alignnone size-full wp-image-2511" title="git6" src="{{site.url}}/images/git6.png" alt="" width="307" height="422" /></a></strong></p></p>
+<p style="text-align: left;"><strong> </strong></p><br />
+<strong> </strong></p>
+<p style="text-align: left;"><span style="font-weight: normal;">Gli hotfix branch sono molto simili ai release branch in quanto hanno anche lo scopo di preparare una versione nuova produzione, anche se non pianificata. Essi nascono dalla necessit&agrave; di agire immediatamente, a uno stato indesiderato di una versione di produzione in circolo. Quando un bug critico in una versione di produzione deve essere risolto immediatamente, un hotfix branch pu&ograve; essere branchato fuori dal tag corrispondente sul branch principale che contraddistingue la versione di produzione.</span></p></p>
+<p style="text-align: left;"><span style="font-weight: normal;">L'essenza &egrave; che il lavoro dei membri del gruppo (sul branch </span>develop<span style="font-weight: normal;">) pu&ograve; continuare, mentre un'altra persona sta preparando una soluzione rapida per la produzione.</span></p></p>
+<h4>Creare un hotfix branch</h4><br />
+Gli Hotfix branch vengono creati dal branch <strong>master</strong>. Ad esempio, diciamo che la versione 1.2 &egrave; la release di produzione attualmente in esecuzione e sta avendo problemi a causa di un errore grave. I cambiamenti sul <strong>develop</strong> sono&nbsp;ancora instabili. Possiamo creare un hotfix branch ed iniziare a fixare il problema:</p>
+<pre><strong>$ git checkout -b hotfix-1.2.1 master</strong><br />
+Switched to a new branch "hotfix-1.2.1"<br />
+<strong>$ ./bump-version.sh 1.2.1</strong><br />
+Files modified successfully, version bumped to 1.2.1.<br />
+<strong>$ git commit -a -m "Bumped version number to 1.2.1"</strong><br />
+[hotfix-1.2.1 41e61bb] Bumped version number to 1.2.1<br />
+1 files changed, 1 insertions(+), 1 deletions(-)</pre><br />
+Non dimenticate di eliminare il numero di versione dopo aver creato il branch!</p>
+<p>Successivamente, correggi il bug e committa la correzione in uno o pi&ugrave; commit.</p>
+<pre><strong>$ git commit -m "Fixed severe production problem"</strong><br />
+[hotfix-1.2.1 abbe5d6] Fixed severe production problem<br />
+5 files changed, 32 insertions(+), 17 deletions(-)</pre></p>
+<h4>Finire un hotfix branch</h4><br />
+Alla fine, i bugfix devono essere rimergiati &nbsp;nel <strong>master</strong>, ma anche nel <strong>develop</strong>, in modo da garantire che il bugfix &egrave; incluso nella prossima release. Questo &egrave; del tutto simile a come finire i release branch.</p>
+<p>Prima di tutto, aggiorniamo il <strong>master</strong> e tagghiamo la release:</p>
+<pre><strong>$ git checkout master</strong><br />
+Switched to branch 'master'<br />
+<strong>$ git merge --no-ff hotfix-1.2.1</strong><br />
+Merge made by recursive.<br />
+(Summary of changes)$ git tag -a 1.2.1</pre><br />
+<strong><span style="text-decoration: underline;">Edit</span></strong><span style="text-decoration: underline;">: Puoi usare anche il flag </span><strong><span style="text-decoration: underline;">-s</span></strong><span style="text-decoration: underline;"> oppure </span><strong><span style="text-decoration: underline;">-u <key></span></strong><span style="text-decoration: underline;"> per firmare crittograficamente i tuoi tag.</span></p>
+<p>Successivamente, includiamo il bugfix in <strong>develop</strong>:</p>
+<pre><strong>$ git checkout develop</strong><br />
+Switched to branch 'develop'<br />
+<strong>$ git merge --no-ff hotfix-1.2.1</strong><br />
+Merge made by recursive.<br />
+(Summary of changes)</pre><br />
+L'unica eccezione alla regola &egrave; che, <strong>quando esiste un release branch, i cambiamenti di hotfix devono essere rimergiati in quel release branch piuttosto che nel develop</strong>. Il merge dei bugfix nel release branch &nbsp;porter&agrave; i bugfix nel <strong>develop</strong> anche quando il release branch finir&agrave;.&nbsp;(Se il lavoro in <strong>develop</strong> richiede questo bugfix e non si pu&ograve; aspettare che il release branch sia finito, si possono mergiare tranquillamente i bugfix ndel <strong>develop.</strong>)</p>
+<p>Alla fine, rimuoviamo il branch temporaneo:</p>
+<pre><strong>$ git branch -d hotfix-1.2.1</strong><br />
+Deleted branch hotfix-1.2.1 (was abbe5d6).</pre></p>
+<h2>Conclusioni</h2><br />
+Mentre non vi &egrave; nulla di nuovo in questo modello di ramificazione, la "grande immagine" che si trova all'inizio di questo post si &egrave; rivelata veramente utile nei nostri progetti. Essa costituisce un elegante modello mentale che &egrave; semplice da comprendere e permette ai membri del team di sviluppare una comprensione condivisa dei processi di branching e releasing.</p>
+<p>Una versione ad alta qualit&agrave; della figura &egrave; fornita qui sotto. Scaricala, stampala ed appendila al muro per una rapida consultazione.</p>
+<p><strong>Aggiornamento:</strong> e per chiunque lo ha richiesto: qui sotto anche il diagramma principale in formato Apple Keynote.</p>
+<p style="text-align: center;"><a href="http://download.diegor.it/click.php?id=22"><img class="alignnone size-full wp-image-2561" title="pdf" src="{{site.url}}/images/pdf.png" alt="" width="128" height="128" /></a><a href="http://download.diegor.it/click.php?id=23"><img class="alignnone size-full wp-image-2562" title="keynote" src="{{site.url}}/images/keynote.png" alt="" width="128" height="128" /></a></p><br />
+Sentitevi liberi di commentare! :)</p>

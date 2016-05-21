@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: "ip_conntrack: table full, dropping packet"'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3332
+wordpress_url: http://diegor.it/?p=3332
+date: '2011-05-20 09:45:17 +0000'
+date_gmt: '2011-05-20 07:45:17 +0000'
+categories:
+- computer
+- linux
+- job
+- howto
+- geek
+tags:
+- howto
+comments: []
+---
+<p>I used to manage a server based on linux and once I had this strange message:</p>
+<pre>#> ip_conntrack: table full, dropping packet</pre><br />
+One of the effects of this message is that you aren't able to make and receive new connections.<br />
+To solve that is enough increase <em>ip_conntrack_max</em> value. As first step check the current value typing:</p>
+<pre>#> cat /proc/sys/net/ipv4/ip_conntrack_max<br />
+65536</pre><br />
+Now, increase this value typing:</p>
+<pre>#> echo 131072 > /proc/sys/net/ipv4/ip_conntrack_max</pre><br />
+Generally the right value of <em>ip_conntrack_max</em> is set to the <strong>total MB of RAM multiplied by 16</strong>. If you have 8GB RAM (8192 MB), the value should be 131072.</p>

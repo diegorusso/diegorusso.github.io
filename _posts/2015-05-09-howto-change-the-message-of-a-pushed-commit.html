@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Change the message of a pushed commit'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3652
+wordpress_url: http://www.diegor.it/?p=3652
+date: '2015-05-09 17:15:10 +0000'
+date_gmt: '2015-05-09 16:15:10 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- git
+comments: []
+---
+<ul>
+<li>git rebase -i <hash-of-commit-before-the-incorrect-one></li>
+<li>In you editor now change 'pick' to 'reword' on the line for the incorrect commit.</li>
+<li>Once you have done, save and close.</li>
+<li>Now the editor opens again with the message to correct. Do your correction, save and close</li>
+<li>git push --force</li><br />
+</ul></p>
+<p>This method will rewrite the history of your repository. If someone pulled/fetched from the repo between the commit with the wrong message and when you correct it, he/she could have some issues. It would be useful to communicate to anyone involved about your action.</p>
+<p>[ad#post]</p>

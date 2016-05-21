@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: rename screen session'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3625
+wordpress_url: http://www.diegor.it/?p=3625
+date: '2014-07-18 10:26:49 +0000'
+date_gmt: '2014-07-18 09:26:49 +0000'
+categories:
+- howto
+tags:
+- howto
+- linux
+comments: []
+---
+<p>Within screen:</p>
+<pre>C-a :sessionname newSessionName</pre><br />
+where <strong>C-a</strong> is <em>Ctrl-a</em></p>
+<p>Without attaching a screen session:</p>
+<pre>#> screen -X sessionname newSessionName</pre></p>
+<p>If you have multiple screen running you have to specify which one to rename:</p>
+<pre>#> screen -S sessionToRename -X sessionname newSessionName</pre></p>

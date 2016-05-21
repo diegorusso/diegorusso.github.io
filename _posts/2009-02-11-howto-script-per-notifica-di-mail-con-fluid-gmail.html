@@ -1,0 +1,120 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Script per notifica di mail con Fluid + Gmail'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1118
+wordpress_url: http://www.diegor.it/?p=1118
+date: '2009-02-11 18:22:19 +0000'
+date_gmt: '2009-02-11 17:22:19 +0000'
+categories:
+- various links
+- howto
+- google
+- lingue
+tags:
+- howto
+comments:
+- id: 1183
+  author: Tommaso Baldovino
+  author_email: ziggy80@email.it
+  author_url: http://www.tomstardust.com/
+  date: '2009-06-26 18:54:54 +0000'
+  date_gmt: '2009-06-26 16:54:54 +0000'
+  content: Sto sperimentando Fluid ed il tuo script &egrave; il primo che ho provato.
+    Peccato che funzioni solo con l'applicazione aperta, sarebbe interessante se gli
+    sviluppatori pensassero a questo aspetto per i futuri aggiornamenti. Ottimo lavoro
+    comunque :)
+- id: 1184
+  author: diegor
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it
+  date: '2009-06-26 19:01:03 +0000'
+  date_gmt: '2009-06-26 17:01:03 +0000'
+  content: |-
+    Ciao Tommaso. Purtroppo questo script parsa l'html presente nella pagina ed ovviamente ad applicazione chiusa non funziona. Hai ragione comunque a qualche cosa di pi&ugrave; integrato. Per ora mi accontento di un +H (command +H) per fare l'hide dell'applicazione! :)
+    Grazie! <a href="#comment-842" rel="nofollow">@Tommaso Baldovino</a>
+---
+<p>Se hai <a title="http://fluidapp.com/" href="http://fluidapp.com/">Fluid</a> configurato per Gmail e non vuoi usare applicazioni esterne per controllare l'arrivo di posta ti consiglio di usare il mio script che tramite <a title="http://growl.info/" href="http://growl.info/">Growl</a> ti notifica sia visualmente che con un suono l'arrivo di nuove mail. Inoltre &egrave; personalizzabile e disponibile in 3 lingue (<strong>Italiano, Inglese, Spagnolo</strong>) ma &egrave; facilemente espandibile per altre localizzazioni.<br />
+Una volta aperto Fluid per Gmail, vai sul simbolo della pergamena accanto a "<em>Window</em>" nei men&ugrave; in alto, cliccaci e seleziona "<em>New Userscript</em>". Digita il nome che vuoi dare al nuovo script e dopo ti apparir&agrave; il tuo editor preferito.<br />
+All'interno del file copiaci questo codice:</p>
+<pre>// ==UserScript==<br />
+// @name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gmail Badge + Growl MultiLanguage<br />
+// @namespace&nbsp;&nbsp; http://fluidapp.com<br />
+// @description Mail notificator for Gmail<br />
+// @include&nbsp;&nbsp;&nbsp;&nbsp; http://mail.google.com/*<br />
+// @include&nbsp;&nbsp;&nbsp;&nbsp; http://*.google.com/mail/*<br />
+// @include&nbsp;&nbsp;&nbsp;&nbsp; https://mail.google.com/*<br />
+// @include&nbsp;&nbsp;&nbsp;&nbsp; https://*.google.com/mail/*<br />
+// ==/UserScript==</p>
+<p>(function() {</p>
+<p>//customize the below fields<br />
+var notification_sound = "Glass";<br />
+var lang = "spanish";</p>
+<p>if (lang == "english") {<br />
+    var lbl_unread_messages = " Unread message(s)";<br />
+}<br />
+if (lang == "italian") {<br />
+    var lbl_unread_messages = " Messaggi non letti";<br />
+}<br />
+if (lang == "spanish") {<br />
+    var lbl_unread_messages = " Mensaje(s) no le&iacute;do(s)";<br />
+}<br />
+// end customization</p>
+<p>if (!window.fluid) {<br />
+    return;<br />
+}</p>
+<p>function importScript(url){<br />
+    var tag = document.createElement("script");<br />
+    tag.type="text/javascript";<br />
+    tag.src = url;<br />
+    document.body.appendChild(tag);<br />
+}</p>
+<p>importScript("http://jqueryjs.googlecode.com/files/jquery-1.3.min.js");</p>
+<p>var mail_unread = 0;</p>
+<p>function updateDockBadge() {<br />
+    var label = $('#canvas_frame').contents().find('#:r2').contents().html();<br />
+    var title = document.title;<br />
+    var old_mail_unread = mail_unread || 0;</p>
+<p>if (title.indexOf('@') > 0){<br />
+    if (label &amp;&amp; label.length) {<br />
+        //Parse number of messages<br />
+        var start = label.indexOf("(");<br />
+        var end = label.indexOf(")");<br />
+        if (start > -1 &amp;&amp; end > -1) {<br />
+            start++;<br />
+            mail_unread = label.substring(start, end);<br />
+        } else {<br />
+            mail_unread = 0;<br />
+    }<br />
+}</p>
+<p>//set the dock badge with the number unread messages<br />
+if ((mail_unread || 0) > 0) {<br />
+    fluid.dockBadge = (mail_unread || "");<br />
+    sticky: true<br />
+}</p>
+<p>//growl if there are more unread items than last time<br />
+if ((mail_unread || 0) > old_mail_unread) {<br />
+    window.fluid.playSoundNamed(notification_sound);<br />
+    fluid.showGrowlNotification({<br />
+        title: "Gmail",<br />
+        description: (mail_unread || "") + lbl_unread_messages,<br />
+        priority: 3,<br />
+        sticky: false<br />
+    });<br />
+}<br />
+}<br />
+}</p>
+<p>setInterval(function(){updateDockBadge();}, 100);<br />
+})();</pre></p>
+<p style="text-align: left;">Una volta copiato, salva il file, attiva il plugin, riavvia fluid ed il gioco &egrave; fatto! :)<br />
+<a href="http://download.diegor.it/click.php?id=29">Il file &egrave; disponibile per il download, qui.</a> :)<br />
+Se hai problemi contattami!</p>

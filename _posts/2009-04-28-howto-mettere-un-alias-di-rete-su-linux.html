@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Mettere un alias di rete su linux'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1293
+wordpress_url: http://www.diegor.it/?p=1293
+date: '2009-04-28 19:19:04 +0000'
+date_gmt: '2009-04-28 17:19:04 +0000'
+categories:
+- car
+- computer
+- linux
+- job
+- howto
+tags:
+- howto
+comments:
+- id: 1223
+  author: 'www.diegor.it &raquo; HOWTO: Mettere un alias di rete su OSX'
+  author_email: ''
+  author_url: http://www.diegor.it/2009/05/11/howto-mettere-un-alias-di-rete-su-osx/
+  date: '2009-05-11 17:19:25 +0000'
+  date_gmt: '2009-05-11 15:19:25 +0000'
+  content: '[...]  11 maggio 2009  Vai ai commenti Lascia un commento      Poco tempo
+    fa hai visto come impostare un alias di rete su linux. Oggi vedrai come fare la
+    stessa cosa su OSX. sostanzialmente ci sono due modi per impostare un [...] '
+---
+<p>In questo howto vedrai come impostare un alias sulle interfacce di rete sotto Linux. L'alias &egrave; il<strong> modo per impostare pi&ugrave; indirizzi IP&nbsp; sulla stessa interfaccia di rete fisica</strong>.<br />
+Questo potrebbe essere comodo se il tuo computer &egrave; collegato ad uno switch collegato a sua volta a pi&ugrave; reti.</p>
+<p>Se vuoi mettere un alias sulla eth0 per prima cosa controlla lo stato dell'interfaccia, digitando:</p>
+<pre>sudo ifconfig eth0</pre><br />
+Il comando dar&agrave; un output come il seguente:</p>
+<pre>eth0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Link encap:Ethernet&nbsp; HWaddr 00:00:00:00:00:00&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inet addr:192.168.5.100&nbsp; Bcast:192.168.5.255&nbsp; Mask:255.255.255.0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inet6 addr: fe80::21e::0000/64 Scope:Link<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UP BROADCAST RUNNING MULTICAST&nbsp; MTU:1500&nbsp; Metric:1<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RX packets:142135 errors:0 dropped:0 overruns:0 frame:0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TX packets:108857 errors:0 dropped:0 overruns:0 carrier:0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; collisions:0 txqueuelen:1000<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RX bytes:67786936 (64.6 MiB)&nbsp; TX bytes:46751206 (44.5 MiB)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interrupt:17</pre><br />
+Per esempio se vuoi impostare 169.254.1.1 sulla eth0 dovrai digitare:</p>
+<pre>sudo ifconfig eth0:alias 169.254.1.1</pre><br />
+Al posto di <em>"alias"</em> puoi metterci quello che vuoi, anche un numero. Puoi controllare l'avvenuta impostazione dell'alias attraverso il seguente comando:</p>
+<pre>sudo ifconfig eth0:alias</pre><br />
+e vedrai un output del genere:</p>
+<pre>eth0:169&nbsp; Link encap:Ethernet&nbsp; HWaddr 00:1e:c2:1c:6f:b5<br />
+          inet addr:192.254.1.1&nbsp; Bcast:192.254.1.255&nbsp; Mask:255.255.255.0<br />
+          UP BROADCAST RUNNING MULTICAST&nbsp; MTU:1500&nbsp; Metric:1<br />
+          Interrupt:17</pre></p>

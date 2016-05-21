@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: print the nth line of a file'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3606
+wordpress_url: http://www.diegor.it/2014/03/13/howto-print-the-nth-line-of-a-file/
+date: '2014-03-13 18:10:58 +0000'
+date_gmt: '2014-03-13 18:10:58 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- sed
+- awk
+comments: []
+---
+<pre>#> awk 'NR==1524' file.txt # print the 1524th line of the file using awk<br />
+#> sed -n '1244p' file.txt # print the 1244th line of the file using sed<br />
+</pre></p>

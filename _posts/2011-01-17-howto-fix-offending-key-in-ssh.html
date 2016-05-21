@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: fix offending key in SSH'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3095
+wordpress_url: http://www.diegor.it/?p=3095
+date: '2011-01-17 19:53:16 +0000'
+date_gmt: '2011-01-17 18:53:16 +0000'
+categories:
+- osx
+- technology
+- linux
+- job
+- howto
+tags:
+- howto
+comments: []
+---
+<p>When you perform an ssh connection to a remote machine, the 1st time you will be prompted to say 'yes' to authenticate the remote host.<br />
+This feature is controlled by "<em>StrictHostKeyChecking</em>" parameter and it is set to yes by default. From security point of view, <strong>this option should be enable</strong> because protect you and your system against trojan horse attacks.<br />
+Sometimes you need disabling it temporarily. To disable it you can do via console or via config file.</p>
+<p><strong>Via console:</strong></p>
+<pre>#> ssh -o 'StrictHostKeyChecking no' username@remotemachine</pre><br />
+<strong>Via config file</strong>, adding below line to /etc/ssh_config (OSX) or /etc/ssh/ssh_config (linux):</p>
+<pre>StrictHostKeyChecking no</pre><br />
+Once you turned it on, you can solve "offending key" deleting it from "<em>~/.ssh/know_hosts</em>" through this terminal command:</p>
+<pre># sed -i '19d' ~/.ssh/known_hosts</pre><br />
+where 19 is the line containing offending key.</p>
+<p>If you have suggestions, troubles or you feel alone, comment this post! :)</p>

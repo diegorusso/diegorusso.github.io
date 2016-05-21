@@ -1,0 +1,148 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Fixare Steam su OSX con partizione case-sensitive'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2454
+wordpress_url: http://www.diegor.it/?p=2454
+date: '2010-05-14 01:12:45 +0000'
+date_gmt: '2010-05-13 23:12:45 +0000'
+categories:
+- osx
+- blog
+- private
+- car
+- linux
+- various links
+- windows
+- howto
+tags:
+- howto
+comments:
+- id: 1579
+  author: 'Tweets that mention HOWTO: Fixare Steam su OSX con partizione case-sensitive
+    &laquo; diegor in &beta;* -- Topsy.com'
+  author_email: ''
+  author_url: http://topsy.com/trackback?utm_source=pingback&amp;utm_campaign=L2&amp;url=http://www.diegor.it/2010/05/14/howto-fixare-steam-su-osx-con-partizione-case-sensitive/
+  date: '2010-05-14 01:17:08 +0000'
+  date_gmt: '2010-05-13 23:17:08 +0000'
+  content: '[...] This post was mentioned on Twitter by Diego Russo, Diego Russo.
+    Diego Russo said: Nuovo post su http://www.diegor.it: "HOWTO: Fixare Steam
+    su OSX con partizione case-sensitive" - http://tinyurl.com/2ej85p7
+    [...] '
+- id: 1580
+  author: Dustin L. Howett
+  author_email: dustin@howett.net
+  author_url: http://blog.howett.net
+  date: '2010-05-14 04:10:43 +0000'
+  date_gmt: '2010-05-14 09:10:43 +0000'
+  content: Thanks for the link, thanks for the translation!
+- id: 1581
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-05-14 11:06:51 +0000'
+  date_gmt: '2010-05-14 16:06:51 +0000'
+  content: Thanks to you for your great job! :)
+- id: 1582
+  author: Diegor
+  author_email: ''
+  author_url: http://diegor.blogger.com
+  date: '2010-07-16 21:37:11 +0000'
+  date_gmt: '2010-07-16 19:37:11 +0000'
+  content: |-
+    <strong>Diegor...</strong>
+
+    [...] all about diegor [...]...
+---
+<p>Valve Software ha rilasciato da pochi giorni Steam <strong>per OSX e per Linux</strong>. Steam &egrave; la piattaforma di gioco di suddetta azienda dove ci girano moti software. L'unico handicap &egrave; che che questa piattaforma <span style="text-decoration: underline;">era disponibile solo per Windows. E sottolineo ERA!</span><br />
+In <strong>OSX</strong> ci possono essere delle incompatibilit&agrave; per quanto riguarda la tipologia di filesystem utilizzato. Steam in fase di installazione vuole un <strong>file system non case sensitive</strong>, ovvero dove la lettera minuscola e la lettera Maiuscola sono due caratteri uguali.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-2466" title="logo_steam" src="{{site.url}}/images/logo_steam.jpg" alt="" width="270" height="202" /></p></p>
+<p style="text-align: center;"><em>Logo di Steam :)</em></p><br />
+Dunque sei hai un file system case-sensitive ti sarai bloccato in fase di installazione.<br />
+C'&egrave; un trucco che ti permette di installare Steam sul tuo Mac sfruttando i dischi virtuali. I passi da fare sono molti dunque metto a disposizione un script in bash (richiede l'utilizzo del Terminale) creato da <a href="http://blog.howett.net">Dustin L. Howett</a>.</p>
+<pre>Qui di seguito il contenuto del file:<br />
+#!/bin/bash -e</p>
+<p>### ## #<br />
+# Steamcase 1.0; creates a case-insensitive volume and prepares it for use with Steam.<br />
+# Does not download Steam.<br />
+#<br />
+# By Dustin L. Howett<br />
+# Public Domain<br />
+# Tries to be careful about moving and not destroying existing content.<br />
+### ## #</p>
+<p>### ## #<br />
+#Section to customize<br />
+IMAGE="/path/to/image/steamfs.sparsebundle"<br />
+VOLNAME="steamfs"<br />
+### ## #</p>
+<p>if [[ -z $1 ]]; then<br />
+	echo "Syntax: $0 (g|t)" >&amp;2<br />
+	echo "g = gigabytes, t = terabytes" >&amp;2<br />
+	echo "This script creates a sparse bundle disk image at /Case Insensitive.sparsebundle" >&amp;2<br />
+	exit 1<br />
+fi</p>
+<p>echo Creating $IMAGE...<br />
+hdiutil create -size $1 "$IMAGE" -type SPARSEBUNDLE -fs HFS+J -volname "$VOLNAME" -layout NONE<br />
+echo Mounting $IMAGE...<br />
+hdiutil attach "$IMAGE"<br />
+echo Creating Basic Structure in /Volumes/$VOLNAME<br />
+mkdir -p "/Volumes/$VOLNAME/Applications"<br />
+mkdir -p "/Volumes/$VOLNAME/Users/$USER/Documents/Steam Content"<br />
+mkdir -p "/Volumes/$VOLNAME/Users/$USER/Library/Application Support/Steam"</p>
+<p>echo -n "Migrating existing Steam Content... "<br />
+if [[ -d "$HOME/Documents/Steam Content" &amp;&amp; ! -h "$HOME/Documents/Steam Content" ]]; then<br />
+	rsync -qa "$HOME/Documents/Steam Content" "/Volumes/$VOLNAME/Users/$USER/Documents/Steam Content"<br />
+	rm -rf "$HOME/Documents/Steam Content"<br />
+	echo "OK."<br />
+else<br />
+	echo "Skipped."<br />
+fi</p>
+<p>echo -n "Migrating existing Steam Application Support... "<br />
+if [[ -d "$HOME/Library/Application Support/Steam" &amp;&amp; ! -h "$HOME/Library/Application Support/Steam" ]]; then<br />
+	rsync -qa "$HOME/Library/Application Support/Steam" "/Volumes/$VOLNAME/Users/$USER/Library/Application Support/Steam"<br />
+	rm -rf "$HOME/Library/Application Support/Steam"<br />
+	echo "OK."<br />
+else<br />
+	echo "Skipped."<br />
+fi</p>
+<p>echo -n "Symlinking Steam Content... "<br />
+if [[ ! -h "$HOME/Documents/Steam Content" ]]; then<br />
+	echo "OK."<br />
+	ln -s "/Volumes/$VOLNAME/Users/$USER/Documents/Steam Content" "$HOME/Documents/Steam Content"<br />
+else<br />
+	echo "Skipped."<br />
+fi</p>
+<p>echo -n "Symlinking Steam Application Support... "<br />
+if [[ ! -h "$HOME/Library/Application Support/Steam" ]]; then<br />
+	echo "OK."<br />
+	ln -s "/Volumes/$VOLNAME/Users/$USER/Library/Application Support/Steam" "$HOME/Library/Application Support/Steam"<br />
+else<br />
+	echo "Skipped."<br />
+fi</p>
+<p>echo Settings up /volumes...<br />
+mkdir -p /volumes<br />
+ln -s "/Volumes/$VOLNAME" "/volumes/$(echo $VOLNAME | tr A-Z a-z)"</p>
+<p>echo Done.</pre><br />
+Attenzione!! L'unica parte da modificare sono le seguenti righe:</p>
+<pre>### ## #<br />
+#Section to customize<br />
+IMAGE="/path/to/image/steamfs.sparsebundle"<br />
+VOLNAME="steamfs"<br />
+### ## #</pre><br />
+che dovranno contenere sulla prima il percorso del file immagine da creare, mentre la seconda indica il nome dell'immagine. Appena salvi le mofiche devi lanciare questo script, facendo questi due semplici passi:</p>
+<pre>chmod a+x  /path/to/steamcase.sh<br />
+./steamcase.sh 10g</pre><br />
+Una volta fatto ci&ograve; devi copiare il file <em><strong>Steam.app</strong></em> nel disco immagine appena creato e poi doppio click. Vedrai che ti si aprir&agrave; la finestra con l'installazione del Gioco.</p>
+<p>Ah.. ricordo che lo script lo ha scritto <a href="http://blog.howett.net">Dustin L. Howett</a> si trova in <a href="http://download.diegor.it/click.php?id=18">download qui</a> e l'applicazione della Steam <a href="http://store.steampowered.com/">la puoi scaricare qui</a> (previa registrazione al servizio)<br />
+Buon divertimento! :)</p>
+<p style="text-align: left;">Se hai domande sono qui, come sempre! :)</p></p>
+<p style="text-align: left;"><em>Fonte: </em><a href="http://blog.howett.net/?p=103"><em>http://blog.howett.net/?p=103</em></a></p></p>

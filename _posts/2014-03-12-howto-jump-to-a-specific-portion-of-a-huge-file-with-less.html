@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: jump to a specific portion of a huge file with less'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3605
+wordpress_url: http://www.diegor.it/2014/03/12/howto-jump-to-a-specific-portion-of-a-huge-file-with-less/
+date: '2014-03-12 10:27:03 +0000'
+date_gmt: '2014-03-12 10:27:03 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- linux
+- less
+comments: []
+---
+<pre>#> less +56g hugefile.txt # it goes to the 56th line<br />
+#> less +56p hugefile.txt # it goes into the 56% of the file<br />
+#> less +56P hugefile.txt # it goes to the line containing the 56th byte<br />
+</pre></p>

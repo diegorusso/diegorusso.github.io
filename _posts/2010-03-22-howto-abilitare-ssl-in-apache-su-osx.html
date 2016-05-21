@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Abilitare SSL in Apache su OSX'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2320
+wordpress_url: http://www.diegor.it/?p=2320
+date: '2010-03-22 11:06:18 +0000'
+date_gmt: '2010-03-22 10:06:18 +0000'
+categories:
+- osx
+- private
+- open source
+- various links
+- job
+- howto
+tags:
+- howto
+- apache
+- test
+comments: []
+---
+<p>In passato gi&agrave; ho scritto <a href="http://www.diegor.it/2010/01/21/howto-configurare-virtualhost-su-osx/">qualche</a> <a href="http://www.diegor.it/2009/10/31/howto-installare-mod_wsgi-in-osx/">cosa</a> riguardante il server web <a href="http://www.apache.org">Apache</a> integrato in OSX.<br />
+Oggi vedrai come abilitare il supporto ad SSL su questo server web. Fai queste semplici operazioni:</p>
+<ol>
+<li>Apri un Terminale e digita il comando:
+<pre>sudo vim /etc/apache2/httpd.conf</pre></li></p>
+<li>Intorno alla linea 477 c'&egrave; questa direttiva
+<pre># Secure (SSL/TLS) connections<br />
+#Include /private/etc/apache2/extra/httpd-ssl.conf</pre><br />
+che dovr&agrave; diventare:</p>
+<pre># Secure (SSL/TLS) connections<br />
+Include /private/etc/apache2/extra/httpd-ssl.conf</pre><br />
+</li></p>
+<li>Il prossimo passo &egrave; editare il file con il comando:
+<pre>sudo vim /private/etc/apache2/extra/httpd-ssl.conf</pre><br />
+</li></p>
+<li>Ora configura SSL seguendo <a href="http://httpd.apache.org/docs/2.0/mod/mod_ssl.html">questa documentazione</a></li>
+<li>Riavvia Apache per fargli rileggere la configurazione. Per fare ci&ograve; vai sulle <strong>"Preferenze di Sistema -> Condivisione"<br />
+<a href="{{site.url}}/images/apache.png"><img class="alignnone size-full wp-image-2174" title="apache" src="{{site.url}}/images/apache.png" alt="" width="527" height="258" /></a> </strong></li></p>
+<li><strong>Disabilita ed abilita</strong> la condivisione Web cliccando sul segno di spunta.</li>
+<li>Apri il tuo browser e testa il corretto funzionamento di SSL</li><br />
+</ol><br />
+Se hai suggerimenti, correzioni, domande... sai cosa fare! :)</p>

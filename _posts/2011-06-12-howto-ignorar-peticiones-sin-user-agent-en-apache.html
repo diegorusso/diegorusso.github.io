@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: ignorar peticiones sin user agent en Apache'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3504
+wordpress_url: http://www.diegor.it/2011/06/12/howto-ignorar-peticiones-sin-user-agent-en-apache/
+date: '2011-06-12 15:28:00 +0000'
+date_gmt: '2011-06-12 13:28:00 +0000'
+categories:
+- howto
+- guia
+- trabajo
+tags:
+- howto
+- apache
+- guia
+comments: []
+---
+<p>Un servidor web p&uacute;blico podr&iacute;a recibir muchas peticiones http que no tienen lo "user agent". Apache puede evitar este tipolog&iacute;a de peticiones. La configuraci&oacute;n es muy sencilla:</p>
+<pre><Directory /path/to/a/directory><br />
+&nbsp; &nbsp; SetEnvIfNoCase User-Agent "^-?$" noUserAgent<br />
+&nbsp; &nbsp; Order Allow,Deny<br />
+&nbsp; &nbsp; Allow from All<br />
+&nbsp; &nbsp; Deny from env=noUserAgent<br />
+</Directory></pre><br />
+En este ejemplo Apache ignora todas la peticiones sin user agent que son dirigidas a <em>/path/to/a/directory</em></p>
+<p>Comentarios son bienvenidos.</p>

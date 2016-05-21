@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: make vim show ending line spaces as characters'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3268
+wordpress_url: http://www.diegor.it/?p=3268
+date: '2011-03-11 13:00:51 +0000'
+date_gmt: '2011-03-11 12:00:51 +0000'
+categories:
+- osx
+- programming
+- open source
+- various links
+- job
+- howto
+- geek
+tags:
+- howto
+comments:
+- id: 1735
+  author: proudlygeek
+  author_email: ''
+  author_url: http://twitter.com/proudlygeek
+  date: '2011-03-11 13:43:00 +0000'
+  date_gmt: '2011-03-11 13:43:00 +0000'
+  content: |-
+    Vim is my favourite text editor, i use it pretty anywhere :-)
+
+    I'll share a useful trick for commenting multiple lines of code:
+
+    1) SHIFT-V to select multiple lines;
+    2) Type ":s/^/#"
+
+    Where "^" indicates the beginning of a line and "#" the comment symbol of your choice.
+
+    To decomment a block of code:
+
+    1) Shift-V
+    2) Type ":s/^#//"
+---
+<p>When you edit a file with <a href="http://www.vim.org/">vim</a>, it's useful understand where the line ends especially if there are spaces at the end of the line. Instead checking all lines, <strong>you can highlight white spaces</strong>. How?</p>
+<ol>
+<li>Open <a href="http://www.vim.org/">Vim</a> from <strong>Terminal</strong></li>
+<li>type
+<pre>:set list</pre><br />
+</li></p>
+<li>You see an output like the one below<br />
+<a href="{{site.url}}/images/vimsetlist1.png"><img class="alignnone size-full wp-image-3269" title="vimsetlist1" src="{{site.url}}/images/vimsetlist1.png" alt="" width="486" height="151" /></a></li></p>
+<li>If you want see each space as character, type this command
+<pre>:set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<</pre><br />
+</li></p>
+<li>The output should look like below<br />
+<a href="{{site.url}}/images/vimsetlist2.png"><img class="alignnone size-full wp-image-3270" title="vimsetlist2" src="{{site.url}}/images/vimsetlist2.png" alt="" width="484" height="120" /></a></li><br />
+</ol><br />
+Very simple and useful tip! :)</p>
+<p>If you have any doubt, advice or something else, comment this post! :)</p>
+<p><em>Source: <a href="http://stackoverflow.com/questions/1675688/make-vim-show-all-white-spaces-as-a-character">Stackoverflow</a></em></p>

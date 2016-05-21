@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: disable SSH host key checking'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3593
+wordpress_url: http://www.diegor.it/2014/01/23/howto-disable-ssh-host-key-checking/
+date: '2014-01-23 17:39:14 +0000'
+date_gmt: '2014-01-23 17:39:14 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- ssh
+comments: []
+---
+<p>Just once:</p>
+<pre>ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no host.example.com</pre></p>
+<p>Permanently, add the following to your ssh configuration (usually in ~/.ssh/config):</p>
+<pre>Host host.example.com<br />
+   StrictHostKeyChecking no<br />
+   UserKnownHostsFile=/dev/null</pre></p>

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: retrieve a single file from a specific version in git'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3573
+wordpress_url: http://www.diegor.it/2014/01/07/howto-retrieve-a-single-file-from-a-specific-version-in-git/
+date: '2014-01-07 13:52:21 +0000'
+date_gmt: '2014-01-07 13:52:21 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- git
+comments: []
+---
+<p>git show will help you. Few examples below:</p>
+<pre>
+#> git show file.py<br />
+#> git show HEAD^^^:file.py<br />
+#> git show 948a17:file.py<br />
+</pre></p>

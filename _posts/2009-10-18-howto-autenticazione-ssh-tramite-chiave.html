@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Autenticazione SSH tramite chiave'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2005
+wordpress_url: http://www.diegor.it/?p=2005
+date: '2009-10-18 21:09:43 +0000'
+date_gmt: '2009-10-18 19:09:43 +0000'
+categories:
+- osx
+- private
+- car
+- linux
+- various links
+- job
+- howto
+tags:
+- howto
+comments: []
+---
+<p>Gi&agrave; ho parlato di SSH <a href="http://www.diegor.it/2009/08/22/howto-tunneling-con-ssh/">in questo post</a>. Oggi vedrai impostare il tuo client ed il tuo server per accedere in maniera sicura e veloce tramite <strong>l'autenticazione con chiave</strong>, piuttosto che con una semplice password. L'autenticazione basata su nomeutente e password rende il sistema potenzialmente insicuro per i seguenti motivi:</p>
+<ul>
+<li>la password pu&ograve; essere indovinata in qualsiasi momento (<strong>tramite attacco brute force</strong>)</li>
+<li>la maggior parte degli utenti non guardano il file <strong>secure.log o auth.log</strong> per vedere gli accessi non autorizzati</li>
+<li>per default il server SSH ha <strong>l'accesso di root abilitato</strong>, mettendo a rischio la sicurezza di tutto il sistema</li><br />
+</ul><br />
+Per rendere pi&ugrave; sicura l'autenticazione puoi usare una <strong>coppia di chiavi crittografate</strong> al posto dell'autenticazione con password. Esistono due tipi di algoritmi per generare le chiavi ssh: <a href="http://it.wikipedia.org/wiki/RSA">RSA</a> (cripta e firma) e <a href="http://it.wikipedia.org/wiki/Digital_Signature_Algorithm">DSA</a> (firma solamente). Personalmente consiglio di usare <strong>RSA</strong>.</p>
+<p>Dunque per generare le chiavi digita:</p>
+<pre># ssh-keygen -t rsa<br />
+Generating public/private rsa key pair.</pre><br />
+A questo punto premi invio se non vuoi dare un nome personalizzato alla chiave:</p>
+<pre>Enter file in which to save the key (/Users/exampleuser/.ssh/id_rsa):</pre><br />
+Se vuoi usare l'algoritmo DSA basta specificare "-t DSA". Ad un certo punto ti verr&agrave; chiesto di inserire una passphrase per proteggere la chiave privata:</p>
+<pre>Enter passphrase (empty for no passphrase):<br />
+ Enter same passphrase again:</pre><br />
+La scelta di una passphrase dipenda da situazione a situazione. Se non immetterai nessuna passphrase potrai accedere al tuo server<strong> direttamente senza dover digitare niente</strong>. Questo per&ograve; comporta se qualcun altro accede alla tua chiave privata oppure ad una copia pu&ograve; entrare senza nessun problema nel server dove &egrave; impostata quella chiave. Se invece decidi di proteggerla con una passphrase dovrai digitare ogni volta la password per sbloccare la chiave privata. Per venirti incontro potresti usare un <a href="http://www.openbsd.org/cgi-bin/man.cgi?query=ssh-agent&amp;sektion=1">ssh-agent</a> per <strong>memorizzare la password del certificato per un tempo finito</strong> come ad esempio un'ora, una giornata, al termine della sessione grafica etc.</p>
+<p>Appena finita la creazione delle due chiavi le potrai trovare in "<em>/home/tuo_username/.ssh/"</em> per sistemi GNU/Linux oppure <em>"/Users/tuo_username/.ssh/"</em> per sistemi OSX. Ora devi <strong>copiare la tua chiave pubblica nel server remoto</strong> tramite il seguente comando:</p>
+<pre># scp id_rsa.pub username@server.remoto:/home/username/.ssh/authorized_keys</pre><br />
+<strong>Questo comando sovrascrive il file authorized_keys</strong> nel server remoto. Se vuoi aggiungere la tua chiave ad altre gi&agrave; esistenti fa in questo modo:</p>
+<ol>
+<li>copia la chiave sul server remoto</li>
+<pre># scp id_rsa.pub username@server.remoto:/home/username/.ssh/</pre></p>
+<li>loggati sul server remoto</li>
+<pre># ssh username@server.remoto</pre></p>
+<li>appendi la tua chiave a quelle esistenti</li>
+<pre>server_remoto# cd .ssh<br />
+server_remoto# cat ip_rsa.pub >> authorized_keys</pre><br />
+</ol><br />
+Ora devi <strong>impostare i giusti permessi</strong>. Sul server remoto fai</p>
+<pre>server_remoto# chmod 700 ~/.ssh<br />
+server_remoto# chmod 600 ~/.ssh/authorized_keys</pre><br />
+A questo punto puoi accedere al tuo server senza dover far uso della password. <strong>Se vuoi proteggere il tuo server da attacchi brute force</strong> sulle password puoi dire al server ssh di non accettare l'autenticazione ssh.</p>
+<p><span style="text-decoration: underline;"><strong>ATTENZIONE: prima di fare questa operazione assicurati di avere un accesso secondario alla macchina per non rimanere tagliati fuori</strong></span></p>
+<p>Vai sul tuo server ed edita il file "<em>/etc/sshd_config"</em> in modo da avere questa questa direttiva:</p>
+<pre>PasswordAuthentication no</pre><br />
+Fatto ci&ograve; riavvia il server ssh per fargli leggere la nuova configurazione.</p>
+<p><em>Fonte: <a href="http://www.unt.edu/benchmarks/archives/2007/june07/sshkey.htm">www.unt.net</a></em></p>

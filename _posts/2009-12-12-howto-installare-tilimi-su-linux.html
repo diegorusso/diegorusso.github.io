@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Installare Tilimi su Linux'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2102
+wordpress_url: http://www.diegor.it/?p=2102
+date: '2009-12-12 22:40:45 +0000'
+date_gmt: '2009-12-12 21:40:45 +0000'
+categories:
+- car
+- technology
+- computer
+- linux
+- friends
+- various links
+- windows
+- ubuntu
+- iPhone
+- social network
+- howto
+- geek
+- snow leopard
+tags:
+- howto
+comments:
+- id: 1510
+  author: stefano
+  author_email: stefano_piacenti@libero.it
+  author_url: http://www.stefano11.it
+  date: '2009-12-13 20:10:37 +0000'
+  date_gmt: '2009-12-13 19:10:37 +0000'
+  content: O di&egrave;...fichissima...sto in fissa con il canale 10.43...ahahahahahah
+- id: 1511
+  author: stefano
+  author_email: stefano_piacenti@libero.it
+  author_url: http://www.stefano11.it
+  date: '2009-12-14 13:44:27 +0000'
+  date_gmt: '2009-12-14 12:44:27 +0000'
+  content: |-
+    Ciao di&egrave;,
+    non riesco a far visualizzare correttamente l'interfaccia grafica. Ho seguito i passi che dici tu inoltre anche dalle configurazioni di wine &egrave; possibile aggiungere librerie. Il programma funziona, sentivo anche qualcuno che parlava, ma finestra nera...aaaaaaaaaaaaaaaaaaa
+- id: 1512
+  author: stefano
+  author_email: stefano_piacenti@libero.it
+  author_url: http://www.stefano11.it
+  date: '2009-12-14 19:51:07 +0000'
+  date_gmt: '2009-12-14 18:51:07 +0000'
+  content: ciao di&egrave;...ci sono riuscito...e ci sono riuscito semplicemente scaricando
+    il file gdiplus.dll e copiarlo dentro la cartella di installazione sotto wine
+    di Tilimi. Poi sulle impostazioni di Wine naturalmente devi aggiungere la libreria
+    come "native".
+- id: 1513
+  author: sistemista
+  author_email: andreatagliolini@gmail.com
+  author_url: http://toastedtech.wordpress.com
+  date: '2009-12-15 12:15:37 +0000'
+  date_gmt: '2009-12-15 11:15:37 +0000'
+  content: Noto con piacere che non mi hai menzionato....bravo bravo :D
+- id: 2809
+  author: salvo25a
+  author_email: gigio25@gmail.com
+  author_url: ''
+  date: '2011-07-12 20:53:52 +0000'
+  date_gmt: '2011-07-12 18:53:52 +0000'
+  content: ciao
+- id: 10142
+  author: ymer
+  author_email: ymer.hasibra@hotmail.it
+  author_url: http://boh
+  date: '2012-01-22 18:39:33 +0000'
+  date_gmt: '2012-01-22 18:39:33 +0000'
+  content: non riesco a registrarmi
+- id: 10143
+  author: ymer
+  author_email: ymer.hasibra@hotmail.it
+  author_url: http://boh
+  date: '2012-01-22 18:40:02 +0000'
+  date_gmt: '2012-01-22 18:40:02 +0000'
+  content: ciao
+---
+<p><a href="http://tilimi.com">Tilimi</a> &egrave; una fantastica applicazione che<strong> porta il mondo della radio a portata di computer o iPhone.</strong> Tilimi &egrave; un progetto interamente italiano ed &egrave; veramente ben fatto. Tramite un'interfaccia chiara e semplice puoi scegliere il canale che vuoi (il corrispettivo della frequenza per la radio) vedere chi &egrave; collegato in quel canale, premere il tasto e parlare con le persone di quel canale. Ovviamente <strong>la comunicazione &egrave; half-duplex</strong>, come nella comunicazione classica radioamatoriale.</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/tilimi_logo.png"><img class="size-full wp-image-2104" title="tilimi_logo" src="{{site.url}}/images/tilimi_logo.png" alt="tilimi_logo" width="90" height="114" /></a><em><br />
+Logo di Tilimi</em></p>
+<p>L'applicazione &egrave; disponibile per tre piattaforme:<strong> Macintosh, PC ed iPhone.</strong> Io l'ho installato su iPhone (qui per <a href="http://itunes.apple.com/it/app/tilimi/id300848480?mt=8">scaricarlo</a>) e su Mac (qui per <a href="http://tilimi.com">scaricarlo</a>). Noto con dispiacere che l'applicazione <span style="text-decoration: underline;">NON &egrave; disponibile per altre piattaforme tipo GNU/Linux, Symbian, Android, etc.</span> La prima cosa che ho provato &egrave; stato<strong> installare Tilimi per Windows su Linux utilizzando l'emulazione <a href="http://www.winehq.org/">wine</a>.</strong></p>
+<p>Ho effettuato l'installazione su una <strong>Ubuntu 9.10</strong>, grazie anche all'aiuto di <a href="http://www.berbell.com/">Pablo</a> e alle<strong> dritte del team di sviluppo di Tilimi</strong> stesso. Ecco i semplici passi per installare Tilimi su Linux:</p>
+<ol>
+<li>Installa Wine: <em><strong>"apt-get install wine1.2</strong></em>" (<span style="text-decoration: underline;">con wine 1.0.X l'installer non funziona</span>)</li>
+<li>Scarica il file <strong>winetricks</strong> seguendo le istruzioni di questa pagina: <a href="http://wiki.winehq.org/winetricks">http://wiki.winehq.org/winetricks</a></li>
+<li>Installa la libreria GDIPLUS: <em><strong>"sh winetricks gdiplus"</strong></em> (necessaria per visuallizare correttamente l'interfaccia)</li>
+<li>Installa Tilimi tramite il comando:<em><strong> "msiexec /a TilimiInstaller.exe"</strong></em></li>
+<li>Lancia Tilimi cliccando su "<strong><em>Applicazioni -> Wine -> Programs -> Tilimi -> Tilimi</em></strong>"</li><br />
+</ol><br />
+Ovviamente per far funzionare il tutto <strong>devi avere sia il microfono che la scheda audio funzionanti sotto Linux</strong>, poich&egrave; wine "si appoggia" ai driver audio di Linux.</p>
+<p>Se hai domande, delucidazioni, correzioni, sugerimenti o altro, commenta oppure <a href="http://www.diegor.it/chi-e-diegor/">contattami</a>. Sar&ograve; felice di rispondere. :)</p>

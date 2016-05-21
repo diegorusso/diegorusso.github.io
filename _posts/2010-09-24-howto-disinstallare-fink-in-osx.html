@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Disinstallare fink in OSX'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2764
+wordpress_url: http://www.diegor.it/?p=2764
+date: '2010-09-24 15:59:25 +0000'
+date_gmt: '2010-09-24 13:59:25 +0000'
+categories:
+- osx
+- car
+- open source
+- various links
+- job
+- howto
+- geek
+tags:
+- howto
+- test
+comments:
+- id: 1688
+  author: 'Tweets that mention HOWTO: disinstallare fink in OSX &laquo; diegor in
+    &beta;* -- Topsy.com'
+  author_email: ''
+  author_url: http://topsy.com/www.diegor.it/2010/09/24/howto-disinstallare-fink-in-osx/?utm_source=pingback&amp;utm_campaign=L2
+  date: '2010-09-25 13:01:54 +0000'
+  date_gmt: '2010-09-25 11:01:54 +0000'
+  content: '[...] This post was mentioned on Twitter by Diego Russo and Diego Russo,
+    Diego Russo. Diego Russo said: Nuovo post su www.diegor.it: "HOWTO: disinstallare
+    fink in OSX" - http://tinyurl.com/2cocwgs [...] '
+- id: 1689
+  author: 'HOWTO: Installare LaTeX in OSX &laquo; diegor in &beta;*'
+  author_email: ''
+  author_url: http://www.diegor.it/2010/10/01/howto-installare-latex-in-osx/
+  date: '2010-10-01 19:22:54 +0000'
+  date_gmt: '2010-10-01 17:22:54 +0000'
+  content: '[...] Licenza        &laquo; HOWTO: disinstallare fink in OSX [...] '
+---
+<p><a href="http://www.finkproject.org">Fink</a> &egrave; un'applicazione per OSX che ti permette di installare software opensource ed &egrave; basato sulla gestione dei pacchetti presenti in Debian. Personalmente uso i <a href="http://www.macports.org/">Macports</a> ed ho installato&nbsp;<a href="http://www.finkproject.org">Fink</a> solo una volta per provare dei pacchetti che non erano presenti nei <a href="http://www.macports.org/">Macports</a>.</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/fink_logo.png"><img class="alignnone size-full wp-image-2766" title="fink_logo" src="{{site.url}}/images/fink_logo.png" alt="" width="171" height="85" /></a></p><br />
+Cos&igrave; ho deciso di <strong>disinstallarlo</strong> seguendo questi semplici passi:</p>
+<ol>
+<li>april il <em>Terminale</em></li>
+<li>digita il comando <strong>(nota - assicurati che hai installato Fink in /sw e di digitare bene il path da rimuovere. Questo comando &egrave; distruttivo ed elimina la cartella passatagli senza alcuna conferma)</strong>
+<pre>sudo rm -rf /sw</pre><br />
+</li></p>
+<li>se hai installato tramite Fink anche "<strong><em>X Server</em></strong>" allora digita:
+<pre>sudo rm -rf /usr/X11R6 /etc/X11 /Applications/XDarwin.app</pre><br />
+</li></p>
+<li>se non hai pi&ugrave; intenzione di installare Fink elimina questa riga "<em>source /sw/bin/init.sh</em>" dal file "<em>.bash_profile</em>" o "<em>.bashrc</em>" presenti nella tua home directory. Per fare ci&ograve; usa un qualsiasi editor di testo.</li><br />
+</ol><br />
+Se hai problemi, domande o integrazioni, commenta o <a href="http://www.diegor.it/chi-e-diegor/">contattami</a>.</p>
+<p>A presto :)</p>

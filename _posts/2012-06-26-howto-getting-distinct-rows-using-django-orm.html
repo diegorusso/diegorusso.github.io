@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: getting distinct rows using Django ORM'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3391
+wordpress_url: http://www.diegor.it/?p=3391
+date: '2012-06-26 17:14:51 +0000'
+date_gmt: '2012-06-26 16:14:51 +0000'
+categories:
+- programming
+- job
+- howto
+tags:
+- howto
+- django
+comments: []
+---
+<p>Pretty simple:</p>
+<pre>Author.objects.values('surname').distinct()</pre><br />
+You have a list of all authors with no duplication.<br />
+If you use <em>.orderby()</em> together with <em>.values()</em>, you'll have to specify in the order a field that is in <em>values()</em>.</p>
+<p>Any comment or suggestion are appreciate :)</p>
