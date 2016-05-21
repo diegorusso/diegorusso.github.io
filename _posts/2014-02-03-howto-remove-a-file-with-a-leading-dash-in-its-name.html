@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: remove a file with a leading dash ''-'' in it''s name'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3596
+wordpress_url: http://www.diegor.it/2014/02/03/howto-remove-a-file-with-a-leading-dash-in-its-name/
+date: '2014-02-03 14:08:15 +0000'
+date_gmt: '2014-02-03 14:08:15 +0000'
+categories:
+- Uncategorized
+- howto
+tags:
+- howto
+- linux
+- osx
+comments: []
+---
+<pre>
+#> ls /tmp<br />
+-file_with_leading_slash.txt    generic_name.log    -file_with_leading_slash2.txt<br />
+#> rm /tmp/-file_with_leading_slash.txt #using full path<br />
+#> rm -- -file_with_leading_slash2.txt # -- stops looking for options<br />
+</pre></p>

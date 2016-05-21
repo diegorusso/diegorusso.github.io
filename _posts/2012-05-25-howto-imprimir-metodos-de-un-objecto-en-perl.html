@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: imprimir m&eacute;todos de un objecto en perl'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3511
+wordpress_url: http://www.diegor.it/2012/05/25/howto-imprimir-metodos-de-un-objecto-en-perl/
+date: '2012-05-25 19:00:18 +0000'
+date_gmt: '2012-05-25 18:00:18 +0000'
+categories:
+- howto
+- guia
+- programaci&oacute;n
+tags:
+- howto
+- python
+- guia
+comments: []
+---
+<p>Muy simple:</p></p>
+<pre>#DON'T use strict;<br />
+use Data::Dumper;<br />
+my $object = ....;<br />
+print "Instance METHOD IS  " . Dumper( %{ref ($object)."::" }) ;</pre></p>
+<p>En Python es a&uacute;n m&aacute;s f&aacute;cil :)</p></p>

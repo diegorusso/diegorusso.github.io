@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Installare Gears su Prism'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1594
+wordpress_url: http://www.diegor.it/?p=1594
+date: '2009-07-13 18:00:05 +0000'
+date_gmt: '2009-07-13 16:00:05 +0000'
+categories:
+- private
+- car
+- open source
+- various links
+- howto
+- google
+tags:
+- howto
+- test
+comments: []
+---
+<p>Ho gi&agrave; discusso <a href="http://www.diegor.it/2009/06/15/howto-wordpress-2-8-e-tinymce-dove-e-finito/">qui</a> e <a href="http://www.diegor.it/2009/07/13/howto-wordpress-2-8-1-e-tinymce-eccolo-di-nuovo/">qui</a> sull'utilit&agrave; di Gears su alcuni siti e/o piattaforme. <a href="http://prism.mozilla.com/started/">Prism</a> invece &egrave; software che ti permette di trasformare qualsiasi sito web in un'applicazione per il desktop. <a href="http://prism.mozilla.com/started/">Prism</a> &egrave; basato su Firefox ed &egrave; scaricabile sia come estensione per Firefox che come applicazione indipendente da eseguire.</p>
+<p>Io uso Prism per il mio sito. Questa piattaforma usa wordpress che &egrave; compatibile con Gears. Se proverai a installare Gears su Prism sicuramente riceverai il seguente messaggio:</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/incompatible_gears.png"><img class="size-full wp-image-1600  aligncenter" title="incompatible_gears" src="{{site.url}}/images/incompatible_gears.png" alt="incompatible_gears" width="474" height="130" /></a></p></p>
+<p style="text-align: left;">Il trucco &egrave; far credere a Google Gears che l'applicazione che gira su Prism &egrave; compatibile con lui. &Eacute; molto semplice, segui questi punti:</p></p>
+<ol>
+<li>Scaricati Google Gears da qui <a href="http://gears.google.com/">http://gears.google.com/</a> e salvala sul Dekstop</li>
+<li>Cambia l'estensione del file appena scaricato in <strong>".zip"</strong></li>
+<li>Decomprimi il file in una cartella</li>
+<li>Edita il file <strong>"install.rdf"</strong> all'interno della cartella.</li>
+<li>Vai alla seguente sezione del file:
+<pre><em:targetApplication><br />
+ <Description><br />
+  <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id><br />
+  <em:minVersion>1.5</em:minVersion><br />
+  <em:maxVersion>3.0.*</em:maxVersion><br />
+ </Description><br />
+</em:targetApplication></pre><br />
+</li></p>
+<li>Sostituiscela con la seguente:
+<pre><em:targetApplication><br />
+ <Description><br />
+  <em:id>prism@developer.mozilla.org</em:id><br />
+  <em:minVersion>0.1.*</em:minVersion><br />
+  <em:maxVersion>10.0.*</em:maxVersion><br />
+ </Description><br />
+</em:targetApplication></pre><br />
+</li></p>
+<li>Chiudi l'editor di testoComprimi la cartella con l'estensione <strong>".zip"</strong></li>
+<li>Cambia l'estensione del file da <strong>".zip"</strong> a <strong>".xpi"</strong></li>
+<li>Installa l'estensione modificata in Prism</li><br />
+</ol><br />
+A questo punto puoi usare Gears con Prism su tutti i siti che vuoi.</p>

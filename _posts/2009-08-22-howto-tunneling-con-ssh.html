@@ -1,0 +1,82 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Tunneling con ssh'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1714
+wordpress_url: http://www.diegor.it/?p=1714
+date: '2009-08-22 23:12:13 +0000'
+date_gmt: '2009-08-22 21:12:13 +0000'
+categories:
+- private
+- linux
+- various links
+- job
+- howto
+tags:
+- howto
+comments:
+- id: 1349
+  author: 'HOWTO: autenticazione SSH tramite chiave &laquo; diegor in &beta;*'
+  author_email: ''
+  author_url: http://www.diegor.it/2009/10/18/howto-autenticazione-ssh-tramite-chiave/
+  date: '2009-10-18 21:09:51 +0000'
+  date_gmt: '2009-10-18 19:09:51 +0000'
+  content: '[...] NingBuzz up!Submit this to TwittleyMark this on BlogMarksPing this
+    on Ping.fmGi&agrave; ho parlato di SSH in questo post. Oggi vedrai impostare il
+    tuo client ed il tuo server per accedere in maniera sicura e veloce [...] '
+---
+<p><strong>Il tunnel ssh &egrave; un modo sicuro per raggiungere un host che normalmente non potrebbe essere raggiunto. </strong>Il metodo sfrutta una canale (tunnel) sicuro tra la tua macchina e la macchina remota sfruttando per&ograve; un altro server che far&agrave; da ponte. Esempi: se vuoi raggiungere una macchina dietro un firewall o dietro NAT, oppure se vuoi usare MSN da una rete aziendale che vieta l'uso dell'instant messenger.</p>
+<p>Ci sono fondamentalmente due modi per effettuare il tunnel:</p>
+<ul>
+<li>forwarding della porta locale</li>
+<li>forwardind della porta remota</li><br />
+</ul><br />
+<strong>Forwarding della porta locale</strong></p>
+<p>Con questo metodo puoi accedere a porte su host che non puoi raggiungere direttamente facendo passare il traffico in una connessione SSH ad un host pubblico (che a sua volta deve poter raggiungere direttamente l'host finale). L'esempio pi&ugrave; classico &egrave; di voler raggiunere una macchina che si trova dietro NAT sfruttando il server che "natta" l'host finale. L'immagine sottostante pu&ograve; schiarirti ulteriormente le idee! :)</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/local_tunnel_ssh.png"><img class="size-full wp-image-1715 " title="local_tunnel_ssh" src="{{site.url}}/images/local_tunnel_ssh.png" alt="local_tunnel_ssh" width="328" height="282" /></a>Forwarding della porta locale</p></p>
+<p style="text-align: left;">Per raggiungere ad esempio il webserver che &egrave; in esecuzione su OS9 (dell'immagine) devi aprire una connessione SSH verso il firewall dirigendo il tunnel secondo le tue esigenze, come ad esempio effettuare il forward di tutte le richieste fatte sulla porta locale 8080 alla porta 80 del server web che si trova su OS9. Il comando che dovrai eseguire sar&agrave; il seguente:</p></p>
+<pre style="text-align: left;">ssh -N -L 8080:os9.server.lan:80 user@firewall.company.com</pre><br />
+che letteralmente significa: forwarda la porta locale 8080 a firewall.company.com e digli di mandare il traffico a os9.server.lan sulla porta 80.<br />
+I paramentri del comando ssh sono:</p>
+<ul>
+<li> <strong>-N</strong>: di a ssh di creare il tunnel senza creare una shell sull'host</li>
+<li> <strong>-L</strong>: specifica il tipo di tunneling (locale)</li>
+<li><strong> 8080</strong>: porta locale da usare</li>
+<li> <strong>os9.server.lan</strong>: &egrave; l'host accessibile dal firewall</li>
+<li> <strong>80</strong>: &egrave; la porta da raggiungere su os9.server.lan</li>
+<li> <strong>user</strong>: utente per la connessione a ssh</li>
+<li><strong> firewall.company.com</strong>: server publico da usare come rampa di lancio</li><br />
+</ul><br />
+Ora non resta che connetterti con il tuo browser web al<em> http://127.0.0.1:8080</em> per raggiungere la porta 80 di os9.server.lan.</p>
+<p><strong>Forwarding della porta remota</strong></p>
+<p>Questo approccio ti permette di effettuare il forward di connessioni fatte a un host remoto, ad un host della tua rete. Un esempio &egrave; che vorresti rendere visibile all'esterno una macchina della tua rete privata. L'immagine sottostante ti aiuta a capire lo scenario:</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/remote_tunnel_ssh.png"><img class="size-full wp-image-1718 " title="remote_tunnel_ssh" src="{{site.url}}/images/remote_tunnel_ssh.png" alt="remote_tunnel_ssh" width="328" height="282" /></a></p></p>
+<p style="text-align: center;">Forwarding della porta remota</p></p>
+<p style="text-align: left;">Per farti capire meglio: hai sviluppato una nuova web application in un server di sviluppo che &egrave; presente nella tua rete privata. Se vuoi far vedere questa web application ai tuoi clienti devi aprire un tunnel ssh dalla macchina che pu&ograve; raggiungere entrambe i server ovvero il server pubblico che i tuoi clieti devono contattare ed il tuo server di sviluppo.<br />
+Il comando da lanciare sar&agrave; il seguente:</p>
+<pre style="text-align: left;">ssh -N -R 8080:os9.server.lan:80 user@server.company.com</pre><br />
+che tradotto significa: "Di a server.company.com di effettuare il forward della porta 8080  a me, dando il traffico a os9.server.lan sulla porta 80.<br />
+I paramentri del comando ssh sono:</p>
+<ul>
+<li> <strong>-N</strong>: di a ssh di creare il tunnel senza creare una shell sull'host</li>
+<li> <strong>-R</strong>: specifica il tipo di tunneling (remoto)</li>
+<li><strong> 8080</strong>: porta locale da usare</li>
+<li> <strong>os9.server.lan</strong>: &egrave; l'host della tua lan</li>
+<li> <strong>80</strong>: &egrave; la porta da raggiungere su os9.server.lan</li>
+<li> <strong>user</strong>: utente per la connessione a ssh</li>
+<li><strong> firewall.company.com</strong>: server publico che i tuoi clienti contatteranno</li><br />
+</ul><br />
+Ora devi dire ai tuoi clienti di digitare nel proprio browser: <em>http://server.company.com:8080/</em></p>
+<p>Risponder&agrave; cos&igrave; la porta 80 di OS9, dove &egrave; la tua web application. Ti vorrei ricordare che puoi ridirigere qualsiasi tipo di porta, non solo la 80.</p>
+<p>Buon tunneling! :)</p>
+<p><em>Fonte: <a href="http://projects.tynsoe.org/en/stm/doc.php">http://projects.tynsoe.org/en/stm/doc.php</a></em><br />
+</p></p>

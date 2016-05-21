@@ -1,0 +1,82 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: import old logs in AWStats'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3349
+wordpress_url: http://www.diegor.it/?p=3349
+date: '2011-09-19 20:13:50 +0000'
+date_gmt: '2011-09-19 18:13:50 +0000'
+categories:
+- programming
+- linux
+- job
+- howto
+tags:
+- howto
+- python
+- apache
+comments:
+- id: 4549
+  author: Andrea Corbellini
+  author_email: corbellini.andrea@gmail.com
+  author_url: ''
+  date: '2011-09-19 23:09:00 +0000'
+  date_gmt: '2011-09-19 21:09:00 +0000'
+  content: |-
+    Hi! AWStats ships with a tool (logresolvemerge.pl) which does exactly the same thing. Also, I think the best way to use the script is not via a temporary file, but specifying something like this in the configuration:
+
+    LogFile=".../awstats-7.0/tools/logresolvemerge.pl .../access.log* |"
+
+    The pipe symbol tells AWStats to read logs from the output of the command instead of from a file.
+
+    [This is with AWStats 7.0, I don't know about older versions]
+- id: 4561
+  author: diegor
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it
+  date: '2011-09-20 10:51:31 +0000'
+  date_gmt: '2011-09-20 08:51:31 +0000'
+  content: Thanks Andrea for your suggestion! When I used AWStats, there wasn't any
+    tool to do that, so I created my own :)
+- id: 13759
+  author: Thomas K.
+  author_email: kaefert@gmail.com
+  author_url: ''
+  date: '2012-07-16 15:23:09 +0000'
+  date_gmt: '2012-07-16 14:23:09 +0000'
+  content: Could you explain how to use this python script?
+- id: 13760
+  author: diegor
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it
+  date: '2012-07-16 16:25:43 +0000'
+  date_gmt: '2012-07-16 15:25:43 +0000'
+  content: |-
+    Obviously you have to replace wespot-access with your filename. The script order in desc way all the logs and start to import into the database using awstats.pl
+     Anyway check out the Andrea's comment, maybe it's a better solution.
+- id: 13955
+  author: Louis
+  author_email: louis@idontwanttogivemyemail.com
+  author_url: http://Google
+  date: '2013-04-05 11:26:39 +0000'
+  date_gmt: '2013-04-05 10:26:39 +0000'
+  content: Was trying to do a similar thing in bash but this worked first time...
+    thanks!
+---
+<p style="text-align: left;"><a href="http://awstats.sourceforge.net/" target="_blank">AWStats</a> is a great software to&nbsp;analyse <a href="http://www.apache.org/" target="_blank">Apache</a> logs for having statistics about your sites. Unfortunately it doesn't offer a tool to import old logs&nbsp;into AWStats. For that I've created a small python script to do this. Here you go:</p></p>
+<pre>import commands<br />
+raw_data = commands.getoutput('ls -rt /var/log/apache2/wespot-access80.log.*.gz')<br />
+logs = raw_data.splitlines()<br />
+for log in logs:<br />
+    commands.getoutput('zcat %s > /tmp/tmplog' % log)<br />
+    commands.getoutput('/usr/lib/cgi-bin/awstats.pl -update -config=config.site.com -LogFile=/tmp/tmplog')</pre><br />
+If you have problems, comment this post! :)</p>

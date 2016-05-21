@@ -1,0 +1,122 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Reset della PRAM, NVRAM e PMU nei Mac'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1147
+wordpress_url: http://www.diegor.it/?p=1147
+date: '2009-02-25 16:01:54 +0000'
+date_gmt: '2009-02-25 15:01:54 +0000'
+categories:
+- car
+- technology
+- computer
+- apple
+- various links
+- howto
+- guida
+tags:
+- howto
+- guida
+comments:
+- id: 1190
+  author: Alessandro Zotta
+  author_email: zotenfriend@gmail.com
+  author_url: http://alessandrozotta.altervista.org/Home
+  date: '2010-03-31 21:20:23 +0000'
+  date_gmt: '2010-04-01 02:20:23 +0000'
+  content: Se il mio MacBook late 2009 con 4 GB di RAM che all&#39;inizio dei suoi
+    tempi impiegava 29 secondi ad accendersi e 3 a spegnersi, impiega minuti complessivamente,
+    mi conviene resettare la PRAM? In quali rischi corro?
+- id: 1191
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-04-01 09:51:37 +0000'
+  date_gmt: '2010-04-01 14:51:37 +0000'
+  content: Ciao e grazie per la visita! :)<br>Il Reset della PRAM, come detto nel
+    post va a resettare una serie di EEPROM dove sono contenute alcune informazioni
+    di alcune periferiche Hardware. Ad esempio una volta mi &egrave; capitato che
+    la scheda wifi non funzionava pi&ugrave; e dopo un bel reset &egrave; tornata
+    a funzionare. Da quello che mi hai detto il tuo problema sia pi&ugrave; software,
+    che hardware. L&#39;unica cosa che ti posso dire &egrave; di salvare tutti i tuoi
+    dati e procedere ad una reinstallazione di Leopard/Snow Leopard (ti consiglio
+    comunque SL).<br><br>Fammi sapere come va! :)
+- id: 1192
+  author: Alessandro Zotta
+  author_email: zotenfriend@gmail.com
+  author_url: http://alessandrozotta.altervista.org/Home
+  date: '2010-04-01 11:06:31 +0000'
+  date_gmt: '2010-04-01 16:06:31 +0000'
+  content: 'Grazie della risposta! :D<br>Allora, ho provato a vedere quali processi
+    partivano insieme all&#39;accensione. Una volta avevo installato VMware Fusion,
+    non l&#39;avevo disinstallato completamente e sono risalito dal processo ai file:
+    li ho cancellati. In pi&ugrave; ho eliminato delle applicazioni inutili che partivano
+    nella StatusBar.<br>Risultato: molto buono direi! :D adesso &egrave; molto pi&ugrave;
+    veloce! Anche ad aprire le applicazioni. Prima Safari rimbalzava 5-6 volte (!!!)
+    e adesso mezzo salto ed &egrave; aperto!<br>Comunque in s&egrave; era colpa del
+    processo VMwareFusionHelper, pesante e a 32 bit. Per fortuna ho risolto cos&igrave;
+    semplicemente!'
+- id: 1193
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-04-01 11:19:04 +0000'
+  date_gmt: '2010-04-01 16:19:04 +0000'
+  content: Ottimo!! I processi "helper" sono quei processi che sono eseguiti in background
+    e che possono rallentare le prestazioni del sistema. Magari vedi se ne hai altri
+    che non usi pi&ugrave; e toglili! :) Ovviamente fallo con cautela, OSX ha anche
+    i suoi processi helper che ti consiglio di non toccare! :)<br><br>Comunque meglio
+    cos&igrave;, hai gi&agrave; raggiunto un ottimo risultato.
+- id: 1194
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-04-01 07:51:00 +0000'
+  date_gmt: '2010-04-01 07:51:00 +0000'
+  content: |-
+    Ciao e grazie per la visita! :)
+    Il Reset della PRAM, come detto nel post va a resettare una serie di EEPROM dove sono contenute alcune informazioni di alcune periferiche Hardware. Ad esempio una volta mi &egrave; capitato che la scheda wifi non funzionava pi&ugrave; e dopo un bel reset &egrave; tornata a funzionare. Da quello che mi hai detto il tuo problema sia pi&ugrave; software, che hardware. L'unica cosa che ti posso dire &egrave; di salvare tutti i tuoi dati e procedere ad una reinstallazione di Leopard/Snow Leopard (ti consiglio comunque SL).
+
+    Fammi sapere come va! :)
+---
+<p>Questa guida &egrave; rivolta a tutti i possessori di computer che hanno una <span style="text-decoration: underline;">mela morsicata impressa sopra.</span><br />
+Qui vedrai come reimpostare la <strong>PRAM</strong> (Parameter Random Access Memory) e la <strong>NVRAM</strong> (Nonvolatile RAM) su questi tipi di computer. E' possibile che il mac dia dei strani segni di funzionamento ed a volte &egrave; necessario fare il reset di alcune informazioni. In questi <em>"chip" </em>sono memorizzate le seguenti informazioni:</p>
+<ul>
+<li>Stato di AppleTalk</li>
+<li>Impostazioni della porta seriale</li>
+<li>Impostazione della sveglia</li>
+<li>Font delle applicazioni</li>
+<li>Velocit&agrave; e ritardo di autoripetizione dei tasti</li>
+<li>Volume degli altoparlanti e suono di avvertimento (bip)</li>
+<li>Informazioni delle impostazioni del mouse</li>
+<li>Profondit&agrave; del monitor</li>
+<li>Informazioni sulla memoria e sul disco</li><br />
+</ul><br />
+La procedura &egrave; molto semplice ed &egrave; strutturata in questi semplici passi:</p>
+<ol>
+<li>Spegni il computer.</li>
+<li>Individua i tasti seguenti sulla tastiera: Comando, Opzione, P e R. <em>Nel passaggio 4 sar&agrave; necessario tenerli premuti contemporaneamente.</em></li>
+<li>Accendi il computer.</li>
+<li>Premi e tieni premuti i tasti <strong>Comando-Opzione-P-R.</strong> Premi la combinazione di tasti <span style="text-decoration: underline;">prima che sia visualizzata la schermata grigia</span>.</li>
+<li>Tieni premuti i tasti<strong> finch&eacute; il computer non si &egrave; riavviato</strong> e finch&eacute; non senti il suono di avvio per la seconda volta.</li>
+<li>Rilascia i tasti.</li><br />
+</ol><br />
+Fatto ci&ograve; dovresti aver risolto i tuoi disfunzionamenti "hardware".<br />
+Se non risolvi in questo modo puoi provare a fare il <strong>reset del PMU (Power Management)</strong> facendo questi semplici passi:</p>
+<ol>
+<li>Uscita forzata (Opzione-Comando-Esc)</li>
+<li>Riavvia (Ctrl-Comando-Accensione)</li>
+<li>Arresto forzato (tieni premuto il pulsante di accensione per 10 secondi)</li><br />
+</ol><br />
+La PMU &egrave; un chip che controlla la retroilluminazione, la decelerazione del disco rigido, la modalit&agrave; di stop e attivazione, alcuni aspetti della ricarica, il trackpad e alcune funzioni di ingresso/uscita relative alla modalit&agrave; di stop del computer.</p>
+<p><strong>Usa quest procedure se e solo se avete reale bisogno!</strong></p>
+<p><em>Fonte: <a title="http://support.apple.com/kb/HT1379?viewlocale=it_IT&amp;locale=it_IT" href="http://support.apple.com/kb/HT1379?viewlocale=it_IT&amp;locale=it_IT">Apple</a></em></p>

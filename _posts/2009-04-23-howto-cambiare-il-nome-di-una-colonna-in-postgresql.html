@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Cambiare il nome di una colonna in postgresql'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1283
+wordpress_url: http://www.diegor.it/?p=1283
+date: '2009-04-23 09:30:38 +0000'
+date_gmt: '2009-04-23 07:30:38 +0000'
+categories:
+- open source
+- job
+- howto
+tags:
+- howto
+comments: []
+---
+<p>Se sai un programmatore come me, sicuramente hai avuto anche a che fare con i database. Io uso <span style="text-decoration: line-through;">solo</span> maggiormente <a href="http://www.postgresql.org">postgresql</a> che a mio parere &egrave; il <strong>migliore database esistente</strong> (open source ovviamente).</p>
+<p>In questo piccolo howto vedrai come <span style="text-decoration: underline;">cambiare il nome di una colonna in una tabella in postgresql</span>. Segui questi semplici passi:</p>
+<ol>
+<li>connettiti al database
+<pre>psql <em>nome_database</em></pre><br />
+</li></p>
+<li>lancia questo comando
+<pre>ALTER TABLE <em>nome_tabella</em> RENAME<em> nome_vecchia_colonna</em> TO <em>nome_nuova_colonna</em>;</pre><br />
+</li><br />
+</ol><br />
+Il gioco &egrave; fatto!</p>
+<p>Ti consiglio comunque di leggere la documentazione in merito <a href="http://www.postgresql.org/docs/">sul sito ufficiale di postgresql</a>.</p>

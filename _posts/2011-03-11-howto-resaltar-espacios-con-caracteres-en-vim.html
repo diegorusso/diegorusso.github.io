@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: resaltar espacios con car&aacute;cteres en VIM'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3500
+wordpress_url: http://www.diegor.it/2011/03/11/howto-resaltar-espacios-con-caracteres-en-vim/
+date: '2011-03-11 13:00:51 +0000'
+date_gmt: '2011-03-11 13:00:51 +0000'
+categories:
+- osx
+- car
+- howto
+- guia
+- programaci&oacute;n
+- trabajo
+- enlaces varios
+tags:
+- howto
+- guia
+comments: []
+---
+<p>Cuando modificas un archivo con <a href="http://www.vim.org/">vim</a>, es comodo ver donde la l&iacute;nea termina, especialmente si termina con espacios. En lugar de verificar cada l&iacute;nea, <strong>puedes resaltar espacios</strong>. Como?</p>
+<ol>
+<li>Apre <a href="http://www.vim.org/">Vim</a> desde el <strong>Terminal</strong></li>
+<li>digita
+<pre>:set list</pre><br />
+</li></p>
+<li>Puedes ver un resultado como este a continuaci&oacute;n<br />
+<a href="{{site.url}}/images/vimsetlist1.png"><img class="alignnone size-full wp-image-3269" title="vimsetlist1" src="{{site.url}}/images/vimsetlist1.png" alt="" width="486" height="151" /></a></li></p>
+<li>Si quieres ver cada espacio como car&aacute;cter, digita este comando
+<pre>:set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<</pre><br />
+</li></p>
+<li>El resultado deber&iacute;a ser como este<br />
+<a href="{{site.url}}/images/vimsetlist2.png"><img class="alignnone size-full wp-image-3270" title="vimsetlist2" src="{{site.url}}/images/vimsetlist2.png" alt="" width="484" height="120" /></a></li><br />
+</ol><br />
+&iexcl;Un consejo muy simple y &uacute;tiles! :)</p>
+<p>Si tienes dudas, consejos u otro, &iexcl;comenta este articulo!</p>
+<p><em>Fuente: <a href="http://stackoverflow.com/questions/1675688/make-vim-show-all-white-spaces-as-a-character">Stackoverflow</a></em></p>

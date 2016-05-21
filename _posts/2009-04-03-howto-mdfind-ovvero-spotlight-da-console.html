@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: "mdfind", ovvero Spotlight da console'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1237
+wordpress_url: http://www.diegor.it/?p=1237
+date: '2009-04-03 10:30:52 +0000'
+date_gmt: '2009-04-03 08:30:52 +0000'
+categories:
+- osx
+- car
+- computer
+- linux
+- various links
+- windows
+- howto
+- guida
+tags:
+- howto
+- test
+- guida
+comments: []
+---
+<div>Se ha un mac con OSX sicuramente hai usato <a href="http://it.wikipedia.org/wiki/Spotlight"><strong>Spotlight</strong></a> o per lo meno ne hai sentito parlare. <span style="text-decoration: underline;"><strong>Non sai cosa &egrave;?</strong></span> E' quella barra blu chiaro che si attiva in alto a destra se premi (per default)<em> " + spazio"</em> ed &egrave; molto utile per trovare qualsiasi cosa nel tuo computer, anche all'interno dei file.</div></p>
+<div>Ne ho provati tanti di strumenti di ricerca, sia per windows che per linux ma Spotlight li batte tutti.</div></p>
+<div>E' fatto molto bene ed &egrave; molto veloce. Ha un aspetto del genere:</div></p>
+<div><a href="{{site.url}}/images/spotlight.png"></a></div></p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-1238" title="spotlight" src="{{site.url}}/images/spotlight.png" alt="spotlight" width="358" height="266" /></p></p>
+<p style="text-align: center;"><em>Questo &egrave; Spotlight</em></p></p>
+<p style="text-align: left;">La guida di oggi ha per&ograve; lo scopo di analizzare il comando da console che si cela dietro Spotlight:<strong> mdfind</strong>.</p></p>
+<p style="text-align: left;">Qui far&ograve; solo una carrellata dei comandi principali che ti aiuteranno a cercare quello che vuoi dandoti pi&ugrave; flessibilit&agrave; nelle personalizzazioni delle ricerche. Bene, non resta che iniziare! :)</p></p>
+<p style="text-align: left;">Se digiti il seguente comando</p></p>
+<pre style="text-align: left;">mdfind</pre></p>
+<p style="text-align: left;">nel terminale avrai un rapido aiuto alle opzioni che questo comando pu&ograve; accettare. Se vuoi maggiori informazioni su mdfind digita</p></p>
+<pre style="text-align: left;">man mdfind</pre></p>
+<p style="text-align: left;">e ti si aprir&agrave; la pagina di manuale di mdfind. Ad esempio puoi cercare tutti i file che hanno a che fare con la parola <em>"vacanze"</em> semplicemente digitanto</p></p>
+<pre style="text-align: left;">mdfind vacanze</pre></p>
+<p style="text-align: left;">Avrai come risultato foto, documenti, pagine web inerenti alle vacanze. Ovviamente puoi avere pi&ugrave; termini di ricerca come <em>"vacanze Madrid"</em>. Il risultato puoi intuire quale &egrave;! :P<br />
+Se vuoi cercare in una specifica cartella puoi fare in questo modo</p>
+<pre style="text-align: left;">mdfind vacanze Madrid -onlyin /Users/diegor/Documents/</pre><br />
+Esiste anche una ricerca <em>"live"</em> passando il parametro<em> "-live"</em>. Questo tipo di ricerca <span style="text-decoration: underline;">"rimane in ascolto"</span> e ti fa vedere se il file che hai cercato viene copiato nel filesystem.</p>
+<pre>mdfind -live Madrid</pre><br />
+Questo &egrave; utile se un tuo amico deve copiarti dei file nella tua dropbox riguardanti Madrid (in quest caso). Spotlight se ne accorge subito! :)</p>
+<p>Ma non esiste solo <strong>mdfind</strong>. Ci sono anche una serie di comandi a corredo che ti permettono di personalizzare come vuoi le tue ricerche. Questi sono:</p>
+<p><strong>mdimport</strong>: per importare cartelle che per default OSX non indicizza. Esempio:</p>
+<pre>mdimport -f /Developer</pre><br />
+<strong>mdutil</strong>: serve ad abilitare o meno l'indicizzazione di alcuni volumi oppure ad eliminare l'indicizzazione su un volume particolare. Esempio:</p>
+<pre>sudo mdutil -i on /Volumes/Film<br />
+sudo mdutil -i off /Volumes/Film<br />
+sudo mdutil -E /Volumes/Film</pre><br />
+<strong>mdls</strong>: visualizza tutti i metadati di un file</p>
+<pre>mdls Desktop/foto.jpg</pre><br />
+Se vuoi approfondire l'utilizzo di questi comandi non ti resta che provarli e testarli. Se ti senti in difficolt&agrave; puoi usare le pagine di manuale digitando</p>
+<pre>man nome_comando</pre><br />
+Vedrai che una volta presa manualit&agrave; ritrovare i tuoi documenti sar&agrave; molto pi&ugrave; semplice! Dunque non resta che augurarti...<strong> buona ricerca!</strong> :)</p>
+<p><em>Fonte: <a href="http://www.macworld.com/article/45793/2005/07/augustgeekfactor.html">macworld.com</a></em></p>

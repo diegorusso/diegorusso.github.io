@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: count lines of code'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3147
+wordpress_url: http://www.diegor.it/?p=3147
+date: '2011-02-07 09:48:21 +0000'
+date_gmt: '2011-02-07 08:48:21 +0000'
+categories:
+- languages
+- open source
+- job
+- howto
+- geek
+- curiosity
+tags:
+- howto
+- python
+comments: []
+---
+<p>From today you will not go mental anymore to write a script that count lines of code of your last project. No, because there is "<a href="http://cloc.sourceforge.net/">CLOC</a>" that <strong>counts for you</strong>. It's a huge (<strong>7640 lines</strong>) perl script that give you nice statistics about your project. You can find it on <a href="http://cloc.sourceforge.net/">SourceForge</a>.</p>
+<p>Once downloaded, unzip it and with a terminal cd<em> (to cd=to change directory)</em> to executable; then type the command below:</p>
+<pre>#> perl cloc-1.53.pl /path/to/project/</pre><br />
+and you'll have an output like this (it depends by the project's complexity). The cool things is that <strong>recognizes languages </strong>and divides statistics depending on which have you used!</p>
+<pre>     671 text files.<br />
+     633 unique files.<br />
+      70 files ignored.</p>
+<p>http://cloc.sourceforge.net v 1.53  T=121.0 s (4.7 files/s, 1976.7 lines/s)<br />
+-------------------------------------------------------------------------------<br />
+Language                     files          blank        comment           code<br />
+-------------------------------------------------------------------------------<br />
+SQL                              3           1473           1257          85959<br />
+Python                          97           5733           3435          29419<br />
+Java                           170          10411          25782          28139<br />
+HTML                           235           4833            200          28045<br />
+Javascript                      32            803           1977           6994<br />
+CSS                             21            473            149           3380<br />
+Bourne Shell                    12             62            154            269<br />
+Visual Basic                     1             46             50            136<br />
+DOS Batch                        1              2              0              5<br />
+-------------------------------------------------------------------------------<br />
+SUM:                           572          23836          33004         182346<br />
+-------------------------------------------------------------------------------</pre><br />
+That's it! Oh yes, obviously you can <strong>take a look to its help</strong> launching it <strong>without any argument.</strong></p>
+<p>And you, how many line of code have you written? :)</p>

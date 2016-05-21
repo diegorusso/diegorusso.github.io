@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: recover data from RAID1'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3588
+wordpress_url: http://www.diegor.it/?p=3588
+date: '2014-01-14 10:16:38 +0000'
+date_gmt: '2014-01-14 10:16:38 +0000'
+categories:
+- Uncategorized
+- computer
+- ubuntu
+- howto
+tags:
+- howto
+- raid
+comments: []
+---
+<p><strong>Scenario</strong>: two or more HDs configured as RAID1. One of them gets broken and the computer doesn't boot for any reason.<br />
+<strong>Problem</strong>: access data in the partition to recover them. It is not possible to mount it directly because it is a RAID partition, so:</p>
+<ol>
+<li>Create an image of the good disk using <em>dd</em> and secure it</li>
+<li>Take another pc with debian/ubuntu (or similar distro)</li>
+<li>Using an <em>usb<->sata</em> adapter, plug the disk in the new computer and make note of the device checking the output using <em>dmesg</em> (eg. /dev/sdc)</li>
+<li>Verify with <em>fdisk/cfdisk</em> the partition table of the disk: there should be one or more "raid autodetect" partitions</li>
+<li>Open a terminal and type
+<pre>#> mdadm --assemble --run /dev/md0 /dev/sdc1</pre><br />
+to create a temporary RAID1 and to make it available using /dev/md0</li></p>
+<li>If it doesn't work, maybe the RAID kernel module is not loaded.
+<pre>#> modprobe raid1</pre><br />
+and try again</li></p>
+<li>If everything is ok, it will be possible to mount /dev/md0:
+<pre>#> mount /dev/md0 /mnt</pre><br />
+</li></p>
+<li>If the above command gives back "invalid argument", likely the ext3 module is not loaded.
+<pre>#> modprobe ext3</pre><br />
+and try again</li></p>
+<li>If mount hasn't given back any error, it will be possible to mount to access data in the raid1 from /mnt</li>
+<li>Save all you can save</li>
+<li>
+<pre>#> umount /mnt</pre><br />
+</li></p>
+<li>Stop the temporary raid1 using
+<pre>#> mdadm --stop /dev/md0</pre><br />
+</li></p>
+<li>If necessary, repeat the same process with the other partitions
+<pre>#> mdadm --assemble --run /dev/md1 /dev/sdc2</pre></li></p>
+<li>Done</li><br />
+</ol><br />
+WARNING: if you have a RAID5, this procedure won't work.</p>
+<p>Many thanks to <a href="https://www.facebook.com/lorenzo.allegrucci">Lorenzo</a></p>

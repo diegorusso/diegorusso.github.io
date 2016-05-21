@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: passing arguments to functions in Django Template'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3330
+wordpress_url: http://diegor.it/?p=3330
+date: '2011-04-18 22:27:54 +0000'
+date_gmt: '2011-04-18 20:27:54 +0000'
+categories:
+- programming
+- job
+- howto
+- geek
+tags:
+- howto
+- django
+comments: []
+---
+<p><a href="http://www.djangoproject.com/">Django</a> doesn't permit you because it goes against <strong>MVC</strong> model, but sometime it's useful <span style="text-decoration: underline;">to get output (<strong>in view level</strong>) depending on specific arguments</span>. For example in my model i have this method:</p>
+<pre>def get_value(self, arg_to_pass):<br />
+   if (arg_to_pass.is_type_A):<br />
+      return self.value_for_A<br />
+   else:<br />
+      return self.value_for_B</pre><br />
+In your template you'll type <strong>{{ object.get_value }}</strong> but you can't pass argument. You can solve this issue with <strong>templatetags</strong>.<br />
+Create a templatetag like this below:</p>
+<pre>def callMethod(obj, methodName):<br />
+    method = getattr(obj, methodName)</p>
+<p>    if obj.__dict__.has_key("__callArg"):<br />
+        ret = method(*obj.__callArg)<br />
+        del obj.__callArg<br />
+        return ret<br />
+    return method()</p>
+<p>def args(obj, arg):<br />
+    if not obj.__dict__.has_key("__callArg"):<br />
+        obj.__callArg = []</p>
+<p>    obj.__callArg += [arg]<br />
+    return obj</p>
+<p>register.filter("call", callMethod)<br />
+register.filter("args", args)</pre><br />
+Ok, almost done. Now, in your template, call your method typying:</p>
+<pre><strong>{{ object|args:arg_to_pass|call:"get_value" }}</strong></pre><br />
+Job done! If you have any question, leave a comment! :)</p>
+<p><em>Source:&nbsp;<a href="http://www.sprklab.com/notes/13-passing-arguments-to-functions-in-django-template/">sprklab.com</a></em></p>

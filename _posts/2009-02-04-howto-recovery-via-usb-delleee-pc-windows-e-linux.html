@@ -1,0 +1,102 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Recovery via USB dell''EEE PC (windows e linux)'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 1098
+wordpress_url: http://www.diegor.it/?p=1098
+date: '2009-02-04 17:09:22 +0000'
+date_gmt: '2009-02-04 16:09:22 +0000'
+categories:
+- car
+- computer
+- linux
+- microsoft
+- various links
+- windows
+- howto
+- guida
+tags:
+- howto
+- guida
+comments:
+- id: 1176
+  author: Peppe
+  author_email: handysuso@virgilio.it
+  author_url: ''
+  date: '2009-09-11 13:09:22 +0000'
+  date_gmt: '2009-09-11 11:09:22 +0000'
+  content: |-
+    Ciao diegor ho riscontrato che EEERecoveryPack non &egrave; scaricabile, se puoi sistemare il link del file te ne sarei grato!!
+
+    Fammi sapere, anche per e-mail quando hai sistemato!
+
+    Ciao e grazie!
+- id: 1177
+  author: diegor
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it
+  date: '2009-09-11 15:35:27 +0000'
+  date_gmt: '2009-09-11 13:35:27 +0000'
+  content: Grazie per la segnalazione! :) Ho provveduto ad aggiuster il link! :)
+- id: 1178
+  author: PEPPINO
+  author_email: simbul@tiscali.it
+  author_url: ''
+  date: '2010-08-13 13:02:26 +0000'
+  date_gmt: '2010-08-13 11:02:26 +0000'
+  content: |-
+    ciao, ho provato a mettere in pratica quanto da te consigliato nella guida "HOWTO: Recovery via USB dell'EEE PC (windows e linux)", tutto ok sino a quando ho riscontrato il seguente problema ....
+    ... il mio ASUS Eee PC 1201T, se imposto dal bios la penna usb, come disco primario,  non riconosce l'hdd interno come secondo disco ... e ghost non lo rileva ... rileva solo la pendrive.....
+- id: 1179
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-08-13 13:39:00 +0000'
+  date_gmt: '2010-08-13 13:39:00 +0000'
+  content: Molto strano come comportamento. Non &egrave; che per qualche motivo lo
+    disabiliti invece di cambiare ordine di boot?
+- id: 13956
+  author: silviob
+  author_email: silviob@hotmail.it
+  author_url: ''
+  date: '2013-04-08 13:49:11 +0000'
+  date_gmt: '2013-04-08 12:49:11 +0000'
+  content: GRAAAAAAAAAAAAAAAAAAAAAZIE!!!!!!!
+---
+<p>Vorrei scrivere questa guida per semplificare la vita a coloro che vorranno ripristinare il proprio <strong>Asus EEE PC alle condizioni originali.</strong><br />
+Come sapete l'asus EEE, non <strong>ha un lettore DVD.</strong> Ci sono dunque due modi per ripristinare il sistema alle condizioni originali:</p>
+<ol>
+<li>Avere un lettore DVD esterno USB ed eseguire direttamente il ripristino</li>
+<li>Seguire questa guida! :) <strong>Tutto quello che serve &egrave; un compuer con windows ed una usb pendrive (2GB, meglio se 4GB)</strong></li><br />
+</ol><br />
+Creeremo una penna usb bootabile che permetter&agrave; di:</p>
+<ul>
+<li> <strong>Creare immagini di ripristino</strong></li>
+<li> <strong>Ripristinare immagini gi&agrave; create </strong>(come quella contenuta nel dvd Asus)</li><br />
+</ul><br />
+Seguite i segeunti passi:</p>
+<ol>
+<li>Scaricate questo archivio: <a href="http://download.diegor.it/click.php?id=28">EEERecoveryPack</a> (sono circa 55MB). <strong>Qui ci sar&agrave; tutto quello che ci serve.</strong></li>
+<li>Scompattate l'archivio e aprite <em>"vfdwin.exe"</em>.</li>
+<li>Selezionate la scheda <em>Driver</em>, e clickate prima su <em>Install</em> e poi su <em>Start</em>.</li>
+<li>Tornate alla voce <em>Drive0</em> e Clickate su <em>Open/Create.</em></li>
+<li>Poi su Browse, e selezionate il file <em>"boot98.bin"</em>.</li>
+<li>Clickate infine su <em>Open</em>.</li>
+<li>Se avete un floppy drive installato nel pc, alla voce "<em>Drive letter</em>" clickate su change e selezionate la lettera B (se la B dovesse essere occupata, sceglietene un'altra).</li>
+<li>Andate in <em>Risorse del Computer</em> per verificare che la lettera da voi selezionata sia comparsa. Apritela e dovrete trovare dei file. In caso contrario, ripetete la procedura.</li>
+<li>A questo punto aprite <em>"HPUSBFW.EXE"</em></li>
+<li>Sotto la voce Device selezionate la vostra penna usb. Come file system selezionate FAT32 (se disponibile, altrimenti FAT16). Volume label quello che volete. Checkate la casella <em>"Create a DOS startup disk"</em>, <em>"Using DOS system files located at:"</em> selezionate il disco che avete creato prima con <em>"vfdwin.exe".</em> Ora clickate su Start.</li>
+<li>Al termine della procedura, aprite la cartella di nome <em>"Cartella"</em> contenuta nell'archivio, e copiatene tutto il contenuto nella penna usb. ATTENZIONE:<span style="text-decoration: underline;"> Assicuratevi di avere impostato la visualizzazione dei file nascosti, in modo da poter copiare anche i file che non vedete. Sostituite i file esistenti se richiesto.</span></li>
+<li>a) Se avete gi&agrave; un file di recovery <strong>.GHO</strong>, copiatelo nella penna e riavviate il computer avviandolo dalla periferica usb. Seguendo le istruzioni di Norton Ghost sarete in grado di ripristinare lo stato del computer dal file che avete caricato.<br />
+b) Se non avete ancora un file di ripristino, riavviate comunque il computer avviandolo da periferica usb, e tramite il Norton Ghost che si avvier&agrave;, sarete in grado di creare un file di ripristino.</li><br />
+</ol></p>
+<p style="text-align: left;"><em>Fonte: <a href="http://forum.eeepc.it/viewtopic.php?id=5077">forum.eeepc.it</a></em></p></p>

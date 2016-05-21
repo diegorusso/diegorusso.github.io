@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: useful git aliases
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3586
+wordpress_url: http://www.diegor.it/2014/01/10/useful-git-aliases/
+date: '2014-01-10 16:15:07 +0000'
+date_gmt: '2014-01-10 16:15:07 +0000'
+categories:
+- Uncategorized
+- status
+tags:
+- git
+comments: []
+---
+<p>Copy and paste the following code into ~/.gitconfig</p>
+<pre>[alias]<br />
+    co = checkout<br />
+    ci = commit<br />
+    st = status<br />
+    br = branch<br />
+    hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short<br />
+    type = cat-file -t<br />
+    dump = cat-file -p<br />
+    df = diff<br />
+    dc = diff --cached<br />
+    lg = log -p<br />
+    lol = log --graph --decorate --pretty=oneline --abbrev-commit<br />
+    lola = log --graph --decorate --pretty=oneline --abbrev-commit --all<br />
+    ls = ls-files<br />
+    ign = ls-files -o -i --exclude-standard</pre></p>

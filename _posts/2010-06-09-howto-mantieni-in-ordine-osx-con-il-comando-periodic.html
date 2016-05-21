@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Mantieni in ordine OSX con il comando &ldquo;periodic&rdquo;'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2492
+wordpress_url: http://www.diegor.it/?p=2492
+date: '2010-06-09 17:07:33 +0000'
+date_gmt: '2010-06-09 15:07:33 +0000'
+categories:
+- osx
+- car
+- howto
+- snow leopard
+tags:
+- howto
+comments: []
+---
+<div>
+<p>OSX ha a disposizione una serie di comandi da Terminale per&nbsp;<strong>mantenere in ordine il sistema operativo</strong>. Sto parlando del comando&nbsp;<strong>"periodic"</strong>. Se apri il terminale e digiti&nbsp;<strong><em>"man periodic"</em></strong> puoi leggere il manuale di questo comando. Ci sono tre tipi di insieme di funzioni che si possono eseguire:</p>
+<ol>
+<li><strong>daily</strong>: sono degli script che solitamente vengono eseguiti alle prime ore della mattina</li>
+<li><strong>weekly</strong>: sono degli script settimanali che solitamente vengono eseguiti il Sabato mattina</li>
+<li><strong>monthly</strong>: sono degli script mensili che solitamente vengono eseguiti il primo giorno del mese</li><br />
+</ol><br />
+Le operazioni da fare per ogni insieme sono definite dentro&nbsp;<em><strong>"/etc/periodic"</strong></em>. Dentro questa directory ci sono 3 cartelle, una per ogni insieme di funzioni.</p>
+<p>Le configurazioni invece sono dentro&nbsp;<em><strong>"/etc/defaults/periodic.conf"</strong></em> dove sono definiti i vari parametri di periodic. Se vuoi aggiungere delle tue operazioni, le puoi inserire in queste cartelle, a seconda della frequenza con cui devono essere eseguite.</p>
+<p>Tutti i log (ovvero i risultati) di queste operazioni sono contenute dentro&nbsp;<strong>"/var/log/"</strong> nei file<strong> "daily.log", "weekly.log" e "monthly.log" </strong>rispettivamente per ogni insieme di funzioni.</p>
+<p>Dunque se vuoi eseguire un set di operazioni ti baster&agrave; aprire il&nbsp;Terminale&nbsp;ed eseguire i seguenti comandi:</p>
+<pre>#> sudo periodic daily<br />
+#> sudo periodic weekly<br />
+#> sudo periodic monthly</pre><br />
+Se hai domande e/o suggerimenti commenta o scrivimi una mail! :)</p>
+<p></div></p>

@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: print methods of an object in perl'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3375
+wordpress_url: http://www.diegor.it/?p=3375
+date: '2012-05-25 19:00:18 +0000'
+date_gmt: '2012-05-25 18:00:18 +0000'
+categories:
+- programming
+- computer
+- howto
+- geek
+tags:
+- howto
+- python
+comments: []
+---
+<p>Pretty simple:</p>
+<pre>#DON'T use strict;<br />
+use Data::Dumper;<br />
+my $object = ....;<br />
+print "Instance METHOD IS  " . Dumper( %{ref ($object)."::" }) ;</pre><br />
+In Python it's even easier :)</p>

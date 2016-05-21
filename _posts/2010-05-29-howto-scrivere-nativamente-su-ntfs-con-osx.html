@@ -1,0 +1,232 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Scrivere nativamente su NTFS con OSX'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 2477
+wordpress_url: http://www.diegor.it/?p=2477
+date: '2010-05-29 19:26:25 +0000'
+date_gmt: '2010-05-29 17:26:25 +0000'
+categories:
+- osx
+- private
+- computer
+- leopard
+- windows
+- howto
+- snow leopard
+tags:
+- howto
+comments:
+- id: 1583
+  author: 'Tweets that mention Nuovo post su www.diegor.it: "HOWTO: scrivere nativamente
+    su NTFS con OSX" - -- Topsy.com'
+  author_email: ''
+  author_url: http://topsy.com/trackback?utm_source=pingback&amp;utm_campaign=L2&amp;url=http://www.diegor.it/2010/05/29/howto-scrivere-nativamente-su-ntfs-con-osx/
+  date: '2010-05-29 19:51:09 +0000'
+  date_gmt: '2010-05-29 17:51:09 +0000'
+  content: '[...] This post was mentioned on Twitter by Diego Russo, Diego Russo and
+    Mario Concina, Mario Concina. Mario Concina said: RT @diegor: Nuovo post su http://www.diegor.it:
+    "HOWTO: scrivere nativamente su NTFS con OSX" - http://tinyurl.com/36nve38
+    [...] '
+- id: 1584
+  author: CuFF
+  author_email: cuffh.88@gmail.com
+  author_url: http://arkanoidvspong.altervista.org/
+  date: '2010-05-30 11:22:03 +0000'
+  date_gmt: '2010-05-30 16:22:03 +0000'
+  content: Ciao! Hai mai avuto dei problemi :) ?
+- id: 1585
+  author: CuFF
+  author_email: cuffh.88@gmail.com
+  author_url: http://arkanoidvspong.altervista.org/
+  date: '2010-05-30 20:50:48 +0000'
+  date_gmt: '2010-05-31 01:50:48 +0000'
+  content: Da me non ha funzionato :/
+- id: 1586
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-05-30 23:41:48 +0000'
+  date_gmt: '2010-05-31 04:41:48 +0000'
+  content: Ancora no! :P Ho fatto dei test scrivendo 10GB di serie televisive e non
+    ho avuto problemi, tutto perfettamente funzionante (lette poi da una macchina
+    Linux)
+- id: 1587
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-05-30 23:44:41 +0000'
+  date_gmt: '2010-05-31 04:44:41 +0000'
+  content: Molto strano. Pu&ograve; sembrare una winzozzata, ma prova prima a fare
+    un logout e poi una riavviata. Altra cosa, controlla bene il contenuto dello script,
+    che non ci siano caratteri "strani". Come debugging apri la Console degli errori
+    e dimmi cosa scrive quando provi a montare la partizione NTFS.<br>La partizione
+    non viene per niente montata, oppure te la monta e poi non riesci a scriverci
+    dentro?
+- id: 1588
+  author: CuFF
+  author_email: cuffh.88@gmail.com
+  author_url: http://arkanoidvspong.altervista.org/
+  date: '2010-06-01 08:58:23 +0000'
+  date_gmt: '2010-06-01 13:58:23 +0000'
+  content: Niente da fare, logout e riavvii non cambiano la situazione, non mi permette
+    proprio di montarla. La console non segna nessun errore!
+- id: 1589
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-06-01 09:39:20 +0000'
+  date_gmt: '2010-06-01 14:39:20 +0000'
+  content: Allora se non te la monta proprio, c&#39;&egrave; qualche errore sullo
+    script /sbin/mount_ntfs. Lo faceva anche a me ed erano le virgolette di
+    chiusura che erano quelle inverse.<br>Dunque stai attento a queste piccolezze.
+    Prova a ripristinare la situazione originale e vedere se te la monta.
+- id: 1590
+  author: CuFF
+  author_email: cuffh.88@gmail.com
+  author_url: http://arkanoidvspong.altervista.org/
+  date: '2010-06-01 09:44:52 +0000'
+  date_gmt: '2010-06-01 14:44:52 +0000'
+  content: Probabilmente &egrave; come hai detto tu, proprio per questo ti chiedo
+    se mi puoi inviare il tuo file di configurazione , ovviamente se vuoi :P . Se
+    metto il file originale funziona tutto senza bisogno di logout o altro. La mia
+    email ce l&#39;hai se vuoi, grazie :D
+- id: 1591
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-06-01 09:58:49 +0000'
+  date_gmt: '2010-06-01 14:58:49 +0000'
+  content: Ho appena aggiornato la guida inserendo il punto 6. Prova a rifarla e dimmi
+    il risultato. ok?<br>Controlla i permessi con questo comando:<br>ls -l /sbin/mount_ntfs<br>Dovrebbero
+    essere cos&igrave; ed il fie di colore rosso:<br>-rwxr-xr-x  1 root  wheel  43
+    24 may 15:15 /sbin/mount_ntfs<br>Grazie ancora.
+- id: 1592
+  author: CuFF
+  author_email: cuffh.88@gmail.com
+  author_url: http://arkanoidvspong.altervista.org/
+  date: '2010-06-01 10:32:01 +0000'
+  date_gmt: '2010-06-01 15:32:01 +0000'
+  content: Ora &egrave; riuscita a montarla. Avevo gi&agrave; provato in passato (non
+    modificando il file per&ograve;), ma semplicemente forzando il montaggio in scrittura.
+    Purtroppo il risultato &egrave; lo stesso (ho provato la tua procedura per vedere
+    se andava a buon fine), crasha inesorabilmente tutto il Mac, applicazione dopo
+    applicazione fino al Finder con l&#39;unica possibilit&agrave; di spegnere forzatamente
+    il Mac. Probabilmente a te funziona bene perch&eacute; hai qualche plugin che
+    ti permette di montare in scrittura le partizioni NTFS come MacFuse ;)
+- id: 1593
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-06-01 10:50:03 +0000'
+  date_gmt: '2010-06-01 15:50:03 +0000'
+  content: "Su Leopard non mi funziona. Sul mio snow leopard non ho installato macfuse.
+    Te sulla console cosa vedi? Io sul mio vedo una cosa del genere.<br><br>01/06/10
+    10:48:25\tkernel\tNTFS driver 3.2 [Flags: R/W].<br>01/06/10 10:48:25\tkernel\tNTFS
+    volume name DISK_MINI, version 3.1."
+- id: 1594
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-06-04 23:49:17 +0000'
+  date_gmt: '2010-06-05 04:49:17 +0000'
+  content: Ancora no! :P Ho fatto dei test scrivendo 10GB di serie televisive e non
+    ho<br>avuto problemi, tutto perfettamente funzionante (lette poi da una macchina<br>Linux)<br>--
+    <br>Diego Russo<br><a href="http://www.diegor.it" rel="nofollow">http://www.diegor.it</a><br><br><br>2010/5/30
+    Disqus <>
+- id: 1595
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-06-04 23:14:32 +0000'
+  date_gmt: '2010-06-05 04:14:32 +0000'
+  content: 'Ancora no! :P Ho fatto dei test scrivendo 10GB di serie televisive e  <br>non
+    ho avuto problemi, tutto perfettamente funzionante (lette poi da  <br>una macchina
+    Linux)<br><br>--<br>Diego Russo<br><a href="http://www.diegor.it" rel="nofollow">http://www.diegor.it</a><br>Inviato
+    dal mio iPhone 3Gs<br><br><br>El 30/05/2010, a las 11:22, "Disqus" < <br>
+    > escribi&oacute;:'
+- id: 1596
+  author: Andrea Moro
+  author_email: andrea.moro.webma@gmail.com
+  author_url: http://blog.teammatelabs.com
+  date: '2010-07-13 12:28:47 +0000'
+  date_gmt: '2010-07-13 17:28:47 +0000'
+  content: Ma se e&#39; cosi&#39; semplice, perche&#39; esistono programmi a pagamento
+    per farlo e il supporto ufficiale di Apple dice che non si puo&#39;?
+- id: 1597
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-07-13 12:43:09 +0000'
+  date_gmt: '2010-07-13 17:43:09 +0000'
+  content: Perch&eacute; la maggior parte delle persone che usano OSX non sono utenti
+    avanzati e come leggono la parola Terninale, smettono di fare quello che volevano
+    fare. :)
+- id: 1598
+  author: Andrea Moro
+  author_email: andrea.moro.webma@gmail.com
+  author_url: http://blog.teammatelabs.com
+  date: '2010-07-13 13:34:44 +0000'
+  date_gmt: '2010-07-13 18:34:44 +0000'
+  content: Io non mi posso definire un utente Mac ancora esperto, perche&#39; sono
+    solo 3 anni che ci lavoro, a differenza di windows che lo rigiro come un pedalino,
+    tuttavia quello a cui mi riferivo e&#39; l&#39;assenza di informazioni anche da
+    parte di Apple.<br><br>Quando all&#39;epoca mi serviva questa cosa, non sono riuscito
+    a trovare nulla in merito.
+- id: 1599
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-07-13 15:52:23 +0000'
+  date_gmt: '2010-07-13 20:52:23 +0000'
+  content: Ovviamente devi considerare anche gli aspetti commerciali e  non limitarti
+    a quelli tecnici. Ora non so cosa gli &egrave; passato per la testa ad Apple per
+    non aver fatto questa cosa, am se l&#39;ha fatto, sotto sotto un motivo c&#39;&egrave;.
+    Che ne pensi?
+- id: 1600
+  author: Andrea Moro
+  author_email: andrea.moro.webma@gmail.com
+  author_url: http://blog.teammatelabs.com
+  date: '2010-07-13 17:01:03 +0000'
+  date_gmt: '2010-07-13 22:01:03 +0000'
+  content: Sicuramente un motivo ci sta. Vallo a capire quale. :)
+- id: 1601
+  author: Diego Russo
+  author_email: me@diegor.it
+  author_url: http://www.diegor.it/
+  date: '2010-07-13 17:04:58 +0000'
+  date_gmt: '2010-07-13 22:04:58 +0000'
+  content: Eh gi&agrave;! :)
+---
+<p>In OSX (sia Leopard che Snow Leopard) <strong>manca per default il supporto per la scrittura su partizioni NTFS.</strong> Per fare ci&ograve; esistono sono molte soluzioni di terze parti che permettono le scritture su questo tipo di filesystem. Questo tipo di supporto &egrave; utile se, avendo un hard disk esterno, vuoi scambiare file con i tuoi amici o semplicemente con altri tuoi computer che hanno Windows.</p>
+<p>Come ho detto prima, OSX ha la scrittura disabilitata per default <strong>ma &egrave; in grado di scrivere su partizioni di tipo NTFS.</strong> Per fare ci&ograve; &egrave; sufficiente eseguire qualche piccolo passo con il Terminale.</p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;">ATTENZIONE: non mi assumo nessuna responsabilit&agrave; sull'eventuale perdita di dati o corruzione del filesystem. La procedura, se pur semplice, &egrave; consigliata ad utenti che hanno un minimo di esperienza con il Terminale.</span></strong></p><br />
+<strong></strong>Detto ci&ograve;, procedi pure:</p>
+<ol>
+<li>Apri il <em>Terminale</em></li>
+<li><strong>Rinomina</strong> il file mount_ntfs in mount_ntfs.orig <span style="text-decoration: underline;">(se ti viene chiesta la password, inseriscila):</span>
+<pre>sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.orig</pre><br />
+</li></p>
+<li><strong>Crea ed edita</strong> il file con il seguente comando:
+<pre>sudo vim /sbin/mount_ntfs</pre><br />
+</li></p>
+<li><strong>Incollaci</strong> il seguente contenuto:
+<pre>#!/bin/sh<br />
+/sbin/mount_ntfs.orig -o rw "$@"</pre><br />
+</li></p>
+<li>Salva ed esci da vim premendo: <em>"<strong>esc</strong>"</em> + <em><strong>:</strong></em> + <em><strong>x</strong></em></li>
+<li>Dai i <strong>permessi di esecuzione</strong> al file appena creato:
+<pre>sudo chmod a+x /sbin/mount_ntfs</pre><br />
+</li><br />
+</ol><br />
+Il gioco &egrave; fatto. <strong>Ora sarai in grado di scrivere in ogni partizione NTFS</strong> senza alcun problema.</p>
+<p>Se hai domande, suggerimenti, critiche... commenta oppure scrivimi una mail! :)</p>

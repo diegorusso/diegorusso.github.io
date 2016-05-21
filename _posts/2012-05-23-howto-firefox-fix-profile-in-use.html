@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Firefox, fix profile in use'
+author:
+  display_name: diegor
+  login: diegor
+  email: me@diegor.it
+  url: http://www.diegor.it
+author_login: diegor
+author_email: me@diegor.it
+author_url: http://www.diegor.it
+wordpress_id: 3369
+wordpress_url: http://www.diegor.it/?p=3369
+date: '2012-05-23 11:02:04 +0000'
+date_gmt: '2012-05-23 10:02:04 +0000'
+categories:
+- osx
+- computer
+- linux
+- friends
+- windows
+- howto
+tags:
+- howto
+comments: []
+---
+<p>If you use Firefox and sometime you can have a strange error that prevents its&nbsp;execute:</p>
+<p><em>"Firefox is already running, but is not responding. To open a new window, you must first close the existing Firefox process, or restart your system" </em>(on OS X: "<em>A copy of Firefox is already open. Only one copy of Firefox can be opened at a time</em>").</p>
+<p>A window like the one below will appear:</p>
+<p style="text-align: center;"><a href="{{site.url}}/images/firefox_profile.png"><img class="aligncenter size-full wp-image-3370" title="firefox_profile" src="{{site.url}}/images/firefox_profile.png" alt="" width="562" height="125" /></a></p></p>
+<p style="text-align: left;">No worries, the solution is pretty simple. It's enough <strong>to delete</strong> these files:</p></p>
+<ul>
+<li>Linux:&nbsp;~/.mozilla/firefox/.parentlock and&nbsp;~/.mozilla/firefox/lock</li>
+<li>OSX:&nbsp;~/Library/Mozilla/.parentlock</li>
+<li>Windows:&nbsp;%APPDATA%Mozillaparent.lock</li><br />
+</ul><br />
+Once deleted those files, launch again Firefox and it should&nbsp;work. If not, drop me a comment.</p>
+<p>PS: <em><a href="http://www.stefano11.it/" target="_blank">Stefano</a>, diegor has come back :)</em></p>
