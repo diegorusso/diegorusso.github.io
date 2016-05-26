@@ -1,0 +1,10 @@
+#!/Users/diegor/Work/diegorusso.github.io/_posts/aaa/bin/python3.5
+# EASY-INSTALL-ENTRY-SCRIPT: 'html2text==2016.4.2','console_scripts','html2text'
+__requires__ = 'html2text==2016.4.2'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('html2text==2016.4.2', 'console_scripts', 'html2text')()
+    )
