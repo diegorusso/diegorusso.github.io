@@ -72,7 +72,7 @@ author:
   location         : "Cambridge"
   email            : "me@diegor.it"
   uri              : "http://www.diegor.uk"
-  bitbucket        :
+  bitbucket        : "diegor"
   codepen          :
   dribbble         :
   flickr           :
@@ -86,7 +86,7 @@ author:
   linkedin         : "diegor"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/288443/diegor" 
   steam            :
   tumblr           :
   twitter          : "diegor"
