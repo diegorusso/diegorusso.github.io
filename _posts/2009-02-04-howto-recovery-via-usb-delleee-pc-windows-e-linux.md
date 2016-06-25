@@ -32,7 +32,7 @@ Creeremo una penna usb bootabile che permettera di:
   
 Seguite i segeunti passi:
 
-  1. Scaricate questo archivio: [EEERecoveryPack](http://download.diegor.it/click.php?id=28) (sono circa 55MB). **Qui ci sara tutto quello che ci serve.**
+  1. Scaricate questo archivio: [EEERecoveryPack]({{site.url}}/files/eeerecovery.rar) (sono circa 55MB). **Qui ci sara tutto quello che ci serve.**
   2. Scompattate l'archivio e aprite _"vfdwin.exe"_.
   3. Selezionate la scheda _Driver_, e clickate prima su _Install_ e poi su _Start_.
   4. Tornate alla voce _Drive0_ e Clickate su _Open/Create._

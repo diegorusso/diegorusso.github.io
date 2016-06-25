@@ -93,8 +93,5 @@ piacevole**.
 Grazie a tutti i partecipanti, e per la "solidarieta" dimostrata.
 
 _PS: lezione imparata: se possibile evitare di usare la macchina a Roma :)  
-__PPS: le foto le puoi scaricare [da
-qui](http://download.diegor.it/click.php?id=24)__ oppure dalla pagina
-"[download](http://www.diegor.it/download/)__"  
 __PPS: se mi sono scordato di menzionare qualcuno, fatemelo notare!_
 

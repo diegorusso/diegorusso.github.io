@@ -23,7 +23,7 @@ Beh basta cercare con google e si trova subito il post di un certo Josh
 Bancroft che nel lontano 2005 e riuscito ad estrarre questi suoni
 dall'eseguibile "googletalk.exe".  
 Senza girarci troppo intorno [il file ZIP che contiene i 5 WAV lo puoi
-scaricare da qui!](http://download.diegor.it/click.php?id=30 "Gtalk Sounds" )
+scaricare da qui!]({{site.url}}/files/GoogleTalkSounds.zip "Gtalk Sounds" )
 :)
 
 Ah... se vuoi aggiungermi a gtalk, il mio contatto e **diegor.it chiocciola la

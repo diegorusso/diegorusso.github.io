@@ -485,9 +485,8 @@ stampala ed appendila al muro per una rapida consultazione.
 
 **Aggiornamento:** e per chiunque lo ha richiesto: qui sotto anche il diagramma principale in formato Apple Keynote.
 
-[![]({{site.url}}/images/pdf.png)](http://download.diegor.it/click.php?id=22)[
-![]({{site.url}}/images/keynote.png)](http://download.diegor.it/click.php?id=2
-3)
+[![]({{site.url}}/images/pdf.png)]({{site.url}}/files/Git-branching-model.pdf)[
+![]({{site.url}}/images/keynote.png)]({{site.url}}/files/gitflow-model.src.key)
 
   
 Sentitevi liberi di commentare! :)

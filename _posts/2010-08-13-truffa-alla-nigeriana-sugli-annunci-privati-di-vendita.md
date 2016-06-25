@@ -81,8 +81,8 @@ sull'importo scambiato :)
 
 E qui arrivano i primi dubbi. Infatti prima di ricevere questa mail, ne ho
 ricevute altre due da Bank of America. Le mail sono abbastanza lunghe e le ho
-messe in due PDF. [Questa e la prima]({{site.url}}/assets/pdf/bank1.pdf)mentre
-[questa e la seconda]({{site.url}}/assets/pdf/bank2.pdf). Scaricale! Proprio
+messe in due PDF. [Questa e la prima]({{site.url}}/assets/files/bank1.pdf)mentre
+[questa e la seconda]({{site.url}}/assets/files/bank2.pdf). Scaricale! Proprio
 da queste due mail inizio a intuire ad una possibile truffa. Ora ti spiego
 perche. Ah, ho inoltrato la mail a Bank of America all'indirizzo
 abuse@bankofamerica.com, ma non ho ricevuto altro che una risposta automatica.  

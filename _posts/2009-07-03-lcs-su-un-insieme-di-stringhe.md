@@ -27,7 +27,7 @@ oh-camel), un linguaggio funzionale fortemente tipizzato. Ha degli ambiti ben
 precisi, ma credo che il suo lavoro lo svolge egregiamente.
 
 L'archivio del progetto con tanto di sorgenti e relazione lo puoi scaricare
-[da qui.](http://download.diegor.it/click.php?id=31)
+[da qui.]({{site.url}}/files/Progetto_LCS-BB.zip)
 
 Ti ricordo che il progetto e rilasciato sotto licenza Creative Commons 2.5
 Attribuzione-Non commerciale [(qui il testo completo della

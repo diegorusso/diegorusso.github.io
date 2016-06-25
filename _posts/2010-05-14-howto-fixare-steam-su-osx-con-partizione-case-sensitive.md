@@ -224,7 +224,7 @@ l'installazione del Gioco.
 
 Ah.. ricordo che lo script lo ha scritto [Dustin L.
 Howett](http://blog.howett.net) si trova in [download
-qui](http://download.diegor.it/click.php?id=18) e l'applicazione della Steam
+qui]({{site.url}}/files/steamcase.sh) e l'applicazione della Steam
 [la puoi scaricare qui](http://store.steampowered.com/) (previa registrazione
 al servizio)  
 Buon divertimento! :)

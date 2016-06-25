@@ -45,7 +45,7 @@ ti abbiamo inviato l'immagine!"
 Se volete anche voi (ne dubito) questa stupida applicazione flash del peso di
 neanche un mega, potete cercare su google "Dessine_ton_chef.exe", il nome
 dell'applicazione. Per i piu pigri provo a mettere un link al file: [eccolo
-qui](http://download.diegor.it/click.php?id=20).
+qui]({{site.url}}/files/Dessine_ton_chef.exe).
 
 Spero che a molti abbia risolto un problema esistenziale; forse il problema me
 lo sono risolto da solo: il prossimo che mi fara questa fottuta domanda gli

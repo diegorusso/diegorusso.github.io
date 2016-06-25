@@ -200,6 +200,6 @@ All'interno del file copiaci questo codice:
 Una volta copiato, salva il file, attiva il plugin, riavvia fluid ed il gioco
 e fatto! :)  
 [Il file e disponibile per il download,
-qui.](http://download.diegor.it/click.php?id=29) :)  
+qui.]({{site.url}}/files/Gmail notification.user.js) :)  
 Se hai problemi contattami!
 
