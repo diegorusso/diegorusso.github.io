@@ -21,6 +21,8 @@ comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
     shortname            : "diegorusso" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -70,7 +72,7 @@ author:
   location         : "Cambridge"
   email            : "me@diegor.it"
   uri              : "http://www.diegor.uk"
-  bitbucket        :
+  bitbucket        : "diegor"
   codepen          :
   dribbble         :
   flickr           :
@@ -84,7 +86,7 @@ author:
   linkedin         : "diegor"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/288443/diegor" 
   steam            :
   tumblr           :
   twitter          : "diegor"
@@ -182,10 +184,10 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-categories:
+category_archive:
   type: liquid
   path: /categories/
-tags:
+tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
