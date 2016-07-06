@@ -13,7 +13,7 @@ che lo stato della mia portabilita e cambiato:
 /images/stato_portabilita.png)Da notare lo stato della richiesta che ora e
 **"Accettata e in lavorazione"** mentre la data prevista e per lunedi **24
 agosto 2009 (sesta data)!!! **Forse questa volta ci siamo e questi dati
-dovrebbero rispecchiare la realta. Beh, ci hanno messo piu di un mese...
+dovrebbero rispecchiare la realta. Beh, ci hanno messo più di un mese...
 poteva andare peggio!
 
 Aspetto lunedi 24 agosto 2009. :)

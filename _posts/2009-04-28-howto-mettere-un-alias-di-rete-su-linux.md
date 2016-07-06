@@ -10,10 +10,10 @@ tags:
 - howto
 ---
 In questo howto vedrai come impostare un alias sulle interfacce di rete sotto
-Linux. L'alias e il** modo per impostare piu indirizzi IP  sulla stessa
+Linux. L'alias e il** modo per impostare più indirizzi IP  sulla stessa
 interfaccia di rete fisica**.  
 Questo potrebbe essere comodo se il tuo computer e collegato ad uno switch
-collegato a sua volta a piu reti.
+collegato a sua volta a più reti.
 
 Se vuoi mettere un alias sulla eth0 per prima cosa controlla lo stato
 dell'interfaccia, digitando:

@@ -22,13 +22,13 @@ _guusmama_), per 10 volte, diventi ricco in 60 minuti! E' una parola magica!
 
   
 Ovviamente sai che sto scherzando.. ma non del tutto!! Ora ti spiego il
-perche. Tranquillo, non ti portero via piu di 3 minuti di orologio!
+perché. Tranquillo, non ti portero via più di 3 minuti di orologio!
 
 [Simone Brunozzi](http://www.brunozzi.it/) e una persona veramente in gamba.
-Credo sia una delle persone piu belle (dopo di me ovviamente) che io conosca.
+Credo sia una delle persone più belle (dopo di me ovviamente) che io conosca.
 In gamba, sveglio, intelligente, simpatico, etc etc etc... insomma un
-**genio**! Dico cio perche lo conosco, perche ho avuto la fortuna di passare
-molto tempo con lui: da professore universitario a.. amico. Ora, cosa c'entra
+**genio**! Dico cio perché lo conosco, perché ho avuto la fortuna di passare
+molto tempo con lui: da professore universitario a.. amico. Ora, cosa c'èntra
 tutto questo con lui? GOOSMAMA, ricordati questa parola.
 
 Ieri, **1 aprile 2010**, Simone ha rilasciato **GOOSMAMA** (bravo, te la sei
@@ -36,7 +36,7 @@ ricordata!), un libro che **ti spiega come diventare ricco in 60 minuti**. In
 realta il libro si legge in molto meno (30 minuti bastano), anche se composto
 di ben 96 pagine.
 
-In questo libro c'e "....................................." <\- completa a tuo
+In questo libro c'è "....................................." <\- completa a tuo
 piacimento solamente dopo aver letto il libro. Anzi fai una bella cosa,
 scrivilo nei commenti qui sotto o da qualsiasi altra parte, twitter, facebook,
 friendfeed, in una mail o in un pezzo di carta, ovunque possa raggiungere

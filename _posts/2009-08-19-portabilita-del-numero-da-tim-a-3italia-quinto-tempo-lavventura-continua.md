@@ -45,7 +45,7 @@ Scrivo un'altra mail al servizio clienti:
 _"Buonasera, dopo aver scambiato una serie di messaggi con il vostro servizio
 clienti vorrei porvi un quesito.  
 Ieri ho parlato con un operatore della Tim che ha dato l'ok per la mia
-portabilita verso di voi. Dunque non ci dovrebbero essere piu ulteriori
+portabilita verso di voi. Dunque non ci dovrebbero essere più ulteriori
 ritardi da parte di Tim. L'operatore inoltremi ha detto che entro 3 giorni
 lavorativi il numero sarebbe stato portato.  
 Alla luce di questi fatti vorrei sapere da voi entro quanto tempo la

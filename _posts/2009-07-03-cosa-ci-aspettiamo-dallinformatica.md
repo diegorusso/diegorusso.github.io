@@ -26,7 +26,7 @@ per la vita di tutti i giorni, sulla semantica delle informazioni, sulla
 capacita dei computer di crescere, intraprendere e capire cio che stanno
 calcolando, sulle limitazioni delle macchine a confronto con il cervello umano
 per poi passare all'evoluzione agli animali ad argomenti che sono al centro di
-molte ricerche in ambito scientifico. **Il discorso sarebbe troppo lungo** da
+molte ricerché in ambito scientifico. **Il discorso sarebbe troppo lungo** da
 spiegare qui, servirebbero circa 2 o 3 ore per descriverlo tutto.
 
 Ad un certo punto e uscita una domanda del genere:** "Cosa ci aspettiamo

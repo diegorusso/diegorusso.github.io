@@ -36,6 +36,6 @@ sara portato. E' dal 21 luglio che ci sono rinvii, telefonate e mail per una
 cosa che dovrebbe svolgersi nel giro di qualche giorno.  
 Grazie mille."_
 
-Io non ho piu parole. **Perche in Italia deve essere tutto cosi difficile?!?**
+Io non ho più parole. **Perché in Italia deve essere tutto così difficile?!?**
 :(  
 

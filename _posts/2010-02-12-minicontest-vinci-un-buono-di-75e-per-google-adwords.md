@@ -19,7 +19,7 @@ questi buoni possono essere usati con le seguenti condizioni:
 
   
 Purtroppo ho gia usufruito di buoni offerti da Google dunque non posso usare
-questi in mio possesso. Per non buttarli via li voglio regalare ai due piu
+questi in mio possesso. Per non buttarli via li voglio regalare ai due più
 fortunati che parteciperanno a questo contest! :)
 
 **I buoni hanno un valore di 75€  fino al 28/02/2010, dopo di che diventeranno di 50€ ciascuno.**

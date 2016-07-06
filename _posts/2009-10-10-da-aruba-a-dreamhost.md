@@ -14,7 +14,7 @@ Questo doveva essere uno dei primi post da fare appena eseguito[ il
 trasferimento da Aruba a DreamHost](http://www.diegor.it/2009/10/02/di-nuovo-
 online-ed-in-versione/). Va beh lo scrivo oggi, e lo stesso.
 
-Perche questo passaggio? Prima di passare a Dreamhost il dominio e l'hosting
+Perché questo passaggio? Prima di passare a Dreamhost il dominio e l'hosting
 [www.diegor.it](http://www.diegor.it) erano registrati presso Aruba.it. Sono
 stato loro cliente per due anni con [questo
 profilo](http://hosting.aruba.it/hosting_con_spazio.asp?offerta=2): per circa
@@ -32,9 +32,9 @@ hosting.
   
 
   
-Dreamhost e un servizio di hosting americano ed ha prezzi piu elevati rispetto
-ad Aruba a cui pero corrisponde un profilo piu alto. Sono circa due settimane
-che sto con loro e non c'e nulla da paragonare rispetto all'hosting di Aruba.
+Dreamhost e un servizio di hosting americano ed ha prezzi più elevati rispetto
+ad Aruba a cui però corrisponde un profilo più alto. Sono circa due settimane
+che sto con loro e non c'è nulla da paragonare rispetto all'hosting di Aruba.
 I loro punti forti sono:
 
   * Assistenza **tecnicamente preparata**, reattiva e molto simpatica

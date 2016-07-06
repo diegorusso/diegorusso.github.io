@@ -20,7 +20,7 @@ tags: []
 Ci sono molti motivi per cui l'Open Source ed il software libero in generale
 non sono molto conosciuti tra la _gente comune_, ossia quelle persone non
 appassionate all'informatica e che vedono un computer come un mezzo di svago o
-di _semplice produttivita_, come possono essere ricerche scolastiche e
+di _semplice produttivita_, come possono essere ricerché scolastiche e
 documenti per l'ufficio. Questo fatto spesso e dovuto (soprattutto nel nostro
 Paese) al fenomeno della **pirateria software**. Molte persone, addirittura,
 non sono neanche a conoscenza dei diritti d'autore, del copyright e della
@@ -38,8 +38,8 @@ e di essere in possesso della licenza.
 **> Il software pirata nuoce al software libero **  
 Il software libero ha come caratteristica quello di poter essere modificato e
 copiato liberamente. Alle persone che fanno uso di software pirata questo non
-interessa, perche possono avere un prodotto con qualita simili copiandolo
-illegalmente. E' probabile pero che, nel momento in cui queste persone vengono
+interessa, perché possono avere un prodotto con qualita simili copiandolo
+illegalmente. E' probabile però che, nel momento in cui queste persone vengono
 a conoscenza che quello che stanno compiendo e reato, gran parte di loro
 considererebbe l'alternativa Open Source.
 

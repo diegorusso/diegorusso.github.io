@@ -31,7 +31,7 @@ bellissimo parco sangiuliano.
 > I biglietti saranno rimborsati dall'organizzazione ma la gioia di ritrovarsi
 insieme sul prato ad ascoltare musica dal vivo chi ce la rimborsa? Avete
 ragione ma non e facile organizzare un concerto per centomila persone e il
-parco mi dicono non sara piu disponibile almeno fino all'anno prossimo.
+parco mi dicono non sara più disponibile almeno fino all'anno prossimo.
 
 >
 

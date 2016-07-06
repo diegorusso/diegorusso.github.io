@@ -42,9 +42,9 @@ situazione le faremo avere indicazioni in merito sempre tramite mail._
 
 _Distinti Saluti"_
 
-**Cosi si e chiusa la storia.** Ora sulla mia pagina di download non ci sara piu niente da scaricare. Non credo che eliminero la pagina in questione, anzi mettero un link a questo post in modo che la gente sappia il motivo dell'eliminazione della pagina stessa.
+**Cosi si e chiusa la storia.** Ora sulla mia pagina di download non ci sara più niente da scaricare. Non credo che eliminero la pagina in questione, anzi mettero un link a questo post in modo che la gente sappia il motivo dell'eliminazione della pagina stessa.
 
-Avrei potuto lottare di piu... ma chi me lo faceva fare? Ne valeva la pena?
+Avrei potuto lottare di più... ma chi me lo faceva fare? Ne valeva la pena?
 Purtroppo e un periodo abbastanza pieno e non ho assolutamente voglia di
 combattere per delle battaglie perse.
 
@@ -55,7 +55,7 @@ Dunque ti chiedo semplicemente di aprire un account
 [DropBox](http://www.diegor.it/2009/03/18/howto-dropbox-condividi-i-tuoi-
 file/) cliccando su [questo
 link:](https://www.getdropbox.com/referrals/NTc0ODcyNzk) in questo modo **mi
-regalerai 265MB di spazio DropBox in piu.**
+regalerai 265MB di spazio DropBox in più.**
 
 Dunque mi scuso per il "disservizio" e ti ringrazio anticipatamente [se mi
 vorrai regalare 256MB

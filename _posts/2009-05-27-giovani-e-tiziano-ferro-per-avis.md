@@ -25,11 +25,11 @@ www.avis.it/usr_view.php/ID=1158#Esecutivo%20Nazionale%20della%20Consulta%20Gi
 ovani)C'e un coordinamento nazionale, coordinamenti regionali, provinciali e
 per arrivare poi a gruppi comunali di giovani. Siamo ovunque! :)
 
-**Avis crede in noi.** Lavoriamo, ci divertiamo, facciamo nuove esperienze, prendiamo delusioni ma anche grandi soddisfazioni. Siamo l'essenza, siamo pieni di energia e voglia di aiutare il prossimo. Veniamo da tutta Italia, dalla calda Sicilia, fino alla Svizzera italiana. Siamo tutti diversi, con vite diverse con diversi modi di pensare. Abbiamo pero una sola grande cosa in comune: **la voglia di aiutare il prossimo con un piccolo grande gesto quale la donazione di sangue.**
+**Avis crede in noi.** Lavoriamo, ci divertiamo, facciamo nuove esperienze, prendiamo delusioni ma anche grandi soddisfazioni. Siamo l'essenza, siamo pieni di energia e voglia di aiutare il prossimo. Veniamo da tutta Italia, dalla calda Sicilia, fino alla Svizzera italiana. Siamo tutti diversi, con vite diverse con diversi modi di pensare. Abbiamo però una sola grande cosa in comune: **la voglia di aiutare il prossimo con un piccolo grande gesto quale la donazione di sangue.**
 
-E' da poco piu di un anno che sono in Avis in maniera piu radicata. Ho
+E' da poco più di un anno che sono in Avis in maniera più radicata. Ho
 conosciuto persone fantastiche, persone molto diverse da me. Queste persone
-pero le sentivo cosi vicine, cosi familiari. Come se ci conoscessimo da una
+pero le sentivo così vicine, così familiari. Come se ci conoscessimo da una
 vita. Persone che hanno sempre un sorriso per te, per tutti.
 
 Molti sono i progetti che portiamo avanti, sia localmente che a livello

@@ -18,7 +18,7 @@ gira intorno a questi argomenti [questo sito](http://www.netbks.com/) fa al
 caso tuo: qui potrai trovare libri elettronici riguardani il C, Java, Python,
 OSX, Linux, Windows, Reti, Algoritmi, Image processing, circuiti elettronici,
 server, cisco, grafica, matematica, qualsiasi linguaggio di programmazion e
-chi piu ne ha, piu ne metta.
+chi più ne ha, più ne metta.
 
 Il link al sito e <http://www.netbks.com/> ed ogni giorno ha decine e decine
 di nuove pubblicazioni. Veramente ben fornito. L'unica pecca che potrebbe

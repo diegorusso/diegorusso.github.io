@@ -28,7 +28,7 @@ preferenze di smcFanControl. Tramite questa finestra puoi:
   
 
   
-Ricordo che l'applicazione non ha nessun costo di licenza poiche e rilasciata
+Ricordo che l'applicazione non ha nessun costo di licenza poiché e rilasciata
 sotto [Licenza GPL](http://it.wikipedia.org/wiki/GNU_General_Public_License).
 E' gradita comunque una donazione all'autore per supportarlo nello sviluppo.
 

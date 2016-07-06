@@ -6,7 +6,7 @@ categories:
 - job
 tags: []
 ---
-Ma secondo voi una linea cosi puo andare bene?!?! Il gateway che perde il 70%
+Ma secondo voi una linea così puo andare bene?!?! Il gateway che perde il 70%
 dei pacchetti.
 
 []({{site.url}}/images/terminale.jpg "terminale.jpg" )

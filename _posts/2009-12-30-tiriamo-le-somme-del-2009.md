@@ -22,7 +22,7 @@ totalmente [tutto quello che ho scritto lo scorso
 anno](http://www.diegor.it/2008/12/31/2-minuti-al-giorno-auguriiiii/). Dunque
 non sto a ripetere qui quello gia detto... mi sento un po' come Paganini! :P
 
-Quello che vorrei dire in questo post e un po' piu "egoistico" rispetto a
+Quello che vorrei dire in questo post e un po' più "egoistico" rispetto a
 quello dello scorso anno. Infatti vorrei fare considerazioni totalemente
 personali, che mi serviranno poi come appunto.
 
@@ -38,12 +38,12 @@ Dei punti che mi ero prefissato lo scorso anno, diciamo che li ho rispettati
 tutti ad un buon 85% (sono ottimista). Nello specifico il 2009 mi ha fatto
 capire cose importanti. Si va dall'ambito lavorativo, organizzativo a quello
 personale e familiare. **La cosa importante e la vicinanza alle persone a te
-care, sia che siano amici, sia che siano familiari** perche sono le uniche
+care, sia che siano amici, sia che siano familiari** perché sono le uniche
 persone che ti saranno vicino, solo se tu lo permetterai.  
 Per quanto riguarda il lavoro, ne sono molto soddisfatto, **ma non mi
 accontento.** Un viaggio di qualche tempo fa mi aperto un po' gli occhi sulla
 realta italiana e non, e quello che mi e rimasto **e un grande amaro in
-bocca.** _**Purtroppo in Italia c'e un sistema che NON funziona.**_ Quando
+bocca.** _**Purtroppo in Italia c'è un sistema che NON funziona.**_ Quando
 parlo di "sistema", intendo un insieme di cose come scuola, economico, lavoro,
 civilta, governo, stato, sociale. Purtroppo tutti questi sottosistemi sono
 legati tra di loro e non e semplice venirne a capo.  
@@ -71,7 +71,7 @@ giri nel verso giusto. **Ricordati che la fortuna aiuta gli audaci**. Non mi
 vorrei sbilanciare molto, pero.**Inoltre vorrei rimarcare il mio impegno in
 AVIS:** attualmente sono consigliere della mia comunale e faccio parte della
 Consulta Giovani Umbria. Vorrei solo che nel 2010 il mio ruolo in queste
-figure diventasse un po' piu forte.  
+figure diventasse un po' più forte.  
 Infine per quanto riguarda i rapporti personali si tratta sempre di crescere,
 confrontarsi in maniera costruttiva, scambiarsi idee, opinioni e conoscere
 gente nuova.

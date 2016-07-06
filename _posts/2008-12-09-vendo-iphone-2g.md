@@ -8,7 +8,7 @@ categories:
 - iPhone
 tags: []
 ---
-Eh gia.. a malincuore lo devo vendere perche necessito di un terminale HSDPA.
+Eh gia.. a malincuore lo devo vendere perché necessito di un terminale HSDPA.
 Sono indeciso tra un [iPhone 3G](http://www.apple.com/it/iphone/
 "http://www.apple.com/it/iphone/" ) oppure un [Nokia
 E71](http://www.nokia.it/A41155037 "http://www.nokia.it/A41155037" ). Va
@@ -33,7 +33,7 @@ sotto una foto con tutto il corredo:[]({{site.url}}/images/iphone1.jpg)
   
 
 [![]({{site.url}}/images/iphone1.jpg)]({{site.url}}/images/iphone1.jpg)  
-_ Come vedete c'e tutto! :) _  
+_ Come vedete c'è tutto! :) _  
 
 Prima di metterlo su ebay vorrei provare la trattativa privata (il prezzo lo
 diro in sede privata). Dunque se volete farvi un regalino per natale non

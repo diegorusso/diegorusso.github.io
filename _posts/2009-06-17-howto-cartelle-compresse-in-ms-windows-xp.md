@@ -15,7 +15,7 @@ applicazioni come WinZip, WinRar, 7-zip...
 
 Proprio l'installazione di applicazioni come queste potrebbe far perdere la
 possibilita dell'uso di questa libreria standard di Windows. Infatti cliccando
-con il tasto destro sul file zip o cartella che sia, non e piu presente la
+con il tasto destro sul file zip o cartella che sia, non e più presente la
 voce _"Cartella compressa"._
 
 In questo momento starai pensando: **"Ma se io ho WinRar o WinZip, che cosa mi

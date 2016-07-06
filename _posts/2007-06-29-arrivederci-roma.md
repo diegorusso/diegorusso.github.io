@@ -42,7 +42,7 @@ n_sopporto.jpg "non sopporto" )
 Questa e la scaletta del concerto:
 
 1\. Intro + Basta poco  
-2\. Cosa c'e  
+2\. Cosa c'è  
 3\. Blasco Rossi  
 4\. Voglio andare al mare  
 5\. La compagnia  
@@ -83,7 +83,7 @@ poi t'accorgi che non erano cosi_
 _sei convinta di esser proprio tu  
 quella che sognavo d'incontrare  
 quella che avrei potuto amare  
-quella che poi non si trova piu_
+quella che poi non si trova più_
 
 _non sopporto quelli come te  
 quelli che si fidano di se  
@@ -98,7 +98,7 @@ dico che, sto bene come sto!_
 _non sopporto quelli come te  
 quelli che si fidano di me  
 quelli che ti dicon sempre si  
-poi ti accorgi che non erano cosi!_
+poi ti accorgi che non erano così!_
 
 _credi che avrei potuto avere  
 quello che per caso adesso ho  
@@ -107,7 +107,7 @@ dico che sto bene come sto!_
 
 _e se vuoi sapere tutto quanto  
 smetti di dormire quando canto  
-e se qualche cosa si piu dire  
+e se qualche cosa si più dire  
 e che tutti e due dobbiam morire!! _  
 
 Ed eccoci finalmente al gran finale!! :)

@@ -11,7 +11,7 @@ categories:
 tags:
 - test
 ---
-**31 dicembre 2008.** Molti non sanno come considerare questo giorno. E' festivo o feriale? La verita sta nel mezzo. E' meta feriale perche passi mezza giornata a lavorare come qualsiasi altro giorno e meta festivo perche occupi l'altra meta a pensare: "_Come e andato questo anno? Come sara il nuovo anno? Quali sorprese/disgrazie mi aspetteranno nel 2009. Prometto che nel 2009 saro migliore, faro questo, faro quello, cambiero etc etc etc_"  
+**31 dicembre 2008.** Molti non sanno come considerare questo giorno. E' festivo o feriale? La verita sta nel mezzo. E' meta feriale perché passi mezza giornata a lavorare come qualsiasi altro giorno e meta festivo perché occupi l'altra meta a pensare: "_Come e andato questo anno? Come sara il nuovo anno? Quali sorprese/disgrazie mi aspetteranno nel 2009. Prometto che nel 2009 saro migliore, faro questo, faro quello, cambiero etc etc etc_"  
 Insomma le classiche domande e i classici propositi che il 2 gennaio dell'anno
 dopo (**ovvero solo due giorni dopo**) ti sei gia dimenticato o addirittura
 subito non rispettato.  
@@ -60,13 +60,13 @@ Accettateli **con umilta**, per favore:
   
 
 Sembrano frasi fatte, forse lo sono. Ma prendetele per quello che sono, nel
-loro significato piu profondo. Vorrei sottolineare il fatto **di sorridere**.
+loro significato più profondo. Vorrei sottolineare il fatto **di sorridere**.
 Spesso le persone si sono dimenticate il significato di questa parola. Non
 dico che e colpa nostra, ma di cause di forza maggiore. Dunque se potete
 sorridete e regalate un sorriso a chi volete.
 
 Ora concludo altrimenti arriviamo al 2009 che ancora sto scrivendo. Devo dire
-**che era molto che non scrivevo cosi tanto** e cio mi ha reso felice. Vi
+**che era molto che non scrivevo così tanto** e cio mi ha reso felice. Vi
 lascio con qualche immagine con la speranza di strapparvi un sorriso e di
 **augurarvi un buon 2009 ed un buon continuo della vostra vita.  
 **
@@ -77,7 +77,7 @@ lascio con qualche immagine con la speranza di strapparvi un sorriso e di
 
 [![]({{site.url}}/images/smile3.gif)]({{site.url}}/images/smile3.gif)
 
-_Cliccami, c'e una sorpresa! :P_
+_Cliccami, c'è una sorpresa! :P_
 
 [![]({{site.url}}/images/smile4.jpg)]({{site.url}}/images/smile4.jpg)
 

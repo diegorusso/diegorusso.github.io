@@ -10,7 +10,7 @@ tags: []
 ---
 Tutte dicono lo stesso, che **la grandezza non le interessa** e **che
 l'importante e come si muove.** Di fatto la tua stessa ragazza dira che
-l'importante e l'uso che si fa di lui, che **piu o meno non significa molto.**  
+l'importante e l'uso che si fa di lui, che **più o meno non significa molto.**  
 Guarda questo video e poi ne riparliamo.  
 
 Infatti questo video dimostra che **TUTTE mentono!** :)

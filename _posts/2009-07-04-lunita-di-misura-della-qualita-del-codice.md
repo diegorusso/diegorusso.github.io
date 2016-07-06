@@ -7,7 +7,7 @@ categories:
 tags: []
 ---
 [![wtfm]({{site.url}}/images/wtfm.jpg)]({{site.url}}/images/wtfm.jpg)_Non
-credo che un immagine cosi abbia bisogno di commenti! :P_
+credo che un immagine così abbia bisogno di commenti! :P_
 
 WTF = What the fuck
 

@@ -34,5 +34,5 @@ So solo che son pochi....
 quelli che s'avverano"  
 (Vasco Rossi)_**  
 
-**Grazie [Simone](http://www.ubuntista.it/ "http://www.ubuntista.it/" )! Grazie Serena!** Grazie perche mi avete regalato un sogno che quest'anno non si stava per avverare. Un giorno contraccambiero, anche se non so come.
+**Grazie [Simone](http://www.ubuntista.it/ "http://www.ubuntista.it/" )! Grazie Serena!** Grazie perché mi avete regalato un sogno che quest'anno non si stava per avverare. Un giorno contraccambiero, anche se non so come.
 

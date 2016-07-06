@@ -10,8 +10,8 @@ categories:
 - politics
 tags: []
 ---
-L'Italia fa [sempre piu cagare](http://punto-informatico.it/p.aspx?i=2092327
-"http://punto-informatico.it/p.aspx?i=2092327" )! Fortuna[ c'e qualcuno](http:
+L'Italia fa [sempre più cagare](http://punto-informatico.it/p.aspx?i=2092327
+"http://punto-informatico.it/p.aspx?i=2092327" )! Fortuna[ c'è qualcuno](http:
 //www.antoniodipietro.com/2007/10/no_al_bavaglio_per_la_rete_1.html
 "http://www.antoniodipietro.com/2007/10/no_al_bavaglio_per_la_rete_1.html" )
 che ancora forse[ si

@@ -10,7 +10,7 @@ categories:
 tags:
 - test
 ---
-Non e mio solito pubblicare storielle gia scritte da altri, pero questa mi ha
+Non e mio solito pubblicare storielle gia scritte da altri, però questa mi ha
 colpito particolarmente. Spero ti piaccia :)
 
 _Un professore, prima di iniziare la sua lezione di filosofia, pose alcuni
@@ -56,6 +56,6 @@ le vostre priorita, tutto il resto e solo sabbia"._
 
 _Una studentessa alzo la mano e chiese che cosa rappresentasse il vino. Il
 professore sorrise. "Sono contento che tu l'abbia chiesto. Serve solo a
-dimostrare che per quanto possa sembrae piena la tua vita: c'e sempre spazio
+dimostrare che per quanto possa sembrae piena la tua vita: c'è sempre spazio
 per un paio di bicchieri di vino con un amico"._
 

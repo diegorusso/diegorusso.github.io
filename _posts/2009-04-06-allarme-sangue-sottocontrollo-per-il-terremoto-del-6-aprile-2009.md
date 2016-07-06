@@ -19,7 +19,7 @@ Il Centro Regionaleabruzzese - diretto dal Prof. Antonio Iacone - ha in tempo
 reale il polsodelle necessita trasfusionali ed e in costante contatto con il
 CentroNazionale Sangue.  
 Pertanto, **la situazione e adeguatamente sotto controllo** e,al momento, non
-esiste piu per ora la necessita di promuovere sessioni straordinarie di
+esiste più per ora la necessita di promuovere sessioni straordinarie di
 donazione al di fuori della Regione Abruzzo. Nei prossimi giorni
 saragarantito, 24 ore su 24, il monitoraggio dei fabbisogni trasfusionali
 inAbruzzo, con tutti gli interventi che si renderanno eventualmente

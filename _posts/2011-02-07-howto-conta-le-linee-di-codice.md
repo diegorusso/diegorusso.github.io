@@ -11,8 +11,8 @@ tags:
 - python
 - guida
 ---
-Da oggi non ti dovrai piu arrabbiare per scrivere un script che conti le linee
-di codice del tuo ultimo progetto. No, perche c'e
+Da oggi non ti dovrai più arrabbiare per scrivere un script che conti le linee
+di codice del tuo ultimo progetto. No, perché c'è
 "[CLOC](http://cloc.sourceforge.net/)" che **conta per te**. É un immenso
 (**7640 linee**) script in perl che ti da delle ottime statistiche riguardante
 il tuo progetto. Lo puoi trovare su

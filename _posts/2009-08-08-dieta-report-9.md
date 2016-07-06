@@ -11,16 +11,16 @@ giorno avrei dovuto prendere il mantenimento. **Purtroppo non e stato cosi.**
 
 Infatti in due settimane il mio peso** non e sceso neanche di un grammo** ed
 abbiamo preferito rinunciare al mantenimento e buttare via un altro chiletto,
-giusto per sicurezza. Non e pero una sconfitta, anzi **e stato un sollievo
-sapere che non sono aumentato.** Proprio cosi! Per quello che ho mangiato in
+giusto per sicurezza. Non e però una sconfitta, anzi **e stato un sollievo
+sapere che non sono aumentato.** Proprio così! Per quello che ho mangiato in
 due settimane avrei dovuto mettere su almeno un kilo.
 
-Purtroppo seguire la dieta di estate e molto piu dura rispetto ai mesi piu
+Purtroppo seguire la dieta di estate e molto più dura rispetto ai mesi più
 freddi e miti dell'anno. Quando e caldo esci, bevi qualche cosa, prendi un
 gelato.. nsomma mangi e bevi cose non consone ad una dieta.
 
 Comunque non mi perdo d'animo. La prossima visita sara il 4 di settembre e per
-quella data avro perso un kilo, se non piu! :) Giusto per completezza riporto
+quella data avro perso un kilo, se non più! :) Giusto per completezza riporto
 la lista delle mie visite con i relativi pesi:
 
   * Peso al 27/04/2009: 89.4Kg

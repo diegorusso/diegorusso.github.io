@@ -47,7 +47,7 @@ integrarlo! :)
 
 **UPDATE del 2010-07-25.**
 
-Con l'introduzione di IOS4 c'e un nuovo comando vocale per sapere che ore
+Con l'introduzione di IOS4 c'è un nuovo comando vocale per sapere che ore
 sono. É sufficiente dire _"Che ore sono" | "Dimmi l'ora" | "Che ora e"_ e
 l'iPhone ti dira l'ora. Grazie ai commenti dei lettori per la segnalazione.
 

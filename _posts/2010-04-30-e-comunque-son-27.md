@@ -12,7 +12,7 @@ categories:
 tags: []
 ---
 Oramai sono un po' di anni che scrivo un post nel giorno del mio compleanno.
-Ogni anno un post diverso, piu o meno scherzoso, profondo... 'nsomma mai
+Ogni anno un post diverso, più o meno scherzoso, profondo... 'nsomma mai
 uguali. Qui di seguito puoi trovare la lista dei scorsi 3 post:
 
   * **24 anni**: <http://www.diegor.it/2007/04/30/born-to-be/>
@@ -23,7 +23,7 @@ uguali. Qui di seguito puoi trovare la lista dei scorsi 3 post:
 
   
 Che dire.. 27 anni, 3 ai 30 e 13 ai 40, etc, etc etc. Ora dovrei fare un
-resoconto di questo ultimo anno? **Nooo!!** Piuttosto segui questo piccolo
+resoconto di questo ultimo anno? **Nooo!!** piùttosto segui questo piccolo
 consiglio, "**[2 minuti al giorno](http://www.diegor.it/2008/12/31/2-minuti-
 al-giorno-auguriiiii/)". **Non bisogna essere tristi del tempo che passa, anzi
 bisogna essere fieri di quello che si e e di vivere intensamente ogni singola
@@ -44,12 +44,12 @@ e banale come affermazione, anzi e molto profonda.
 
 E tu, per cosa vorresti essere migliore? Giusto qualche tempo fa ho scritto
 [un post sull'essere migliori](http://www.diegor.it/2010/04/15/the-fun-theory-
-cambiare-in-meglio-divertendosi/). É difficile, molto. Credo pero se ci metti
+cambiare-in-meglio-divertendosi/). É difficile, molto. Credo però se ci metti
 tutta la buona volonta, sono sicuro che ce la farai. **Il segreto e divertirsi
 ed essere originali in quello che si fa.** Ad esempio guarda
 [Simone](http://www.brunozzi.it): lui ti spiega come [diventare ricco in 60
 minuti](http://www.diegor.it/2010/04/02/goosmama-ricco-in-60-minuti/). Ti
-assicuro che sarai molto piu che ricco! :)
+assicuro che sarai molto più che ricco! :)
 
 Altro esempio e la [#pizzatwit di
 #assisi](http://www.diegor.it/2010/04/25/pizzatwit-di-assisi-ed-oltre-
@@ -60,7 +60,7 @@ a lei, ho conosciuto molte persone in gamba ed intelligenti, che non fanno
 altro che aiutarti a crescere. **Ne sono fiero.** É bello conoscersi,
 condividere pensieri e divertirsi! :)
 
-Beh diciamo che ho finito e non voglio piu annoiarti. Fuori e una bella
+Beh diciamo che ho finito e non voglio più annoiarti. Fuori e una bella
 giornata, esci se puoi! :) Comunque in questo post ed in quelli precedenti hai
 molti spunti di riflessioni. Rifletti e, se vuoi, **ne possiamo parlare.**
 

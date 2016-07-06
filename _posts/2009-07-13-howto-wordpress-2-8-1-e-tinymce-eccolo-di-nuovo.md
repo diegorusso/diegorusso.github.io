@@ -9,7 +9,7 @@ categories:
 tags:
 - howto
 ---
-Un po' di tempo fa ho segnalato il problema che c'era con[ wordpress 2.8 e
+Un po' di tempo fa ho segnalato il problema che c'èra con[ wordpress 2.8 e
 l'editor avanzato dei post in concomitanza con Google
 Gears.](http://www.diegor.it/2009/06/15/howto-wordpress-2-8-e-tinymce-dove-e-
 finito/) In quella sede avevo segnalato un piccolo work-around in modo da

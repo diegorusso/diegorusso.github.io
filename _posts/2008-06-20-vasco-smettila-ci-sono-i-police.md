@@ -13,7 +13,7 @@ tags:
 - test
 ---
 Non che ci sia stato molto in questi giorni, ma nei prossimi due giorni non ci
-saro proprio (neanche con la testa :) poiche portero il mio corpo insieme a
+saro proprio (neanche con la testa :) poiché portero il mio corpo insieme a
 quello di altri tre pazzi (Miri, Francesco e Fred) **all'Heineken Jammin'
 Festival** per gustarmi un po' di sano divertimento con Vasco, i Police,
 Alanis Morissette, Marlene Kuntz, Counting Crows etc etc etc.

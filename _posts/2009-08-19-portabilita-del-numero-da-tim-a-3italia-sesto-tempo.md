@@ -18,7 +18,7 @@ portabilita.**
 
 Io le ho detto che l'operatore della Tim mi ha assicurato i 3 giorni
 lavorativi. La singnorina purtroppo mi ha detto che **molto difficilemente
-saranno 3 giorni lavorativi poiche Tim anche se da l'ok ritarda ad inviare la
+saranno 3 giorni lavorativi poiché Tim anche se da l'ok ritarda ad inviare la
 documentazione necessaria per effettuare la portabilita.** Mi ha comunque
 assicurato di aver rigiato la richiesta per richiedere la nuova portabilita,
 confermandomi la data del **21 agosto 2009 (quarta data)**. Di seguito la mail
@@ -59,7 +59,7 @@ generale, **con quel qualcuno che dovrebbe controllare questi signori.**
 Vorrei solo far capire ai lettori quello che sto passando io, per una
 stupidagine come la portabilita.
 
-Voglio pero dire una cosa a favore di 3Italia: **il servizio clienti non e
+Voglio però dire una cosa a favore di 3Italia: **il servizio clienti non e
 male o per lo meno meglio di quello degli altri operatori.**
 
 Detto questo, non resta che aspettare il fatidico giorno in cui la mia

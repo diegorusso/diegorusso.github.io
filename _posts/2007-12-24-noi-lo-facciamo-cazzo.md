@@ -20,7 +20,7 @@ che molti invidiano, soprattutto quando paga le cene! :). Ieri sera abbiamo
 fatto (per l'appunto) la cena pre-natalizia. Eravamo tutti tranne
 [Jibbolo](http://hukk.netsons.org/ "http://hukk.netsons.org/" ) e
 [Vale](http://fioredaprile.netsons.org/ "http://fioredaprile.netsons.org/" )
-(peggio per voi!). Per bilanciare la loro mancanza c'era una intrusa! :)  
+(peggio per voi!). Per bilanciare la loro mancanza c'èra una intrusa! :)  
 Di seguito un po' di foto...
 
 [![wedoit]({{site.url}}/images/2007-12-23_cena_wedoit.JPG)]({{site.url}}/image

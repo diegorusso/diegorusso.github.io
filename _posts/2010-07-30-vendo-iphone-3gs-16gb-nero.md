@@ -31,12 +31,12 @@ alimentatore e cavetto. Con il telefono inoltre **ti do anche  la custodia
 iphone2.html) (con imballo originale)**. Per farti capire che tipo di custodia
 e [vedi questo video](http://www.youtube.com/watch?v=j4uMTZWh0Rc) (ti
 consiglio di vederlo tutto). Sul video vedrai che la custodia e aperta dietro.
-Io ho la stessa custodia **che pero copre anche il lato posteriore del
+Io ho la stessa custodia **che però copre anche il lato posteriore del
 telefono.**
 
 Per venderlo vorrei fare un piccolo esperimento. **Dimmi in privato a
 me@diegor.it (E SOLO IN PRIVATO) la tua offerta.** Il primo che mi fa
-un'offerta interessante si aggiudichera il telefono **e non c'e una
+un'offerta interessante si aggiudichera il telefono **e non c'è una
 scadenza!** :)
 
 Ah ti ricordo che ora **l'unico iPhone 3GS che troverai sul mercato ha solo

@@ -14,8 +14,8 @@ tags: []
 ---
 [LORO (M$) dicono che noi non siamo pronti per Windows Vista](http://punto-
 informatico.it/p.aspx?i=2076386 "http://punto-informatico.it/p.aspx?i=2076386"
-), io dico che Windows Vista e stato uno dei piu grandi flop della storia
-Microsoft (piu del Windows Me, lo ricordate?)!
+), io dico che Windows Vista e stato uno dei più grandi flop della storia
+Microsoft (più del Windows Me, lo ricordate?)!
 
 [![vista_likes_linux.jpg]({{site.url}}/images/vista_likes_linux.jpg)](http://g
 oodbye-microsoft.com/ "http://goodbye-microsoft.com/" )  

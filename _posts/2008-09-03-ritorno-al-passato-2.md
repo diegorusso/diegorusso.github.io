@@ -18,7 +18,7 @@ kungfu. Sono stato obbligato per motivi di studio.
 
 _Chuck Norris disse: "Kung"... e Kung Fu! :P_
 
-E' qualche mese che vivo a Bastia Umbra ed ho scoperto che c'e una scuola di
+E' qualche mese che vivo a Bastia Umbra ed ho scoperto che c'è una scuola di
 di arti marziali.  
 Stasera si inizia!! :)  
 

@@ -21,7 +21,7 @@ conseguenza di occupare molto spazio su disco ed a volte di rallentare anche
 le prestazioni del sistema. **[Cache Out
 X](http://www.trilateralsystems.com/cacheoutx/) fa al caso tuo!** Infatti il
 suo scopo e proprio quello di** eliminare la cache contenuta nelle varie
-cartelle del sistema**, liberando cosi GB di spazio.
+cartelle del sistema**, liberando così GB di spazio.
 
 Qui di seguito l'interfaccia di questa applicazione:
 

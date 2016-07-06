@@ -9,7 +9,7 @@ categories:
 tags:
 - howto
 ---
-Posto questo howto con particolare soddisfazione, poiche mi ha salvato da una
+Posto questo howto con particolare soddisfazione, poiché mi ha salvato da una
 situazione molto critica (ma questa e un'altra storia post :). Come unico
 prerequisito e **avere un accesso ssh attivo e funzionante.**  
 Per fare cio clicca su **"Preferenze di Sistema -> Condivisione"** ed
@@ -73,8 +73,8 @@ precedente, dunque:
   
 
   
-Tutto cio e fattibile perche la "Condivisione Schermo" come tanti altri
-servizi sono gestiti da launchd. Se ne vuoi sapere di piu su questo demone
+Tutto cio e fattibile perché la "Condivisione Schermo" come tanti altri
+servizi sono gestiti da launchd. Se ne vuoi sapere di più su questo demone
 [leggi qui, su wikipedia.](http://it.wikipedia.org/wiki/Launchd)
 
 _Fonte: [MacFidelity](http://macfidelity.de/2008/03/27/105-start-screen-

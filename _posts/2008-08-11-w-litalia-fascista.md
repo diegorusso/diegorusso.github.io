@@ -13,11 +13,11 @@ categories:
 tags: []
 ---
 Abbiamo raggiunto veramente il culmine! "Fascisti" e l'appellativo che ci
-meritiamo. Il perche?  
+meritiamo. Il perché?  
 Il signorino qui sotto, nonche comandante della flotta Mediasola Mediaset, ha
 fatto bannare in Italia il noto sito torrent
 [www.thepiratebay.org](http://thepiratebay.org/ "http://thepiratebay.org/" )
-perche sicuramente danneggiava la sua piccola e modesta azienda.  
+perché sicuramente danneggiava la sua piccola e modesta azienda.  
 Beh, quelli della baia (the bay in italiano)[ hanno detto la
 loro](http://thepiratebay.org/blog/123 "http://thepiratebay.org/blog/123" ):
 
@@ -34,14 +34,14 @@ dittatori stessi._
 >
 
 > _Stavolta e il turno dell'Italia. I suoi abitanti vantano un passato
-veramente nefasto, poiche una delle federazioni dei discografici fu fondata in
+veramente nefasto, poiché una delle federazioni dei discografici fu fondata in
 Italia durante gli anni del fascismo, e oggi hanno un fascista al potere:
 Silvio Berlusconi._
 
 >
 
-> _Berlusconi e anche la persona piu potente d'Italia nel campo dei media,
-poiche possiede molte aziende in competizione con The Pirate Bay, e vorrebbe
+> _Berlusconi e anche la persona più potente d'Italia nel campo dei media,
+poiché possiede molte aziende in competizione con The Pirate Bay, e vorrebbe
 che le cose rimanessero cosi. Per questo motivo uno dei suoi lacche, Giancarlo
 Mancusi (il pubblico ministero di Bergamo, N.d.R.), ha ordinato di bloccare il
 nostro dominio e il nostro IP in Italia, per rendere il cammino difficile a
@@ -59,7 +59,7 @@ chi non vuole supportare l'impero di Berlusconi._
 ]({{site.url}}/images/silvio_berlusconi_fascista.jpg)_Ma che cazzo ridi?!?
 Fascista di merda!_
 
-Piu notizie a riguardo potete leggerle [qui](http://torrentfreak.com/the-
+più notizie a riguardo potete leggerle [qui](http://torrentfreak.com/the-
 pirate-bay-blocked-in-italy-080809/ "http://torrentfreak.com/the-pirate-bay-
 blocked-in-italy-080809/" ) e
 [qui](http://www.spippolazione.net/index.php/2008/08/10/piratebay-oscurato-ed-

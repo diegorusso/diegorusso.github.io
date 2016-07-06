@@ -37,7 +37,7 @@ l'ambiente, per gli altri. L'importante e che cambi in meglio. Ora ti propongo
 un po' di video che spero ti facciano divertire ed anche pensare un po'.
 
   
-_Buttare l'immondizia non e stato mai cosi divertente!_
+_Buttare l'immondizia non e stato mai così divertente!_
 
   
 _Scommetti che non prendi le scale mobili?_
@@ -55,7 +55,7 @@ _Video vincitore del "The Fun Theory Award" - Lotteria dell'autovelox_
 _Un sospiro di sollievo per la mamma!_
 
 __Se sei arrivato qui significa che hai visto tutti i video. Bravo. Divertito?
-Che ne pensi? Quale ti e piaciuto di piu? Cosa vorresti fare per cambiare in
+Che ne pensi? Quale ti e piaciuto di più? Cosa vorresti fare per cambiare in
 meglio? Dimmi la tua idea... chissa nasca qualche cosa! :)
 
 Attendo tuoi feedback!

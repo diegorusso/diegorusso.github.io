@@ -10,17 +10,17 @@ tags: []
 ---
 **La vita dovrebbe essere vissuta al contrario.  
 **  
-Tanto per cominciare si dovrebbe iniziare morendo, e cosi tricchete tracchete
+Tanto per cominciare si dovrebbe iniziare morendo, e così tricchete tracchete
 il trauma e bello che superato.
 
 Quindi ti svegli in un letto di ospedale e apprezzi il fatto che vai
-migliorando giorno dopo giorno. Poi ti dimettono perche stai bene e la prima
+migliorando giorno dopo giorno. Poi ti dimettono perché stai bene e la prima
 cosa che fai e andare in posta a ritirare la tua pensione e te la godi al
 meglio. Col passare del tempo le tue forze aumentano, il tuo fisico migliora,
 le rughe scompaiono.
 
 Poi inizi a lavorare e il primo giorno ti regalano un orologio d'oro. Lavori
-quarant'anni finche non sei cosi giovane da sfruttare adeguatamente il ritiro
+quarant'anni finche non sei così giovane da sfruttare adeguatamente il ritiro
 dalla vita lavorativa.  
 Quindi vai di festino in festino, bevi, giochi, fai sesso e ti prepari per
 iniziare a studiare.

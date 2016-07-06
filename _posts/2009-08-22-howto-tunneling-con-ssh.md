@@ -9,7 +9,7 @@ categories:
 tags:
 - howto
 ---
-**Il tunnel ssh e un modo sicuro per raggiungere un host che normalmente non potrebbe essere raggiunto. **Il metodo sfrutta una canale (tunnel) sicuro tra la tua macchina e la macchina remota sfruttando pero un altro server che fara da ponte. Esempi: se vuoi raggiungere una macchina dietro un firewall o dietro NAT, oppure se vuoi usare MSN da una rete aziendale che vieta l'uso dell'instant messenger.
+**Il tunnel ssh e un modo sicuro per raggiungere un host che normalmente non potrebbe essere raggiunto. **Il metodo sfrutta una canale (tunnel) sicuro tra la tua macchina e la macchina remota sfruttando però un altro server che fara da ponte. Esempi: se vuoi raggiungere una macchina dietro un firewall o dietro NAT, oppure se vuoi usare MSN da una rete aziendale che vieta l'uso dell'instant messenger.
 
 Ci sono fondamentalmente due modi per effettuare il tunnel:
 
@@ -23,7 +23,7 @@ Ci sono fondamentalmente due modi per effettuare il tunnel:
 Con questo metodo puoi accedere a porte su host che non puoi raggiungere
 direttamente facendo passare il traffico in una connessione SSH ad un host
 pubblico (che a sua volta deve poter raggiungere direttamente l'host finale).
-L'esempio piu classico e di voler raggiunere una macchina che si trova dietro
+L'esempio più classico e di voler raggiunere una macchina che si trova dietro
 NAT sfruttando il server che "natta" l'host finale. L'immagine sottostante puo
 schiarirti ulteriormente le idee! :)
 
@@ -100,7 +100,7 @@ I paramentri del comando ssh sono:
 Ora devi dire ai tuoi clienti di digitare nel proprio browser:
 _http://server.company.com:8080/_
 
-Rispondera cosi la porta 80 di OS9, dove e la tua web application. Ti vorrei
+Rispondera così la porta 80 di OS9, dove e la tua web application. Ti vorrei
 ricordare che puoi ridirigere qualsiasi tipo di porta, non solo la 80.
 
 Buon tunneling! :)

@@ -22,7 +22,7 @@ _black box_
 
 Su google groups ci sono state molte discussioni riguardante questo problema e
 finalmente ho trovato la soluzione:**_ "disattivare postgresql!"_**  
-E che c'entra postgresql con iSight?!?! bohhhh  
+E che c'èntra postgresql con iSight?!?! bohhhh  
 Comunque se avete problemi con il video di gmail con osx [qui ci sono varie
 soluzioni.](http://groups.google.com/group/Gmail-Help-Chats-and-Contacts-
 en/browse_thread/thread/aa1531eed89a4363#

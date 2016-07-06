@@ -20,33 +20,33 @@ scoppiato in lacrime.**
 Ho ripensato a tutte le immagini, a tutte le notizie, a tutti i video, a tutti
 i morti a tutti i numeri del terremoto.** A tutto.**
 
-E' stato piu forte di me, non ce l'ho fatta. Oggi mi sono adoperato come
+E' stato più forte di me, non ce l'ho fatta. Oggi mi sono adoperato come
 meglio potevo per dare una mano da dietro un fottutissimo computer. La voglia
 di prendere la macchina (anche quella fotografica) ed andare la era tanta, ma
 dopo ho pensato che sarei stato solo di intralcio.
 
 Nella tragedia mi ha fatto piacere una cosa: molte persone mi hanno chiesto
-informazioni per andare a donare sangue. Sembra una cazzata, pero mi ha tirato
-su. Sarebbe da far capire a queste persone pero che il sangue serve tutto
+informazioni per andare a donare sangue. Sembra una cazzata, però mi ha tirato
+su. Sarebbe da far capire a queste persone però che il sangue serve tutto
 l'anno e non solo in caso di calamita. Va beh, questa e un'altro storia post.
 
 Non sono mancati sciacallaggi informatici, falsi allarmi e...
 [questo](http://micheleficara.com/blog/2009/04/06/terremoto-in-abruzzo-
 contenuti-digitali-come-fare-business-morti-terremoto/)!
 
-Case **nuove** sbriciolate come polvere. **Perche**? Ma il controllo qualita e
+Case **nuove** sbriciolate come polvere. **Perché**? Ma il controllo qualita e
 sicurezza delle abitazioni dove e? Non dico case che hanno decine di anni, ma
 parlo **di case che hanno qualche anno**, che sono ancora nella loro infanzia.
-Secondo me un terremoto cosi in un'altra citta (anche non italiana) non
-produrrebbe cosi tanti morti. Ci prendiamo per il culo da soli,** ci uccidiamo
+Secondo me un terremoto così in un'altra citta (anche non italiana) non
+produrrebbe così tanti morti. Ci prendiamo per il culo da soli,** ci uccidiamo
 da soli.**
 
 E gli sciacalli? Ma che cazzo vai  rubare? Questo e un imbecille e non
-Giuliani, come ha detto Bertolaso. Per salvare delle vite in piu, **sarebbe
+Giuliani, come ha detto Bertolaso. Per salvare delle vite in più, **sarebbe
 stato sufficiente prendere le informazioni di Giuliani non come previsione ma
 come prevenzione.**
 
-A questo punto mi chiedo anche dove cazzo e Dio. **Ma c'e?** Ho detto **Dio**!
+A questo punto mi chiedo anche dove cazzo e Dio. **Ma c'è?** Ho detto **Dio**!
 Non Vaticano, non Silvio. Anche questo e una post storia a parte.
 
 **Mi dispiace. **Mi dispiace per tutte quelle persone ferite, morte, per tutte quelle che rimarranno sole e senza niente. Mi dispiace per tutte quelle persone che verranno **strumentalizzate** dai potenti, dai media, dai figli di puttana.

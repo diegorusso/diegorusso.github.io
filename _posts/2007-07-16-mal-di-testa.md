@@ -20,9 +20,9 @@ flagello **(a me personalmente il mal di testa mi azzera!)**
 [![piton]({{site.url}}/images/piton.jpg)](http://it.wikipedia.org/wiki/Severus
 _Piton "http://it.wikipedia.org/wiki/Severus_Piton" )
 
-Che c'entra [Severus Piton](http://it.wikipedia.org/wiki/Severus_Piton
+Che c'èntra [Severus Piton](http://it.wikipedia.org/wiki/Severus_Piton
 "http://it.wikipedia.org/wiki/Severus_Piton" ) con il mal di testa? C'entra,
-c'entra. La prossima volta che avrete un mal di testa, invece di riposarvi,
+c'èntra. La prossima volta che avrete un mal di testa, invece di riposarvi,
 prendere Aulin, Moment e/o droghe simili, scegliete un rimedio "naturale"...
 andata al cinema a vedere [Harry Potter e l'ordine della
 Fenice](http://it.wikipedia.org/wiki/Harry_Potter_e_l%27ordine_della_fenice

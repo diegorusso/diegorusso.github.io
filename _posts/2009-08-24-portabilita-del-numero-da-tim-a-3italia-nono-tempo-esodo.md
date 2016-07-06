@@ -20,7 +20,7 @@ Tim a 3Italia.**
 
 Alla fine di questa storia l'unica cosa che ti consiglio e di chiamare
 l'operatore che devi lasciare per autorizzare la portabilita, anche se per
-legge non serve poiche l'operatore non puo piu rifiutare la portabilita.
+legge non serve poiché l'operatore non puo più rifiutare la portabilita.
 
 Speriamo che tim si riallinei alle procedure e chei suoi clienti on debbano
 trovarsi nelle mie stesse condizioni. Ultima cosa:** complimenti al servizio

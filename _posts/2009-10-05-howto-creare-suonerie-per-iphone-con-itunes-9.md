@@ -34,7 +34,7 @@ Segui questi semplici passi:
   
 
   5. Clicca su **"Accetta".**
-  6. Clicca di nuovo con il tasto destro sulla canzone e seleziona **"Crea versione AAC"**. _Nelle ultime versioni di _**_iTunes9_**_ puoi fare questa operazione cliccando sul menu _**_"_****_Avanzate -> Crea versione AAC"._ **Appena finito il processo di conversione vedrai nella tua lista una canzone in piu con lo stesso nome di quella selezionata. L'unica differenza e la lunghezza della canzone che sara quella decisa da te.  
+  6. Clicca di nuovo con il tasto destro sulla canzone e seleziona **"Crea versione AAC"**. _Nelle ultime versioni di _**_iTunes9_**_ puoi fare questa operazione cliccando sul menu _**_"_****_Avanzate -> Crea versione AAC"._ **Appena finito il processo di conversione vedrai nella tua lista una canzone in più con lo stesso nome di quella selezionata. L'unica differenza e la lunghezza della canzone che sara quella decisa da te.  
 **[]({{site.url}}/images/suonerie-iphone3.png)**
 
 ![suonerie-iphone3]({{site.url}}/images/suonerie-iphone3.png)

@@ -21,5 +21,5 @@ Molto semplice
     
     print "Instance METHOD IS  " . Dumper( %{ref ($object)."::" }) ;
 
-In Python e ancora piu semplice :)
+In Python e ancora più semplice :)
 

@@ -18,16 +18,16 @@ tags:
 Avete letto bene. Vendo il mio cellulare. Qui ho scritto [il mio primo
 post](http://www.diegor.it/2007/06/13/e65/
 "http://www.diegor.it/2007/06/13/e65/" ) con questo fantastico cellulare... no
-mi correggo... e piu che un cellulare. [Qui potete trovare tutte le
+mi correggo... e più che un cellulare. [Qui potete trovare tutte le
 informzioni e le caratteristiche del prodotto.](http://www.nokia.it/A4486488
 "http://www.nokia.it/A4486488" ) Prima di elencare le specifiche tecniche
 vorrei spendere due parole su questo cellulare. Non diro in questa sede il
-perche lo vendo... sicuramente nel prossimo post! :)  
+perché lo vendo... sicuramente nel prossimo post! :)  
 Il cellulare e stato acquistato dal sottoscritto il **12 giugno 2007** al
 Mediaworld. E' stato sempre trattato con cura ed attenzione: non a caso **non
 presenta alcuna riga evidente sulla scocca** e non e mai subito urti violenti.
 **Il cellulare NON e brandizzato**, ovvero non presenta brand di operatori
-telefonici (questo e abbastanza importante poiche il firmware del dispositivo
+telefonici (questo e abbastanza importante poiché il firmware del dispositivo
 non e storcato da quest'ultimi). _Inoltre e coperto fino ad un anno da una
 polizza contro furto (max 300€), danni accidentati (max 40€) ed uso
 fraudolento della SIM (max 200€)._ E' dotato inoltre di una MicroSD (con
@@ -62,7 +62,7 @@ parti che secondo me sono importanti rispetto alle altre.
 **Operativita:**
 
   * Quad-band: EGSM 850/900/1800/1900
-  * **_WCDMA 2100 (piu veloce dell'UMTS)  
+  * **_WCDMA 2100 (più veloce dell'UMTS)  
 _**
 
   * _**Chiamate VoIP via Wi-Fi (IEEE 802.11g e 802.11b standards)**_
@@ -201,7 +201,7 @@ _**
   * Astuccio protettivo Nokia CP-18
   
 
-Se siete arrivati a leggere fin qui e perche vi interessa veramente questo
+Se siete arrivati a leggere fin qui e perché vi interessa veramente questo
 cellulare eh... dunque non vi resta che contattarmi. [Trovate tutti i miei
 contatti qui](http://www.diegor.it/about/ "http://www.diegor.it/about/" ).
 Seguendo la mia "filosofia di vendita" (vedi

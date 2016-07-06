@@ -9,5 +9,5 @@ categories:
 tags: []
 ---
   
-Quale canzone piu azzeccata di questa? :P  
+Quale canzone più azzeccata di questa? :P  
 

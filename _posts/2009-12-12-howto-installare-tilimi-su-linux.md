@@ -51,7 +51,7 @@ Tilimi** stesso. Ecco i semplici passi per installare Tilimi su Linux:
 
   
 Ovviamente per far funzionare il tutto **devi avere sia il microfono che la
-scheda audio funzionanti sotto Linux**, poiche wine "si appoggia" ai driver
+scheda audio funzionanti sotto Linux**, poiché wine "si appoggia" ai driver
 audio di Linux.
 
 Se hai domande, delucidazioni, correzioni, sugerimenti o altro, commenta

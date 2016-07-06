@@ -9,8 +9,8 @@ categories:
 tags:
 - howto
 ---
-Snow Leopard e un sistema interamente (quasi) a 64bit. Questo pero non vuol
-dire che non riesce ad eseguire le applicazioni piu anzianotte, a 32
+Snow Leopard e un sistema interamente (quasi) a 64bit. Questo però non vuol
+dire che non riesce ad eseguire le applicazioni più anzianotte, a 32
 bit.Infatti se prendi qualsiasi applicazione a 32bit di Leopard e la esegui,
 al 90% viene eseguita senza problemi.
 

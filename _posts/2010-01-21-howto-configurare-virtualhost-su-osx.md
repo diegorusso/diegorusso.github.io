@@ -19,7 +19,7 @@ OSX, come molte distribuzioni linux hanno integrato il webserver
 disponibili per la gestione di qualsiasi situazione.  
 Tra queste configurazioni ci sono i
 [VirtualHost](http://httpd.apache.org/docs/2.0/vhosts/), che permettono
-l'esecuzioni di piu siti (_www.sito1.com, www.sito2.com_) sulla stessa
+l'esecuzioni di più siti (_www.sito1.com, www.sito2.com_) sulla stessa
 macchina. I siti possono essere suddivisi basandosi sia su nomi differenti sia
 su IP.  
 In OSX tutte le configurazioni si trovano dentro la cartella_
@@ -29,7 +29,7 @@ In OSX tutte le configurazioni si trovano dentro la cartella_
     
         sudo vim /etc/apache2/httpd.conf
 
-  2. Intorno alla linea 460 c'e questa direttiva 
+  2. Intorno alla linea 460 c'è questa direttiva 
     
         # Virtual hosts  
     

@@ -12,7 +12,7 @@ tags: []
 Scusata la mia "assenza" dal blog, ma in questo periodo ho avuto un po'
 (ironico) da fare. L'immagine spiega tutto. Anzi visto che ci siete fate un
 giro su [http://www.secundavita.com](http://www.secundavita.com/
-"http://www.secundavita.com/" ) e vedi il nostro progetto. Se sei ancora piu
+"http://www.secundavita.com/" ) e vedi il nostro progetto. Se sei ancora più
 curioso e vedere dal "vero" il lavoro iscriviti a
 [Secondlife](http://secondlife.com "http://secondlife.com" ) ed entra nel
 metaverso. Una volta li cerca "Assisi" et voila sei arrivato! :)

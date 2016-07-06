@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 Mi e sempre piaciuta questa pubblicita per le sue belle parole e per la sua
-musica. Immaginavo pero che sotto **c'era qualche cosa che non andava**. Me lo
+musica. Immaginavo però che sotto **c'èra qualche cosa che non andava**. Me lo
 sentivo. Erano parole troppo belle per una pubblicita, dell'ENEL poi..  
 _Ora ne ho le prove:_  
 

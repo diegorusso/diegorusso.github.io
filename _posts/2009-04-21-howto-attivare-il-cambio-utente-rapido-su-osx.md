@@ -10,15 +10,15 @@ tags:
 ---
 OSX e basato su un sistema UNIX e come tale supporta nativamente:
 
-  * il [multitask](http://en.wikipedia.org/wiki/Computer_multitasking): ovvero l'abilita di eseguire piu task simultaneamente con un solo processore;
+  * il [multitask](http://en.wikipedia.org/wiki/Computer_multitasking): ovvero l'abilita di eseguire più task simultaneamente con un solo processore;
   * il [multi-user](http://en.wikipedia.org/wiki/Multi-user): permette a due utente di essere collegati contemporaneamente alla stessa macchina
   
 
   
-OSX dunque puo collegare piu di due utenti contemporaneamente. **Quale e la
+OSX dunque puo collegare più di due utenti contemporaneamente. **Quale e la
 sua utilita?** Supponiamo che tu condivida il tuo computer con un tuo amico
 e/o conoscente e supponiamo che ci stai lavorando. Il tuo amico arriva e ti
-chiede di fare una cosa urgentissima e che non puo tardare. Non c'e problema!
+chiede di fare una cosa urgentissima e che non puo tardare. Non c'è problema!
 Segui i passi sottostanti e potrai usare **il cambio rapido di utente per OSX!
 **:)
 

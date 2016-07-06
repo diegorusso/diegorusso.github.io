@@ -16,7 +16,7 @@ tags: []
 Chi partecipa al Codemotion sa che prendera parte ad una **maratona tecnica
 davvero unica**.  
 [ Il programma del Codemotion](http://www.codemotion.it/programma-talks)
-prevede piu di **65 interventi distribuiti in 7 parallele**, sessioni di
+prevede più di **65 interventi distribuiti in 7 parallele**, sessioni di
 Ignite e un laboratorio sul mobile.
 
 Il Codemotion e **l'evoluzione del Javaday Roma**, da questa edizione l'evento
@@ -31,7 +31,7 @@ migliori che possano reggere meglio l'inevitabile impatto del tempo.
 Ogni intervento del Codemotion vuole emozionare i partecipanti. Suscitare
 l'interesse del pubblico e alimentarne la passione sono gli obiettivi che
 contraddistinguono l'evento. I talk non pretendono di insegnare, ma di rendere
-piu facile il successivo processo di imparare.
+più facile il successivo processo di imparare.
 
 Il programma del Codemotion e stato **realizzato con una Call For Paper
 pubblica.**  

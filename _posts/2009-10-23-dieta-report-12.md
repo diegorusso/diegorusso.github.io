@@ -8,10 +8,10 @@ tags: []
 Dopo [l'ultima visita](http://www.diegor.it/2009/10/06/dieta-
 report-11-e-vaiii/), mi ero promesso di perdere qualche cosina. **Cosi non e
 stato.** Il giorno** 2009-10-16** la bilancia segnava **78.5Kg**, un chilo in
-piu rispetto all'ultima volta. Questo non indica che sono aumentato.. Il 25
+più rispetto all'ultima volta. Questo non indica che sono aumentato.. Il 25
 settembre era caldo ed ero vestito con un abbigliamento ancora estivo:
 maglietta e calzoncini corti. Il 16 ottobre invece era molto freddo e di
-conseguenza mi sono pesato con maglietta, felpa e jeans. Direi che piu o meno
+conseguenza mi sono pesato con maglietta, felpa e jeans. Direi che più o meno
 un chilo di vestiti ce lo avevo addosso. Dunque ricapitolando:
 
   * Peso al 27/04/2009: 89.4Kg
@@ -27,5 +27,5 @@ un chilo di vestiti ce lo avevo addosso. Dunque ricapitolando:
   
 
   
-**Nonostante cio ho ricevuto il mantenimento! **:) Dedichero un post a parte sul mantenimento e sulla corretta alimentazione suggeritami. Per ora va bene cosi! :)
+**Nonostante cio ho ricevuto il mantenimento! **:) Dedichero un post a parte sul mantenimento e sulla corretta alimentazione suggeritami. Per ora va bene così! :)
 

@@ -18,7 +18,7 @@ va. Il problema questa volta e da imputare a [Google
 Gears](http://gears.google.com/). Google Gears e una applicazione che ti
 permette di scaricare in locale dei file in modo che quando accedi a
 wordpress, non li deve scaricare ogni volta dalla rete, rendendo il tutto
-molto piu veloce. Dunque il modo per risolvere questa situazione, per ora, e
+molto più veloce. Dunque il modo per risolvere questa situazione, per ora, e
 **disabilitare Google Gears** sulla tua piattaforma i blogging. Come si fa? In
 questo modo:
 

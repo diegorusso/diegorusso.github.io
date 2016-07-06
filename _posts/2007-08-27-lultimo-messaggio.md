@@ -11,7 +11,7 @@ tags:
 
 **Ieri pomeriggio** il pensiero ha dovuto presentasi a me. Era vero. E' vero. Purtroppo. Restava l'immagine. Non sapevo quando l'avrei vista. Ho lasciato stare.
 
-**Questa mattina** anche lei si e messa davanti ai miei occhi. Inizialmente non ci credevo.. coincidenze. Non e possibile. Ma e cosi! Non so come, ma ieri sapevo.
+**Questa mattina** anche lei si e messa davanti ai miei occhi. Inizialmente non ci credevo.. coincidenze. Non e possibile. Ma e così! Non so come, ma ieri sapevo.
 
 []({{site.url}}/images/rest.jpg "rest.jpg" )
 

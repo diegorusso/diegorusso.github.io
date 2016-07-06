@@ -62,15 +62,15 @@ ca**o dicono?!? Io non ho annullato un bel niente!!!
 
 Appena letta questa cosa ho chiamato di nuovo il 133 e l'operatore mi ha detto
 che la Tim e restia a lasciare i propri clienti. Mi ha chiesto se avevano
-contattato ed io ho spiegato che la scheda e sempre spenta poiche non la uso.
+contattato ed io ho spiegato che la scheda e sempre spenta poiché non la uso.
 Dopo di cio l'operatore mi ha detto di chiamare il numero gratuito **411599**,
 un numero dedicato alle portabilita. Cosi ho fatto: sono stato al telefono
 circa 15 minuti, concludendo che la portabilita sarebbe avvenuta il **14
 agosto 2009 (terza data)**. In questo lasso di tempo ho deciso di accendere un
-terzo cellulare con scheda Tim all'interno, cosi se mi avessero chiamato
+terzo cellulare con scheda Tim all'interno, così se mi avessero chiamato
 gliene avrei dette quattro. Tutto tace!
 
-**Oggi 14 agosto 2009**, ovviamente la portabilita non e stata effettuata ed il numero Tim funziona come sempre. Mi reco cosi sul sito della 3Italia per vedere lo stato della richiesta della portabilita ed e in questo stato:
+**Oggi 14 agosto 2009**, ovviamente la portabilita non e stata effettuata ed il numero Tim funziona come sempre. Mi reco così sul sito della 3Italia per vedere lo stato della richiesta della portabilita ed e in questo stato:
 
 [![portabilita_tre]({{site.url}}/images/portabilita_tre.png)]({{site.url}}/ima
 ges/portabilita_tre.png)

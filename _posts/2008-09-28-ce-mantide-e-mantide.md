@@ -22,8 +22,8 @@ visione.](http://www.soothbrush.com/praying-mantis-insect/
 [](http://www.soothbrush.com/praying-mantis-insect/
 "http://www.soothbrush.com/praying-mantis-insect/" ) Visto che siamo in tema
 vorrei fare un paragone tra la mantide inteso come animale e la mantinde
-inteso come arte marziale del kungfu. Credo che lo stile piu bello e completo
-nel kungfu sia proprio quello della mantide. Per i piu esperti di seguito due
+inteso come arte marziale del kungfu. Credo che lo stile più bello e completo
+nel kungfu sia proprio quello della mantide. Per i più esperti di seguito due
 video: il primo raffigura l'attacco della mantide mentre il secondo una forma
 di kungfu dello stile della mantide (tang lang). Buona Visione
 

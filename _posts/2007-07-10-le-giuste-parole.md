@@ -8,7 +8,7 @@ categories:
 - job
 tags: []
 ---
-**"Piangere e da uomini, nasconderlo e da fessi..."** cosi iniziava una mail arrivata questa mattina in una delle mie tante caselle di posta.
+**"Piangere e da uomini, nasconderlo e da fessi..."** così iniziava una mail arrivata questa mattina in una delle mie tante caselle di posta.
 
 []({{site.url}}/images/piangere.jpg "piangere e nascondersi" )
 

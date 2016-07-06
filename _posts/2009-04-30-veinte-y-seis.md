@@ -42,7 +42,7 @@ abitudini, cambiano gli auguri.
 Personalmente preferisco il metodo tradizionale, **la telefonata**.
 
 Forse mi sono dilungato troppo, ma qualche cosa ci dovevo  scrivere. Comunque
-**oggi compio 26** **anni**... ah ma perche il titolo del post e in spagnolo?
+**oggi compio 26** **anni**... ah ma perché il titolo del post e in spagnolo?
 Beh, io ho un debole per questa lingua, la apprendo giorno per giorno, avendo
 tutto quello che posso in spagnolo (anche i testi universitari). Inoltre tra 2
 giorni, il 1 maggio andro a Barcelona per l'n-esima volta.. questa volta con

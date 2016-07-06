@@ -25,7 +25,7 @@ pubblicarla qui sul mio blog, ho deciso di provare a pubblicarlo sugli
 
 Il risultato di tutta questa operazione e stato di tante e svariate offerte.
 Tra le tante ce ne stava una particolarmente appetitosa, almeno inizialmente.
-Senza scrivere una parola di piu faro vedere lo scambio di email avuti con
+Senza scrivere una parola di più faro vedere lo scambio di email avuti con
 questo strano offerente (Clicca sulle immagini per ingrandirle)
 
 I commenti li mettero sotto le varie immagini.
@@ -84,16 +84,16 @@ ricevute altre due da Bank of America. Le mail sono abbastanza lunghe e le ho
 messe in due PDF. [Questa e la prima]({{site.url}}/assets/files/bank1.pdf)mentre
 [questa e la seconda]({{site.url}}/assets/files/bank2.pdf). Scaricale! Proprio
 da queste due mail inizio a intuire ad una possibile truffa. Ora ti spiego
-perche. Ah, ho inoltrato la mail a Bank of America all'indirizzo
+perché. Ah, ho inoltrato la mail a Bank of America all'indirizzo
 abuse@bankofamerica.com, ma non ho ricevuto altro che una risposta automatica.  
 La mail era ben dettagliata con tutti i dati a loro posto. Ma alcune cose non
 mi quadravano:
 
-  1. la cifra era di **560€ **(500€ \+ 60€ di spese di spedizione) che io non ho mai chiesto. **Perche pagare 560€ per un 3GS che nuovo costa 539€?**
+  1. la cifra era di **560€ **(500€ \+ 60€ di spese di spedizione) che io non ho mai chiesto. **Perché pagare 560€ per un 3GS che nuovo costa 539€?**
   2. li si fa riferimento molte volte a delle mail con il dominio [consultant.com](http://www.consultant.com/), che e un [sito parcheggiato](http://en.wikipedia.org/wiki/Domain_parking).
-  3. Sul mio indirizzo mail, c'e l'indirizzo di un'altra persona (penso un'altra vittima della truffa)
+  3. Sul mio indirizzo mail, c'è l'indirizzo di un'altra persona (penso un'altra vittima della truffa)
   4. Ho cercato su Google. Guarda un po' [qui](http://www.pdaexpertos.com/foros/viewtopic.php?p=410754), [qui](http://http://www.carigold.com/portal/forums/showthread.php?p=6343534), poi [qui](http://forums.ebay.es/thread.jspa?threadID=500000564&start=336), ed infine [qui](http://www.hispasonic.com/comunidad/siguen-las-estafas-mano-t283330.html).
-  5. Il "from" della mail inizia con una lettera maiuscola. Strano, cosi sono passato a fare il punto 6.
+  5. Il "from" della mail inizia con una lettera maiuscola. Strano, così sono passato a fare il punto 6.
   6. Inoltre grazie a qualche conoscenza tecnica ho analizzato i dati grezzi della mail ed ho scoperto qualche cosa di interessante. Guarda l'immagine sottostante.
   
 
@@ -105,7 +105,7 @@ spedita utilizzando un account gmail **getcoolordierugged@gmail.com** **(Get
 Cool Or Die Rugged)**
 
 Dopo tutte queste osservazioni mi sono insospettito ed ho iniziato a
-guadagnare tempo. **Anche perche con il cavolo che spedivo senza vedere i
+guadagnare tempo. **Anche perché con il cavolo che spedivo senza vedere i
 soldi nel mio conto! :)**
 
 * * *
@@ -147,7 +147,7 @@ Translate. Eh certo, ora te lo spedisco il pacco, non ti preoccupare! :)
 
 Mentre me lo stavo rigirando come volevo, ho avuto un'ulteriore conferma della
 truffa. Miriam mi ha fatto notare anche anche un'altra persona e stata vittima
-di una truffa, poiche aveva fatto un twit particolare. Questa persona (d'ora
+di una truffa, poiché aveva fatto un twit particolare. Questa persona (d'ora
 in poi Mister Twit), ha fatto questo twit:
 
 [![]({{site.url}}/images/twit.png)]({{site.url}}/images/twit.png)
@@ -187,8 +187,8 @@ Le modalita sono sempre le stesse e lui se ne accorto in questa maniera:
 
   1. io chiedo 420€ e lui me ne offre **600€**
   2. la pseudo notifica automatica di PayPal e in un **Italiano ridicolo, con mittente finto**
-  3. sul conto PayPal (facendo il login direttamente da PayPal.it) non c'e nulla
-  4. e cosi via...
+  3. sul conto PayPal (facendo il login direttamente da PayPal.it) non c'è nulla
+  4. e così via...
   
 
   
@@ -212,7 +212,7 @@ PaccoCelere3 inclusa._
 **Truffatore:**  
 _ Grazie per la risposta, Sono pronto ad acquistare l'oggetto per il mio
 nipote, che gestisce una delle mie imprese in Africa. Egli e impegnato e,
-attraverso il suo impegno sforzo, potevo crescere i miei affari, cosi ho
+attraverso il suo impegno sforzo, potevo crescere i miei affari, così ho
 deciso di compensare lui con un regalo tangibile per un lavoro ben fatto.  
 Ti offro 600 € per la spedizione, in particolare mediante EMS, e io sono
 pronto a pagare con Paypal o bonifico bancario.  
@@ -249,7 +249,7 @@ EA0172314322IT. Dentro la confezione potra trovare una sguarratamazzata pella
 fessasoreta come mio personale omaggio; rimango in attesa della conferma del
 pagamento. Nel frattempo auguro alle SSLL una vita piena di sciorda
 nebulizzata e penetrazione anale da parte di un napoletano che certo non si fa
-fare fesso cosi semplicemente.  
+fare fesso così semplicemente.  
 Comunque ringrazio le SSLL per i momenti di divertimento, mai fatte tanti
 risate alla faccia vostra._
 
@@ -257,12 +257,12 @@ risate alla faccia vostra._
 _ Ciao,  
 Voglio informarvi che ho appena pagato per l'oggetto, e il mio conto e stato
 detratto. Si dovrebbe avere anche stati contattati in merito al pagamento
-PayPal che ho fatto sul tuo conto, cosi io vi esorto a procedere con la
+PayPal che ho fatto sul tuo conto, così io vi esorto a procedere con la
 spedizione a mezzo corriere espresso al seguente indirizzo e, Ritornate a me
 con il numero di spedizione, dopo la spedizione;_
 
 **Mister Twit  
-**_Ciao, ti ringrazio per essere uno sfrantacazzo esagerato, comunque ti confermo che ti ho spedito l'oggetto con EMS ed il numero dispedizione e EA0271314322IT. Ora che, spero, schiatterai di subito in una nuvola di medda tremenda, mi puoi confermare il pagamento? Sai, sono uno studente universitario e ce l'ho piu lungo di te, figurati che i miei pil'ncul sono lunghi un paio di metri.  
+**_Ciao, ti ringrazio per essere uno sfrantacazzo esagerato, comunque ti confermo che ti ho spedito l'oggetto con EMS ed il numero dispedizione e EA0271314322IT. Ora che, spero, schiatterai di subito in una nuvola di medda tremenda, mi puoi confermare il pagamento? Sai, sono uno studente universitario e ce l'ho più lungo di te, figurati che i miei pil'ncul sono lunghi un paio di metri.  
 In Italia siamo di manica molto larga ma quando becchiamo dei rincostronziti
 come te ci divertiamo non poco, tant'e che stai diventando una star pure su un
 social network uccelloso. A proposito di uccelli, a te piacciono? Spero
@@ -275,7 +275,7 @@ piglio'ncul! Ripetilo pure a Napoli se ci verrai a trovare, vedrai che la
 gente ti assalira per la gioia.  
 Mannam' sti cazz' e sord, bucchi!_
 
-Mister Twit si e divertito piu di me in quanto ad offese. Queste persone
+Mister Twit si e divertito più di me in quanto ad offese. Queste persone
 purtroppo meriterebbero delle punizione severe ma ad oggi non si puo fare
 nulla tranne che segnalarlo e spargere la voce.
 

@@ -24,9 +24,9 @@ psycopg2/) e nell'utilizzo (dunque la compilazione e andata a buon fine) di
   
 Ho cercato molto in giro e non ho mai trovato una soluzione a questo errore,
 finche la mia perseveranza ha trovato un'uscita. Praticamente questo errore e
-scaturito poiche **il tuo server non riesce a scrivere sul path
+scaturito poiché **il tuo server non riesce a scrivere sul path
 PYTHON_EGG_CACHE e di conseguenza non puo usare le eggs.**  
-Il vero fix e pero nella configurazione del tuo _mod_python_ o del _mod_wsgi_,
+Il vero fix e però nella configurazione del tuo _mod_python_ o del _mod_wsgi_,
 in modo da configurare questo path.  
 Per il _mod_wsgi_, modifica il file .wsgi del tuo progetto aggiungendoci
 questa riga:

@@ -34,7 +34,7 @@ se il computer non fosse in garanzia.
 
 Ma il mio mac e in garanzia? Avendolo comprato nel **novembre 2007 nello store
 online ed avendo 1 anno di garanzia** (questa cosa ancora a devo capire
-bene),** il mio computer non e piu in garanzia. **A questo punto sono partite
+bene),** il mio computer non e più in garanzia. **A questo punto sono partite
 una serie di imprecazioni che non sto qui ad elencare.
 
 Continuo la mia ricerca disperata tra forum e blog capitando **[al link della
@@ -42,11 +42,11 @@ salvezza](http://support.apple.com/kb/TS2377?viewlocale=it_IT)**: la Apple ha
 riconosciuto il difetto hardware ed **ha esteso la garanzia di un anno a tutti
 quei computer che presentavano questi tipo di difetto.**
 
-Ho subito chiamato il centro assistenza Apple piu vicino (ad Arezzo) e martedi
+Ho subito chiamato il centro assistenza Apple più vicino (ad Arezzo) e martedi
 17 marzo ho consegnato il MacBook Pro. L'omino del centro assistenza mi disse
 che ci volevano dai 7 ai 10 giorni lavorativi per la sostituzione del pezzo.
 
-Prima di consegnarlo ho pero effettuato un backup di tutti i dati attraverso
+Prima di consegnarlo ho però effettuato un backup di tutti i dati attraverso
 la Condivisione Schermo ([descritta nel precedente
 post](http://www.diegor.it/2009/03/20/howto-abilitare-condivisione-schermo-su-
 osx-da-terminale/)) e mettendo i file dell'universita su

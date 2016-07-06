@@ -12,7 +12,7 @@ Non ci sono modi di vedere la data in OSX senza dover aprire il calendario,
 fare click sull'ora in OSX oppure senza aprire la dashboard con il plugin del
 calendario. E non ci sono delle opzioni che ti permettono di visualizzare la
 data direttamente accanto all'ora.  
-Con molta facilita, c'e un metodo non proprio diretto che tipermette di farlo.
+Con molta facilita, c'è un metodo non proprio diretto che tipermette di farlo.
 Basta seguire questi semplici passi:
 
   1. Apri le **Preferenze di sistema**
@@ -40,7 +40,7 @@ vedere la data nella tua barra di stato
 [![risultato]({{site.url}}/images/risultato.png)]({{site.url}}/images/risultat
 o.png)
 
-PS: se dei nomi non sono uguali ai vostri e perche ho OSX in spagnolo :)
+PS: se dei nomi non sono uguali ai vostri e perché ho OSX in spagnolo :)
 
 Fonte: [paulstamatiou.com](http://paulstamatiou.com/2006/06/11/how-to-display-
 date-in-os-x-menu-bar)

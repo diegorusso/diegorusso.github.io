@@ -43,7 +43,7 @@ inferiore, lo faranno senza problemi. Cosa offri te ai tuoi clienti che nessun
 altro puo dare? Quale e il tuo valore aggiunto? Cosa ti rende speciale?
 
 La tendenza e di copiare gli altri, di imitare gli altri. **NO! Non farlo!!**
-O almeno cerca di non farlo. Pero questo non significa che fare qualche cosa
+O almeno cerca di non farlo. però questo non significa che fare qualche cosa
 di diverso ti da la garanzia di successo. Un consiglio e prendere un modello
 di business esistente e studiarlo per un po'. Sul tuo modello di business
 (sicuro) ci metti qualche cosa di tuo, di nuovo (interessante). Un po' come ha
@@ -81,7 +81,7 @@ da fare che permettano alla tua azienda di avere soldi.
 ### 6\. Come gestirai i tuoi clienti?
 
   
-Mantenere i clienti esistenti e piu economico che trovarne di nuovi. Come
+Mantenere i clienti esistenti e più economico che trovarne di nuovi. Come
 gestisci le relazioni con i tuoi clienti? Hai un processo dove puoi capire le
 esigenze dei tuoi clienti? Crea un processo che ti permette di adattarti ai
 tuoi clienti.
@@ -100,7 +100,7 @@ R = Realistico
 T = Tempestivo
 
 Per esempio un obiettivo puo essere "ottenere 20 nuovi clienti in un anno". La
-tua pianificazione sara piu efficace. Domandati poi "Dove li trovo 20 nuovi
+tua pianificazione sara più efficace. Domandati poi "Dove li trovo 20 nuovi
 clienti?" ed agisci di conseguenza. Non avere obiettivi vaghi come "avere un
 business di successo" oppure "essere felici". Non andrai da nessuna parte.
 
@@ -109,8 +109,8 @@ business di successo" oppure "essere felici". Non andrai da nessuna parte.
   
 Dopo aver letto queste domande puoi: a) andare avanti b) sentirti sopraffatto
 
-Domandati il perche vuoi metterti in gioco con un'attivita tua. C'e piu lavoro
-che essere un dipendente: molti piu rischi, nessun capitale iniziale, ogni
+Domandati il perché vuoi metterti in gioco con un'attivita tua. C'e più lavoro
+che essere un dipendente: molti più rischi, nessun capitale iniziale, ogni
 contratto e un colloquio di lavoro, etc..
 
 L'altra faccia della medaglia porta gratificazione personale, essere

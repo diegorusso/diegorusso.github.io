@@ -41,7 +41,7 @@ Infatti basta andare sulla root del progetto e digitare il seguente comando:
 Per trovare i file da cancellare. Ti consiglio sempre di testare il comando
 "find" prima di cancellare i file, per evitare brutte sorprese! Una volta che
 sei sicuro dei file che vuoi cancellare ti basta lanciare il comando
-precedente con una opzione in piu:
+precedente con una opzione in più:
 
     
     
@@ -49,7 +49,7 @@ precedente con una opzione in piu:
 
   
 Puoi vedere il risultato del "**delete**" ricercando di nuovo i file *.pyc.
-Sicuramente vedrai che i file *.pyc non ci sono piu! :)  
+Sicuramente vedrai che i file *.pyc non ci sono più! :)  
 A seconda del sistema operativo che usi la sintassi del comando potrebbe
 cambiare leggermente. Questi comando sono stati provati su OSX. Per linux ad
 esempio lo stesso comando produrrebbe un errore. Su linux sarebbe in questo
@@ -69,7 +69,7 @@ Dunque ti consiglio sempre di leggerti prima il manuale di find digitando:
   
 oppure andando [su questa pagina.](http://unixhelp.ed.ac.uk/CGI/man-cgi?find)
 
-Ti accorgerai che find fara molto di piu oltre a semplici ricerche.
+Ti accorgerai che find fara molto di più oltre a semplici ricerché.
 
 Happy find! :)
 

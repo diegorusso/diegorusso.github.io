@@ -11,7 +11,7 @@ settembre sono andato a fare a consueta visita dal dietologo e... sopresa, ho
 perso ben** 2,5Kg**, portando il mio peso a be **77,5Kg**, ovvero a dei minimi
 storici! :)
 
-In circa 3 settimana ho perso quello che ho messo su durante l'estate piu un
+In circa 3 settimana ho perso quello che ho messo su durante l'estate più un
 altro chiletto. Ricapitolando:
 
   * Peso al 27/04/2009: 89.4Kg

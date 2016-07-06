@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 [Vi ricordate questo giochino?](http://www.diegor.it/2007/11/16/che-figata/
-"http://www.diegor.it/2007/11/16/che-figata/" ) Beh non e piu una utopia. Ora
+"http://www.diegor.it/2007/11/16/che-figata/" ) Beh non e più una utopia. Ora
 lo potete scaricare.
 
 []({{site.url}}/images/crayon.jpg "crayon" )

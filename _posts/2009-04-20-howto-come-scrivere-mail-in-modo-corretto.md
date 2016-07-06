@@ -18,7 +18,7 @@ Qui di seguito un decalogo leggermente ampliato:
 1\. **Eliminare le ridondanze.** Le ripetizioni spingono il lettore a passare
 oltre, a leggere in fretta, e a perdere passaggi importanti della mail.
 
-2\. **Usare piu cifre e elementi specifici.** Invece di "il progetto non sta
+2\. **Usare più cifre e elementi specifici.** Invece di "il progetto non sta
 rispettando di molto i termini per la maggior parte delle richieste",
 preferire: "il progetto e in ritardo di 3 settimane nella consegna degli
 hamburger".
@@ -28,9 +28,9 @@ ad esempio, che gli hamburger sono fondamentali per il fabbisogno nutrizionale
 della vostra regione, incidendo per 30.000 euro al giorno nelle spese delle
 famiglie.
 
-4\. **Focalizzare sull'argomentazione piu importante.** Quegli hamburger, per
+4\. **Focalizzare sull'argomentazione più importante.** Quegli hamburger, per
 quanto importanti per il benessere delle famiglie, devono essere spediti il
-prima possibile semplicemente perche stanno costando precise perdite
+prima possibile semplicemente perché stanno costando precise perdite
 economiche alla vostra azienda. Punto.
 
 5.** Eliminare materiale off-topic.** Le migliori mail dicono una cosa,
@@ -55,7 +55,7 @@ la parte di cui prendiamo le difese, in un'eventuale diatriba che stiamo
 presentando a qualcuno.
 
 9\. **Abbreviare al massimo.** In linea di massima, ma anche considerando che
-sempre piu persone leggono le mail dal loro terminale mobile, che non ha certo
+sempre più persone leggono le mail dal loro terminale mobile, che non ha certo
 uno schermo paragonabile a quello sui cui abbiamo composto il nostro poema.
 
 10\. **Aspettare un po' prima di spedire.** Molte mail non sono poi urgenti
@@ -73,7 +73,7 @@ Purtroppo gmail di default lo fa, come outlook, e ha "abituato" male un po'
 tutti..  
 Secondo me, ma non solo secondo me, il top post e una cavolata per due motivi:  
 a) inverte il filo logico della discussione.  
-b) dato che e facile rispondere, perche non devi scorrere tutto il mio
+b) dato che e facile rispondere, perché non devi scorrere tutto il mio
 messaggio, di norma accade che chi risponde non legga affatto il mio
 messaggio..
 

@@ -24,7 +24,7 @@ file tra vari computer. Esistono due tipi di servizi:
 Il funzionamento e molto semplice, basta seguire i seguenti passi:
 
   1. Clicca [qui e crea un nuovo account](https://www.getdropbox.com/referrals/NTc0ODcyNzk "Crea un nuovo account" )
-  2. [Scarica l'applicazione da qui](https://www.getdropbox.com/downloading "Scarica dropbox" ) (c'e sia per mac, linux e windows)
+  2. [Scarica l'applicazione da qui](https://www.getdropbox.com/downloading "Scarica dropbox" ) (c'è sia per mac, linux e windows)
   3. Installa e configura l'applicazione associandolo all'account precedemente creato
   4. Una volta configurato basta copiare nella cartella di DropBox i file per averli sincronizzati ovunque.
   

@@ -12,14 +12,14 @@ tags:
 - test
 ---
 Se quello che succede in Internet e il corrispondente di quello che accade
-nella vita reale, non ci dovrebbe stupire piu di tanto che il traino economico
-di Internet sia dato da due dei mondi piu ricchi anche nella vita reale: la
+nella vita reale, non ci dovrebbe stupire più di tanto che il traino economico
+di Internet sia dato da due dei mondi più ricchi anche nella vita reale: la
 **pornografia** ed il **gioco d'azzardo**. Se la prima e stata il motore che
 ha spinto il video in streaming su internet, il secondo e certamente **uno dei
 motori economici di internet.**
 
 I [Casino online](http://www.casinopertutti.com) ormai si sprecano e la
-concorrenza diventa ogni giorno piu agguerrita. Gli operatori dei casino
+concorrenza diventa ogni giorno più agguerrita. Gli operatori dei casino
 fisici corrono ai ripari contro il crollo dei fatturati entrando a loro volta
 nel mercato online. Come sottobosco dei casino online si sviluppano poi tutta
 una serie di siti informativi, con le [recensioni dei
@@ -54,7 +54,7 @@ Ed ora vorrei farti alcune domande a riguardo (puoi rispondere nei commenti):
   2. Ci hai mai giocato?
   3. Se si, hai perso o vinto? Quanto?
   4. Conosci persone che ci giocano con frequenza?
-  5. Conosci piu persone che si sono "rovinate" o che hanno "svoltato" facendo vincite cospicue?
+  5. Conosci più persone che si sono "rovinate" o che hanno "svoltato" facendo vincite cospicue?
   
 
   

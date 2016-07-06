@@ -14,11 +14,11 @@ categories:
 tags:
 - test
 ---
-Esatto, proprio cosi!! Ogni giorno mi arrivano mail su mail di bufale, di
+Esatto, proprio così!! Ogni giorno mi arrivano mail su mail di bufale, di
 messaggi di aiuto, su come salvare il mondo, su come salvare una bambina dal
 cancro, su come la Microsoft di regala i soldi, su come blah, blah blah.
 L'unica cosa che accomuna tutte queste mail e **l'invio della stessa a quanta
-piu gente conosci.** Basta! **Hai rotto le balle!**
+più gente conosci.** Basta! **Hai rotto le balle!**
 
 Proprio per questo motivo nasce <http://hairottoleballe.com>, un portale dove
 puoi redimere i tuoi "rompitori di cogl***i" :) Come funziona? É molto

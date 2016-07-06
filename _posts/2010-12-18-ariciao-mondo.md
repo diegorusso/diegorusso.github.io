@@ -17,8 +17,8 @@ Quando si inizia a scrivere su un nuovo blog, il primo post e sempre un
 "[nerd](http://it.wikipedia.org/wiki/Nerd)" lo fanno! Le domande che ti starai
 facendo sono due:
 
-  1. Ma questo non e un nuovo blog. Perche stai scrivendo un post **come se fosse il primo**?
-  2. Perche hai scritto **"(Ari)Ciao Mondo"** invece che **"Hello World"**?
+  1. Ma questo non e un nuovo blog. Perché stai scrivendo un post **come se fosse il primo**?
+  2. Perché hai scritto **"(Ari)Ciao Mondo"** invece che **"Hello World"**?
   
 
   
@@ -34,8 +34,8 @@ passo all'inglese? E lo spagnolo? Beh, il risultato e stato un blog tri-lingua
 tuto gestito "semi-automaticamente".
 
 Dunque non e proprio un "Ciao Mondo", ma e come se dicessi: "_Ci siamo visti
-prima, dunque ari-ciao!_". Il motivo del perche ho scritto "_Ciao Mondo_"
-invece di "_Hello World_" e proprio perche questo post fa parte dello stream
+prima, dunque ari-ciao!_". Il motivo del perché ho scritto "_Ciao Mondo_"
+invece di "_Hello World_" e proprio perché questo post fa parte dello stream
 dei post in Italiano, dunque anche il titolo e in italiano.
 
 Ora la struttura del mio sito:
@@ -44,7 +44,7 @@ Ora la struttura del mio sito:
   * il plugin che uso e [WPML](http://wpml.org) (WP Multiple language) che e  molto ben fatto e si integra alla perfezione con tutti i meccanismi di wodpress. Ora questo blog ha 3 feed RSS differenti, uno per lingua.
   * le varie sezioni ([Curriculum Vitae](http://www.diegor.it/it/curriculum/), [Social Network](http://www.diegor.it/it/chi-e-diegor/social-network/), [Citazioni](http://www.diegor.it/it/chi-e-diegor/citazioni/), ecc.) raggiungibili tutte dal menu e facilmente navigabili.
   * una sezione che merita nota e [HOWTOs](http://www.diegor.it/it/howtos/), che oramai "e popolata" da tutte le mie vecchie guide.
-  * controlla in "download": non si sa mai.. forse c'e qualche cosa che ti puo interessare
+  * controlla in "download": non si sa mai.. forse c'è qualche cosa che ti puo interessare
   
 
   

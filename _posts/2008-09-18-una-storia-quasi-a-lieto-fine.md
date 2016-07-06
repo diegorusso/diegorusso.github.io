@@ -40,7 +40,7 @@ dell'accaduto riferito dalla Signora, fatto che non rientra assolutamente
 nelle nostre filosofie e nei comportamenti dei nostri collaboratori.  
 Non possiamo che confermare che il nostro costante impegno e rivolto alla
 soddisfazione dei nostri Clienti, al totale rispetto delle loro esigenze ed
-aspettative, dai piu piccoli ai piu grandi._  
+aspettative, dai più piccoli ai più grandi._  
 
 _L'etica e alla base della nostra attivita e condizione imprescindibile del
 comportamento dei nostri collaboratori._

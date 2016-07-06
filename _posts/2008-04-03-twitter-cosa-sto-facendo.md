@@ -13,7 +13,7 @@ tags:
 blog che permette agli utenti di inviare dei piccoli messaggi di testo (140
 caratteri) via sms, email o direttamente da web per informare i lettori su
 cosa si sta facendo. Io lo avevo da tempo ma non l'ho mai utilizzato. Ora l'ho
-configurato con il mio account di gtalk, cosi posso postare mandando
+configurato con il mio account di gtalk, così posso postare mandando
 semplicemente un messaggio e senza loggarmi nel loro sito. Molto comodo.
 
   

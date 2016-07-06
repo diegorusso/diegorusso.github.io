@@ -44,7 +44,7 @@ motivi del rifiuto della carta, contatta l'Assistenza clienti della societa
 emittente. In alternativa, puoi provare ad aggiungere una carta di credito
 diversa."**
 
-Appena effettuato piu volte questa operazione ho poi scritto sia alla mia
+Appena effettuato più volte questa operazione ho poi scritto sia alla mia
 banca che a PayPal. Questa la risposta **della mia banca:**
 
     
@@ -122,7 +122,7 @@ Questa invece **la risposta di PayPal:**
     Non esitare a ricontattarci in caso avessi bisogno di ulteriore assistenza._
 
   
-Dunque a quanto sembra c'e una non allineazione tra i sistemi di PayPal e
+Dunque a quanto sembra c'è una non allineazione tra i sistemi di PayPal e
 quelli troppo restrittivi della mia banca. Speriamo presto che la situazione
 si risolva nel migliore di modi. :)
 

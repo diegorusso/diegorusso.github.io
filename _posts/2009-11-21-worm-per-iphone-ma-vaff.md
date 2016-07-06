@@ -26,7 +26,7 @@ Dunque vediamo che il worm il programma per replicarsi deve avere delle
 condizioni ben favorevoli:
 
   1. **l'iPhone deve essere jailbrekkato:** per eseguire questa bisogna essere un po' "esperti" e smanettoni e coscienti di quello che si sta facendo.
-  2. **l'iPhone deve avere installato il server OpenSSH:** per eseguire questo passo, bisogna essere leggermente piu smanettoni del livello precedente. Se installi openSSH, sai anche di cosa si tratta. OpenSSH ti permette di accedere alle macchine con un utente ed una password tramite connessioni criptate.
+  2. **l'iPhone deve avere installato il server OpenSSH:** per eseguire questo passo, bisogna essere leggermente più smanettoni del livello precedente. Se installi openSSH, sai anche di cosa si tratta. OpenSSH ti permette di accedere alle macchine con un utente ed una password tramite connessioni criptate.
   3. **l'iPhone deve essere connesso:** deve essere raggiungibile da un'altra macchina o iPhone sia tramite wifi (nella stessa LAN) oppure tramite UMTS (solo se l'iPhone ha indirizzo IP pubblico).
   4. **il padrone dell'iPhone deve essere tonto:** l'iPhone ha la password di "**root**" settata per default ad "**alpine**". Questa informazione e disponibile dall'uscita del primo jailbreak dell'iPhone 2G. Se hai un minimo di testa lo capisci da solo che il tuo iPhone e potenzialmente a rischio se non cambi le password.
   
@@ -40,6 +40,6 @@ pensare una cosa del genere, anche se dopo non la fai. Ora che il tizio ha
 scritto questa applicazione i nostri dati sono a rischio? **Prima non li erano
 lo stesso?** Bah....
 
-Concludo che spesso il buonsenso puo darti molto di piu rispetto a qualsiasi
+Concludo che spesso il buonsenso puo darti molto di più rispetto a qualsiasi
 altro strumento..
 

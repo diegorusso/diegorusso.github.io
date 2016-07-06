@@ -16,15 +16,15 @@ tags:
 ---
 [Macfusion](http://www.macfusionapp.org/) e un applicazione open source (solo
 per Mac) che ti permette di lavorare con file che si trovano su server remoti,
-come se fossero nel tuo computer. Per i piu tecnici, **macfusion ti permette
+come se fossero nel tuo computer. Per i più tecnici, **macfusion ti permette
 di montare cartelle remote sul tuo mac** sfruttando vari protocolli. Vedrai la
 cartella remota nel Finder di OSX.
 
 [![macfusion]({{site.url}}/images/macfusion.jpg)]({{site.url}}/images/macfusio
 n.jpg)
 
-In Snow Leopard pero questa applicazione ha qualche problema rifiutando a
-connessione con il server remoto. Per ora non c'e un fix ufficiale
+In Snow Leopard però questa applicazione ha qualche problema rifiutando a
+connessione con il server remoto. Per ora non c'è un fix ufficiale
 nell'applicazione ma puoi risolvere il problema seguendo questi passi:
 
   1. Esci da MacFusion

@@ -42,13 +42,13 @@ año pasato atendi una clase de español y **en mayo 2010 tuve exito al
 **[**DELE**](http://diplomas.cervantes.es/index.jsp) consiguiendo el nivel B1.
 Bueno, esta es la mi pequeña historia.
 
-En este blog escribire un poco de todo pero en **la mayoria de IT**. Los
+En este blog escribire un poco de todo però en **la mayoria de IT**. Los
 proximos articulos seran reglas gramaticales que escribi en un viejo blog que
 tenia en español.
 
 Vale, ahora te explico un poquito la estructura de mi sitio:
 
-  * el dominio termina en **.it**: si, soy Italiano pero "IT" significa tambien Information Technology (come el lema dice). Como he dicho poco antes voy a escribir sobre todo de IT
+  * el dominio termina en **.it**: si, soy Italiano però "IT" significa tambien Information Technology (come el lema dice). Como he dicho poco antes voy a escribir sobre todo de IT
   * estoy usando [WPML](http://wpml.org/) (WP multiple language), un plugin que te permite de gestionar mas idiomas. Asi habran **tres feed de RSS**, uno por idioma. Elige lo que prefieres!
   * todas la paginas estan traducidas de mi, entonces **podrian haber fallos** (de seguro!).
   * unos articulos (depende de la importancia) puede ser que los traduzco **en los tres** (o dos) idiosmas

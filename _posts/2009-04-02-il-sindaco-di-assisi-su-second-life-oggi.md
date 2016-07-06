@@ -10,7 +10,7 @@ categories:
 - social network
 tags: []
 ---
-Dopo il pesce di aprile di ieri, torno sul mio blog per una notizia piu
+Dopo il pesce di aprile di ieri, torno sul mio blog per una notizia più
 interessante. **Oggi dalle 17 alle 18 il sindaco (reale) di Assisi sara
 presente in Second Life nella fanstastica isola di San Francesco di Assisi**
 per una dimostrazione ai cittadini di Assisi e ai curiosi.

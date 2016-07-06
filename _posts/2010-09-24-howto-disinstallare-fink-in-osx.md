@@ -36,7 +36,7 @@ Cosi ho deciso di **disinstallarlo** seguendo questi semplici passi:
 
   
 
-  4. se non hai piu intenzione di installare Fink elimina questa riga "_source /sw/bin/init.sh_" dal file "_.bash_profile_" o "_.bashrc_" presenti nella tua home directory. Per fare cio usa un qualsiasi editor di testo.
+  4. se non hai più intenzione di installare Fink elimina questa riga "_source /sw/bin/init.sh_" dal file "_.bash_profile_" o "_.bashrc_" presenti nella tua home directory. Per fare cio usa un qualsiasi editor di testo.
   
 
   

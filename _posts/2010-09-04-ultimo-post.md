@@ -26,7 +26,7 @@ Emiliano, che vive e lavora a Marbella.
 
   
 Non credo che riusciro ad aggiornare il blog nel frattempo (mi devo un po'
-disintossicare) pero sicuramente potrai seguire tutte le mie "vicende"
+disintossicare) però sicuramente potrai seguire tutte le mie "vicende"
 attraverso [twitter](http://twitter.com/diegor) e ogni tanto credo che postero
 qualche foto sul mio [flickr](http://www.flickr.com/photos/diegorusso/).
 

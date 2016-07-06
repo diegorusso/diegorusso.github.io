@@ -12,7 +12,7 @@ tags:
 ---
 Io sottoscritto (d'ora in avanti **"l'Augurante"**) chiedo al mio
 interlocutore (d'ora in avanti **"l'Augurato"**) di accettare senz'alcun
-obbligo, implicito o esplicito, i voti piu sinceri dell'Augurante (d'ora in
+obbligo, implicito o esplicito, i voti più sinceri dell'Augurante (d'ora in
 avanti **"gli Auguri"**) affinche l'Augurato possa trascorrere nel migliore
 dei modi (ove nella frase "migliore dei modi" si sottintende da parte
 dell'Augurante e si presuppone da parte dell'Augurato un atteggiamento che
@@ -38,7 +38,7 @@ limitatamente - come "gratificante dal punto di vista personale, sentimentale
 e finanziario e privo di complicazioni di carattere medico, dirette o
 indirette") **anno 2008.**  
 L'Augurante sottolinea che la datazione "2008" e qui considerata come
-convenzionale, cosi com'e considerata convenzionale la data del 1° Gennaio
+convenzionale, così com'e considerata convenzionale la data del 1° Gennaio
 come inizio dell'anno, e dichiara il suo assoluto rispetto per altri tipi di
 datazione legati alle differenti culture religiose e/o laiche di cui
 l'Augurante riconosce il prezioso contributo allo sviluppo dell'attuale

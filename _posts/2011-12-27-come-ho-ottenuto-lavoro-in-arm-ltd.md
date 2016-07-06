@@ -14,9 +14,9 @@ tags:
 - europython
 - python
 ---
-Sono mesi che non scrivo piu sul blog. Lo so, sono un delinquente anche dopo
+Sono mesi che non scrivo più sul blog. Lo so, sono un delinquente anche dopo
 tutte le varie pressioni di quei 2 lettori del mio blog :P  
-Volevo aspettare perche questo post e particolare, speciale, diverso da tutti
+Volevo aspettare perché questo post e particolare, speciale, diverso da tutti
 gli altri. Aspettavo il momento giusto per scriverlo e credo che sia arrivato.
 
 Vorrei spiegarti come ho ottenuto un posto di lavoro in [ARM
@@ -49,7 +49,7 @@ bene, a livello di lavoro, colleghi, stimoli. Il lato economico/contrattuale
 pero non era molto soddisfacente.
 
 Arrivati a Giugno 2011, partecipo _all'Europython_, conferenza europea per il
-[Python](http://python.org/). In quella sede c'erano molte aziende europee che
+[Python](http://python.org/). In quella sede c'èrano molte aziende europee che
 assumevano. Io, giusto per iniziare ad esplorare un pochino, ho lasciato i
 miei CV ed ho subito avuto dei colloqui conoscitivi con tutte. Al ritorno di
 quella settimana ho fatto poi delle interviste al telefono.
@@ -65,16 +65,16 @@ mail.
 [![]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg)]({{site.url}}/im
 ages/IMG_1050-2011-08-03-at-16-08-28.jpg)
 
-La prima domanda che mi sono fatto e stata: **perche?** La seconda e stata:
-**perche no? **Decisi di "buttarmi" nonostante il mio inglese non perfetto (a
+La prima domanda che mi sono fatto e stata: **perché?** La seconda e stata:
+**perché no? **Decisi di "buttarmi" nonostante il mio inglese non perfetto (a
 Maggio avevo passato con merito il PET) e la mia non esperienza in colloqui al
-telefono, tantomeno in inglese. Pero non ero del tutto impreparato, poiche
+telefono, tantomeno in inglese. però non ero del tutto impreparato, poiché
 verso giugno gia avevo avuto altri due contatti tramite linkedin e per
 quell'occasione avevo "studiato" utilizzando anche un bel corso venduto da
 [www.italiansinfuga.com](http://www.italiansinfuga.com/corso-inglese-
 colloquio-di-lavoro/) (te lo consiglio vivamente).
 
-Feci molti colloqui, con varie aziende piu o meno famose, tra Irlanda,
+Feci molti colloqui, con varie aziende più o meno famose, tra Irlanda,
 Inghilterra, Germania, Lussemburgo, Norvegia. Nel frattempo ho dato anche due
 esami all'universita ed avuto problemi personali. Nonostante cio la
 determinazione non e mancata e sono andato avanti. Infatti alla fine ho avuto
@@ -93,8 +93,8 @@ Ancora me lo ricordo.. ero a casa da solo ed appena attaccato ho detto due
 parole: "Oh ca**o!" ripetuto svariate volte.
 
 Intanto mi arriva un'altra proposta dalla Norvegia a cui non avevo dato peso,
-vuoi perche avevo gia un'offerta, vuoi perche avevo un colloquio face to face,
-vuoi perche ero sotto esami. Il recruiter insistette e vidi che la proposta
+vuoi perché avevo gia un'offerta, vuoi perché avevo un colloquio face to face,
+vuoi perché ero sotto esami. Il recruiter insistette e vidi che la proposta
 veniva sempre da ARM ma con gli uffici in Norvegia. Mi chiesi: _quante
 possibilita ci sono che una persona a caso, che ha messo per caso il suo CV su
 monster.com, possa ricevere in un tempo molto limitato (2/3 settimane) due
@@ -103,7 +103,7 @@ casuali?_ **A quanto pare molte.**
 
 Possibilita a parte, dopo una lunga chiacchierata **(a fine luglio)** con un
 dipendente di ARM in Norway, lui decide che io devo fare per forza questo
-colloquio tecnico poiche gli piacqui. Io gli chiesi: _"Come faccio a fare un
+colloquio tecnico poiché gli piacqui. Io gli chiesi: _"Come faccio a fare un
 colloquio con voi se il 2 ed il 3 agosto sono a Cambridge per il face to face
 ed entro il 5 dare una risposta all'azienda in Lussemburgo? Anzi devo dire ad
 ARM in Cambridge di darmi una risposta in meno di 24h."_ E lui mi rispose:
@@ -118,22 +118,22 @@ voluto una risposta entro le 24h. Finito il colloquio torno in hotel,
 l'autista mi riaccompagna a Stansted, rivolo a Roma e **sono a casa per le
 3am.**
 
-**Alle 7:30am mi sveglio**, doccia, caffe, subito pronto per fare il colloquio con la Norvegia. 3 ore di colloquio al telefono ed offline. Anche li rispiegai la mia situazione e diedi il nome della persona con cui feci il colloqui a Cambridge cosi che anche in Norvegia potessero avere un feedback sulla persona. **Il pomeriggio del 3 agosto ricevetti entrambe le offerte: da Cambridge e da Trondheim.**
+**Alle 7:30am mi sveglio**, doccia, caffe, subito pronto per fare il colloquio con la Norvegia. 3 ore di colloquio al telefono ed offline. Anche li rispiegai la mia situazione e diedi il nome della persona con cui feci il colloqui a Cambridge così che anche in Norvegia potessero avere un feedback sulla persona. **Il pomeriggio del 3 agosto ricevetti entrambe le offerte: da Cambridge e da Trondheim.**
 
 [![]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg)]({{site.url}}/im
 ages/IMG_2008-2011-08-22-at-19-04-22.jpg)
 
-Non ricordo la reazione che ebbi, ricordo che non ero piu nella pelle. **Avevo
+Non ricordo la reazione che ebbi, ricordo che non ero più nella pelle. **Avevo
 3 offerte, avevo una scelta. Avevo delle opportunita, quelle che sognavo da
 anni.**
 
 Quello che successe dopo, ovvero le chiamate, mail, contrattazioni e  la
 scelta esulano da questo post e sono un po' troppo personali. Penso che sia
-stata la scelta piu difficile mai presa fino ad oggi. Stavo cambiando la mia
+stata la scelta più difficile mai presa fino ad oggi. Stavo cambiando la mia
 vita e non volevo sbagliare. **Non dovevo sbagliare**. Posso dire che sono
 soddisfatto della scelta fatta.
 
-É stata la piu giusta mai presa. Ora sono in casa a Cambridge scrivendo questo
+É stata la più giusta mai presa. Ora sono in casa a Cambridge scrivendo questo
 post, il post che ho sempre sognato di scrivere. Per ora posso dire che, **non
 ho sbagliato.**
 

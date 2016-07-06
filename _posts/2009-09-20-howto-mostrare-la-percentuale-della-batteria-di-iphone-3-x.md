@@ -10,7 +10,7 @@ tags:
 - howto
 - guida
 ---
-Scrivo questa piccola guida perche mi e stato chiesto piu volte. Sui firmware
+Scrivo questa piccola guida perché mi e stato chiesto più volte. Sui firmware
 2.X e precedenti questo era possibile sugli iPhone con il jailbreak. **Sul
 firmware 3.X e possibile attivare questa funzione in modo del tutto
 semplice.**

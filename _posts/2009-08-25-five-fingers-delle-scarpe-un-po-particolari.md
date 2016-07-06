@@ -39,7 +39,7 @@ sono:
   * **Ma ci stai comodo?** Comodissimo, basta prenderci solo l'abitudine
   * **Ma sono delle scarpe?** Certo, sono delle "normali" scarpe
   * **Dove ci vai?** Ovunque. Sono adatte anche per mare e montagna
-  * **Ma li senti i sassi sotto?** Certo, hai un impatto con il terreno piu naturale rispetto alle scarpe.
+  * **Ma li senti i sassi sotto?** Certo, hai un impatto con il terreno più naturale rispetto alle scarpe.
   * **Gli altri cosa ti dicono?** Quello che dicono sono le domande soprastanti.
   * **Gli altro cosa pensano?** Non me ne frega niente di quello che pensano!
   * **Ti diverti?** SI! :)

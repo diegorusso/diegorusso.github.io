@@ -18,7 +18,7 @@ tags:
 ---
 Dopo un po' di assenza eccomi qui, di nuovo. Credo che questo sia l'ultimo
 post prima dello switching multilingua che subira il blog. Dunque come
-preannunciare un cambio cosi importante per questo blog? **Con un contest,
+preannunciare un cambio così importante per questo blog? **Con un contest,
 ovviamente!**
 
 Proprio oggi mi arrivata una mail da [Agile Web

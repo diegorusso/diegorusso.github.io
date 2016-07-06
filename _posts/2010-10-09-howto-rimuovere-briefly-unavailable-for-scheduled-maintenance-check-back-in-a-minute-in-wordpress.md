@@ -15,7 +15,7 @@ Oggi, dopo un po' di tempo che non scrivevo qui sul blog, ho deciso di
 scrivere un post. Entro nell'amministrazione di
 [wordpress](http://wordpress.org) e vedo che ci sono degli aggiornamenti.  
 Vado sui plugins e faccio partire l'aggiornamento automatico. Ad un certo
-punto vedo pero qualche cosa che non va. Qualsiasi pagina chiamavo del mio
+punto vedo però qualche cosa che non va. Qualsiasi pagina chiamavo del mio
 sito (anche dell'admin) mi compariva il seguente messaggio: **"Briefly
 unavailable for scheduled maintenance. Check back in a minute."**
 
@@ -25,7 +25,7 @@ unavailable for scheduled maintenance. Check back in a minute."**
   
 Wordpress, quando aggiorna i plugins o temi, mette il sito in questo stato per
 evitare che delle richieste esterne possano interrompere la fase di
-aggiornamento. Pero se per qualche (**oscuro**) motivo l'aggiornamento
+aggiornamento. però se per qualche (**oscuro**) motivo l'aggiornamento
 fallisce l'installazione di wordpress rimane in questo stato!
 
 Niente paura, la soluzione e molto semplice. Basta avere accesso in FTP o in

@@ -12,7 +12,7 @@ significato dei tre verbi:
 
   1. **Ser** = essere
   2. **Estar** = stare
-  3. **Hay** = c'e, ci sono
+  3. **Hay** = c'è, ci sono
   
 
 **Ser** si usa per cose che non cambiano come il fisico e  carattere di una persona, proprieta, nazionalita, professioni, tipi, materiale, provenienza. Inoltre puo essere usato con numeri, orari. Per eventi particolari si usa la forma passiva.  

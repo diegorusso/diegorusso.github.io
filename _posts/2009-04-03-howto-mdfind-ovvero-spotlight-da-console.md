@@ -31,12 +31,12 @@ E' fatto molto bene ed e molto veloce. Ha un aspetto del genere:
 
 _Questo e Spotlight_
 
-La guida di oggi ha pero lo scopo di analizzare il comando da console che si
+La guida di oggi ha però lo scopo di analizzare il comando da console che si
 cela dietro Spotlight:** mdfind**.
 
 Qui faro solo una carrellata dei comandi principali che ti aiuteranno a
-cercare quello che vuoi dandoti piu flessibilita nelle personalizzazioni delle
-ricerche. Bene, non resta che iniziare! :)
+cercare quello che vuoi dandoti più flessibilita nelle personalizzazioni delle
+ricerché. Bene, non resta che iniziare! :)
 
 Se digiti il seguente comando
 
@@ -59,7 +59,7 @@ file che hanno a che fare con la parola _"vacanze"_ semplicemente digitanto
     mdfind vacanze
 
 Avrai come risultato foto, documenti, pagine web inerenti alle vacanze.
-Ovviamente puoi avere piu termini di ricerca come _"vacanze Madrid"_. Il
+Ovviamente puoi avere più termini di ricerca come _"vacanze Madrid"_. Il
 risultato puoi intuire quale e! :P  
 Se vuoi cercare in una specifica cartella puoi fare in questo modo
 
@@ -81,7 +81,7 @@ Questo e utile se un tuo amico deve copiarti dei file nella tua dropbox
 riguardanti Madrid (in quest caso). Spotlight se ne accorge subito! :)
 
 Ma non esiste solo **mdfind**. Ci sono anche una serie di comandi a corredo
-che ti permettono di personalizzare come vuoi le tue ricerche. Questi sono:
+che ti permettono di personalizzare come vuoi le tue ricerché. Questi sono:
 
 **mdimport**: per importare cartelle che per default OSX non indicizza. Esempio:
     
@@ -113,7 +113,7 @@ testarli. Se ti senti in difficolta puoi usare le pagine di manuale digitando
     man nome_comando
 
   
-Vedrai che una volta presa manualita ritrovare i tuoi documenti sara molto piu
+Vedrai che una volta presa manualita ritrovare i tuoi documenti sara molto più
 semplice! Dunque non resta che augurarti...** buona ricerca!** :)
 
 _Fonte: [macworld.com](http://www.macworld.com/article/45793/2005/07/augustgee

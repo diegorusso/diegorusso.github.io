@@ -17,27 +17,27 @@ Coltivai questa passione per tempo. Insieme ad un mio grande amico (Francesco
 Dicuonzo) andammo a suonare e fare pianobar. Siccome ero anche "immischiato"
 con l'ACR (Azione Cattolica Ragazzi) suonavo anche con il gruppo diocesano.
 Quanti campeggi da animatore, quante suonate... sempre con la mia tastiera e
-la mia chitarra.Arrivato verso i 18 anni i miei mi regalarono il primo
-computer. Li e stata la fine di tutto! :) Abbandonai sempre di piu la tastiera
-e la chitarra (ma non la musica) per stare sempre piu dietro a questo
-benedetto computer. Neanche la scuola seguivo piu. Andavo li per dormire! :P
+la mia chitarra. Arrivato verso i 18 anni i miei mi regalarono il primo
+computer. Lì e stata la fine di tutto! :) Abbandonai sempre di più la tastiera
+e la chitarra (ma non la musica) per stare sempre più dietro a questo
+benedetto computer. Neanche la scuola seguivo più. Andavo lì per dormire! :P
 Infatti decidemmo di mettere la tastiera e la chitarra sopra l'armadio con la
-speranza che forse un giorno sarebbero tornati giu. Poi la fine delle
-superiori e l'inizio dell'universita mi hanno distaccato (anche fisicamente)
+speranza che forse un giorno sarebbero tornati giù. Poi la fine delle
+superiori e l'inizio dell'università mi hanno distaccato (anche fisicamente)
 da questi due strumenti.
 
-Finita l'universita lo zio di un mio amico (Francesco, quello di Madrid e del
+Finita l'università lo zio di un mio amico (Francesco, quello di Madrid e del
 concerto di Califano) mi propose di andare a suonare con il loro gruppo. Loro
 sono bravi (non lo vogliono ammettere) e mi hanno detto di unirmi a loro. Sono
 due chitarre, basso e batteria. Ci ho pensato su.
 
 L'uni per quest'anno l'ho finita, sono ritornato a casa, una volta a settimana
-si puo fare, non e niente di impegnativo... perche no?!? Allora Fred (lo zio
+si puo fare, non è niente di impegnativo... perché no?!? Allora Fred (lo zio
 di Francesco) mi ha dato tutti i cd con tutti i spartiti per farmeli imparare.
-Mi sono messo giu e ieri sera abbiamo fatto le prime prove. Direi che come
-prima volta sono andate piu che bene!
+Mi sono messo giù e ieri sera abbiamo fatto le prime prove. Direi che come
+prima volta sono andate più che bene!
 
-I pezzi che abbiamo fatti sono: Impressione di settembre (PFM), Prendimi cosi
+I pezzi che abbiamo fatti sono: Impressione di settembre (PFM), Prendimi così
 (Piero Pelu), Il mio corpo che cambia (Litfiba) e Show me the way (Peter
 Frampton). Non ci si lamenta.
 
@@ -47,10 +47,10 @@ Un'avventura e 7 e 40 di Battisti, Strees of love (Rolling Stones), Hey Jude
 (Beatles) etc etc etc... Non ho voglia di scriverle tutte.
 
 Ora vi propongo una sfida. Ho il testo e gli accordi di una canzone che non si
-ha per niente traccia. Il titolo e "Shadow Box Love". Come dicevo non si sa ne
-l'artista ne l'album ne tanto meno la musica. Quello che mi hanno detto i
-ragazzi e solo che la canzone e molto vecchia (tipo anni '70) ed usci su un
-disco che poi spari dalla circolazione. Loro sono 5 anni che la cercano e non
-hanno trovato niente. Personalmente ci ho impiegato poco tempo, pero la
-trovero! Mi volete dare una mano?!? :) Vediamo chi la trova per primo! :)
+ha per niente traccia. Il titolo e "Shadow Box Love". Come dicevo non si sa né
+l'artista né l'album né tanto meno la musica. Quello che mi hanno detto i
+ragazzi e solo che la canzone e molto vecchia (tipo anni '70) ed uscì su un
+disco che poi sparì dalla circolazione. Loro sono 5 anni che la cercano e non
+hanno trovato niente. Personalmente ci ho impiegato poco tempo, però la
+troverò! Mi volete dare una mano?!? :) Vediamo chi la trova per primo! :)
 

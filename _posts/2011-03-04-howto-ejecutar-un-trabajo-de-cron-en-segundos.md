@@ -22,7 +22,7 @@ añadir estas lineas al crontab:
     * * * * * root sleep 30 && sh /path/to/myscript.sh
 
   
-Ambas las lineas ejecutan el trabajo cron cada minuto, pero la **segunda
+Ambas las lineas ejecutan el trabajo cron cada minuto, però la **segunda
 espera 30 segundos** utilizando el comando
 "[sleep](http://en.wikipedia.org/wiki/Sleep_\(Unix\))" de la bash.
 

@@ -17,24 +17,24 @@ tags: []
 Eccomi qua, il giorno dopo della fantastica [#pizzatwit di
 #assisi](http://www.diegor.it/pizzatwit-assisi/). Un bel post e d'obbligo
 anche se e difficile scrivere la bellissima giornata di ieri. **Forse il mio
-post e diverso dal solito**. Si, perche chi sta scrivendo ha organizzato
-questo evento, dunque ha una visione ben diversa e piu ampia di quello che e
+post e diverso dal solito**. Si, perché chi sta scrivendo ha organizzato
+questo evento, dunque ha una visione ben diversa e più ampia di quello che e
 successo. Per quanto riguarda tutta l'organizzazione della #pizzatwit puoi
 leggere tranquillamente [questa pagina](http://www.diegor.it/pizzatwit-
-assisi/) (non c'e piu il link, ma la pagina esistera per sempre! :)
+assisi/) (non c'è più il link, ma la pagina esistera per sempre! :)
 
 Vorrei condividere con te quello che ho provato e passato nell'organizzazione
-di questa #pizzatwit. **Lo faro a mo' di FAQ** in modo da rendere tutto piu
+di questa #pizzatwit. **Lo faro a mo' di FAQ** in modo da rendere tutto più
 leggibile.
 
-**Q: Perche una #pizzatwit ad Assisi?**  
-** A:** Devo l'esistenza della #pizzatwit di Assisi all'esperienza che ho avuto a quella di Firenze, il 23 gennaio 2010. Ero partito senza conoscere nessuno, non sapendo cosa mi sarebbe aspettato. Quello che ho trovato lassu sono state persone che oltre un semplice nick (alcuni anche piu di uno :) sono in gamba, simpatiche, intelligenti, stimolanti, divertenti, umili (questo e difficile trovarlo in una persona), schiette. Ovviamente non siamo santi, **ma per una volta fatemi tirare fuori il meglio di quello che abbiamo**!) La sera stessa pensai: perche non organizzarla anche ad Assisi? **E cosi e stato**.
+**Q: Perché una #pizzatwit ad Assisi?**  
+** A:** Devo l'esistenza della #pizzatwit di Assisi all'esperienza che ho avuto a quella di Firenze, il 23 gennaio 2010. Ero partito senza conoscere nessuno, non sapendo cosa mi sarebbe aspettato. Quello che ho trovato lassu sono state persone che oltre un semplice nick (alcuni anche più di uno :) sono in gamba, simpatiche, intelligenti, stimolanti, divertenti, umili (questo e difficile trovarlo in una persona), schiette. Ovviamente non siamo santi, **ma per una volta fatemi tirare fuori il meglio di quello che abbiamo**!) La sera stessa pensai: perché non organizzarla anche ad Assisi? **E così e stato**.
 
 **Q: Va bene per la #pizzatwit.. ma "ed oltre.." che significa?**  
 ** A:** "Ed oltre.." puo significare molte cose. Spero che ogni partecipante della #pizzatwit di Assisi identifichi questo "ed oltre.." con qualche cosa di personale e speciale. Se lo vuoi sapere chiediglielo direttamente: [la lista dei partecipanti e qui!](http://twitter.com/diegor/pizzatwit-assisi/members) **Per me e stato organizzarla e vederla realizzare**: una cosa stupenda!
 
 **Q: É stato semplice organizzarla?**  
-** A:** Risposta breve: **No!** Risposta lunga: dipende da quello che ti aspetti e da quanta passione ci metti. Bisogna dotarsi di buoni strumenti, di molta pazienza e di voglia di fare. Come dicevo sul [post precedente](http://www.diegor.it/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/),** l'importante e che ti diverta** nel farlo. Questa e la cosa piu importante. Vedrai che di conseguenza farai divertire anche gli altri. Volevo che questa pizzatwit desse ad ogni partecipate un qualcosa di unico ed indimenticabile. Credo di essere riuscito nel mio intento, almeno in buona parte.
+** A:** Risposta breve: **No!** Risposta lunga: dipende da quello che ti aspetti e da quanta passione ci metti. Bisogna dotarsi di buoni strumenti, di molta pazienza e di voglia di fare. Come dicevo sul [post precedente](http://www.diegor.it/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/),** l'importante e che ti diverta** nel farlo. Questa e la cosa più importante. Vedrai che di conseguenza farai divertire anche gli altri. Volevo che questa pizzatwit desse ad ogni partecipate un qualcosa di unico ed indimenticabile. Credo di essere riuscito nel mio intento, almeno in buona parte.
 
 **Q: Ma hai fatto tutto da solo?  
 A: **Ovviamente no! Fortunatamente ho avuto molte persone vicino che mi hanno
@@ -53,7 +53,7 @@ costanza questo evento. **Ottimo lavoro ragazzi!**
 **Q: I partecipanti di dove erano?  
 A:** Ho puntato molto sulla provenienza dei partecipanti di questa #pizzatwit.
 Volevo raggruppare un numero considerevole di twitteri, sparsi in tutta
-Italia. **In parte ci sono riuscito**, pero mi sono reso conto che non e
+Italia. **In parte ci sono riuscito**, però mi sono reso conto che non e
 affatto facile. Comunque il buon [@mike_mad](http://twitter.com/mike_mad) con
 il fedele compagno Ben ha preso la macchina e da Catania si e diretto ad
 Assisi. [@Giovdi](http://twitter.com/giovdi) e
@@ -80,7 +80,7 @@ molti "vicini di casa":
 [@pabloberbell](http://twitter.com/pabloberbell) gia li conoscevo! :)
 
 **Q: Quali sono state le chicche di questa giornata?  
-A:** E qui la parte piu bella. Per iniziare nel pomeriggio con i toscani prima
+A:** E qui la parte più bella. Per iniziare nel pomeriggio con i toscani prima
 e con i pugliesi dopo siamo andati a **fare una bella passeggiata per tutta
 Assisi**. Anche se il tempo non e stato dei migliori, non ci siamo fatti
 intimidire! :) Seconda cosa: **lo streaming live dei twit**. Grazie al buon
@@ -108,7 +108,7 @@ hanno deciso volontariamente di iscriversi a twitter: stiamo parlando di
 [@priscilla__88](http://twitter.com/priscilla__88),
 [@vladda74](http://twitter.com/vladda74) e
 [@robjuggler](http://twitter.com/robjuggler). Ultimo record e **il twittero
-piu piccolo delle pizzetwit**. Il record detenuto da
+più piccolo delle pizzetwit**. Il record detenuto da
 [@martimacetta](http://twitter.com/martimacetta) nella #pizzatwit di Firenze e
 stato battuto da [@Sevy_](http://twitter.com/sevy_), con **i suoi 18 anni**!
 :)
@@ -121,7 +121,7 @@ i toscani, i pugliesi e [@pabloberbell](http://twitter.com/pabloberbell). Al
 ritorno si sono uniti a noi anche [@mike_mad](http://twitter.com/mike_mad) con
 il suo fedele amico Ben. Sono stato veramente bene, e credo anche gli altri.
 
-**Q: La vuoi fare una nota in piu sulle magliette?  
+**Q: La vuoi fare una nota in più sulle magliette?  
 A:** Certo, mi sembra d'obbligo. Se hai gia seguito la vicenda, sai che il
 ricavato sarebbe andato ad [acumenfund.org](http://www.acumenfund.org).
 Fortunatamente le magliette sono andate **tutte a ruba** e grazie a (vado in
@@ -141,7 +141,7 @@ ordine che ho sul foglio) @[mikiplus](http://twitter.com/mikiplus),
 [@jibbolo](http://twitter.com/jibbolo), Antonio (il proprietario dell'Hotel La
 Quiete) **sono stati raccolti ben 120€** (ovviamente ho tolto le spese che ho
 avuto). Grazie a tutti voi per aver partecipato a questa giusta causa. **La
-donazione sara pero di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
+donazione sara però di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
 seguito la prova della donazione:
 
 [![]({{site.url}}/images/donazione-acumen.png)]({{site.url}}/images/donazione-
@@ -149,7 +149,7 @@ acumen.png)
 
   
 **Q: Per chi non e venuto, cosa vorresti dirgli?  
-A:** La serata e andata alla grande, cosi come la compagnia e le persone che
+A:** La serata e andata alla grande, così come la compagnia e le persone che
 ne hanno fatto parte. So solo che vi siete persi dei momenti bellissimi e
 spero per voi che li potrete provare il prima possibile. Credo che le mie
 risposte precedenti hanno reso l'idea di come e andata la giornata.

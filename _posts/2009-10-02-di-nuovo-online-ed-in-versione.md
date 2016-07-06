@@ -11,7 +11,7 @@ tags:
 - test
 ---
 Carissimo, come puoi vedere e da circa una settimana e mezzo che non scrivo
-piu niente su questo blog. **No, non lo sto abbandonando!** Al contrario, ho
+più niente su questo blog. **No, non lo sto abbandonando!** Al contrario, ho
 una lista piena di post da scrivere e non vedo l'ora di smaltirla un pochino!
 :)
 
@@ -23,11 +23,11 @@ lavoro di backup, spostamento e ripristino sia dei dati che delle immagini che
 del dominio stesso. Dedichero un post a questo argomento.
 
 Alla fine eccomi qua, di nuovo online ed **in versione &amp;beta** (beta). Ma
-che cosa significa beta? Per i piu geek.. si significa quello. Per i non
+che cosa significa beta? Per i più geek.. si significa quello. Per i non
 addetti ai lavori [Wikipedia ti da una
 mano](http://it.wikipedia.org/wiki/Versione_beta)! :) Dunque il sito (ed io)
 sara sempre in questo stato senza mai raggiungere una versione finale,
-stabile. Questo perche ci sara sempre qualche cosa da migliorare, da
+stabile. Questo perché ci sara sempre qualche cosa da migliorare, da
 correggere, da scrivere, da integrare. Considerati anche il mio beta-tester.
 :)
 
@@ -42,5 +42,5 @@ rimettere a posto anche il mio avatar. Spero ti piaccia! :)
 [caption id="" align="aligncenter" width="358" caption="diegor"][![diegor]({{s
 ite.url}}/images/diegor.png)]({{site.url}}/images/diegor.png)[/caption]
 
-Per ora e tutto (piu o meno). Ci sentiamo nei prossimi giorni! :)
+Per ora e tutto (più o meno). Ci sentiamo nei prossimi giorni! :)
 

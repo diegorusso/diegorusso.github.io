@@ -19,11 +19,11 @@ allo sconto di un portatile ed un fisso per anno accademico.**
 education.png)
 
   
-In questo post pero vorrei condividere la mia esperienza dell'acquisto
+In questo post però vorrei condividere la mia esperienza dell'acquisto
 dell'ultimo modello di **MacBook Pro 15''**. Essendo iscritto regolarmente
 alla laurea specialistica in Informatica, ho pensato di usufruire di questo
 sconto. Cosi sono andato sul sito Apple ed ho visto che a questo indirizzo
-<http://store.apple.com/it-edu/> c'e lo store con gia applicati gli sconti
+<http://store.apple.com/it-edu/> c'è lo store con gia applicati gli sconti
 Education.
 
 **NOTA: tutti i prezzi saranno arrotondati all'unita di euro, tralasciando i centesimi. Questione di comodita :)**
@@ -42,12 +42,12 @@ dell'acquisto avrebbe provato a farmi un ulteriore sconto**. Detto questo mi
 ha inviato una mail con tutti i suoi recapiti per un eventuale acquisto
 telefonico o per avere altri informazioni.
 
-Da quella telefonata (informativa) ho continuato le mie ricerche in giro per
+Da quella telefonata (informativa) ho continuato le mie ricerché in giro per
 il web ed ho scoperto che [Altervista.org](http://altervista.org) e affiliata
 con Apple per quanto riguarda l'Education. Infatti se vai a questo indirizzo
 <http://it.altervista.org/adv/apple-store.php> potrai andare poi allo store
 online della Apple, con l'affiliazione di Altervista. Con grande sopresa vedo
-che **i prezzi di questo store sono ancora piu bassi di quelli Apple**. Qui
+che **i prezzi di questo store sono ancora più bassi di quelli Apple**. Qui
 vedo che il mio MBP costa **1609€ con ben 140€ di differenza**. Non male!
 
 Appena fatta questa scoperta mando una mail a Thomas per chiedergli
@@ -62,7 +62,7 @@ l'adattatore mini-display to VGA.
 
 Appena finita la personalizzazione, Thomas fa i suoi conti dicendomi che
 riesce a **togliermi ulteriori 40€ circa dal prezzo gia scontato**. Il prezzo
-finale cosi e diventato cosi **di 1691€**. Wow!
+finale così e diventato così **di 1691€**. Wow!
 
 Dunque per fare un rapido conto del risparmio, qui di seguito faro riferimento
 al prezzo finale di:
@@ -87,12 +87,12 @@ del prezzo originale.**
 
 ****Dunque il mio consiglio e sempre quello di telefonare per poter avere un contatto diretto con una persona che vi possa consigliare ed applicare degli sconti ove possibile.
 
-**Vorrei spendere anche due parole sul servizio al telefono e su Thomas**. Giusto ieri ho compilato un questionario riguardante la mia esperienza di acquisto tramite telefono: non ho potuto fare a meno di valutarla piu che positivamente. Tutte le mie domande hanno avuto una risposta precisa e chiara.
+**Vorrei spendere anche due parole sul servizio al telefono e su Thomas**. Giusto ieri ho compilato un questionario riguardante la mia esperienza di acquisto tramite telefono: non ho potuto fare a meno di valutarla più che positivamente. Tutte le mie domande hanno avuto una risposta precisa e chiara.
 
 Prima di scrivere questo post e prima di fare il nome di Thomas, gli ho
 scritto una mail chiedendogli se potevo far riferimento ai suoi dati. 10
 minuti dopo mi ha chiamato sul cellulare, ringraziandomi e dandomi
-l'autorizzazione a scrivere solo il suo nome, poiche, dopo aver parlato con il
+l'autorizzazione a scrivere solo il suo nome, poiché, dopo aver parlato con il
 suo superiore, per politiche aziendali si preferisce non pubblicare contatti
 diretti Apple, per una questione di correttezza rispetto i propri colleghi.
 

@@ -23,10 +23,10 @@ mai hai utilizzato.**
 A me si e rivelato molto utile; ti racconto la mia piccola avventura. Per un
 esame universitario devo fare un'applicazione in
 [OpenCL](http://en.wikipedia.org/wiki/OpenCL) su architettura NVIDIA. La
-NVIDIA ha pero rilasciato i driver OpenCL solo per linux. Guarda caso ho una
+NVIDIA ha però rilasciato i driver OpenCL solo per linux. Guarda caso ho una
 macchina con una 8600GT supportata da
 [OpenCL](http://en.wikipedia.org/wiki/OpenCL). Tenerla a casa sempre accesa
-sarebbe stato un grande spreco di corrente, anche perche e una macchina con
+sarebbe stato un grande spreco di corrente, anche perché e una macchina con
 molte ventole (dunque anche il rumore sarebbe stato assordante). Ho cosi
 posizionato la mia macchina in una cantina e portato un cavo di rete fino a
 dentro casa a cui ho connesso un router WRT-54GL con [DD-WRT](http://www.dd-

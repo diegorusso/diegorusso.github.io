@@ -48,7 +48,7 @@ La costruzione del participio pasado invece segue questa "regla":
   
 
   
-I verbi irregolari piu usati sono:
+I verbi irregolari più usati sono:
 
   * **Abrir: abierto**
   * **Volver: vuelto**

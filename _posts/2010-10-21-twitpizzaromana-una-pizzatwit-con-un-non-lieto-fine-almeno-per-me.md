@@ -39,7 +39,7 @@ seguivo o che gia ne avevo sentito parlare:
 [@federina](http://twitter.com/#!/federina),
 [@la__splendida](http://twitter.com/#!/@la__splendida),
 [@boemo83](http://twitter.com/#!/boemo83),
-[@elmook](http://twitter.com/#!/elmook).  Con noi c'era anche
+[@elmook](http://twitter.com/#!/elmook).  Con noi c'èra anche
 [@tomjoad70](http://twitter.com/#!/tomjoad70), che gia conoscevo per la
 #pizzatwit di #milano. Un saludo a los españoles
 [@parigi_sett](http://twitter.com/#!/parigi_sett) (venezuelana) y

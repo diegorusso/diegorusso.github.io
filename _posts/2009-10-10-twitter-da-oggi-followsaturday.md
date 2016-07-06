@@ -11,7 +11,7 @@ categories:
 - lavoro
 tags: []
 ---
-In twitter c'e una curiosa tendenza che si chiama #followfriday:
+In twitter c'è una curiosa tendenza che si chiama #followfriday:
 
 _"Il Follow Friday e la consuetudine di indicare, il venerdi su Twitter, una
 lista di utenti che si ritiene siano interessanti da seguire. L'intenzione e
