@@ -27,12 +27,12 @@ In OSX non e installato di default ed e possibile farlo in due modi:
   
 
   
-Per il primo punto c'e [MacTex](http://www.tug.org/mactex/), una distribuzione
+Per il primo punto c'è [MacTex](http://www.tug.org/mactex/), una distribuzione
 di LaTeX precompilata per OSX: nel pacchetto (grande circa **1.6GB**) trovi
 tutto quello che hai bisogno per iniziare a lavorare con LaTeX. L'unica cosa
 che ti manca **e un editor** in grado di aiutarti nella scrittura del
 linguaggio. A riguardo, sempre in questa pagina (<http://www.tug.org/mactex/>)
-c'e il **MacTeXtras.zip** che contiene molti extras, tra cui anche degli
+c'è il **MacTeXtras.zip** che contiene molti extras, tra cui anche degli
 editor.
 
 ![]({{site.url}}/images/latex.png)
@@ -41,7 +41,7 @@ editor.
 Da bravo programmatore uso [TextMate](http://macromates.com/), un editor di
 testo molto ben fatto per OSX.
 
-Altro metodo per installare LaTex (un pochino piu complicato) e quello di
+Altro metodo per installare LaTex (un pochino più complicato) e quello di
 utilizzare i **macports o fink**. [Ho usato varie volte i
 macports](http://www.diegor.it/?s=macports) e sono molto comodi. [Fink invece
 l'ho disinstallato](http://www.diegor.it/2010/09/24/howto-disinstallare-fink-

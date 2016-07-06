@@ -31,7 +31,7 @@ il seguente schema (da sinistra verso destra):
   
 
   
-Per il cavo incrociato la situazione e leggermente piu complicata. Infatti
+Per il cavo incrociato la situazione e leggermente più complicata. Infatti
 ogni estremita del cavo ha il suo ordine di fili. **Per l'estremita di
 sinistra lo schema e come quello sopra.**  
 Per l'estremita di destra devi seguire questo schema (sempre da sinistra verso

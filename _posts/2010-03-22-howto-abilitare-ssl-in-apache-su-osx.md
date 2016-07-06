@@ -23,7 +23,7 @@ semplici operazioni:
     
         sudo vim /etc/apache2/httpd.conf
 
-  2. Intorno alla linea 477 c'e questa direttiva 
+  2. Intorno alla linea 477 c'è questa direttiva 
     
         # Secure (SSL/TLS) connections  
     

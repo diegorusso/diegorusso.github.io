@@ -18,7 +18,7 @@ in giro per il web (ovviamente i siti devono avere Disqus).
 Se hai un sito in wordpress ti basta seguire [queste
 istruzioni](http://disqus.com/comments/wordpress/) per installarlo.
 Automaticamente ti ritroverai Disqus in ogni post e su ogni pagina di
-wordpress. Se pero hai una pagina con dei contenuti statici e non vuoi
+wordpress. Se però hai una pagina con dei contenuti statici e non vuoi
 mostrare Disqus e vuoi impedire i commenti, dovrai seguire questi piccole
 modifiche:
 

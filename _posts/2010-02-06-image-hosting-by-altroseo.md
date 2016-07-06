@@ -34,7 +34,7 @@ _Impostazioni dell'immagine_
 
   
 
-Come puoi vedere dall'immagine hai molte opzioni per le situazioni piu varie:
+Come puoi vedere dall'immagine hai molte opzioni per le situazioni più varie:
 puoi integrare l'immagine in un sito, la puoi condividere su twitter,
 facebook, delicious, etc.
 

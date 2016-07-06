@@ -14,11 +14,11 @@ tags:
 - howto
 - python
 ---
-Piu che howto, questa e una piccola curiosita sul
+più che howto, questa e una piccola curiosita sul
 [Python](http://www.python.org), noto linguaggio di programmazione ad oggetti
 famoso per la sua semplicita e velocita di sviluppo. Ora se sai di cosa sto
 parlando puoi continuare a leggere, altrimenti ti consiglio di allontanarti da
-qui perche stai perdendo un sacco di tempo! :)** Comunque sappi che mentre
+qui perché stai perdendo un sacco di tempo! :)** Comunque sappi che mentre
 stai leggendo questo posto io staro volando via verso la Finlandia!** (non e
 che sono un mago, ma ho semplicemente programmato la pubblicazione :)
 

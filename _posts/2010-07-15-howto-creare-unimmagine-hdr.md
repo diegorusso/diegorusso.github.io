@@ -25,21 +25,21 @@ per rappresentare i valori di illuminazione.
 
 _"Le tecniche HDR sono fondate sulla natura fisica della luce. Per i calcoli
 si utilizzano le stesse unita di misura della fotometria, dove, per esempio,
-al sole viene assegnato un valore di luminosita milioni di volte piu grande di
+al sole viene assegnato un valore di luminosita milioni di volte più grande di
 quello del monitor del personal computer."_ \-
 [Wikipedia](http://it.wikipedia.org/wiki/High_dynamic_range_imaging)
 
 Cosa serve per fare delle foto HDR?
 
   1. Prima di tutto serve una macchina fotografica che ti permette di **impostare manualmente i tempi di esposizione dell'obiettivo** (se hai una reflex allora sei a posto).
-  2. Inoltre e consigliabile** l'uso di un cavalletto** soprattutto per le foto con un'esposizione piu lunga.
-  3. Lato **software**, per i piu temerari c'e [Photoshop](http://www.adobe.com/it/products/photoshop/photoshop/) (a partire da 1.018,80€), altrimenti c'e un ottimo software per la produzione HDR: [Photomatix Pro](http://www.hdrsoft.com/) (a partire da 39$ in su)
+  2. Inoltre e consigliabile** l'uso di un cavalletto** soprattutto per le foto con un'esposizione più lunga.
+  3. Lato **software**, per i più temerari c'è [Photoshop](http://www.adobe.com/it/products/photoshop/photoshop/) (a partire da 1.018,80€), altrimenti c'è un ottimo software per la produzione HDR: [Photomatix Pro](http://www.hdrsoft.com/) (a partire da 39$ in su)
   
 
   
 Una volta che hai tutti gli strumenti necessari, vai a creare la tua prima
 immagine HDR. In questa guida come software di riferimento verra preso
-**Photomatix Pro**, in quanto piu economico e di piu rapido utilizzo allo
+**Photomatix Pro**, in quanto più economico e di più rapido utilizzo allo
 scopo. Per creare delle immagini in HDR, bisogna scattare una serie di foto
 allo stesso soggetto **ma con esposizioni diverse.** Nella fase successiva si
 fondono queste immagini in una sola sovrapponendole ed esaltando le ombre e le

@@ -67,7 +67,7 @@ lorenzo: attento a non farla virale pero, come la gpl
 
 lorenzo: chi modifica rilascia anch'egli con la MML
 
-e fa tuoi soldi piu i suoi :)
+e fa tuoi soldi più i suoi :)
 
 11:17 PM me: ovviamente chi modifica mi deve dei soldi
 
@@ -79,7 +79,7 @@ me: tanto il gestionale ce l'abbiamo :)
 
 appunto
 
-11:18 PM lorenzo: c'e ottimismo stasera :)
+11:18 PM lorenzo: c'è ottimismo stasera :)
 
 me: si si infatti
 
@@ -91,11 +91,11 @@ me: ed e sempre meglio una buonaserissima
 
 lorenzo: adesso lo chiamo
 
-me: perche noi siamo forti
+me: perché noi siamo forti
 
 11:19 PM huahuahua
 
-perche noi spacchiamo
+perché noi spacchiamo
 
 lorenzo: e una buonaserissima!
 

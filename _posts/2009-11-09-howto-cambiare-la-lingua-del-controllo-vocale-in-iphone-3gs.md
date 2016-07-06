@@ -29,7 +29,7 @@ disponibile in varie lingue:
   
 
   
-Queste lingue pero non sono strettamente legate alle lingue dei menu
+Queste lingue però non sono strettamente legate alle lingue dei menu
 dell'iPhone 3Gs. Infatti puoi tenere ad esempio l'iPhone in inglese e
 mantenere la lingua del controllo vocale in italiano. Per scegliere la lingua
 che preferisci segui questi passi:

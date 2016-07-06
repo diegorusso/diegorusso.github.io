@@ -46,7 +46,7 @@ basso, riprendendo persone, auto, case, oggetti che possono essere risaltati
 dalla non sfocatura di questa tecnica.**
 
 Dunque per creare immagini tiltshiftate puoi fare in uno dei seguenti modi
-(dal piu semplice):
+(dal più semplice):
 
   1. Senza installare niente puoi usare questo sito: [tiltshiftmaker.com](http://tiltshiftmaker.com/)
   2. Usare l'app [TiltShift Generator](http://itunes.apple.com/it/app/tiltshift-generator-fake-miniature/id327716311?mt=8) per iPhone
@@ -57,7 +57,7 @@ Dunque per creare immagini tiltshiftate puoi fare in uno dei seguenti modi
 
   
 Se vuoi vedere altri esempi di tiltshift basta cercare su Google, oppure vedi
-il gruppo che c'e su [Flickr](http://www.flickr.com/groups/tilt-shift-fakes/)
+il gruppo che c'è su [Flickr](http://www.flickr.com/groups/tilt-shift-fakes/)
 :)
 
 Non resta altro che sbizzarrirti con le tue foto e se ti va **metti nei

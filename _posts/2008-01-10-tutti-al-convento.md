@@ -14,7 +14,7 @@ tags:
 6 gennaio, arriva la befana che ci porta i dolci. La giornata sembra
 abbastanza noiosa (solita giornata del cazzo), forse dovuto al mal tempo. Che
 fare? O stare a casa a vedere un film oppure altro. Io ho scelto altro! :)
-Andiamo a Ussita a pattinare sul ghiaccio! :) E cosi fu. **Ovviamente non sto
+Andiamo a Ussita a pattinare sul ghiaccio! :) E così fu. **Ovviamente non sto
 qui a raccontare la mia bravura e destrezza sui pattini. **Anzi per dirla
 tutta mi sono anche trattenuto nell'eseguire qualche acrobazia... :P
 
@@ -29,14 +29,14 @@ Narco](http://it.wikipedia.org/wiki/Sant'Anatolia_di_Narco
 "http://it.wikipedia.org/wiki/Sant'Anatolia_di_Narco" ) (MAI SENTITO!!!),
 piccolo paesino lungo la strada di ritorno.  
 M.: "Qui che dici?"  
-D.: "Noo, andiamo piu su; saliamo sul paesino"  
+D.: "Noo, andiamo più su; saliamo sul paesino"  
 M.: "E qui?"  
 D.:"Qui per me va bene... spe che mi rigiro"  
 ...  
 ** D.:"Spe.. e li cosa e? [Convento... Ristorante.. Croce.. Country... House... mmm.. Andiamo li!!](http://www.conventodisantacroce.com/ "http://www.conventodisantacroce.com/" )"**
 
 Giusto per rimanere sul leggero tagliere di formaggi, cinghiale e maiale.
-**Eravamo soli, non c'era nessuno.** Ogni tanto si vedeva passare qualche
+**Eravamo soli, non c'èra nessuno.** Ogni tanto si vedeva passare qualche
 losco individuo che salutava... ovviamente contraccambiavamo per non essere
 maleducati.  
 Prima che arrivasse la ciccia, una minuta ragazza si avvicina al nostro
@@ -51,23 +51,23 @@ Tutto questo mi puzzava. C'erano diverse opzioni:
 ** 1) Stavo sognando**  
 ** 2)**Ci volevano far mangiare tanto, **per poi ucciderci immaginando le mille assurde motivazioni**  
 ** 3)Non lo so.**  
-Inizialmente ero piu propenso_ per la 2 o 3 opzione,_ ma alla fine della cena
-ci siamo resi conto che era tutto vero! Avevamo preso pero la giusta
-precauzione: messaggio ad un familiare con piu o meno questo testo:
+Inizialmente ero più propenso_ per la 2 o 3 opzione,_ ma alla fine della cena
+ci siamo resi conto che era tutto vero! Avevamo preso però la giusta
+precauzione: messaggio ad un familiare con più o meno questo testo:
 **_"Chiamaci tra 10 minuti e se non rispondo io chiama la polizia. Sono a
 mangiare a sant'Anatolia di Narco"  
 _Peccato che il familiare si sia accorto del messaggio solo due ore dopo... va
 beh.. piccolezze.  
-Perche ho scritto tutta questa storia?  
-**1) Perche non mi e mai capitato di andare ad un ristorante trovato per caso in un paesino sperduto nelle valli umbre e **non pagare la cena.**  
-2) Perche non mi e mai capitata cosi **tanta gentilezza e cordialita** da
+Perché ho scritto tutta questa storia?  
+**1) Perché non mi e mai capitato di andare ad un ristorante trovato per caso in un paesino sperduto nelle valli umbre e **non pagare la cena.**  
+2) Perché non mi e mai capitata così **tanta gentilezza e cordialita** da
 parte degli sconosciuti. Si lo so.. e il loro lavoro. Vi giuro che lo sanno
 fare molto bene.  
-3) Perche li, nel [Convento di Santa
+3) Perché li, nel [Convento di Santa
 Croce](http://www.conventodisantacroce.com/
 "http://www.conventodisantacroce.com/" ) ad Sant'Anatolia di Narco, **si
 mangia troppo bene** e si spende il giusto.  
-4) **Perche li ci sanno fare** (_parere di un cameriere_ con esperienza
+4) **Perché li ci sanno fare** (_parere di un cameriere_ con esperienza
 pluriennale)
 
 _Ora permettetemi un po' di pubblicita:_ **il 14 febbraio** questo locale

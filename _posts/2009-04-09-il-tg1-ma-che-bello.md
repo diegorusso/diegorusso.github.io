@@ -7,5 +7,5 @@ categories:
 tags: []
 ---
   
-_ Secondo voi ci puo essere una cosa piu triste di questa?_
+_ Secondo voi ci puo essere una cosa più triste di questa?_
 

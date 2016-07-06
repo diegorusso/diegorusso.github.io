@@ -8,8 +8,8 @@ categories:
 - politics
 tags: []
 ---
-E pensate che c'e ancora qualcuno (_cittadino_, non politico!) che dice che il
-nostro amato Paese va bene. Mi dispiace ma io non ci credo piu. Vedo che
+E pensate che c'è ancora qualcuno (_cittadino_, non politico!) che dice che il
+nostro amato Paese va bene. Mi dispiace ma io non ci credo più. Vedo che
 stiamo andando in discesa, [leggo che le cose non
 vanno](http://www.beppegrillo.it/2007/12/litalia_vista_d.html
 "http://www.beppegrillo.it/2007/12/litalia_vista_d.html" ), [sento
@@ -29,7 +29,7 @@ Mia]({{site.url}}/images/italiamia.jpg)]({{site.url}}/images/italiamia.jpg
 
 Il bel Paese, [rapresentato nel web da una truffa](http://www.italia.it/
 "http://www.italia.it/" ), sta andando **in discesa**. Il problema che molti
-non se ne accorgono... ma piu grave e che tanti lo sanno ma non lo vogliono
+non se ne accorgono... ma più grave e che tanti lo sanno ma non lo vogliono
 ammettere.
 
 Il post sembra essere pessimistico... ma per chi mi conosce (bene) sa che non

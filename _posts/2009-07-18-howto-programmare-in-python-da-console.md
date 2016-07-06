@@ -16,7 +16,7 @@ tags:
 ---
 Oggi voglio segnalarti alcune utility che ti aiuteranno a programmare in
 python dalla console di un sistema Unix-like (Linux, BSD, OSX etc). Molti
-preferiscono il classico vim, ma per progetti piu grandi potrebbe risultare
+preferiscono il classico vim, ma per progetti più grandi potrebbe risultare
 scomodo.
 
 A tal proposito voglio indicarti due progetti promettenti per il python da

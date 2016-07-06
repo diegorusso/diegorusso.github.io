@@ -29,7 +29,7 @@ della gestione delle release.
 Ci concentreremo su [Git](http://git-scm.com/) come strumento di versione per
 tutti i nostri sorgenti
 
-## **Perche Git?**
+## **Perché Git?**
 
   
 Per una discussione approfondita sui pro ed i contro di Git rispetto ai
@@ -53,11 +53,11 @@ libro](http://pragprog.com/titles/tsgit/pragmatic-version-control-using-git)
 di [Git](http://github.com/progit/progit) gia rientra nel capitolo 3 (basi).
 
 Come conseguenza della sua semplicita e natura ripetitiva, branching e merging
-non sono piu qualcosa di cui aver paura. Strumenti di controllo di versione
-sono tenuti a contribuire al branching e merging piu di ogni altra cosa.
+non sono più qualcosa di cui aver paura. Strumenti di controllo di versione
+sono tenuti a contribuire al branching e merging più di ogni altra cosa.
 
 Basta sugli strumenti, entriamo nel merito sul modello di sviluppo. Il modello
-che ho intenzione di presentare qui, e sostanzialmente non piu di un insieme
+che ho intenzione di presentare qui, e sostanzialmente non più di un insieme
 di procedure che ogni membro del team deve seguire al fine di giungere ad un
 processo di sviluppo software gestito.
 
@@ -66,7 +66,7 @@ processo di sviluppo software gestito.
   
 La configurazione repository che usiamo e che funziona bene con questo modello
 di branching, e quella con un repo centrare "vero". Si noti che questo repo e
-considerato solo per essere quello centrale (dato che Git e un DVCS, non c'e
+considerato solo per essere quello centrale (dato che Git e un DVCS, non c'è
 nessuna cosa considerata come un repo centrale a livello tecnico). Si fara
 riferimento a questo repository come **_origin_**, dal momento che questo nome
 e familiare a tutti gli utenti Git.
@@ -76,11 +76,11 @@ e familiare a tutti gli utenti Git.
 Ogni sviluppatore compie i propri push e pull in **origin**. Ma oltre le
 relazioni centralizzata push-pull, ogni sviluppatore puo effettuare i pull di
 modifiche da altri peers e formare sottosquadre. Ad esempio, questo potrebbe
-essere utile per lavorare insieme a due o piu sviluppatori su una grande
+essere utile per lavorare insieme a due o più sviluppatori su una grande
 novita, prima di effettuare il push prematuro dei lavori in corso in
 **_origin_**. Nella figura sopra, ci sono sottosquadre di Alice e Bob, Alice e
 Davide, e Clair e David.  
-Tecnicamente, questo non significa niente piu che Alice ha definito un Git
+Tecnicamente, questo non significa niente più che Alice ha definito un Git
 remoto, di nome **bob**, che punta al repository di Bob, e viceversa.
 
 ## I branch principali
@@ -111,13 +111,13 @@ automatica build giornaliera viene compilata.
 Quando il codice sorgente nel branch **develop** raggiunge un punto stabile ed
 e pronto per essere rilasciato, tutti i cambiamenti dovrebbero essere portati
 nel **master** in qualche modo e poi "taggati" con il numero di release. Come
-fare questo verra discusso piu avanti.
+fare questo verra discusso più avanti.
 
 Quindi, ogni volta che i cambiamenti sono portati nel **master**, per
 _definizione_ questa e la nuova release di produzione. Tendiamo ad essere
 molto severi in questo, in modo che, teoricamente, si potrebbe usare uno hook
 script di Git per fare il build e il roll-out del nostro software nei server
-di produzione ogni volta che c'e un commit nel master.
+di produzione ogni volta che c'è un commit nel master.
 
 ## I branch di supporto
 
@@ -156,7 +156,7 @@ Si dovrebbero formare da: **develop
 
   
 _Feature branches_ (a volte chiamati topic branches) sono usati per sviluppare
-nuove features per release future piu o meno lontane. Quando si parte allo
+nuove features per release future più o meno lontane. Quando si parte allo
 sviluppo di una nuova feature, la release di destinazione in cui la
 funzionalita dovra essere incorporata potrebbe essere sconosciuta fino a quel
 momento. L'essenza del feature branch e che esiste finche la funzionalita e in
@@ -217,8 +217,8 @@ manualmente dai messaggi di log. Il ripristino di una intera funzionalita
 (cioe un gruppo di commit) fa venire il mal di testa in questo ultimo caso,
 mentre e presto fatto se e stato usato il flag **\--no-ff**.
 
-Si, verranno creati un po' piu oggetti commit (vuoti), ma il guadagno e molto
-piu grande del costo.
+Si, verranno creati un po' più oggetti commit (vuoti), ma il guadagno e molto
+più grande del costo.
 
 Sfortunatamente, non ho trovato un modo per avere il **\--no-ff** come
 comportamento di default per il **git merge**, ma in realta dovrebbe esserlo.
@@ -302,7 +302,7 @@ necessario eseguire qualche azione. Primo, il release branch e mergiato nel
 definizione). Successivamente, quel commit nel **master** deve essere taggato
 per una facile consultazione futura a questa versione storica. Alla fine, i
 cambiamenti fatti nel release branch nccessitano di essere rimergiati nel
-**develop**, cosi le future release contengono questi bug fix._**
+**develop**, così le future release contengono questi bug fix._**
 
 I primi due step in Git:
 
@@ -341,10 +341,10 @@ nel **develop**. In Git:
 
   
 Questo passaggio puo anche portare ad un conflitto di merge (probabilmente
-anche dal fatto che abbiamo cambiato il numero di versione). Se cosi fosse,
+anche dal fatto che abbiamo cambiato il numero di versione). Se così fosse,
 correggilo e committa.  
 A questo punto abbiamo veramente finito ed il release branch puo essere
-rimosso dal momento che non ne abbiamo piu bisogno:
+rimosso dal momento che non ne abbiamo più bisogno:
 
     
     
@@ -406,7 +406,7 @@ problema:
   
 Non dimenticate di eliminare il numero di versione dopo aver creato il branch!
 
-Successivamente, correggi il bug e committa la correzione in uno o piu commit.
+Successivamente, correggi il bug e committa la correzione in uno o più commit.
 
     
     
@@ -457,7 +457,7 @@ Successivamente, includiamo il bugfix in **develop**:
   
 L'unica eccezione alla regola e che, **quando esiste un release branch, i
 cambiamenti di hotfix devono essere rimergiati in quel release branch
-piuttosto che nel develop**. Il merge dei bugfix nel release branch  portera i
+piùttosto che nel develop**. Il merge dei bugfix nel release branch  portera i
 bugfix nel **develop** anche quando il release branch finira. (Se il lavoro in
 **develop** richiede questo bugfix e non si puo aspettare che il release
 branch sia finito, si possono mergiare tranquillamente i bugfix ndel

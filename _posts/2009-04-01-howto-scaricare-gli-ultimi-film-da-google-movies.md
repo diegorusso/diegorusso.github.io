@@ -12,7 +12,7 @@ tags:
 Google Movies e uno dei tanti servizi che BigG offre per la ricerca di film
 nelle sale cinematografiche.
 
-Non tutti sanno pero che questo servizio offre agli utenti il download degli
+Non tutti sanno però che questo servizio offre agli utenti il download degli
 ultimi film, grazie ad un accordo che Google ha fatto con le maggiori case
 cinematografiche, quali Cecchi Gori, Paramount, Columbia, Warner Bros, Walt
 Disney, Buenavista, 20th century, Medusa etc etc etc.

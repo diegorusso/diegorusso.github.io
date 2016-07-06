@@ -24,7 +24,7 @@ fare i seguenti passi:
 
   
 Queste impostazioni ti permettono di installare senza alcun problema tutte le
-applicazioni che trovi in giro per la rete. A volte capita pero di avere un
+applicazioni che trovi in giro per la rete. A volte capita però di avere un
 **"Certificate Error"** anche con le impostazioni precedenti. A me e successo
 quando ho provato ad installare [ustream.tv](http://ustream.tv) per Nokia
 ([scaricabile da qui](http://www.ustream.tv/mobile/broadcaster)). Ho cosi

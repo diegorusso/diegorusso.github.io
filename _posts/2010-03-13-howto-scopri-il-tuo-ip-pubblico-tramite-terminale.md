@@ -50,7 +50,7 @@ indirizzo IP pubblico da terminale:
   
 **Il tutto funziona anche su OSX** solo se si installano _wget, curl e lynx_ tramite [MacPorts](http://www.macports.org/) o [Fink](http://www.finkproject.org/).
 
-Se conosci altri metodi piu efficienti oppure altri siti, commenta! :)
+Se conosci altri metodi più efficienti oppure altri siti, commenta! :)
 
 _Fonte: _[_go2linux.org_](http://www.go2linux.org/what-is-my-public-ip-
 address-with-linux)

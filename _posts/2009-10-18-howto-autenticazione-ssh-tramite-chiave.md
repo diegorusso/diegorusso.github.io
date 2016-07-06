@@ -14,7 +14,7 @@ tags:
 Gia ho parlato di SSH [in questo post](http://www.diegor.it/2009/08/22/howto-
 tunneling-con-ssh/). Oggi vedrai impostare il tuo client ed il tuo server per
 accedere in maniera sicura e veloce tramite **l'autenticazione con chiave**,
-piuttosto che con una semplice password. L'autenticazione basata su nomeutente
+piùttosto che con una semplice password. L'autenticazione basata su nomeutente
 e password rende il sistema potenzialmente insicuro per i seguenti motivi:
 
   * la password puo essere indovinata in qualsiasi momento (**tramite attacco brute force**)
@@ -23,7 +23,7 @@ e password rende il sistema potenzialmente insicuro per i seguenti motivi:
   
 
   
-Per rendere piu sicura l'autenticazione puoi usare una **coppia di chiavi
+Per rendere più sicura l'autenticazione puoi usare una **coppia di chiavi
 crittografate** al posto dell'autenticazione con password. Esistono due tipi
 di algoritmi per generare le chiavi ssh:
 [RSA](http://it.wikipedia.org/wiki/RSA) (cripta e firma) e
@@ -59,7 +59,7 @@ verra chiesto di inserire una passphrase per proteggere la chiave privata:
   
 La scelta di una passphrase dipenda da situazione a situazione. Se non
 immetterai nessuna passphrase potrai accedere al tuo server** direttamente
-senza dover digitare niente**. Questo pero comporta se qualcun altro accede
+senza dover digitare niente**. Questo però comporta se qualcun altro accede
 alla tua chiave privata oppure ad una copia puo entrare senza nessun problema
 nel server dove e impostata quella chiave. Se invece decidi di proteggerla con
 una passphrase dovrai digitare ogni volta la password per sbloccare la chiave

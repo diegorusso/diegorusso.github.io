@@ -44,7 +44,7 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
 
 **Definizioni Veloci:** premi i tasti **⌘ + ctrl + D** e vai con il mouse sopra le parole presenti in qualsiasi applicazione (NOTA: la definizione e solo in inglese!)
 
-**Aprire nuovi link sempre su tab piuttosto che su nuove finestre:**
+**Aprire nuovi link sempre su tab piùttosto che su nuove finestre:**
 
   * Apri il terminale e digita: _defaults write com.apple.Safari TargetedClicksCreateTabs -bool true_ (false per disabilitare)
   
@@ -52,7 +52,7 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
   
 **Volume**: ci sono delle piccole varianti sulla regolazione del volume
 
-  * **Shift + Option + Tasti Volume**: aggiusta il volume ad incrementi piu piccoli
+  * **Shift + Option + Tasti Volume**: aggiusta il volume ad incrementi più piccoli
   * **Shif t+ Tasti Volume**: aggiusta il volume senza emettere il suono di clicking
   * **Option + Controlli Volume**: Apre le preferenze del suono
   
@@ -103,7 +103,7 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
   
 
 Se premi il tasto **alt** mentre stati tagliando un video con QuickTime X ti
-verra mostrata la traccia audio piuttosto che la traccia video.
+verra mostrata la traccia audio piùttosto che la traccia video.
 
 **Altri shortcut direttamente da Apple: **<http://support.apple.com/kb/HT1343>
 

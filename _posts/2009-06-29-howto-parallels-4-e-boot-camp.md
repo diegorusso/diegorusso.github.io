@@ -16,18 +16,18 @@ Ciao, oggi vedrai come risolvere un fastidioso errore di
 Camp](http://it.wikipedia.org/wiki/Boot_Camp).
 
 [Parallels](http://www.parallels.com/it/) e quel software (diponibile sia per
-OSX che per Linux che per Windows) che ti permette di eseguire piu macchine
+OSX che per Linux che per Windows) che ti permette di eseguire più macchine
 virtuali nel tuo sistema operativo. [Boot
 Camp](http://it.wikipedia.org/wiki/Boot_Camp) invece sono un insieme di
 utility incluse in OSX Leopard (10.5) che ti permettono di installare Windows
 XP Sp2 e Windows Vista direttamente sul tuo mac in maniera nativa (e dunque
 non virtualizzata).
 
-Le differenze tra i due approcci sono notevoli: la piu evidente e che con il
-primo **puoi utilizzare piu sistemi operativi contemporanetamente** mentre con
+Le differenze tra i due approcci sono notevoli: la più evidente e che con il
+primo **puoi utilizzare più sistemi operativi contemporanetamente** mentre con
 la seconda devi riavviare il tuo mac per poter utilizzare Windows Xp.
 
-**Parallels ti permette pero di accedere alla partizione Boot Camp per farti eseguire ****come macchina virtuale l'installazione nativa di**** Windows. **Questa funzionalita e molto comoda poiche puoi beneficiare sia dei vantaggi dell'esecuzione dei due sistemi operativi sia i vantaggi dell'esecuzione di solo windows (ad esempio sfruttare al massimo il 3d della scheda video).
+**Parallels ti permette però di accedere alla partizione Boot Camp per farti eseguire ****come macchina virtuale l'installazione nativa di**** Windows. **Questa funzionalita e molto comoda poiché puoi beneficiare sia dei vantaggi dell'esecuzione dei due sistemi operativi sia i vantaggi dell'esecuzione di solo windows (ad esempio sfruttare al massimo il 3d della scheda video).
 
 Dunque esegui questi passaggi per creare la tua macchina virtuale basata su
 boot camp:
@@ -48,7 +48,7 @@ errrore che ti impedirebbe la configurazione della macchina virtuale.
 }}/images/parallels_bootcamp.png)_Errore in fase di creazione della macchina
 virtuale_
 
-**Parallels non avrebbe i permessi di lettura e scrittura sul disco di Boot Camp.** Sul web ho trovato molti workaround per risolvere questo problema ma quello piu veloce ed indolore e il seguente:
+**Parallels non avrebbe i permessi di lettura e scrittura sul disco di Boot Camp.** Sul web ho trovato molti workaround per risolvere questo problema ma quello più veloce ed indolore e il seguente:
 
   1. Apri un terminale
   2. Digita il seguente comando

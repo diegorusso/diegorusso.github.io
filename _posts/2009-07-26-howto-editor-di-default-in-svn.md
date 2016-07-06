@@ -16,7 +16,7 @@ Se sei un programmatore come me sicuramente ti sei imbattuto in
 [subversion](http://subversion.tigris.org/). Subversion (per gli amici, svn) e
 un [sistema di controllo di
 versione](http://it.wikipedia.org/wiki/Controllo_versione), ed e usato quando
-una o piu persone lavorano in team per sviluppare un software. C'e molta
+una o più persone lavorano in team per sviluppare un software. C'e molta
 documentazione in internet sui sistemi di controllo di revisione, dunque non
 resta che "googlare" un po'.
 
@@ -43,7 +43,7 @@ questo semplice comando:
     export SVN_EDITOR=vim
 
   
-Facendo cosi impostarei come editor di default l'amato
+Facendo così impostarei come editor di default l'amato
 [Vim](http://www.vim.org/). Ovviamente tu puoi mettere cio che vuoi.  
 Se vuoi mantere questa impostazione metti questa riga nel file _.bash_profile_
 o _.bashrc_ che trovi nella tua home del sistema.

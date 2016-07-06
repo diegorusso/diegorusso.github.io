@@ -49,7 +49,7 @@ tipo (a scomparsa automatica e non) il tutto configurabile tramite le
 **"Preferenze di Sistema"** nell'apposita voce.
 
 Dunque Growl e un must da avere nel proprio OSX (io lo uso in Snow Leopard)
-poiche unisce la sua estrema utilita con un'integrazioni nel sistema senza
+poiché unisce la sua estrema utilita con un'integrazioni nel sistema senza
 paragoni! :)
 
 Ti ricordo che [Growl](http://growl.info/) e completamente gratuito e
