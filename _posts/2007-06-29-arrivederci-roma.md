@@ -11,35 +11,28 @@ tags:
 - test
 ---
 Queste sono le parole che ieri sera ha cantato prima della sua ultima canzone
-"albachiara". Tutto e iniziato ieri pomeriggio. Partenza verso le 15:30
+"albachiara". Tutto è iniziato ieri pomeriggio. Partenza verso le 15:30
 direzione via degli *******, 29 Roma (ovvero casa di Serena). Tranne il
 traffico sono arrivato sano e salvo. Dopo la prima sistemazione in casa, siamo
 andati con il suo scooter ad incontrare due suoi amici per comprare da
 mangiare e dirigerci verso l'olimpico.
 
-[]({{site.url}}/images/io_e_gli_altri.jpg "io e gli altri all’olimpico" )
-
-[![io e gli altri all’olimpico]({{site.url}}/images/io_e_gli_altri.jpg)]({{sit
-e.url}}/images/io_e_gli_altri.jpg "io e gli altri all’olimpico" )
+[![io e gli altri all’olimpico]({{site.url}}/images/io_e_gli_altri.jpg){: .align-center}]({{site.url}}/images/io_e_gli_altri.jpg "io e gli altri all’olimpico" )
 
 Arrivati allo stadio, delirio per trovare parcheggio, delirio per trovare
 l'entrata, delirio per trovare i posti. Tra tutto questo delirio, siamo
 arrivati sani e salvi! :) Tempo 15 minuti ed il concerto ebbe inizio!!!
 
-[]({{site.url}}/images/olimpico.jpg "olimpico" )
 
-[![olimpico]({{site.url}}/images/olimpico.jpg)]({{site.url}}/images/olimpico.j
-pg "olimpico" )
+[![olimpico]({{site.url}}/images/olimpico.jpg){: .align-center}]({{site.url}}/images/olimpico.jpg "olimpico" )
 
 Sensazioni uniche, vibrazioni stupende, emozioni travolgenti hanno
 accompagnato le 2 ore e mezza (circa) di concerto!!! Lo stadio era PIENO ed
 EUFORICO. Troppo bello! Esperienza da consigliare, veramente.  
-[]({{site.url}}/images/non_sopporto.jpg "non sopporto" )  
 
-[![non sopporto]({{site.url}}/images/non_sopporto.jpg)]({{site.url}}/images/no
-n_sopporto.jpg "non sopporto" )
+[![non sopporto]({{site.url}}/images/non_sopporto.jpg){: .align-center}]({{site.url}}/images/non_sopporto.jpg "non sopporto" )
 
-Questa e la scaletta del concerto:
+Questa è la scaletta del concerto:
 
 1\. Intro + Basta poco  
 2\. Cosa c'è  
@@ -112,48 +105,37 @@ e che tutti e due dobbiam morire!! _
 
 Ed eccoci finalmente al gran finale!! :)
 
-[![finale]({{site.url}}/images/finale.jpg)]({{site.url}}/images/finale.jpg
-"finale" )
+[![finale]({{site.url}}/images/finale.jpg){: .align-center}]({{site.url}}/images/finale.jpg"finale" )
 
-[![finale2]({{site.url}}/images/finale2.jpg)]({{site.url}}/images/finale2.jpg
-"finale2" )
+[![finale2]({{site.url}}/images/finale2.jpg){: .align-center}]({{site.url}}/images/finale2.jpg"finale2" )
 
-La festa e finita, tutti a casa... tranne noi. Infatti siamo rimasti per circa
+La festa è finita, tutti a casa... tranne noi. Infatti siamo rimasti per circa
 10 minuti li a sedere, non rendendoci conto che era finita. Non lo volevo
 ammettere. Pensavo... "ora riesce e continua", ma sapevo che non sarebbe mai
 successo. Pazienza.
 
-[![desolazione]({{site.url}}/images/desolazione.jpg)]({{site.url}}/images/deso
-lazione.jpg "desolazione" )
+[![desolazione]({{site.url}}/images/desolazione.jpg){: .align-center}]({{site.url}}/images/desolazione.jpg "desolazione" )
 
 Prima dicevo che non eravamo andati a casa... infatti in sella allo scooter
-abbiamo fatto un giro moolto lungo (fino alle 4:15) per Roma. Tutto e stato
+abbiamo fatto un giro moolto lungo (fino alle 4:15) per Roma. Tutto è stato
 spinto da una temperatura piacevole, dalla voglia di non andare a casa, dalla
 voglia di una birra, dalla mia curiosita di vedere Roma come non l'avevo mai
 vista e dalla NECESSITA' di EVITARE il terribile traffico formatosi nei pressi
 dello stadio. Ecco le prove:
 
-[]({{site.url}}/images/vaticano_night.jpg "vaticano by night" )
-
-[![vaticano by night]({{site.url}}/images/vaticano_night.jpg)]({{site.url}}/im
-ages/vaticano_night.jpg "vaticano by night" )
-
+[![vaticano by night]({{site.url}}/images/vaticano_night.jpg){: .align-center}]({{site.url}}/images/vaticano_night.jpg "vaticano by night" )
   
 Il Vaticano di notte.. uno splendore unico!!!
 
-[![vaticano by night]({{site.url}}/images/vaticano2_night.jpg)]({{site.url}}/i
-mages/vaticano2_night.jpg "vaticano by night" )
+[![vaticano by night]({{site.url}}/images/vaticano2_night.jpg){: .align-center}]({{site.url}}/images/vaticano2_night.jpg "vaticano by night" )
 
 Viale della conciliazione.
 
-[![roma by night]({{site.url}}/images/roma2_night.jpg)]({{site.url}}/images/ro
-ma2_night.jpg "roma by night" )
+[![roma by night]({{site.url}}/images/roma2_night.jpg){: .align-center}]({{site.url}}/images/roma2_night.jpg "roma by night" )
 
 Non mi ricordo.. ma molto bello! :)
 
-[![roma by
-night]({{site.url}}/images/roma_night.jpg)]({{site.url}}/images/roma_night.jpg
-"roma by night" )
+[![roma by night]({{site.url}}/images/roma_night.jpg){: .align-center}]({{site.url}}/images/roma_night.jpg "roma by night" )
 
 Il Tevere con uno dei suoi ponti. Vorrei di nuovo ringraziare Simone e Serena
 che hanno permesso tutto cio. Senza di loro, me ne sarei stato a casa. Grazie

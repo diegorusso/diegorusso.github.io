@@ -10,7 +10,7 @@ categories:
 - libro
 tags: []
 ---
-E' gia da molto tempo che volevo fare un post su questo argomento (l'avevo
+E' già da molto tempo che volevo fare un post su questo argomento (l'avevo
 nella TODO list). Oggi è arrivato il momento. Perché proprio oggi?!? Perché ci
 sono dei fatti che voglio far sapere al mondo intero! :)
   

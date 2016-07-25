@@ -14,7 +14,7 @@ tags:
 ---
 Spesso mi capita di modificare grandi file con l'editor di testo
 [VIM](http://www.vim.org/). A volte capita che prima di aprire il file per
-modificarlo **tu conosca gia la riga**. Nell'esempio sottostante ho provato ad
+modificarlo **tu conosca già la riga**. Nell'esempio sottostante ho provato ad
 accedere con ssh ad una macchina remota a cui era cambiato il fingerprint.
 
     

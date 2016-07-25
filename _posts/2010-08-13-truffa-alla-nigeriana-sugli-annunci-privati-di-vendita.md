@@ -165,7 +165,7 @@ per chiedergli se mi dava una mano a scrivere questo post. Infatti dopo la mia
 
 [![]({{site.url}}/images/19mail.png)  
 ]({{site.url}}/images/19mail.png)E qui arriva il bello! Grazie al mio amico
-@jibbolo abbiamo messo su un sito anonimo con una bella immagine di un ca**o
+@jibbolo abbiamo messo su un sito anonimo con una bella immagine di un ca\*\*o
 :)  
 Fatto cio ho preparato una bella mail da inviare al signo Russel con tanto di
 link per tracciare il.. "PACCO".  

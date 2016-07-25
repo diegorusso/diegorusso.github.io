@@ -15,7 +15,7 @@ tags:
 - git
 ---
 Questo fine settimana ho partecipato alla **73° Assemblea Nazionale di Avis**.
-Sicuramente gia sai cosa e Avis e cosa fa. Se vuoi maggiori informazioni basta
+Sicuramente già sai cosa e Avis e cosa fa. Se vuoi maggiori informazioni basta
 che vai su [http://www.avis.it](http://www.avis.it/), oppure rivolgiti alla
 tua Avis locale.
 

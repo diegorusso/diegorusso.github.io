@@ -12,12 +12,9 @@ categories:
 - second life
 tags: []
 ---
-![SL Assisi](http://www.secundavita.com/gallery/immagini_destra/images/Weather
-_in_Assisi_001.jpg)
 
 **Il 21 settembre alle ore 18:00 italiane** apre al pubblico l'isola di **Assisi in Second Life** (coordinate 1090,1200). Il progetto, realizzato dall'azienda **Wedoit s.a.s. (Assisi)** con la collaborazione di **Metafuturing S.l. (Madrid)** ed **Euromedia Italia (Terni)**, ha come obiettivo quello di far conoscere le bellezze della Basilica di San Francesco al pubblico del metaverso.
 
-  
 Realizzata in scala su planimetrie originali, la Basilica e unica nel suo
 genere, per fedelta nella riproduzione ed attenzione per i dettagli. Al suo
 interno e possibile ammirare le opere di Giotto, Cimabue, Pietro Lorenzetti e
@@ -39,6 +36,5 @@ alla qualita delle realizzazioni per promuovere le realta italiane nel
 metaverso di Second Life.
 
 Per maggiori informazioni e possibile visitare:
-[www.secundavita.com](http://www.secundavita.com "http://www.secundavita.com"
-)
+[www.secundavita.com](http://www.secundavita.com "http://www.secundavita.com")
 

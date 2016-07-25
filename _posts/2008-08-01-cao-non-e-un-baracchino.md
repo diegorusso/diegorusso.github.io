@@ -1,5 +1,5 @@
 ---
-title: Ca**o! Non &egrave; un baracchino!!!
+title: Ca\*\*o! Non &egrave; un baracchino!!!
 categories:
 - blog
 - private

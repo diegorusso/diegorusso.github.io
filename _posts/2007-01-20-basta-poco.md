@@ -85,7 +85,7 @@ cosi nobile, così antica_
   
 _e intanto il mondo rotola  
 e il mare sempre luccica  
-domani e gia domenica  
+domani e già domenica  
 e forse forse nevica_  
   
 _basta poco, per essere intolleranti  
@@ -95,7 +95,7 @@ basta poco, perché ti dia fastidio uno purche sia_
   
 _e intanto il mondo rotola    
 e il mare sempre luccica  
-domani e gia domenica  
+domani e già domenica  
 e forse forse nevica_
 
 mmm.. il testo ha tutte le caratteristiche del nuovo Vasco (nulla a che vedere

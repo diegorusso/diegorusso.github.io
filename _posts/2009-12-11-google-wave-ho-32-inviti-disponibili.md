@@ -13,7 +13,7 @@ tags:
 su un nuovo standard **aperto** chiamato ["wave
 protocol"](http://www.waveprotocol.org/). Questo standard dovrebbe
 rivoluzionare la comunicazione via mail, fondendola con l'instant messaging ed
-altri strumenti di collaborazione. Gia ho parlato di Google Wave in [questo
+altri strumenti di collaborazione. già ho parlato di Google Wave in [questo
 post](http://www.diegor.it/2009/11/18/howto-piccoli-trucci-per-google-wave/).
 Il wave e un concetto difficile da capire,** almeno inizialmente**. Senza
 provare a spiegartelo ti consiglio la visione di questo breve video che mostra

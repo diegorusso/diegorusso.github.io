@@ -7,12 +7,9 @@ categories:
 - job
 tags: []
 ---
-Finalmente e arrivato anche il mio momento!!!
+Finalmente è arrivato anche il mio momento!!!
 
-[]({{site.url}}/images/vacaciones.jpg "vacaciones.jpg" )
-
-[![vacaciones.jpg]({{site.url}}/images/vacaciones.jpg)]({{site.url}}/images/va
-caciones.jpg "vacaciones.jpg" )
+[![vacaciones.jpg]({{site.url}}/images/vacaciones.jpg){: .align-center}]({{site.url}}/images/vacaciones.jpg "vacaciones.jpg" )
 
   
 Ci vediamo il 17 di agosto!!! Hasta pronto gente!!!!

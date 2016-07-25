@@ -14,7 +14,5 @@ categories:
 - ubuntu
 tags: []
 ---
-[Veramente divertenti. Guardateli! :)](http://www.usingmac.com/2007/11/16/mac-
-pc-and-linux-hit-youtube "http://www.usingmac.com/2007/11/16/mac-pc-and-linux-
-hit-youtube" )
+[Veramente divertenti. Guardateli! :)](http://www.usingmac.com/2007/11/16/mac-pc-and-linux-hit-youtube "http://www.usingmac.com/2007/11/16/mac-pc-and-linux-hit-youtube" )
 

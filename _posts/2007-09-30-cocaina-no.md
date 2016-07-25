@@ -13,6 +13,8 @@ tags: []
 ---
 Un bel video anti-cocaina del governo spagnolo.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZUSO7AfJU6I" frameborder="0" allowfullscreen></iframe>
+
 Qui la traduzione:
 
 _Ti voglio,  

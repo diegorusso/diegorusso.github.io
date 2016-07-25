@@ -5,8 +5,6 @@ categories:
 tags: []
 ---
 ... ci sono altri tipi di pagamento, ovviamente! :)  
-[]({{site.url}}/images/soldi.jpg "soldi" )  
 
-[![soldi]({{site.url}}/images/soldi.jpg)]({{site.url}}/images/soldi.jpg
-"soldi" )
+[![soldi]({{site.url}}/images/soldi.jpg){: .align-center}]({{site.url}}/images/soldi.jpg "soldi" )
 

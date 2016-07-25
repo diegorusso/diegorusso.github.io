@@ -16,8 +16,6 @@ post](http://osrevolution.wordpress.com/2007/07/20/15-regole-per-un-blog-di-
 suc-cesso/ "http://osrevolution.wordpress.com/2007/07/20/15-regole-per-un-
 blog-di-suc-cesso/" ).
 
-
-
   1. **Non seguite nessuna delle prossime regole.**
   2. Usate contenuti di moda, parlate di cose che al momento sono popolarissime anche andando offtopic.
   3. Associate qualsiasi argomento alle parole " _pornografia, sesso, et simili _"
@@ -34,26 +32,12 @@ blog-di-suc-cesso/" ).
   14. Usate sempre Licenze che non permettono derivati ma solo link a voi.
   15. Mettete in blacklist di moderazione i nomi o blog di persone gradite.
   
+**Personalmente seguo solo la prima!!!!** :P
 
-** Personalmente seguo solo la prima!!!! :P**
-
-Ed intanto [Simone](http://ubuntista.wordpress.com/
-"http://ubuntista.wordpress.com/" )
-[se](http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-1030-italiane-
-arrivo-a-san-francisco/ "http://ubuntista.wordpress.com/2007/07/18/18-luglio-
-ore-1030-italiane-arrivo-a-san-francisco/" )
-[ne](http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-2030-italiane-
-incontro-con-philip/ "http://ubuntista.wordpress.com/2007/07/18/18-luglio-
-ore-2030-italiane-incontro-con-philip/" )
-[sta](http://ubuntista.wordpress.com/2007/07/20/20-luglio-
-ore-1530-ore-0030-italiane-21-luglio-addio-googleplex/
-"http://ubuntista.wordpress.com/2007/07/20/20-luglio-
-ore-1530-ore-0030-italiane-21-luglio-addio-googleplex/" )
-[in](http://ubuntista.wordpress.com/2007/07/19/19-luglio-ore-0400-italiane-
-fantastico/ "http://ubuntista.wordpress.com/2007/07/19/19-luglio-
-ore-0400-italiane-fantastico/" )
-[America](http://ubuntista.wordpress.com/2007/07/19/20-luglio-
-ore-530-ore-1430-italiane-alba-al-golden-gate/
-"http://ubuntista.wordpress.com/2007/07/19/20-luglio-
-ore-530-ore-1430-italiane-alba-al-golden-gate/" )!
+Ed intanto [Simone](http://ubuntista.wordpress.com/ "http://ubuntista.wordpress.com/" )
+[se](http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-1030-italiane-arrivo-a-san-francisco/ "http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-1030-italiane-arrivo-a-san-francisco/" )
+[ne](http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-2030-italiane-incontro-con-philip/ "http://ubuntista.wordpress.com/2007/07/18/18-luglio-ore-2030-italiane-incontro-con-philip/" )
+[sta](http://ubuntista.wordpress.com/2007/07/20/20-luglio-ore-1530-ore-0030-italiane-21-luglio-addio-googleplex/ "http://ubuntista.wordpress.com/2007/07/20/20-luglio-ore-1530-ore-0030-italiane-21-luglio-addio-googleplex/" )
+[in](http://ubuntista.wordpress.com/2007/07/19/19-luglio-ore-0400-italiane-fantastico/ "http://ubuntista.wordpress.com/2007/07/19/19-luglio-ore-0400-italiane-fantastico/" )
+[America](http://ubuntista.wordpress.com/2007/07/19/20-luglio-ore-530-ore-1430-italiane-alba-al-golden-gate/ "http://ubuntista.wordpress.com/2007/07/19/20-luglio-ore-530-ore-1430-italiane-alba-al-golden-gate/" )!
 

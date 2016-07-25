@@ -20,7 +20,7 @@ tags: []
 Eccoci qua, come al solito a** scrivere l'ultimo post dell'anno**. Quoto
 totalmente [tutto quello che ho scritto lo scorso
 anno](http://www.diegor.it/2008/12/31/2-minuti-al-giorno-auguriiiii/). Dunque
-non sto a ripetere qui quello gia detto... mi sento un po' come Paganini! :P
+non sto a ripetere qui quello già detto... mi sento un po' come Paganini! :P
 
 Quello che vorrei dire in questo post e un po' più "egoistico" rispetto a
 quello dello scorso anno. Infatti vorrei fare considerazioni totalemente

@@ -78,7 +78,7 @@ chiave pubblica nel server remoto** tramite il seguente comando:
     # scp id_rsa.pub username@server.remoto:/home/username/.ssh/authorized_keys
 
   
-**Questo comando sovrascrive il file authorized_keys** nel server remoto. Se vuoi aggiungere la tua chiave ad altre gia esistenti fa in questo modo:
+**Questo comando sovrascrive il file authorized_keys** nel server remoto. Se vuoi aggiungere la tua chiave ad altre già esistenti fa in questo modo:
 
   1. copia la chiave sul server remoto
     

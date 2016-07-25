@@ -11,7 +11,7 @@ tags:
 - howto
 - test
 ---
-Ho gia discusso [qui](http://www.diegor.it/2009/06/15/howto-
+Ho già discusso [qui](http://www.diegor.it/2009/06/15/howto-
 wordpress-2-8-e-tinymce-dove-e-finito/) e
 [qui](http://www.diegor.it/2009/07/13/howto-wordpress-2-8-1-e-tinymce-eccolo-
 di-nuovo/) sull'utilita di Gears su alcuni siti e/o piattaforme.

@@ -1,5 +1,5 @@
 ---
-title: Chi non ha un ca**o da fare! - The Luke Johnson Phone Experiment
+title: Chi non ha un ca\*\*o da fare! - The Luke Johnson Phone Experiment
 categories:
 - car
 - video

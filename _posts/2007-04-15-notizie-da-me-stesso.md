@@ -71,7 +71,7 @@ dimenticate da Dio. Anche qui.. serata.. anzi nottata magnifica. Arrivati
 verso le 2 di notte ci siamo messi costume e ci siamo immersi in queste
 vasche. La temperatura dell'acqua si aggirava intorno ai 40°. Un vera figata.
 Relax completo, qualche birretta, due risate, qualche chiacchiera. Fortuna che
-non c'èra il BARBAGIANNI! La partenza verso le 4:30 per una colazione
+non c'era il BARBAGIANNI! La partenza verso le 4:30 per una colazione
 all'etrusca ed un rientro a casa con il sole alto. Questi piaceri in SL non
 credo che si provino! :)
 

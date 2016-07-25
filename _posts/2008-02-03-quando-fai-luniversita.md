@@ -13,7 +13,7 @@ tags: []
 ---
 Quando fai l'universita, le superiori sembrano così lontane.  
 Quando fai l'universita, ti accorgi che prima non avevi visto niente.  
-Quando fai l'universita, ti senti grande, quando la finisci ti senti gia un
+Quando fai l'universita, ti senti grande, quando la finisci ti senti già un
 po' vecchio.  
 Quando arrivi all'universita ti senti spaesato, ma dopo due giorni gia
 organizzi una cena.  

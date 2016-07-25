@@ -8,7 +8,7 @@ tags: []
 E' da un po' che la sto frequentando, ora mi ci trovo bene. Credevo che
 [dopo l'altra storia]({{site.url}}/2007/01/29/lettera-di-addio), non
 ne avrei trovata una così! :) Sono proprio contentissimo ed ora ho deciso di
-presentarvela (anche se qualcuno di voi gia la conosce). Ecco qui il mio nuovo
+presentarvela (anche se qualcuno di voi già la conosce). Ecco qui il mio nuovo
 amore!!
 
 [![]({{site.url}}/images/IMG_0713.JPG){: .align-center}]({{site.url}}/images/IMG_0713.JPG)

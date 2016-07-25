@@ -23,7 +23,7 @@ In questo post però vorrei condividere la mia esperienza dell'acquisto
 dell'ultimo modello di **MacBook Pro 15''**. Essendo iscritto regolarmente
 alla laurea specialistica in Informatica, ho pensato di usufruire di questo
 sconto. Cosi sono andato sul sito Apple ed ho visto che a questo indirizzo
-<http://store.apple.com/it-edu/> c'è lo store con gia applicati gli sconti
+<http://store.apple.com/it-edu/> c'è lo store con già applicati gli sconti
 Education.
 
 **NOTA: tutti i prezzi saranno arrotondati all'unita di euro, tralasciando i centesimi. Questione di comodita :)**
@@ -61,7 +61,7 @@ problemi**. Inoltre ho personalizzato il MBP con l'Hi-res glossy e
 l'adattatore mini-display to VGA.
 
 Appena finita la personalizzazione, Thomas fa i suoi conti dicendomi che
-riesce a **togliermi ulteriori 40€ circa dal prezzo gia scontato**. Il prezzo
+riesce a **togliermi ulteriori 40€ circa dal prezzo già scontato**. Il prezzo
 finale così e diventato così **di 1691€**. Wow!
 
 Dunque per fare un rapido conto del risparmio, qui di seguito faro riferimento

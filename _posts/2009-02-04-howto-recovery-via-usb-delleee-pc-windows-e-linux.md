@@ -26,7 +26,7 @@ ripristinare il sistema alle condizioni originali:
 Creeremo una penna usb bootabile che permettera di:
 
   * **Creare immagini di ripristino**
-  * **Ripristinare immagini gia create **(come quella contenuta nel dvd Asus)
+  * **Ripristinare immagini già create **(come quella contenuta nel dvd Asus)
   
 
   
@@ -43,7 +43,7 @@ Seguite i segeunti passi:
   9. A questo punto aprite _"HPUSBFW.EXE"_
   10. Sotto la voce Device selezionate la vostra penna usb. Come file system selezionate FAT32 (se disponibile, altrimenti FAT16). Volume label quello che volete. Checkate la casella _"Create a DOS startup disk"_, _"Using DOS system files located at:"_ selezionate il disco che avete creato prima con _"vfdwin.exe"._ Ora clickate su Start.
   11. Al termine della procedura, aprite la cartella di nome _"Cartella"_ contenuta nell'archivio, e copiatene tutto il contenuto nella penna usb. ATTENZIONE: Assicuratevi di avere impostato la visualizzazione dei file nascosti, in modo da poter copiare anche i file che non vedete. Sostituite i file esistenti se richiesto.
-  12. a) Se avete gia un file di recovery **.GHO**, copiatelo nella penna e riavviate il computer avviandolo dalla periferica usb. Seguendo le istruzioni di Norton Ghost sarete in grado di ripristinare lo stato del computer dal file che avete caricato.  
+  12. a) Se avete già un file di recovery **.GHO**, copiatelo nella penna e riavviate il computer avviandolo dalla periferica usb. Seguendo le istruzioni di Norton Ghost sarete in grado di ripristinare lo stato del computer dal file che avete caricato.  
 b) Se non avete ancora un file di ripristino, riavviate comunque il computer
 avviandolo da periferica usb, e tramite il Norton Ghost che si avviera, sarete
 in grado di creare un file di ripristino.

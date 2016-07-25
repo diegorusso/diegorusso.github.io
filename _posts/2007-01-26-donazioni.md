@@ -28,7 +28,7 @@ _"... Si stima normalmente che vi sia bisogno di __40 unità__ di sangue l'anno 
 1000 persone, cioe circa 2.400.000 unita per la sola Italia. Attualmente
 invece l'Italia ne raccoglie __33 l'anno__. Non è dunque in grado di soddisfare il
 proprio fabbisogno, ed occorre importare sangue da altre nazioni. Alcune
-regioni sono gia autosufficienti, ad esempio l'Emilia-Romagna ha raggiunto il
+regioni sono già autosufficienti, ad esempio l'Emilia-Romagna ha raggiunto il
 livello di 60 unita. Vi sono inoltre alcune isole felici, cioe singole città
 dove, grazie al radicamento nel territorio di una o più associazioni locali,
 si è raggiunta l'autosufficienza..."_  

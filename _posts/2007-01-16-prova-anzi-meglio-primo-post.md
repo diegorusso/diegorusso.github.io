@@ -14,7 +14,7 @@ chiuso per non uso) e speriamo che vada bene.
   
 Ho avuto problemi per trovare il titolo del blog, ma grazie a Giacomo (vedi il
 link nella sezione "Blog di amici") e a Serena sono arrivato a questo titolo:
-"Funny Weasel". Ora come ora vi starete chiedendo?!? E che ca**o centra una
+"Funny Weasel". Ora come ora vi starete chiedendo?!? E che ca\*\*o centra una
 donnola (anche buffa) con un blog? Ora rispondo.  
   
 L'idea e partita dal blog di Giacomo; come si può notare il titolo di quel
@@ -61,11 +61,11 @@ aggettivo mi e stato suggerito da Serena; ecco le prove
 (01/15/2007 10:21:28 PM) serena: d'accordo!    
 (01/15/2007 10:21:28 PM) diegor: "funny weasel"    
 (01/15/2007 10:21:35 PM) serena: e inutile e ridondante    
-(01/15/2007 10:21:38 PM) diegor: gia    
+(01/15/2007 10:21:38 PM) diegor: già    
 (01/15/2007 10:22:04 PM) serena: allora il primo argomento del tuo blog potrebbe essere la nascita del suo nome!    
 (01/15/2007 10:22:05 PM) serena: :)    
 (01/15/2007 10:22:22 PM) diegor: infatti    
-(01/15/2007 10:22:31 PM) diegor: gia ci avevo pensato    
+(01/15/2007 10:22:31 PM) diegor: già ci avevo pensato    
 (01/15/2007 10:22:41 PM) diegor: ovviamente menzionero sia te, che Giacomo    
 (01/15/2007 10:22:42 PM) diegor: :)    
 (01/15/2007 10:22:47 PM) serena: :)

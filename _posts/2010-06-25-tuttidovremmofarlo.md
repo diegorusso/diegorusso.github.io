@@ -18,7 +18,7 @@ spazio tra le parole! :)
 
 Quello che ho scritto nel titolo del post,
 [tuttidovremmofarlo](http://www.tuttidovremmofarlo.it/), e l'indirizzo di un
-sito per promuovere la donazione del sangue. Se gia doni sangue, **coinvolgi
+sito per promuovere la donazione del sangue. Se già doni sangue, **coinvolgi
 più amici possibili** a fare questo gesto, semplice ma pur sempre
 indispensabile e grande. Se invece non sei ancora donatore, o hai intenzione
 di farlo, **rivolgiti alla Avis più vicina** per avere tutte le informazioni

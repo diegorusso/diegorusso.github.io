@@ -16,7 +16,7 @@ spagnolo! :)
 .jpg)
 
   
-I biglietti sono gia stati prenotati... manca solo l'alloggio ed il corso.
+I biglietti sono già stati prenotati... manca solo l'alloggio ed il corso.
 Bene bene bene.  
   
 España, aribamos!!! :)

@@ -36,7 +36,7 @@ ci ha fermato e ci ha detto di pensarci su, con calma. La risposta sarebbe
 stata il discorso della prossima cena.
 
 E' un giorno intero che penso ad una risposta degna di nota, ma non ci sono
-ancora riuscito. **Tu che risposta daresti?** Ti dico gia da subito di evitare
+ancora riuscito. **Tu che risposta daresti?** Ti dico già da subito di evitare
 banalismi, ma scendere nel profondo della semantica della frase ed
 interpretarla come noi "umani" possiamo fare! :)
 

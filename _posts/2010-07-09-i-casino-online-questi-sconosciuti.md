@@ -46,7 +46,7 @@ statal**i, si sta prendendo in seria considerazione la legalizzazione del
 gioco online, state tutti pronti ad un nuovo assalto alla diligenza da parte
 di operatori vecchi e nuovi. Preparati a banner pubblicitari ossessionanti ed
 invadenti, alle facce dei nostri migliori sportivi quali testimonial di questo
-o quel casino (tanto gia ne fanno poche di pubblicita).
+o quel casino (tanto già ne fanno poche di pubblicita).
 
 Ed ora vorrei farti alcune domande a riguardo (puoi rispondere nei commenti):
 

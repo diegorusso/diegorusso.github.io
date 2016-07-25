@@ -14,7 +14,7 @@ Eh si, **da oggi inizio la dieta**. Vorrei utilizzre questo blog anche come i
 vecchi tempi, scrivendo cose personali. Tranquillo, non smettero di scrivere
 howto o altro! :)
 
-Dopo un anno passato a mangiare (Cristo sa quanto ca**o ho mangiato) ho deciso
+Dopo un anno passato a mangiare (Cristo sa quanto ca\*\*o ho mangiato) ho deciso
 che perdere qualche chiletto mi dovrebbe fare bene. Se ancora stai leggendo ti
 chiederai: _"Basta fare attivita fisica!"_ Si e vero, serve anche quella, **ma
 non basta**. Se accanto però non ci metti una dieta equilibrata, sana e

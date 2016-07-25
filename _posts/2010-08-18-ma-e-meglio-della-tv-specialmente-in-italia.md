@@ -34,7 +34,7 @@ dall'antenna in poi. La TV e uno strumento **passivo**.
 
 Lui dice che la TV era una ottima scelta quando:
 
-  1. non c'èra niente altro da fare
+  1. non c'era niente altro da fare
   2. quando tutti guardavano la stessa cosa, lo dovevi fare anche tu per essere educato
   
 
@@ -105,7 +105,7 @@ anche grazie a loro che l'Italiano medio non sa l'inglese.
 
 Ultimamente solo con la TV satellitare si hanno più possibilita di avere
 accesso ad informazioni "globali". **Ma sono sicuro che lo fanno solo le
-persone che sono "gia sveglie" e che gia "hanno gli stimoli adatti".**
+persone che sono "gia sveglie" e che già "hanno gli stimoli adatti".**
 
 **[![]({{site.url}}/images/aispickinglisc.jpg)]({{site.url}}/images/aispickinglisc.jpg)**
 

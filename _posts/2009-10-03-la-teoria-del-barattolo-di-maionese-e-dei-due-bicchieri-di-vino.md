@@ -10,7 +10,7 @@ categories:
 tags:
 - test
 ---
-Non e mio solito pubblicare storielle gia scritte da altri, però questa mi ha
+Non e mio solito pubblicare storielle già scritte da altri, però questa mi ha
 colpito particolarmente. Spero ti piaccia :)
 
 _Un professore, prima di iniziare la sua lezione di filosofia, pose alcuni

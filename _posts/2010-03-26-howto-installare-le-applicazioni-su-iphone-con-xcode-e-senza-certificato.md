@@ -32,7 +32,7 @@ l'applicazione da te sviluppata nel tuo iPhone. Segui questi passi:
 
   
 
-  5. Chiudi e **salva** il file per poi riposizionarlo nella sua cartella di origine sostituendo quello gia presente. Se viene chiesta la password, inseriscila per permettere l'operazione.
+  5. Chiudi e **salva** il file per poi riposizionarlo nella sua cartella di origine sostituendo quello già presente. Se viene chiesta la password, inseriscila per permettere l'operazione.
   6. Ogni volta che  farai un nuovo progetto con XCode dovrai stare attento ad effettuare delle piccole modifiche. Appena hai creato un nuovo progetto per iPhone fai doppio clic sul suo nome. Ti apparira la seguente finestra: 
 
 [![]({{site.url}}/images/xcode_iphone3.png)]({{site.url}}/images/xcode_iphone3

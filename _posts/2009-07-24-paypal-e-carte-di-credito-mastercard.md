@@ -64,7 +64,7 @@ banca che a PayPal. Questa la risposta **della mia banca:**
     
     
     
-    Come gia comunicato con messaggio del  03/04/2009 (che per immediatezza si  
+    Come già comunicato con messaggio del  03/04/2009 (che per immediatezza si  
     
     riporta in calce), si ricorda che le Carte Prepagate in oggetto possono  
     

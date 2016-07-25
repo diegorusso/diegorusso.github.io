@@ -18,7 +18,7 @@ questi buoni possono essere usati con le seguenti condizioni:
   
 
   
-Purtroppo ho gia usufruito di buoni offerti da Google dunque non posso usare
+Purtroppo ho già usufruito di buoni offerti da Google dunque non posso usare
 questi in mio possesso. Per non buttarli via li voglio regalare ai due più
 fortunati che parteciperanno a questo contest! :)
 

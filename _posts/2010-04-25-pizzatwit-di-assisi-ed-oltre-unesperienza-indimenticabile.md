@@ -77,7 +77,7 @@ molti "vicini di casa":
 [@solomiri](http://twitter.com/solomiri),
 [@sliderburn](http://twitter.com/sliderburn),
 [@l_allegrucci](http://twitter.com/l_allegrucci),
-[@pabloberbell](http://twitter.com/pabloberbell) gia li conoscevo! :)
+[@pabloberbell](http://twitter.com/pabloberbell) già li conoscevo! :)
 
 **Q: Quali sono state le chicche di questa giornata?  
 A:** E qui la parte più bella. Per iniziare nel pomeriggio con i toscani prima
@@ -122,7 +122,7 @@ ritorno si sono uniti a noi anche [@mike_mad](http://twitter.com/mike_mad) con
 il suo fedele amico Ben. Sono stato veramente bene, e credo anche gli altri.
 
 **Q: La vuoi fare una nota in più sulle magliette?  
-A:** Certo, mi sembra d'obbligo. Se hai gia seguito la vicenda, sai che il
+A:** Certo, mi sembra d'obbligo. Se hai già seguito la vicenda, sai che il
 ricavato sarebbe andato ad [acumenfund.org](http://www.acumenfund.org).
 Fortunatamente le magliette sono andate **tutte a ruba** e grazie a (vado in
 ordine che ho sul foglio) @[mikiplus](http://twitter.com/mikiplus),

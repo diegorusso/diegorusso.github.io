@@ -13,7 +13,7 @@ tags:
 ---
 **31 dicembre 2008.** Molti non sanno come considerare questo giorno. E' festivo o feriale? La verita sta nel mezzo. E' meta feriale perché passi mezza giornata a lavorare come qualsiasi altro giorno e meta festivo perché occupi l'altra meta a pensare: "_Come e andato questo anno? Come sara il nuovo anno? Quali sorprese/disgrazie mi aspetteranno nel 2009. Prometto che nel 2009 saro migliore, faro questo, faro quello, cambiero etc etc etc_"  
 Insomma le classiche domande e i classici propositi che il 2 gennaio dell'anno
-dopo (**ovvero solo due giorni dopo**) ti sei gia dimenticato o addirittura
+dopo (**ovvero solo due giorni dopo**) ti sei già dimenticato o addirittura
 subito non rispettato.  
 Dunque non aspetto il 31 dicembre per farmi domande sulla mia vita passata e
 futura. Non aspetto questo giorno per dire che saro migliore, che diventero

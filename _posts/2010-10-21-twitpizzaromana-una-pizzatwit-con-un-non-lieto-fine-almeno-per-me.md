@@ -30,7 +30,7 @@ della capitale.
 La serata e stata piacevole, **molto**. Ho conosciuto persone in gamba,
 stimolanti, intelligenti, simpatiche. Il locale era altrettanto buono. Durante
 la serata ho avuto occasione di conoscere meglio alcuni "personaggi" che
-seguivo o che gia ne avevo sentito parlare:
+seguivo o che già ne avevo sentito parlare:
 [@fedemenni](http://twitter.com/#!/fedemenni),
 [@jarjar55](http://twitter.com/#!/jarjar55),
 [@Jovanz74](http://twitter.com/#!/jovanz74),
@@ -39,8 +39,8 @@ seguivo o che gia ne avevo sentito parlare:
 [@federina](http://twitter.com/#!/federina),
 [@la__splendida](http://twitter.com/#!/@la__splendida),
 [@boemo83](http://twitter.com/#!/boemo83),
-[@elmook](http://twitter.com/#!/elmook).  Con noi c'èra anche
-[@tomjoad70](http://twitter.com/#!/tomjoad70), che gia conoscevo per la
+[@elmook](http://twitter.com/#!/elmook).  Con noi c'era anche
+[@tomjoad70](http://twitter.com/#!/tomjoad70), che già conoscevo per la
 #pizzatwit di #milano. Un saludo a los españoles
 [@parigi_sett](http://twitter.com/#!/parigi_sett) (venezuelana) y
 [@osmin_LE](http://twitter.com/#!/osmin_LE) (cubano): con ellos hable un

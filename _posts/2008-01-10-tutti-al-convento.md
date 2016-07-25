@@ -36,7 +36,7 @@ D.:"Qui per me va bene... spe che mi rigiro"
 ** D.:"Spe.. e li cosa e? [Convento... Ristorante.. Croce.. Country... House... mmm.. Andiamo li!!](http://www.conventodisantacroce.com/ "http://www.conventodisantacroce.com/" )"**
 
 Giusto per rimanere sul leggero tagliere di formaggi, cinghiale e maiale.
-**Eravamo soli, non c'èra nessuno.** Ogni tanto si vedeva passare qualche
+**Eravamo soli, non c'era nessuno.** Ogni tanto si vedeva passare qualche
 losco individuo che salutava... ovviamente contraccambiavamo per non essere
 maleducati.  
 Prima che arrivasse la ciccia, una minuta ragazza si avvicina al nostro

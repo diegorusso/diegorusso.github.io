@@ -58,7 +58,7 @@ _Numero identificativo: xxxxxxx_
 
 Il **7 agosto 2009 (seconda data)** dopo leggo sul sito di 3Italia che lo
 stato della mia portabilita e sullo stato: "annullata dal cliente" Ma che
-ca**o dicono?!? Io non ho annullato un bel niente!!!
+ca\*\*o dicono?!? Io non ho annullato un bel niente!!!
 
 Appena letta questa cosa ho chiamato di nuovo il 133 e l'operatore mi ha detto
 che la Tim e restia a lasciare i propri clienti. Mi ha chiesto se avevano
