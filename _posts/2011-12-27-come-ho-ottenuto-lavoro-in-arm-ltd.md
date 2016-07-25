@@ -49,7 +49,7 @@ bene, a livello di lavoro, colleghi, stimoli. Il lato economico/contrattuale
 pero non era molto soddisfacente.
 
 Arrivati a Giugno 2011, partecipo _all'Europython_, conferenza europea per il
-[Python](http://python.org/). In quella sede c'èrano molte aziende europee che
+[Python](http://python.org/). In quella sede c'erano molte aziende europee che
 assumevano. Io, giusto per iniziare ad esplorare un pochino, ho lasciato i
 miei CV ed ho subito avuto dei colloqui conoscitivi con tutte. Al ritorno di
 quella settimana ho fatto poi delle interviste al telefono.
@@ -69,7 +69,7 @@ La prima domanda che mi sono fatto e stata: **perché?** La seconda e stata:
 **perché no? **Decisi di "buttarmi" nonostante il mio inglese non perfetto (a
 Maggio avevo passato con merito il PET) e la mia non esperienza in colloqui al
 telefono, tantomeno in inglese. però non ero del tutto impreparato, poiché
-verso giugno gia avevo avuto altri due contatti tramite linkedin e per
+verso giugno già avevo avuto altri due contatti tramite linkedin e per
 quell'occasione avevo "studiato" utilizzando anche un bel corso venduto da
 [www.italiansinfuga.com](http://www.italiansinfuga.com/corso-inglese-
 colloquio-di-lavoro/) (te lo consiglio vivamente).
@@ -81,7 +81,7 @@ determinazione non e mancata e sono andato avanti. Infatti alla fine ho avuto
 anche il lusso di una scelta, **tripla**.
 
 La prima offerta che ho ricevuto era per una posizione di sviluppatore Python
-in una compagnia con base in Lussemburgo. Avevo questa offerta gia a meta
+in una compagnia con base in Lussemburgo. Avevo questa offerta già a meta
 luglio ma prima di rispondere volevo vedere dove arrivavano gli altri
 colloqui. Dovevo rispondere a questa azienda il **5 di Agosto 2011**
 
@@ -90,10 +90,10 @@ Nel frattempo ho fatto 3 colloqui tecnici con ARM, con differenti persone
 interviste, il mio recruiter mi chiama dicendo che il 2-3 Agosto dovevo andare
 a Cambridge alla sede principale di ARM per fare il colloquio face to face.
 Ancora me lo ricordo.. ero a casa da solo ed appena attaccato ho detto due
-parole: "Oh ca**o!" ripetuto svariate volte.
+parole: "Oh ca\*\*o!" ripetuto svariate volte.
 
 Intanto mi arriva un'altra proposta dalla Norvegia a cui non avevo dato peso,
-vuoi perché avevo gia un'offerta, vuoi perché avevo un colloquio face to face,
+vuoi perché avevo già un'offerta, vuoi perché avevo un colloquio face to face,
 vuoi perché ero sotto esami. Il recruiter insistette e vidi che la proposta
 veniva sempre da ARM ma con gli uffici in Norvegia. Mi chiesi: _quante
 possibilita ci sono che una persona a caso, che ha messo per caso il suo CV su

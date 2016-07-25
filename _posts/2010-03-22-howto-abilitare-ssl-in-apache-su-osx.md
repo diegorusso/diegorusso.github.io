@@ -12,7 +12,7 @@ tags:
 - apache
 - test
 ---
-In passato gia ho scritto [qualche](http://www.diegor.it/2010/01/21/howto-
+In passato già ho scritto [qualche](http://www.diegor.it/2010/01/21/howto-
 configurare-virtualhost-su-osx/) [cosa](http://www.diegor.it/2009/10/31/howto-
 installare-mod_wsgi-in-osx/) riguardante il server web
 [Apache](http://www.apache.org) integrato in OSX.  

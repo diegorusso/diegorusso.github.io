@@ -50,7 +50,7 @@ davvero. Per esempio, nei [libri](http://svnbook.red-bean.com/) di
 CVS/Subversion, branching e merging sono discussi solo negli ultimi capitoli
 (per utenti avanzati), mentre in [ogni](http://book.git-scm.com/)[
 libro](http://pragprog.com/titles/tsgit/pragmatic-version-control-using-git)
-di [Git](http://github.com/progit/progit) gia rientra nel capitolo 3 (basi).
+di [Git](http://github.com/progit/progit) già rientra nel capitolo 3 (basi).
 
 Come conseguenza della sua semplicita e natura ripetitiva, branching e merging
 non sono più qualcosa di cui aver paura. Strumenti di controllo di versione

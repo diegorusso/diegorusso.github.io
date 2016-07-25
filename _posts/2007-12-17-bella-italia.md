@@ -20,19 +20,15 @@ wikipedia](http://it.wikipedia.org/wiki/Economia_italiana
 "http://it.wikipedia.org/wiki/Economia_italiana" ), per aggiornarla ai giorni
 di oggi.
 
-  
-[]({{site.url}}/images/italiamia.jpg "Italia Mia" )
 
-[![Italia
-Mia]({{site.url}}/images/italiamia.jpg)]({{site.url}}/images/italiamia.jpg
-"Italia Mia" )
+[![Italia Mia]({{site.url}}/images/italiamia.jpg){: .align-center}]({{site.url}}/images/italiamia.jpg "Italia Mia" )
 
 Il bel Paese, [rapresentato nel web da una truffa](http://www.italia.it/
 "http://www.italia.it/" ), sta andando **in discesa**. Il problema che molti
-non se ne accorgono... ma più grave e che tanti lo sanno ma non lo vogliono
+non se ne accorgono... ma più grave è che tanti lo sanno ma non lo vogliono
 ammettere.
 
 Il post sembra essere pessimistico... ma per chi mi conosce (bene) sa che non
-e cosi.  
+è cosi.  
 _Ragazzi, facciamoci sentire!_  
 
