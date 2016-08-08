@@ -22,7 +22,7 @@ fedelmente tutti i luoghi della Basilica si San Francesco come la piazza
 inferiore e superiore, la Basilica superiore ed inferiore e perfino la tomba
 di San Francesco.
 
-[![assisi_sl]({{site.url}}/images/assisi_sl.jpg)]({{site.url}}/images/assisi_s
+[![assisi_sl]({{site.url}}/images/assisi_sl.jpg){: .align-center}]({{site.url}}/images/assisi_s
 l.jpg)_La piazza inferiore di Assisi... in Second Life! :)_
 
 Dunque non perdere l'occasione di parlare in diretta con il sindaco di Assisi,

@@ -11,8 +11,8 @@ categories:
 - book
 tags: []
 ---
-Come anticipato [qui](http://www.diegor.it/2009/03/18/howto-dropbox-condividi-
-i-tuoi-file/) e [qui](http://www.diegor.it/2009/03/20/howto-abilitare-
+Come anticipato [qui]({{site.url}}/2009/03/18/howto-dropbox-condividi-
+i-tuoi-file/) e [qui]({{site.url}}/2009/03/20/howto-abilitare-
 condivisione-schermo-su-osx-da-terminale/), vorrei finalmente raccontarvi
 quello che e successo al mio Macbook Pro.  
 Domenica 15 marzo, non avendo voglia di uscire, mi sono sdraiato sul divano e
@@ -20,7 +20,7 @@ con la mia dolce meta abbiamo deciso di vedere un film sul mio Macbook Pro.
 Dopo la visione del film, ha chiuso regolarmente il mio mac (come tutte le
 volte da novembre 2007 ad oggi). Dopo qualche ora, all'apertura... **schermo
 nero**. Essendo quasi ora della nanna ho giusto provato [i vari
-reset](http://www.diegor.it/2009/02/25/howto-reset-della-pram-nvram-e-pmu-nei-
+reset]({{site.url}}/2009/02/25/howto-reset-della-pram-nvram-e-pmu-nei-
 mac/) di routine, ma senza alcun esito positivo. Il computer funzionava
 perfettamente, ma il monitor era completamente nero. Cosi andai a dormire
 incazzato.
@@ -48,9 +48,9 @@ che ci volevano dai 7 ai 10 giorni lavorativi per la sostituzione del pezzo.
 
 Prima di consegnarlo ho però effettuato un backup di tutti i dati attraverso
 la Condivisione Schermo ([descritta nel precedente
-post](http://www.diegor.it/2009/03/20/howto-abilitare-condivisione-schermo-su-
+post]({{site.url}}/2009/03/20/howto-abilitare-condivisione-schermo-su-
 osx-da-terminale/)) e mettendo i file dell'universita su
-[DropBox](http://www.diegor.it/2009/03/18/howto-dropbox-condividi-i-tuoi-
+[DropBox]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-
 file/)
 
 Il giorno lunedi 23 marzo mi arriva una mail dicendo che il mio macbook pro

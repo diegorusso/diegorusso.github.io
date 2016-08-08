@@ -31,7 +31,7 @@ quando ho provato ad installare [ustream.tv](http://ustream.tv) per Nokia
 aperto dei ticket sul sito di ustream e l'unica cosa che mi hanno suggerito di
 fare e:
 
-  * aggiornare l'OS del dispositivo: **fatto** (vedi [qui](http://www.diegor.it/2009/08/29/howto-sbrandizzare-il-nokia-e71/))
+  * aggiornare l'OS del dispositivo: **fatto** (vedi [qui]({{site.url}}/2009/08/29/howto-sbrandizzare-il-nokia-e71/))
   * aggiornare data ed ora sul dispositivo: **fatto** (aggiornata con l'ora dell'operatore)
   * cancellare la vecchia applicazione: **mai installata**
   * avere abbastanza spazio: **3.7GB bastano?**
@@ -49,6 +49,6 @@ arrivato ad una conclusione che mi ha risolto il problema:
   
 
   
-Se hai altri problemi o altre soluzioni [scrivimi](http://www.diegor.it/chi-e-
+Se hai altri problemi o altre soluzioni [scrivimi]({{site.url}}/chi-e-
 diegor/) o commenta qui sotto! :)
 

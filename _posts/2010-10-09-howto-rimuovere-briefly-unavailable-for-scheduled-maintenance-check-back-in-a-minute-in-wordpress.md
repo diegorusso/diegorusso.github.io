@@ -19,7 +19,7 @@ punto vedo però qualche cosa che non va. Qualsiasi pagina chiamavo del mio
 sito (anche dell'admin) mi compariva il seguente messaggio: **"Briefly
 unavailable for scheduled maintenance. Check back in a minute."**
 
-[![]({{site.url}}/images/maintenance.png)]({{site.url}}/images/maintenance.png
+[![]({{site.url}}/images/maintenance.png){: .align-center}]({{site.url}}/images/maintenance.png
 )
 
   

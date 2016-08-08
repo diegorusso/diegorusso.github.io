@@ -10,7 +10,7 @@ Tranquillo, non mi sono scordato del report (anche se non e diventato più
 settimanale :). Ho avuto quest'ultimo periodo un po' più impegnato del solito,
 ma non per questo non ho rispettato la mia dieta. In verita qualche vizio e
 qualche cena me la sono tolta. Ci sono state: un pranzo di pesce a Villa Rosa,
-[una cena di pesce a Bettona](http://www.diegor.it/2009/07/03/cosa-ci-
+[una cena di pesce a Bettona]({{site.url}}/2009/07/03/cosa-ci-
 aspettiamo-dallinformatica/), varie cene in taverna per [la festa
 Rinascimentale ad Acquasparta.](http://www.ilrinascimentoadacquasparta.it/)
 

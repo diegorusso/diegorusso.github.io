@@ -29,6 +29,6 @@ Un altro chiletto di sicurezza e poi inizio con una dieta di mantenicmento che
 non e altro una giusta alimentazione.
 
 Ci sentiamo a presto per ulteriori aggiornamenti! :) Ah.. ovviamente se vuoi
-scambiare due chiacchiere, [contattami](http://www.diegor.it/chi-e-diegor/)!
+scambiare due chiacchiere, [contattami]({{site.url}}/chi-e-diegor/)!
 :)
 

@@ -62,7 +62,7 @@ qui](http://twitter.com/#!/marcoMenu/twit-pizza-romana), sul profilo di
 
 Terminata la cena, la consueta foto di gruppo.
 
-[![]({{site.url}}/images/twitpizzaromana.jpg)]({{site.url}}/images/twitpizzaro
+[![]({{site.url}}/images/twitpizzaromana.jpg){: .align-center}]({{site.url}}/images/twitpizzaro
 mana.jpg)
 
   

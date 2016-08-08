@@ -16,7 +16,7 @@ categories:
 - personale
 tags: []
 ---
-Come puoi vedere [dal precedente post](http://www.diegor.it/2010/07/30/vendo-
+Come puoi vedere [dal precedente post]({{site.url}}/2010/07/30/vendo-
 iphone-3gs-16gb-nero/), ho venduto il mio iPhone 3GS. Per venderlo ho adottato
 il metodo dell'asta privata e per dargli un po' di visibilita oltre a
 pubblicarla qui sul mio blog, ho deciso di provare a pubblicarlo sugli
@@ -30,18 +30,18 @@ questo strano offerente (Clicca sulle immagini per ingrandirle)
 
 I commenti li mettero sotto le varie immagini.
 
-[![]({{site.url}}/images/01mail.png)]({{site.url}}/images/01mail.png)  
+[![]({{site.url}}/images/01mail.png){: .align-center}]({{site.url}}/images/01mail.png)  
 Fin qui nulla di strano, tranne che per **l'italiano un po' "strano".**
 
 * * *
 
-[![]({{site.url}}/images/02mail.png)]({{site.url}}/images/02mail.png)  
+[![]({{site.url}}/images/02mail.png){: .align-center}]({{site.url}}/images/02mail.png)  
 Rispondo senza problemi all'indirizzo **liveitlikenever@hotmail.com** (Live it
 like never) dandogli tutte le info che voleva sapere.
 
 * * *
 
-[![]({{site.url}}/images/03mail.png)]({{site.url}}/images/03mail.png)  
+[![]({{site.url}}/images/03mail.png){: .align-center}]({{site.url}}/images/03mail.png)  
 A questo punto lui mi risponde con un altro indirizzo di posta elettronica
 **listen2russel@hotmail.com**. Mmm.. 500€, non male! Il mio target era di
 venderlo intorno alle 400€ (il prezzo su ebay in media ho visto che era
@@ -49,16 +49,16 @@ quello). Ma quanto costano le spese di spedizione? :)
 
 * * *
 
-[![]({{site.url}}/images/04mail.png)]({{site.url}}/images/04mail.png)  
+[![]({{site.url}}/images/04mail.png){: .align-center}]({{site.url}}/images/04mail.png)  
 Ancora non capisco che potrebbe essere una truffa e vado avanti..
 
 * * *
 
-[![]({{site.url}}/images/05mail.png)]({{site.url}}/images/05mail.png)
+[![]({{site.url}}/images/05mail.png){: .align-center}]({{site.url}}/images/05mail.png)
 
 * * *
 
-[![]({{site.url}}/images/06mail.png)]({{site.url}}/images/06mail.png)  
+[![]({{site.url}}/images/06mail.png){: .align-center}]({{site.url}}/images/06mail.png)  
 Qui ho fatto tutte le verifiche del caso. EMS in Italia lo gestisce [Poste
 Italiane](http://www.poste.it/postali/pacchi_estero/internazionale.shtml).
 **500€-63€ di spedizione sono 437€. Beh buono.** Cosi in buona fede gli chiedo
@@ -66,18 +66,18 @@ anche se voleva inviare una nota al suo nipote.
 
 * * *
 
-[![]({{site.url}}/images/07mail.png)]({{site.url}}/images/07mail.png)
+[![]({{site.url}}/images/07mail.png){: .align-center}]({{site.url}}/images/07mail.png)
 
 * * *
 
-[![]({{site.url}}/images/08mail.png)]({{site.url}}/images/08mail.png)  
+[![]({{site.url}}/images/08mail.png){: .align-center}]({{site.url}}/images/08mail.png)  
 Visto che avevo la scelta per il metodo di pagamento** ho deciso il bonifico
 bancario**. Semmai quello a rischio era lui. E poi PayPal aveva una trattenuta
 sull'importo scambiato :)
 
 * * *
 
-[![]({{site.url}}/images/09mail.png)]({{site.url}}/images/09mail.png)
+[![]({{site.url}}/images/09mail.png){: .align-center}]({{site.url}}/images/09mail.png)
 
 E qui arrivano i primi dubbi. Infatti prima di ricevere questa mail, ne ho
 ricevute altre due da Bank of America. Le mail sono abbastanza lunghe e le ho
@@ -97,7 +97,7 @@ mi quadravano:
   6. Inoltre grazie a qualche conoscenza tecnica ho analizzato i dati grezzi della mail ed ho scoperto qualche cosa di interessante. Guarda l'immagine sottostante.
   
 
-[![]({{site.url}}/images/bank1_raw.png)]({{site.url}}/images/bank1_raw.png)
+[![]({{site.url}}/images/bank1_raw.png){: .align-center}]({{site.url}}/images/bank1_raw.png)
 
 Praticamente e stato cambiato il campo _"from"_ della mail ma l'indirizzo di
 partenza della mail non e stato cambiato. Infatti si vede che la mail e stata
@@ -118,15 +118,15 @@ Ce l'ho voluto far credere.. ed intanto prendevo tempo.
 
 * * *
 
-[![]({{site.url}}/images/11mail.png)]({{site.url}}/images/11mail.png)
+[![]({{site.url}}/images/11mail.png){: .align-center}]({{site.url}}/images/11mail.png)
 
 * * *
 
-[![]({{site.url}}/images/12mail.png)]({{site.url}}/images/12mail.png)
+[![]({{site.url}}/images/12mail.png){: .align-center}]({{site.url}}/images/12mail.png)
 
 * * *
 
-[![]({{site.url}}/images/13mail.png)]({{site.url}}/images/13mail.png)
+[![]({{site.url}}/images/13mail.png){: .align-center}]({{site.url}}/images/13mail.png)
 
 * * *
 
@@ -141,7 +141,7 @@ Translate. Eh certo, ora te lo spedisco il pacco, non ti preoccupare! :)
 
 * * *
 
-[![]({{site.url}}/images/16mail.png)]({{site.url}}/images/16mail.png)
+[![]({{site.url}}/images/16mail.png){: .align-center}]({{site.url}}/images/16mail.png)
 
 []({{site.url}}/images/16mail.png)Presa per il culo a go-go! :)
 
@@ -150,7 +150,7 @@ truffa. Miriam mi ha fatto notare anche anche un'altra persona e stata vittima
 di una truffa, poiché aveva fatto un twit particolare. Questa persona (d'ora
 in poi Mister Twit), ha fatto questo twit:
 
-[![]({{site.url}}/images/twit.png)]({{site.url}}/images/twit.png)
+[![]({{site.url}}/images/twit.png){: .align-center}]({{site.url}}/images/twit.png)
 
 Non ho potuto che piegarmi in due dalle risate! Cosi ho contattato Mister Twit
 per chiedergli se mi dava una mano a scrivere questo post. Infatti dopo la mia
@@ -235,7 +235,7 @@ Rimango a Sua disposizione per ogni questione._
 A questo punto arriva direttamente il pagamento PayPal, come questa
 sottostante:
 
-[![]({{site.url}}/images/misterx_paypal.jpg)]({{site.url}}/images/misterx_payp
+[![]({{site.url}}/images/misterx_paypal.jpg){: .align-center}]({{site.url}}/images/misterx_payp
 al.jpg)
 
 Dopo di cio ho la conferma matematica che e una fregatura colossale ed invio

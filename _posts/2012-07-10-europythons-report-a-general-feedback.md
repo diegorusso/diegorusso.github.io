@@ -60,7 +60,7 @@ Schedule busy, very busy but with regular break: one in the morning, lunch,
 and another break in the afternoon. So good timing. Nothing to say. Maybe yes,
 but after.
 
-[![]({{site.url}}/images/ep2012.jpg)]({{site.url}}/images/ep2012.jpg)
+[![]({{site.url}}/images/ep2012.jpg){: .align-center}]({{site.url}}/images/ep2012.jpg)
 
 **Duration**  
 I think that organisers thought enough to optimise everything in one week: 5
@@ -104,7 +104,7 @@ would have paid it. So what's the problem? My solution is to give the free
 access to everyone and a free cocktail just to whom had the pass. The terrace
 was big enough to host more and more people.
 
-[![]({{site.url}}/images/tagcocktail.jpg)]({{site.url}}/images/tagcocktail.jpg
+[![]({{site.url}}/images/tagcocktail.jpg){: .align-center}]({{site.url}}/images/tagcocktail.jpg
 )
 
 _Nice view from Cocktail Terrace_
@@ -130,7 +130,7 @@ Google, Red Hat, 10Gen, BitBucket, Python Academy, DemonWare, Enthought,
 Gymglish and many others. All of them were there to promote python in their
 own company and to hire talented people. For whom looks for a job it's been a
 great opportunity. More or less, last year my adventure began with Europython
-([read more here](http://www.diegor.it/2011/12/27/how-ive-got-a-job-at-arm-
+([read more here]({{site.url}}/2011/12/27/how-ive-got-a-job-at-arm-
 ltd/)). You could stop by in front the desk of the company, have a chat, give
 your CV, solve the crazy puzzles and take home some nice gadget. I WANTED THE
 RED HAT but the only way to have it is working for Red Hat :)  

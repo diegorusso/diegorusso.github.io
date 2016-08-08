@@ -7,7 +7,7 @@ categories:
 - thoughts
 tags: []
 ---
-[Sul precedente post](http://www.diegor.it/2009/06/30/aruba-it-e-il-
+[Sul precedente post]({{site.url}}/2009/06/30/aruba-it-e-il-
 fantomatico-spazio-web-illimitato/trackback) ho messo l'avviso che
 [Aruba.it](http://www.aruba.it) mi ha inviato per posta elettronica. Le
 considerzioni le ho già fatte. Qui voglio mettere la conversazine avuta con i
@@ -49,10 +49,10 @@ Purtroppo e un periodo abbastanza pieno e non ho assolutamente voglia di
 combattere per delle battaglie perse.
 
 Se dovro condividere qualche cosa con te, lo faro tramite
-[DropBox](http://www.diegor.it/2009/03/18/howto-dropbox-condividi-i-tuoi-
+[DropBox]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-
 file/). già ne ho parlato sul mio blog e molte volte mi e ritornato utile.
 Dunque ti chiedo semplicemente di aprire un account
-[DropBox](http://www.diegor.it/2009/03/18/howto-dropbox-condividi-i-tuoi-
+[DropBox]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-
 file/) cliccando su [questo
 link:](https://www.getdropbox.com/referrals/NTc0ODcyNzk) in questo modo **mi
 regalerai 265MB di spazio DropBox in più.**

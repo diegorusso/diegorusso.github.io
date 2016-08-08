@@ -18,7 +18,7 @@ Italia. Tutti i siti registrati presso di lui per qualche giorno hanno una
 pagina di default come la seguente:
 
 [![aruba-riservato]({{site.url}}/images/aruba-
-riservato.png)]({{site.url}}/images/aruba-riservato.png)
+riservato.png){: .align-center}]({{site.url}}/images/aruba-riservato.png)
 
 Fin qui nulla di male. Ma se vai su una di queste pagine noterai che e molto
 lunga ed apparentemente non c'è scritto niente. Se scorri la pagina vedrai
@@ -26,7 +26,7 @@ solo spazio bianco. Prova invece a selezionare come se ci fosse del testo..
 vedrai che in effetti c'è scritto qualche cosa! :)
 
 [![aruba-signcode]({{site.url}}/images/aruba-
-signcode1.png)]({{site.url}}/images/aruba-signcode1.png)
+signcode1.png){: .align-center}]({{site.url}}/images/aruba-signcode1.png)
 
 Come vedi dall'immagine e come se fosse una firma digitale lunghissima. Dunque
 per vedere un po' di domini appena registrati metti su google questa stringa:

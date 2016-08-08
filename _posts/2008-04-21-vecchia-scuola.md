@@ -6,8 +6,7 @@ categories:
 - photography
 tags: []
 ---
-[![]({{site.url}}/images/big-mac-class.jpg)]({{site.url}}/images/big-mac-
-class.jpg)
+[![]({{site.url}}/images/big-mac-class.jpg){: .align-center}]({{site.url}}/images/big-mac-class.jpg)
 
-_C'e chi ancora la preferisce! :)_
+_C'è chi ancora la preferisce! :)_
 

@@ -14,7 +14,7 @@ tags:
 ---
 Eh si, es la verdad. Simplemente mira la imagen a continuacion y.. **piensa**.
 
-[![]({{site.url}}/images/facebook_shit.jpg)]({{site.url}}/images/facebook_shit
+[![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit
 .jpg)
 
 Ahora preguntate a ti mismo la motivacion.. **¿donde esta el error?** ¿En

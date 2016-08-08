@@ -28,6 +28,6 @@ integrato. Segui i passi sottostanti per utilizzarlo:
 
   
 Con questi semplici 3 passi puoi mettere il tuo server DHCP con OSX. Come al
-solito se hai problemi [contattami](http://www.diegor.it/chi-e-diegor/) oppure
+solito se hai problemi [contattami]({{site.url}}/chi-e-diegor/) oppure
 commenta il post! :)
 

@@ -25,7 +25,7 @@ radio) vedere chi e collegato in quel canale, premere il tasto e parlare con
 le persone di quel canale. Ovviamente **la comunicazione e half-duplex**, come
 nella comunicazione classica radioamatoriale.
 
-[![tilimi_logo]({{site.url}}/images/tilimi_logo.png)]({{site.url}}/images/tili
+[![tilimi_logo]({{site.url}}/images/tilimi_logo.png){: .align-center}]({{site.url}}/images/tili
 mi_logo.png)_  
 Logo di Tilimi_
 
@@ -55,6 +55,6 @@ scheda audio funzionanti sotto Linux**, poiché wine "si appoggia" ai driver
 audio di Linux.
 
 Se hai domande, delucidazioni, correzioni, sugerimenti o altro, commenta
-oppure [contattami](http://www.diegor.it/chi-e-diegor/). Saro felice di
+oppure [contattami]({{site.url}}/chi-e-diegor/). Saro felice di
 rispondere. :)
 

@@ -15,12 +15,12 @@ categories:
 tags: []
 ---
 Eccomi qua, il giorno dopo della fantastica [#pizzatwit di
-#assisi](http://www.diegor.it/pizzatwit-assisi/). Un bel post e d'obbligo
+#assisi]({{site.url}}/pizzatwit-assisi/). Un bel post e d'obbligo
 anche se e difficile scrivere la bellissima giornata di ieri. **Forse il mio
 post e diverso dal solito**. Si, perché chi sta scrivendo ha organizzato
 questo evento, dunque ha una visione ben diversa e più ampia di quello che e
 successo. Per quanto riguarda tutta l'organizzazione della #pizzatwit puoi
-leggere tranquillamente [questa pagina](http://www.diegor.it/pizzatwit-
+leggere tranquillamente [questa pagina]({{site.url}}/pizzatwit-
 assisi/) (non c'è più il link, ma la pagina esistera per sempre! :)
 
 Vorrei condividere con te quello che ho provato e passato nell'organizzazione
@@ -34,7 +34,7 @@ leggibile.
 ** A:** "Ed oltre.." puo significare molte cose. Spero che ogni partecipante della #pizzatwit di Assisi identifichi questo "ed oltre.." con qualche cosa di personale e speciale. Se lo vuoi sapere chiediglielo direttamente: [la lista dei partecipanti e qui!](http://twitter.com/diegor/pizzatwit-assisi/members) **Per me e stato organizzarla e vederla realizzare**: una cosa stupenda!
 
 **Q: É stato semplice organizzarla?**  
-** A:** Risposta breve: **No!** Risposta lunga: dipende da quello che ti aspetti e da quanta passione ci metti. Bisogna dotarsi di buoni strumenti, di molta pazienza e di voglia di fare. Come dicevo sul [post precedente](http://www.diegor.it/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/),** l'importante e che ti diverta** nel farlo. Questa e la cosa più importante. Vedrai che di conseguenza farai divertire anche gli altri. Volevo che questa pizzatwit desse ad ogni partecipate un qualcosa di unico ed indimenticabile. Credo di essere riuscito nel mio intento, almeno in buona parte.
+** A:** Risposta breve: **No!** Risposta lunga: dipende da quello che ti aspetti e da quanta passione ci metti. Bisogna dotarsi di buoni strumenti, di molta pazienza e di voglia di fare. Come dicevo sul [post precedente]({{site.url}}/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/),** l'importante e che ti diverta** nel farlo. Questa e la cosa più importante. Vedrai che di conseguenza farai divertire anche gli altri. Volevo che questa pizzatwit desse ad ogni partecipate un qualcosa di unico ed indimenticabile. Credo di essere riuscito nel mio intento, almeno in buona parte.
 
 **Q: Ma hai fatto tutto da solo?  
 A: **Ovviamente no! Fortunatamente ho avuto molte persone vicino che mi hanno
@@ -85,7 +85,7 @@ e con i pugliesi dopo siamo andati a **fare una bella passeggiata per tutta
 Assisi**. Anche se il tempo non e stato dei migliori, non ci siamo fatti
 intimidire! :) Seconda cosa: **lo streaming live dei twit**. Grazie al buon
 [@jibbolo](http://twitter.com/jibbolo) che tramite una pagina personalizzata
-([disponibile qui per il download](http://www.diegor.it/download/)) ed il suo
+([disponibile qui per il download]({{site.url}}/download/)) ed il suo
 proiettore ha visualizzato a muro tutto lo streaming dei twit che avevano come
 hashtag [#pizzatwit](http://search.twitter.com/search?q=pizzatwit). Il
 risultato e stato molto gradito sia da parte dei twitteri presenti che da
@@ -96,7 +96,7 @@ connessione a tutti i presenti** tramite hotspot gratuito. In ultimo.. rullo
 di tamburi... **le magliette ufficiali della #pizzatwit di #assisi**!!! Grazie
 [@_Gel_](http://twitter.com/_gel_) ed a [@linux29](http://twitter.com/linux29)
 che hanno realizzato il logo e stato possibile la realizzazione di queste
-megliette. Tutta la vicenda e [raccontata qui](http://www.diegor.it/pizzatwit-
+megliette. Tutta la vicenda e [raccontata qui]({{site.url}}/pizzatwit-
 assisi/#magliette-menu).
 
 **Q: So che ci sono stati dei record. Quali sono?  
@@ -144,7 +144,7 @@ avuto). Grazie a tutti voi per aver partecipato a questa giusta causa. **La
 donazione sara però di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
 seguito la prova della donazione:
 
-[![]({{site.url}}/images/donazione-acumen.png)]({{site.url}}/images/donazione-
+[![]({{site.url}}/images/donazione-acumen.png){: .align-center}]({{site.url}}/images/donazione-
 acumen.png)
 
   
@@ -162,7 +162,7 @@ tavolo**. Dunque se in futuro ti capita di andare ad una #pizzatwit.. fallo,
 senza pensarci due volte. Vedrai che non te ne pentirai! :)
 
 **Q: Per concludere?  
-A:** Nella sezione [download](http://www.diegor.it/download/) del sito potrei
+A:** Nella sezione [download]({{site.url}}/download/) del sito potrei
 trovare le mie foto e quelle di [@mike_mad](http://twitter.com/mike_mad)
 (intanto) e se gli altri fotografi me le invieranno potrai trovarne anche
 altre! Qui trovi anche [il mio set su
@@ -172,7 +172,7 @@ eh!**
 
 Spero di aver detto tutto. Grazie a tutti, di cuore.
 
-Per qualsiasi cosa, [sono a disposizione!](http://www.diegor.it/chi-e-diegor/)
+Per qualsiasi cosa, [sono a disposizione!]({{site.url}}/chi-e-diegor/)
 
 ** **
 

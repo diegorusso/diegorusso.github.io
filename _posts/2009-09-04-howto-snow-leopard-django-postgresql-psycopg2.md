@@ -54,5 +54,5 @@ Seguendo questi semplici passi avrai la tua piattaforma in django e postgres
 per sviluppare le tue web-application.
 
 Come al solito se hai problemi e/o suggerimenti, commenta oppure
-[contattami](http://www.diegor.it/chi-e-diegor/)
+[contattami]({{site.url}}/chi-e-diegor/)
 

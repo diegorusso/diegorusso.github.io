@@ -53,7 +53,7 @@ che dovra diventare:
 
   4. Ora configura il tuo VirtualHost seguendo [questa documentazione](http://httpd.apache.org/docs/2.0/mod/core.html#virtualhost)
   5. Riavvia Apache per fargli rileggere la configurazione. Per fare cio vai sulle **"Preferenze di Sistema -> Condivisione"  
-[![]({{site.url}}/images/apache.png)]({{site.url}}/images/apache.png) **
+[![]({{site.url}}/images/apache.png){: .align-center}]({{site.url}}/images/apache.png) **
 
   6. **Disabilita ed abilita** la condivisione Web cliccando sul segno di spunta.
   7. Apri il tuo browser e testa il corretto funzionamento dei VirtualHost

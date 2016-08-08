@@ -17,7 +17,7 @@ Senza fare troppi giri di parole vi incollo qui una chattata con un mio amico:
 (01/20/2007 06:09:27 PM) marco c.: una curiosita'  
 (01/20/2007 06:09:34 PM) marco c.: te la sei creata tu questa immagine?  
 (01/20/2007 06:09:56 PM) diegor: leggi qui la risposta  
-(01/20/2007 06:09:58 PM) diegor: http://www.diegor.it/2007/01/20/ma-come-hai-fatto  
+(01/20/2007 06:09:58 PM) diegor: {{site.url}}/2007/01/20/ma-come-hai-fatto  
 (01/20/2007 06:10:20 PM) marco c.: ok! ;)  
 (01/20/2007 06:10:28 PM) diegor: :)  
 (01/20/2007 06:10:44 PM) diegor: poi dimme cosa ne pensi  

@@ -7,7 +7,7 @@ categories:
 - thoughts
 tags: []
 ---
-[![]({{site.url}}/images/luciano.jpg)]({{site.url}}/images/luciano.jpg)
+[![]({{site.url}}/images/luciano.jpg){: .align-center}]({{site.url}}/images/luciano.jpg)
 
-... voglio stare solo un po' in silenzio.
+...voglio stare solo un po' in silenzio.
 

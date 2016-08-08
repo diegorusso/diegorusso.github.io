@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 Risposta del servizio clienti 3Italia alla mail contenuta in [ due post
-fa](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-
+fa]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-
 quarto-tempo/):
 
 _"Gentile Sig. Russo,  

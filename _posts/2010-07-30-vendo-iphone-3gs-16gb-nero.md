@@ -53,7 +53,7 @@ Ricapitolando, avrai:
 Di seguito delle foto per capire cosa comprerai (le foto sono tutte in alta
 risoluzione e non modificate).
 
-[![]({{site.url}}/images/iPhone3.jpg)]({{site.url}}/images/iPhone3.jpg)
+[![]({{site.url}}/images/iPhone3.jpg){: .align-center}]({{site.url}}/images/iPhone3.jpg)
 
 Dunque, **buona "asta"!!** :) Per qualsiasi domanda/dubbio/delucidazione non
 esitare a contattarmi.
@@ -65,7 +65,7 @@ Eccolo un importante aggiornamento riguardante la vendita di questo telefono.
 Infatti mi ero completamente scordato di inserire tra gli accessori anche il
 porta iPhone da auto. Nella foto sottostante puoi vedere come e:
 
-[![]({{site.url}}/images/porta_iPhone.jpg)]({{site.url}}/images/porta_iPhone.j
+[![]({{site.url}}/images/porta_iPhone.jpg){: .align-center}]({{site.url}}/images/porta_iPhone.j
 pg)
 
 _Porta iPhone da auto_

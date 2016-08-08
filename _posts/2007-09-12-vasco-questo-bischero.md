@@ -28,7 +28,7 @@ Rusticana"](http://commons.wikimedia.org/wiki/Category:Cavalleria_Rusticana
 Mascagni](http://it.wikipedia.org/wiki/Pietro_Mascagni
 "http://it.wikipedia.org/wiki/Pietro_Mascagni" ), apri il concerto.
 Fantastico! Da rimanere senza parole! [La scaletta è rimasta invariata
-rispetto al tour estivo.](http://www.diegor.it/2007/06/29/arrivederci-roma/
+rispetto al tour estivo.]({{site.url}}/2007/06/29/arrivederci-roma/
 "http://diegor.wordpress.com/2007/06/29/arrivederci-roma/" )  
 
 **Un piccola impressione su Vasco:** l'ho visto **veramente stanco..** lo vedevo dai suoi occhi. [E' stato male](http://vascorossi.cmp.it/pubblico/webpress.dll?CgiAction=ViewNew&IdNotizia=2154&NumRighe=5&IdCategoria=2&searchString= "http://vascorossi.cmp.it/pubblico/webpress.dll?CgiAction=ViewNew&IdNotizia=2154&NumRighe=5&IdCategoria=2&searchString=" ), ma [si è ripreso](http://vascorossi.cmp.it/pubblico/webpress.dll?CgiAction=ViewNew&IdNotizia=2155&NumRighe=5&IdCategoria=2&searchString= "http://vascorossi.cmp.it/pubblico/webpress.dll?CgiAction=ViewNew&IdNotizia=2155&NumRighe=5&IdCategoria=2&searchString=" ) per la data zero a Cosenza. Non ne sono convito. _Ha fatto un concerto fantastico_... ma secondo me gli e pesato più del solito.

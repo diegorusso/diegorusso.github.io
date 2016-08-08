@@ -12,8 +12,8 @@ categories:
 tags: []
 ---
 Era il **29 gennaio del 2007**, il giorno che scrissi [la mia lettera di
-addio](http://www.diegor.it/2007/01/29/lettera-di-addio/), per dare il
-benvenuto al [mio nuovo amore](http://www.diegor.it/2007/03/12/il-mio-nuovo-
+addio]({{site.url}}/2007/01/29/lettera-di-addio/), per dare il
+benvenuto al [mio nuovo amore]({{site.url}}/2007/03/12/il-mio-nuovo-
 amore/). Oggi, **20 dicembre 2009**, sono alle stesse condizioni di quasi 3
 anni fa.
 
@@ -39,7 +39,7 @@ dovro far smantellare, ti dovro lasciare al tuo triste destino. Purtroppo le
 cose non durano per sempre e devo rassegnarmi. Addio mia piccola amica, ci
 mancherai!"_
 
-[![]({{site.url}}/images/addio_escort.jpg)]({{site.url}}/images/addio_escort.j
+[![]({{site.url}}/images/addio_escort.jpg){: .align-center}]({{site.url}}/images/addio_escort.j
 pg)
 
   

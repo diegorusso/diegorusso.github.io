@@ -26,7 +26,7 @@ una serie di siti informativi, con le [recensioni dei
 casino](http://www.casinorecensioni.com) e mille diverse offerte per bonus dei
 casino che invitino a giocare.
 
-[![]({{site.url}}/images/casino.jpg)]({{site.url}}/images/casino.jpg)
+[![]({{site.url}}/images/casino.jpg){: .align-center}]({{site.url}}/images/casino.jpg)
 
   
 Dichiarati illegali fino a qualche anno fa, ormai uno dopo l'altro tutti gli

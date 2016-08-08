@@ -15,7 +15,7 @@ oltre a vedere il marchio dell'operatore sul cellulare implica anche una serie
 di software ed impostazioni che l'operatore ha imposto nel cellulare che tu
 non puoi cambiare.
 
-Ad esempio il [mio Nokia E71](http://www.diegor.it/2008/12/14/e71/) e
+Ad esempio il [mio Nokia E71]({{site.url}}/2008/12/14/e71/) e
 brandizzato [Tim](http://www.tim.it). Ha una serigrafia nella parte anteriore
 e delle applicazioni Tim al suo interno. Altro aspetto negativo e che quando
 c'è un aggiornamento firmware del telefono, bisogna sempre aspettare quello

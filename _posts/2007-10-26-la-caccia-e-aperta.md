@@ -8,5 +8,5 @@ categories:
 tags: []
 ---
 
-[![Viaaa]({{site.url}}/images/zerooooo.jpg)]({{site.url}}/images/zerooooo.jpg "Viaaa" )
+[![Viaaa]({{site.url}}/images/zerooooo.jpg){: .align-center}]({{site.url}}/images/zerooooo.jpg "Viaaa" )
 

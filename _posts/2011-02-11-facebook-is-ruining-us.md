@@ -11,7 +11,7 @@ tags:
 ---
 Yep, it's true. Simply look below image and.. **think**.
 
-[![]({{site.url}}/images/facebook_shit.jpg)]({{site.url}}/images/facebook_shit
+[![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit
 .jpg)
 
 Now ask yourself the reason.. **where is the fault?** In Facebook or in people

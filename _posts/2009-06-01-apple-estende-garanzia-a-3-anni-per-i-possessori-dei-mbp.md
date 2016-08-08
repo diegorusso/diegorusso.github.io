@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 Vi ricordate e ["Il curioso caso del MacBook
-Pro"](http://www.diegor.it/2009/03/25/il-curioso-caso-del-macbook-pro/)? Bene!
+Pro"]({{site.url}}/2009/03/25/il-curioso-caso-del-macbook-pro/)? Bene!
 Oggi apprendo che la Apple ha esteso la garanzia **da due a tre anni** per
 tutti quei macbook pro aventi la scheda video 8600M GT (tra cui anche il mio).
 

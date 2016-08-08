@@ -79,6 +79,6 @@ iPhone.
 
 Ecco questo e quello che ho risposto. Come lui anche altre persone potrebbero
 avere domande simili. Dunque se hai domande
-[contattami](http://www.diegor.it/chi-e-diegor/) e saro felice di risponderti
+[contattami]({{site.url}}/chi-e-diegor/) e saro felice di risponderti
 e magari integrarle in questo post! :)
 

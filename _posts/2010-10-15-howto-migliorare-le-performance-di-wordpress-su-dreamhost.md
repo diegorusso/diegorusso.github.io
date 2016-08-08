@@ -13,7 +13,7 @@ tags:
 [DreamHost](http://www.dreamhost.com/) e l'hosting che ospita questo blog ed
 altri miei progetti. É molto affidabile, serio e ti da molti servizi che qui
 in Italia ci sogniamo! Se vuoi leggere le differenze tra Aruba e DreamHost,
-[accomodati](http://www.diegor.it/2009/10/10/da-aruba-a-dreamhost/)! Gli unici
+[accomodati]({{site.url}}/2009/10/10/da-aruba-a-dreamhost/)! Gli unici
 svantaggi che hanno sono due: ping a 200ms (hanno il datacenter a Los Angeles)
 e la **non registrazione** di domini **.it **(io uso
 [misterdomain.eu](http://www.misterdomain.eu/)). Ovviamente nel pannello puoi
@@ -23,7 +23,7 @@ Da quanto sono su DH, ho usato molte volte l'assistenza online: hanno una chat
 e **nove volte su dieci ti risolvono il problema**. Inoltre sono molto
 preparati tecnicamente.
 
-[![]({{site.url}}/images/dh_logo.png)]({{site.url}}/images/dh_logo.png)
+[![]({{site.url}}/images/dh_logo.png){: .align-center}]({{site.url}}/images/dh_logo.png)
 
 _Logo di DreamHost_
 

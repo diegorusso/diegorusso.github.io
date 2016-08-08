@@ -9,14 +9,13 @@ tags: []
 ---
 Non voglio essere ne polemico, ne brontolone sul questo mondo che non va. Anzi
 vorrei segnalarvi questo nuovo servizio. Si chiama
-[erepublik](http://www.erepublik.com/ "http://www.erepublik.com/" ) ed e un
+[erepublik](http://www.erepublik.com/ "http://www.erepublik.com/" ) ed è un
 simulatore politico-economico-militare. E' web-based ed il suo punto di forza
-e che ci vogliono solo pochi minuti al giorno per starci dietro. E' veramente
+è che ci vogliono solo pochi minuti al giorno per starci dietro. E' veramente
 ben fatto. Per diventare citadino di questo nuovo mondo devi solo rispettare
 10 semplici regole (in inglese):
 
-[![]({{site.url}}/images/logo-erepublik.gif)]({{site.url}}/images/logo-
-erepublik.gif)
+[![]({{site.url}}/images/logo-erepublik.gif){: .align-center}]({{site.url}}/images/logo-erepublik.gif)
 
   1. All citizens are born free and equal in dignity and rights.
   2. No citizen should oppress another citizen
@@ -28,8 +27,6 @@ erepublik.gif)
   8. Freedom of press is absolute (without breaking the 7th rule)
   9. Every citizen has the right to choose if he will participate in a fight or not.
   10. The economic system is based on the market economy and all the citizens have to act according to the fair competition, demand and supply rules
-  
-
   
 Io sono **"diegor"** e se entrate aggiungetemi alla vosta lista di amici. Vi
 aspetto!

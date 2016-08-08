@@ -58,5 +58,5 @@ Segui questi semplici passi:
 
   
 Il procedimento e un po' contorto, dunque se incappi in qualche problemino
-[contattami](http://www.diegor.it/chi-e-diegor/) e commenta! :)
+[contattami]({{site.url}}/chi-e-diegor/) e commenta! :)
 

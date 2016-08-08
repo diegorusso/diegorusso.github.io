@@ -72,7 +72,7 @@ gliene avrei dette quattro. Tutto tace!
 
 **Oggi 14 agosto 2009**, ovviamente la portabilita non e stata effettuata ed il numero Tim funziona come sempre. Mi reco così sul sito della 3Italia per vedere lo stato della richiesta della portabilita ed e in questo stato:
 
-[![portabilita_tre]({{site.url}}/images/portabilita_tre.png)]({{site.url}}/ima
+[![portabilita_tre]({{site.url}}/images/portabilita_tre.png){: .align-center}]({{site.url}}/ima
 ges/portabilita_tre.png)
 
 Tutto e magicamente cambiato: sia lo stato della richiesta che la data

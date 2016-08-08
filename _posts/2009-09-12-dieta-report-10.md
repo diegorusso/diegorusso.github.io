@@ -6,7 +6,7 @@ categories:
 tags: []
 ---
 É passato poco più di un mese [dall'ultimo
-post](http://www.diegor.it/2009/08/08/dieta-report-9/) sulla mia dieta.
+post]({{site.url}}/2009/08/08/dieta-report-9/) sulla mia dieta.
 Purtroppo questa volta non ho buone nuove. Mi ero promesso di perdere un chilo
 (anche qualche cosina di più) ma ahime non e andata proprio cosi. Infatti non
 ho perso un bel niente, anzi** ho rimesso su 1,5KG**, ritornando così ad

@@ -10,7 +10,7 @@ categories:
 - job
 tags: []
 ---
-[![]({{site.url}}/images/cambridge_ARM.jpg)]({{site.url}}/images/cambridge_ARM
+[![]({{site.url}}/images/cambridge_ARM.jpg){: .align-center}]({{site.url}}/images/cambridge_ARM
 .jpg)[  
 ]({{site.url}}/images/cambridge_ARM.jpg)_Stay tuned!_
 

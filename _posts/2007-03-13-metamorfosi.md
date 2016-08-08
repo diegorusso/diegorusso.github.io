@@ -19,7 +19,7 @@ anche io. Guardate un po' cosa mi e successo?
 {: .text-center}
   
 Qui mi hanno detto che assomiglio un po' al mondo... persino a Serpico!!!
-[![]({{site.url}}/images/serpico.gif)]({{site.url}}/images/serpico.gif)
+[![]({{site.url}}/images/serpico.gif){: .align-center}]({{site.url}}/images/serpico.gif)
 Dite che gli assomigliavo? Forse lui e un pochino meglio! :)
 
 

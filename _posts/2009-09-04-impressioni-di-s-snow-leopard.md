@@ -50,5 +50,5 @@ I prossimi post sicuramente saranno dedicati a problematiche riscontrate con
 Snow Leopard e a possibili soluzioni o work-around.
 
 Dimenticavo.. se hai domande, problemi o altro reativi a Snow Leopard, beh...
-[sai dove trovarmi!](http://www.diegor.it/chi-e-diegor/) :)
+[sai dove trovarmi!]({{site.url}}/chi-e-diegor/) :)
 

@@ -16,8 +16,8 @@ sapere la risposta continua a leggere! Finalmente domani, mercoledi 27 giugno
 2007, andrò al concerto di Vasco.
 
 Non ci posso credere. Ho ancora tutta l'euforia
-dell'**_[Heineken Jammin' Festival](http://www.diegor.it/2007/02/19/heineken-jammin-festival/ "http://www.diegor.it/2007/02/19/heineken-jammin-festival/" )_...**
-[**_mancato per una tromba d'aria._**](http://www.diegor.it/2007/06/16/porco-d/ "http://www.diegor.it/2007/06/16/porco-d/" )
+dell'**_[Heineken Jammin' Festival]({{site.url}}/2007/02/19/heineken-jammin-festival/ "{{site.url}}/2007/02/19/heineken-jammin-festival/" )_...**
+[**_mancato per una tromba d'aria._**]({{site.url}}/2007/06/16/porco-d/ "{{site.url}}/2007/06/16/porco-d/" )
 
 A pensare che quando Serena mi propose di accompagnarla alla data di Roma,
 neanche volevo accettare. Fortunatamente non l'ho fatto.

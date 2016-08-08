@@ -5,7 +5,7 @@ categories:
 - private
 tags: []
 ---
-Dopo [l'ultima visita](http://www.diegor.it/2009/10/06/dieta-
+Dopo [l'ultima visita]({{site.url}}/2009/10/06/dieta-
 report-11-e-vaiii/), mi ero promesso di perdere qualche cosina. **Cosi non e
 stato.** Il giorno** 2009-10-16** la bilancia segnava **78.5Kg**, un chilo in
 più rispetto all'ultima volta. Questo non indica che sono aumentato.. Il 25

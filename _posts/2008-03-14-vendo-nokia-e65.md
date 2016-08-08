@@ -16,8 +16,8 @@ tags:
 - test
 ---
 Avete letto bene. Vendo il mio cellulare. Qui ho scritto [il mio primo
-post](http://www.diegor.it/2007/06/13/e65/
-"http://www.diegor.it/2007/06/13/e65/" ) con questo fantastico cellulare... no
+post]({{site.url}}/2007/06/13/e65/
+"{{site.url}}/2007/06/13/e65/" ) con questo fantastico cellulare... no
 mi correggo... e più che un cellulare. [Qui potete trovare tutte le
 informzioni e le caratteristiche del prodotto.](http://www.nokia.it/A4486488
 "http://www.nokia.it/A4486488" ) Prima di elencare le specifiche tecniche
@@ -26,7 +26,7 @@ perché lo vendo... sicuramente nel prossimo post! :)
 Il cellulare e stato acquistato dal sottoscritto il **12 giugno 2007** al
 Mediaworld. E' stato sempre trattato con cura ed attenzione: non a caso **non
 presenta alcuna riga evidente sulla scocca** e non e mai subito urti violenti.
-**Il cellulare NON e brandizzato**, ovvero non presenta brand di operatori
+**Il cellulare NON è brandizzato**, ovvero non presenta brand di operatori
 telefonici (questo e abbastanza importante poiché il firmware del dispositivo
 non e storcato da quest'ultimi). _Inoltre e coperto fino ad un anno da una
 polizza contro furto (max 300€), danni accidentati (max 40€) ed uso
@@ -37,17 +37,16 @@ due anni. Altra cosa importante e che il giocattolino non e importato
 dall'estero, ma era destinato fin dall'inizio al mercato Italiano. _**A molti
 puo fare comodo, dunque ho deciso di regalarvi anche il caricabatteria da
 auto: utile per chi viaggia spesso.**_ Qui sotto metto una foto:
+  
 
-[]({{site.url}}/images/nokiae65.jpg "e65" )  
-
-[![e65]({{site.url}}/images/nokiae65.jpg)]({{site.url}}/images/nokiae65.jpg
+[![e65]({{site.url}}/images/nokiae65.jpg){: .align-center}]({{site.url}}/images/nokiae65.jpg
 "e65" )
 
   
 Nelle specifiche tecniche evidenzio con il grassetto ed il sottolineato le
 parti che secondo me sono importanti rispetto alle altre.
 
-** Principali caratteristiche:**
+**Principali caratteristiche:**
 
   * Utilizza al meglio la tua giornata di lavoro grazie a un'ampia scelta di funzionalita: chiamate in conferenza, registrazione vocale, blocco note, vivavoce integrato, suonerie personalizzate e Nokia Team Suite
   * Invia messaggi tramite SMS, MMS con liste di distribuzione, Instant Messaging (verificare la disponibilita del servizio con il proprio operatore) ed e-mail
@@ -62,9 +61,7 @@ parti che secondo me sono importanti rispetto alle altre.
 **Operativita:**
 
   * Quad-band: EGSM 850/900/1800/1900
-  * **_WCDMA 2100 (più veloce dell'UMTS)  
-_**
-
+  * **_WCDMA 2100 (più veloce dell'UMTS)_**
   * _**Chiamate VoIP via Wi-Fi (IEEE 802.11g e 802.11b standards)**_
   
 
@@ -193,21 +190,18 @@ _**
   * Caricabatterie da viaggio AC-4
   * _**Caricabatterie da auto**_
   * _**Adattatore MicroSD per PC**_
-  * _**Manuale di istruzioni in ITALIANO (con CD allegato)  
-**_
-
+  * _**Manuale di istruzioni in ITALIANO (con CD allegato)**_
   * Auricolare Nokia HS-5 (nero)
   * Cavo di connessione Nokia CA-53
   * Astuccio protettivo Nokia CP-18
   
 
 Se siete arrivati a leggere fin qui e perché vi interessa veramente questo
-cellulare eh... dunque non vi resta che contattarmi. [Trovate tutti i miei
-contatti qui](http://www.diegor.it/about/ "http://www.diegor.it/about/" ).
+cellulare eh... dunque non vi resta che contattarmi.
+[Trovate tutti i miei contatti qui]({{site.url}} "{{site.url}}" ).
 Seguendo la mia "filosofia di vendita" (vedi
-[notebook](http://www.diegor.it/2007/10/29/vendo-notebook/
-"http://www.diegor.it/2007/10/29/vendo-notebook/" ) e
-[RAM](http://www.diegor.it/2008/01/06/vendo-ram-per-notebook/
-"http://www.diegor.it/2008/01/06/vendo-ram-per-notebook/" )) vorrei che sia io
+[notebook]({{site.url}}/2007/10/29/vendo-notebook/
+"{{site.url}}/2007/10/29/vendo-notebook/" ) e
+[RAM]({{site.url}}/2008/01/06/vendo-ram-per-notebook/
+"{{site.url}}/2008/01/06/vendo-ram-per-notebook/" )) vorrei che sia io
 che tu (il futuro compratore) rimaniamo contenti della transazione.
-

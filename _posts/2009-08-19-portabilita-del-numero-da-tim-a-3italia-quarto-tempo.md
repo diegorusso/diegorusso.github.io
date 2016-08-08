@@ -22,7 +22,7 @@ un sms dicendomi che Tim non ha validato la richiesta?!? **Ma io non mollo.**
 Scrivo una mail al servizio clienti 3 dicendo (da notare gli errori nevrotici
 commessi nella mail):
 
-_"Come spiegato qui: http://www.diegor.it/2009/08/19/portabilita-del-numero-
+_"Come spiegato qui: {{site.url}}/2009/08/19/portabilita-del-numero-
 da-tim-a-3italia-terzo-tempo/_
 
 _Ieri ho chiamato la tima dando l'ok per eseguire la portabilita del numero.

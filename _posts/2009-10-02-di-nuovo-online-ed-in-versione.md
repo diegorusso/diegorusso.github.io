@@ -16,7 +16,7 @@ una lista piena di post da scrivere e non vedo l'ora di smaltirla un pochino!
 :)
 
 Ho approfittato della scadenza del dominio
-[www.diegor.it](http://www.diegor.it) per passare da
+[www.diegor.it]({{site.url}}) per passare da
 [www.aruba.it](http://www.aruba.it/) all'attuale
 [www.dreamhost.com](http://dreamhost.com/). Dunque ho dovuto eseguire tutto un
 lavoro di backup, spostamento e ripristino sia dei dati che delle immagini che
@@ -40,7 +40,7 @@ Visto che siamo in periodo di rinnovo oggi ho perso un po' di tempo per
 rimettere a posto anche il mio avatar. Spero ti piaccia! :)
 
 [caption id="" align="aligncenter" width="358" caption="diegor"][![diegor]({{s
-ite.url}}/images/diegor.png)]({{site.url}}/images/diegor.png)[/caption]
+ite.url}}/images/diegor.png){: .align-center}]({{site.url}}/images/diegor.png)[/caption]
 
 Per ora e tutto (più o meno). Ci sentiamo nei prossimi giorni! :)
 

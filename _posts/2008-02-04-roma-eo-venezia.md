@@ -8,8 +8,5 @@ categories:
 - photography
 tags: []
 ---
-[]({{site.url}}/images/vasco_live_2008_rev_fdv_fko.jpg "Vasco@2008" )
-
-[![Vasco@2008]({{site.url}}/images/vasco_live_2008_rev_fdv_fko.jpg)]({{site.ur
-l}}/images/vasco_live_2008_rev_fdv_fko.jpg "Vasco@2008" )
+[![Vasco@2008]({{site.url}}/images/vasco_live_2008_rev_fdv_fko.jpg){: .align-center}]({{site.url}}/images/vasco_live_2008_rev_fdv_fko.jpg "Vasco@2008" )
 

@@ -10,6 +10,6 @@ categories:
 tags:
 - italians
 ---
-[![]({{site.url}}/images/italiano_o_fottiti.jpg)]({{site.url}}/images/italiano
+[![]({{site.url}}/images/italiano_o_fottiti.jpg){: .align-center}]({{site.url}}/images/italiano
 _o_fottiti.jpg)
 

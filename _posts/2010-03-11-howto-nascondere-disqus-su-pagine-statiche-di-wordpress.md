@@ -54,7 +54,7 @@ modifiche:
 
   
 Come al solito se hai problemi, consigli o correzioni, commenta oppure
-[contattami](http://www.diegor.it/chi-e-diegor/)! :)
+[contattami]({{site.url}}/chi-e-diegor/)! :)
 
 Fonte: _[wordpress.org](http://wordpress.org/support/topic/320856)_
 

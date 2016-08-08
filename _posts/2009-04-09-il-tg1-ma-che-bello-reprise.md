@@ -7,12 +7,12 @@ categories:
 tags:
 - test
 ---
-Ovviamente [dopo i festeggiamenti](http://www.diegor.it/2009/04/09/il-tg1-ma-
+Ovviamente [dopo i festeggiamenti]({{site.url}}/2009/04/09/il-tg1-ma-
 che-bello/) vogliono essere lasciati anche in pace. Lo scrivono** anche in
 rosso**, per assicurarsi la visibilita.  
 Direttamente dal sito del TG1:
 
-[![tg1_bastardo]({{site.url}}/images/tg1_bastardo.png)]({{site.url}}/images/tg
+[![tg1_bastardo]({{site.url}}/images/tg1_bastardo.png){: .align-center}]({{site.url}}/images/tg
 1_bastardo.png)_Clicca sull'immagine per incazzarti ingrandirla._
 
 Ah mi raccomando di **NON CONTATTARLI*** per proteste ai seguenti indirizzi:

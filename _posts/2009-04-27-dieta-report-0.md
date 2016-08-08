@@ -30,6 +30,6 @@ e dovrei **perdere almeno una decina di chili.**
 
 Ogni settimana scrivero impressioni e la perdita di peso che ho avuto. Se hai
 domande o dubbi e se vuoi intraprendere una dieta,
-[contattami](http://www.diegor.it/chi-e-diegor/). Saro felice di condividere
+[contattami]({{site.url}}/chi-e-diegor/). Saro felice di condividere
 con te questa esperienza! :)
 

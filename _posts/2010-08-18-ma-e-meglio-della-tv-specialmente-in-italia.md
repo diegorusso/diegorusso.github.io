@@ -27,7 +27,7 @@ soprammobile, e un oggetto tecnologico, ci puoi attaccare il computer e
 console per giocarci, ci puoi vedere DVD. Il problema della TV, parte
 dall'antenna in poi. La TV e uno strumento **passivo**.
 
-[![]({{site.url}}/images/gugol.jpg)]({{site.url}}/images/gugol.jpg)
+[![]({{site.url}}/images/gugol.jpg){: .align-center}]({{site.url}}/images/gugol.jpg)
 
   
 **É per questo che non guardo la TV**. Ci sono tantissime cose da fare in quel momento. Per scrivere questo post prendo spunto dal blog di [Seth Godin](http://sethgodin.typepad.com/seths_blog/2010/03/but-its-better-than-tv.html), con cui mi trovo perfettamente in linea con quello che dice. Qui di seguito un sunto.
@@ -60,7 +60,7 @@ fatte/le sto facendo):
   
 In più posso aggiungere:
 
-  * [divertiti in quello che fai](http://www.diegor.it/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/)
+  * [divertiti in quello che fai]({{site.url}}/2010/04/15/the-fun-theory-cambiare-in-meglio-divertendosi/)
   * dedica il tempo alle persone a te care
   * non dimenticarti degli amici
   * disegna
@@ -107,7 +107,7 @@ Ultimamente solo con la TV satellitare si hanno più possibilita di avere
 accesso ad informazioni "globali". **Ma sono sicuro che lo fanno solo le
 persone che sono "gia sveglie" e che già "hanno gli stimoli adatti".**
 
-**[![]({{site.url}}/images/aispickinglisc.jpg)]({{site.url}}/images/aispickinglisc.jpg)**
+**[![]({{site.url}}/images/aispickinglisc.jpg){: .align-center}]({{site.url}}/images/aispickinglisc.jpg)**
 
   
 Purtroppo (meglio per fortuna) con l'inglese abbiamo un accesso alla

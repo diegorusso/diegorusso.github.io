@@ -13,7 +13,7 @@ tags:
 - test
 ---
 Dopo un po' di post non tecnici, eccomi di nuovo con un piccolo
-[HOWTO](http://www.diegor.it/howtos/). Se hai OSX ed usi spesso il
+[HOWTO]({{site.url}}/howtos/). Se hai OSX ed usi spesso il
 **Terminale** il comando open puo esserti molto utile per "aprire" qualsiasi
 cosa tu voglia.  
 Ad esempio puoi aprire la cartella corrente in cui ti trovi digitando:
@@ -27,7 +27,7 @@ Vedrai che ti si aprira il **Finder** nella stessa cartella in cui ti trovi
 nel Terminale. Il comando ha la stessa funzione del _"doppio click"_ del
 mouse.
 
-[![]({{site.url}}/images/open-osx.png)]({{site.url}}/images/open-osx.png)
+[![]({{site.url}}/images/open-osx.png){: .align-center}]({{site.url}}/images/open-osx.png)
 
   
 Infatti se per esempio digiti
@@ -100,7 +100,7 @@ Se vuoi un manuale completo sul comando **"open"** vai nel terminale e digita:
 
   
 per vedere tutte le opzioni disponibili.  
-Se hai domande suggerimenti o altro, [scrivimi](http://www.diegor.it/chi-e-
+Se hai domande suggerimenti o altro, [scrivimi]({{site.url}}/chi-e-
 diegor/) o commenta il post.
 
 [ad#user]

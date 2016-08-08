@@ -19,7 +19,7 @@ a disposizione una miriade di siti che diranno il tuo indirizzo IP. Lo fa
 persino il mio sito: infatti se guardi attentamente sulla barra di destra
 troverai una scritta del genere:
 
-[![]({{site.url}}/images/statistiche.png)]({{site.url}}/images/statistiche.png
+[![]({{site.url}}/images/statistiche.png){: .align-center}]({{site.url}}/images/statistiche.png
 )
 
 Ma per chi non ha un monitor davanti? Chi vuole sapere il proprio indirizzo IP

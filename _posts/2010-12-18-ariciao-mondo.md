@@ -24,7 +24,7 @@ facendo sono due:
   
 Ok ti rispondo subito e con una un'unica risposta!
 
-[![]({{site.url}}/images/Italy_flag.gif)]({{site.url}}/images/Italy_flag.gif)
+[![]({{site.url}}/images/Italy_flag.gif){: .align-center}]({{site.url}}/images/Italy_flag.gif)
 
   
 Hai ragione, **non e un nuovo blog**. Il blog e lo stesso ma ho fatto molti
@@ -42,15 +42,15 @@ Ora la struttura del mio sito:
 
   * il dominio finisce in** .IT** che sta per Italia ma anche per **"information Technology".**
   * il plugin che uso e [WPML](http://wpml.org) (WP Multiple language) che e  molto ben fatto e si integra alla perfezione con tutti i meccanismi di wodpress. Ora questo blog ha 3 feed RSS differenti, uno per lingua.
-  * le varie sezioni ([Curriculum Vitae](http://www.diegor.it/it/curriculum/), [Social Network](http://www.diegor.it/it/chi-e-diegor/social-network/), [Citazioni](http://www.diegor.it/it/chi-e-diegor/citazioni/), ecc.) raggiungibili tutte dal menu e facilmente navigabili.
-  * una sezione che merita nota e [HOWTOs](http://www.diegor.it/it/howtos/), che oramai "e popolata" da tutte le mie vecchie guide.
+  * le varie sezioni ([Curriculum Vitae]({{site.url}}/it/curriculum/), [Social Network]({{site.url}}/it/chi-e-diegor/social-network/), [Citazioni]({{site.url}}/it/chi-e-diegor/citazioni/), ecc.) raggiungibili tutte dal menu e facilmente navigabili.
+  * una sezione che merita nota e [HOWTOs]({{site.url}}/it/howtos/), che oramai "e popolata" da tutte le mie vecchie guide.
   * controlla in "download": non si sa mai.. forse c'è qualche cosa che ti puo interessare
   
 
   
 Non mi resta che salutarti e ricordarti di partecipare attivamente al blog,
 commentando o inviando mail a me ed integrando gli attuali
-[HOWTOs](http://www.diegor.it/it/howto/).
+[HOWTOs]({{site.url}}/it/howto/).
 
 Per ora e tutto, a presto! :)
 

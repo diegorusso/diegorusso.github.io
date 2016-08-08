@@ -5,7 +5,7 @@ categories:
 - humor
 tags: []
 ---
-[![resume_comic]({{site.url}}/images/resume_comic.png)]({{site.url}}/images/re
+[![resume_comic]({{site.url}}/images/resume_comic.png){: .align-center}]({{site.url}}/images/re
 sume_comic.png)
 
 _L'immagine non ha bisogno di commenti! :)_

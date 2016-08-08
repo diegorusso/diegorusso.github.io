@@ -13,7 +13,7 @@ tags:
 
 **Questa mattina** anche lei si e messa davanti ai miei occhi. Inizialmente non ci credevo.. coincidenze. Non e possibile. Ma e così! Non so come, ma ieri sapevo.
 
-[![rest.jpg]({{site.url}}/images/rest.jpg)]({{site.url}}/images/rest.jpg "rest.jpg" )
+[![rest.jpg]({{site.url}}/images/rest.jpg){: .align-center}]({{site.url}}/images/rest.jpg "rest.jpg" )
 
 **L'ultimo messaggio**, quello che non sono riuscito a scrivere:
 

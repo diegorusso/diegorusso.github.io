@@ -9,13 +9,13 @@ tags:
 - test
 ---
 Appena scritto [il post
-precedente](http://www.diegor.it/2009/08/14/portabilita-del-numero-da-
+precedente]({{site.url}}/2009/08/14/portabilita-del-numero-da-
 tim-a-3italia-che-schifo/) sono andato sul sito della 3Italia ed ho mandato
 una mail si assistenza con i seguente testo:
 
 _Buongiorno scrivo in merito alla mia disavventura con la portabilita del
 numero da Tim a 3Italia. Ho spiegato tutto qui:
-http://www.diegor.it/2009/08/14/portabilita-del-numero-da-tim-a-3italia-che-
+{{site.url}}/2009/08/14/portabilita-del-numero-da-tim-a-3italia-che-
 schifo/  
 Credo che sia un mio diritto ricevere una spiegazione. Grazie mille._
 

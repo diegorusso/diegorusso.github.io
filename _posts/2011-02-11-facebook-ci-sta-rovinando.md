@@ -11,7 +11,7 @@ tags:
 ---
 Eh si, e la verita. Guarda semplicemente l'immagine sottostante e.. **pensa**.
 
-[![]({{site.url}}/images/facebook_shit.jpg)]({{site.url}}/images/facebook_shit
+[![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit
 .jpg)
 
 Ora chiediti il motivo.. **dove e l'errore?** In Facebook o nelle persone che

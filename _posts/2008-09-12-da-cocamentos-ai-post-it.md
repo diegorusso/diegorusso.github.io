@@ -12,9 +12,9 @@ mentos](http://it.youtube.com/watch?v=hKoB0MHVBvM
 [eepybird.com](http://eepybird.com/ "http://eepybird.com/" ) ci riprovano con
 un altro esperimento. Buona visione! :)
 
-[vimeo 1712600]
+<iframe src="https://player.vimeo.com/video/1712600" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 _280.951 PostIt!!! :-|_
 
-PS: settembre sara un mese un pochino silenzioso...
+PS: settembre sarà un mese un pochino silenzioso...
 

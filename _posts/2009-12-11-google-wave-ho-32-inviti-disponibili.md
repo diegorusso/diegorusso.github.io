@@ -14,7 +14,7 @@ su un nuovo standard **aperto** chiamato ["wave
 protocol"](http://www.waveprotocol.org/). Questo standard dovrebbe
 rivoluzionare la comunicazione via mail, fondendola con l'instant messaging ed
 altri strumenti di collaborazione. già ho parlato di Google Wave in [questo
-post](http://www.diegor.it/2009/11/18/howto-piccoli-trucci-per-google-wave/).
+post]({{site.url}}/2009/11/18/howto-piccoli-trucci-per-google-wave/).
 Il wave e un concetto difficile da capire,** almeno inizialmente**. Senza
 provare a spiegartelo ti consiglio la visione di questo breve video che mostra
 tutte le funzionalita di Google Wave.
@@ -29,5 +29,5 @@ piattaforma, dunque ho a disposizione **ben 32 inviti** da distribuire
 Dunque cosa aspetti? Se vuoi provare questo nuovo strumento e restare
 collegato in maniera dinamica con i tuoi amici non ti resta che commentare
 questo post oppure mandarmi una mail che puoi trovare [in questa
-pagina.](http://www.diegor.it/chi-e-diegor/)
+pagina.]({{site.url}}/chi-e-diegor/)
 

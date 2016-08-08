@@ -17,7 +17,7 @@ oppure ti arriva una chiamata vocale o video. L'altro giorno stavo pensando a
 questi suoni e mi e passata per la testa l'idea di averli per poi metterli
 come suonerie o notifiche sul computer.
 
-[![gtalk]({{site.url}}/images/gtalk.png)]({{site.url}}/images/gtalk.png)
+[![gtalk]({{site.url}}/images/gtalk.png){: .align-center}]({{site.url}}/images/gtalk.png)
 
 Beh basta cercare con google e si trova subito il post di un certo Josh
 Bancroft che nel lontano 2005 e riuscito ad estrarre questi suoni

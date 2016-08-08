@@ -19,7 +19,7 @@ tags: []
 ---
 Eccoci qua, come al solito a** scrivere l'ultimo post dell'anno**. Quoto
 totalmente [tutto quello che ho scritto lo scorso
-anno](http://www.diegor.it/2008/12/31/2-minuti-al-giorno-auguriiiii/). Dunque
+anno]({{site.url}}/2008/12/31/2-minuti-al-giorno-auguriiiii/). Dunque
 non sto a ripetere qui quello già detto... mi sento un po' come Paganini! :P
 
 Quello che vorrei dire in questo post e un po' più "egoistico" rispetto a
@@ -83,6 +83,6 @@ quelle persone che mi sono state vicine, mi hanno fatto crescere, mi hanno
 fatto diventare quel che sono. Inoltre vorrei ringraziare in anticipo tutte
 quelle persone che conoscero nel mio futuro e che incroceranno la mia strada.
 
-[![]({{site.url}}/images/Thank-You.gif)]({{site.url}}/images/Thank-You.gif)_  
+[![]({{site.url}}/images/Thank-You.gif){: .align-center}]({{site.url}}/images/Thank-You.gif)_  
 GRAZIE :)_
 

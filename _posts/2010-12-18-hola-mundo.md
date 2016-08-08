@@ -33,7 +33,7 @@ aprender y amar el español. Con el paso del tiempo este idioma me gusto
 siempre mas. **De hecho hoy tengo mi iPhone, mi OSX, mi Gmail en español asi
 cada vez puedo leo en españ**ol.
 
-[![]({{site.url}}/images/Spanish_flag.jpg)]({{site.url}}/images/Spanish_flag.j
+[![]({{site.url}}/images/Spanish_flag.jpg){: .align-center}]({{site.url}}/images/Spanish_flag.j
 pg)
 
   
@@ -52,17 +52,17 @@ Vale, ahora te explico un poquito la estructura de mi sitio:
   * estoy usando [WPML](http://wpml.org/) (WP multiple language), un plugin que te permite de gestionar mas idiomas. Asi habran **tres feed de RSS**, uno por idioma. Elige lo que prefieres!
   * todas la paginas estan traducidas de mi, entonces **podrian haber fallos** (de seguro!).
   * unos articulos (depende de la importancia) puede ser que los traduzco **en los tres** (o dos) idiosmas
-  * en "[Curriculum](http://www.diegor.it/es/curriculum/)" hay em mi CV traducido en el idioma elegido
-  * en la pagina "[HOWTOs](http://www.diegor.it/es/howtos/)" hay todas las guias que voy a escribir
-  * en "[Download](http://www.diegor.it/es/descargas/)".. oh Dios mios!, ya sabes que estara en esta pagina!
-  * la pagina "[Licencia](http://www.diegor.it/es/licencia/)" contiene la Licencia CC 2.5
-  * en "[¿Quien es diegor?](http://www.diegor.it/es/¿quien-es-diegor/)" puedes encontrar todas las mias informaciones personales y cntactos (y el mi cariñoso avatar por supuesto). Esta pagina tiene dos paginas hijas: "[Red Sociales](http://www.diegor.it/es/¿quien-es-diegor/red-sociales/)" donde esta mi lado 2.0 y "[Citaciones](http://www.diegor.it/es/¿quien-es-diegor/citaciones/)"
+  * en "[Curriculum]({{site.url}}/es/curriculum/)" hay em mi CV traducido en el idioma elegido
+  * en la pagina "[HOWTOs]({{site.url}}/es/howtos/)" hay todas las guias que voy a escribir
+  * en "[Download]({{site.url}}/es/descargas/)".. oh Dios mios!, ya sabes que estara en esta pagina!
+  * la pagina "[Licencia]({{site.url}}/es/licencia/)" contiene la Licencia CC 2.5
+  * en "[¿Quien es diegor?]({{site.url}}/es/¿quien-es-diegor/)" puedes encontrar todas las mias informaciones personales y cntactos (y el mi cariñoso avatar por supuesto). Esta pagina tiene dos paginas hijas: "[Red Sociales]({{site.url}}/es/¿quien-es-diegor/red-sociales/)" donde esta mi lado 2.0 y "[Citaciones]({{site.url}}/es/¿quien-es-diegor/citaciones/)"
   
 
   
 Este es un blog ECL (Español como secunda lengua) y tu (si, propio tu!) puedes
 corregir mis fallos, aconsecarme y integrar mis
-[HOWTO](http://www.diegor.it/es/howtos/).
+[HOWTO]({{site.url}}/es/howtos/).
 
 Por ahora, gracias por todo y... ¡hasta pronto! :)
 

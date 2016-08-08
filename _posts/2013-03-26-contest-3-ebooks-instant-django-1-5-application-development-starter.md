@@ -35,7 +35,7 @@ efh5q)_Click on the image to see book's details_
 
 How to participate? It's very easy:
 
-  1. Get the post's link: [here you go](http://www.diegor.it/?p=3447)
+  1. Get the post's link: [here you go]({{site.url}}/?p=3447)
   2. Share it on Facebook, Twitter, Linkedin, whenever you want. **More you share, more possibilities you have!**
   3. Comment the post with the link(s) of your sharing (or proofs of that if you have private/closed accounts)
   

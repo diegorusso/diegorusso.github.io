@@ -14,7 +14,7 @@ peso e ancora diminuito. Questa volta un po' di meno ma e sempre calato.
 
 In queste due ultime settimane (dal 27 maggio 2009) sono calato di** 1,6Kg**,
 portanto il mio peso a **82.3Kg**. La tabella [di questo
-post](http://www.diegor.it/2009/05/27/dieta-report-4/) dunque continua in
+post]({{site.url}}/2009/05/27/dieta-report-4/) dunque continua in
 questa maniera:
 
 Peso al 27/04/2009: **89.4Kg**

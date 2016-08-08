@@ -10,11 +10,11 @@ categories:
 tags: []
 ---
 Come suggerito da [Giacomo nel commento del post
-precedente](http://www.diegor.it/2008/07/21/mac-e-pc-ecco-la-
-differenza/#comments), ecco a voi una nuova immagine per spiegare meglio la
+precedente]({{site.url}}/2008/07/21/mac-e-pc-ecco-la-differenza/),
+ecco a voi una nuova immagine per spiegare meglio la
 differenza tra Mac, PC e linux.
 
-[![]({{site.url}}/images/macpclinux.jpg)]({{site.url}}/images/macpclinux.jpg)
-
-_Ed ora? Quale e il vostro preferito?_
+[![]({{site.url}}/images/macpclinux.jpg){: .align-center}]({{site.url}}/images/macpclinux.jpg)
+_Ed ora? Qual è il vostro preferito?_
+{: .text-center}
 

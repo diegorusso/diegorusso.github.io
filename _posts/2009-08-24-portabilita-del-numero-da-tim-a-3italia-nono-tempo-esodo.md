@@ -45,15 +45,15 @@ Portabilita del numero da Tim a 3Italia: settimo tempo. Eppur si muove!
 
 Portabilita del numero da Tim a 3Italia: ottavo tempo. Forse ci siamo!
 
-  1. [Portabilita del numero da Tim a 3Italia: che schifo!](http://www.diegor.it/2009/08/14/portabilita-del-numero-da-tim-a-3italia-che-schifo/)
-  2. [Portabilita del numero da Tim a 3Italia: secondo tempo.](http://www.diegor.it/2009/08/14/portabilita-del-numero-da-tim-a-3italia-secondo-tempo/)
-  3. [Portabilita del numero da Tim a 3Italia: terzo tempo.](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-terzo-tempo/)
-  4. [Portabilita del numero da Tim a 3Italia: quarto tempo.](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quarto-tempo/)
-  5. [Portabilita del numero da Tim a 3Italia: quinto tempo. L'avventura continua!](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quinto-tempo-lavventura-continua/)
-  6. [Portabilita del numero da Tim a 3Italia: sesto tempo.](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-sesto-tempo/)
-  7. [Portabilita del numero da Tim a 3Italia: settimo tempo. Eppur si muove!](http://www.diegor.it/2009/08/19/portabilita-del-numero-da-tim-a-3italia-settimo-tempo-eppur-si-muove/)
-  8. [Portabilita del numero da Tim a 3Italia: ottavo tempo. Forse ci siamo!](http://www.diegor.it/2009/08/20/portabilita-del-numero-da-tim-a-3italia-ottavo-tempo-forse-ci-siamo/)
-  9. [Portabilita del numero da Tim a 3Italia: nono tempo. Esodo.](http://www.diegor.it/2009/08/24/portabilita-del-numero-da-tim-a-3italia-nono-tempo-esodo/)
+  1. [Portabilita del numero da Tim a 3Italia: che schifo!]({{site.url}}/2009/08/14/portabilita-del-numero-da-tim-a-3italia-che-schifo/)
+  2. [Portabilita del numero da Tim a 3Italia: secondo tempo.]({{site.url}}/2009/08/14/portabilita-del-numero-da-tim-a-3italia-secondo-tempo/)
+  3. [Portabilita del numero da Tim a 3Italia: terzo tempo.]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-terzo-tempo/)
+  4. [Portabilita del numero da Tim a 3Italia: quarto tempo.]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quarto-tempo/)
+  5. [Portabilita del numero da Tim a 3Italia: quinto tempo. L'avventura continua!]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quinto-tempo-lavventura-continua/)
+  6. [Portabilita del numero da Tim a 3Italia: sesto tempo.]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-sesto-tempo/)
+  7. [Portabilita del numero da Tim a 3Italia: settimo tempo. Eppur si muove!]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-settimo-tempo-eppur-si-muove/)
+  8. [Portabilita del numero da Tim a 3Italia: ottavo tempo. Forse ci siamo!]({{site.url}}/2009/08/20/portabilita-del-numero-da-tim-a-3italia-ottavo-tempo-forse-ci-siamo/)
+  9. [Portabilita del numero da Tim a 3Italia: nono tempo. Esodo.]({{site.url}}/2009/08/24/portabilita-del-numero-da-tim-a-3italia-nono-tempo-esodo/)
   
 
   

@@ -11,11 +11,7 @@ categories:
 - geek
 tags: []
 ---
-  
-[]({{site.url}}/images/apt-get-wife.png)
-
-[![]({{site.url}}/images/apt-get-wife.png)]({{site.url}}/images/apt-get-
-wife.png)
+[![]({{site.url}}/images/apt-get-wife.png){: .align-center}]({{site.url}}/images/apt-get-wife.png)
 
 Per gli utenti debian e linux in generale non credo che ci siano spiegazioni.
 Per gli altri (quelli che usano M$ winzoz)... installatevi

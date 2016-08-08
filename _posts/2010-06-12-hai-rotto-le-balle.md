@@ -56,7 +56,7 @@ Grazie mille,un amico.
 ps: puoi trovare le regole di buona educazione nella stesura di una mail su
 http://hairottoleballe.com/etiquette"_
 
-**Ma non siamo tutti perfetti!** Infatti sarebbe comodo che anche tu rispettassi le norme di comportamento per scrivere una mail. [Gia un anno fa scrissi qualche cosa a riguardo](http://www.diegor.it/2009/04/20/howto-come-scrivere-mail-in-modo-corretto/). Inoltre ti consiglio di leggere la [etiquette](http://hairottoleballe.com/etiquette) di <http://hairottoleballe.com/>
+**Ma non siamo tutti perfetti!** Infatti sarebbe comodo che anche tu rispettassi le norme di comportamento per scrivere una mail. [Gia un anno fa scrissi qualche cosa a riguardo]({{site.url}}/2009/04/20/howto-come-scrivere-mail-in-modo-corretto/). Inoltre ti consiglio di leggere la [etiquette](http://hairottoleballe.com/etiquette) di <http://hairottoleballe.com/>
 
   
 

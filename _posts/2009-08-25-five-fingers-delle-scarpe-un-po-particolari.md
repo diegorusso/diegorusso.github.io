@@ -22,13 +22,13 @@ me, ma poi le ho "distribuite" a vari amici! :)
 Il nome delle scarpe parla da solo e non ha bisogno di spiegazioni, basta
 guardare le foto sottostanti! :)
 
-[![five_fingers1]({{site.url}}/images/five_fingers1.JPG)]({{site.url}}/images/
+[![five_fingers1]({{site.url}}/images/five_fingers1.JPG){: .align-center}]({{site.url}}/images/
 five_fingers1.JPG)
 
-[![five_fingers2]({{site.url}}/images/five_fingers2.JPG)]({{site.url}}/images/
+[![five_fingers2]({{site.url}}/images/five_fingers2.JPG){: .align-center}]({{site.url}}/images/
 five_fingers2.JPG)
 
-[![five_fingers1]({{site.url}}/images/five_fingers1.JPG)]({{site.url}}/images/
+[![five_fingers1]({{site.url}}/images/five_fingers1.JPG){: .align-center}]({{site.url}}/images/
 five_fingers1.JPG)
 
 Sicuramente avari delle domande che ti staranno balendando per la testa. Sei
@@ -46,5 +46,5 @@ sono:
   
 
   
-Se hai altre domande, [scrivimi pure](http://www.diegor.it/chi-e-diegor/)! :)
+Se hai altre domande, [scrivimi pure]({{site.url}}/chi-e-diegor/)! :)
 

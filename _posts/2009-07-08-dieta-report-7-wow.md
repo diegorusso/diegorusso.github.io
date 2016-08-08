@@ -18,11 +18,11 @@ Siamo quasi alla fine eh! :) Senza perdermi in chiacchiere qui i numeri:
   
 Dunque come puoi vedere in questo ultimo meso ho perso quasi **3 Kg**. Niente
 male, vista[ la mia non puntuale attentenzione alla
-dieta!](http://www.diegor.it/2009/07/04/dieta-report-6/) :) Ancora un altro
+dieta!]({{site.url}}/2009/07/04/dieta-report-6/) :) Ancora un altro
 po' di tempo (circa due settimane) di dieta e poi passero al mantenimento, che
 non e altro una corretta alimentazione. Quando ce l'avro tra le mani ti diro
 di cosa tratta! :)
 
-Se hai domande, consigli o altro, [contattami](http://www.diegor.it/chi-e-
+Se hai domande, consigli o altro, [contattami]({{site.url}}/chi-e-
 diegor/)! :)
 

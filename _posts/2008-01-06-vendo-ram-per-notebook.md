@@ -19,16 +19,8 @@ Apple (vengono da li :), e per le maggior parte dei notebook attuali che
 supportino moduli di memoria DDR2 PC2-5300S con velocita 667MHz. Di seguito le
 foto.
 
-[![ram macbook
-pro]({{site.url}}/images/ram1.JPG)]({{site.url}}/images/ram1.JPG "ram macbook
-pro" )
+[![ram macbook pro]({{site.url}}/images/ram1.JPG){: .align-center}]({{site.url}}/images/ram1.JPG "ram macbook pro" )
+[![ram macbook pro]({{site.url}}/images/ram2.JPG){: .align-center}]({{site.url}}/images/ram2.JPG "ram macbook pro" )
 
-
-
-[![ram macbook
-pro]({{site.url}}/images/ram2.JPG)]({{site.url}}/images/ram2.JPG "ram macbook
-pro" )
-
-Se vi interessano, trovate [i miei contatti qui](http://www.diegor.it/about/
-"http://www.diegor.it/about/" )!
+Se vi interessano, trovate [i miei contatti qui]({{site.url}} "{{site.url}}" )!
 

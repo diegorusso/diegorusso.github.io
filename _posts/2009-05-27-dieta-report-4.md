@@ -21,5 +21,5 @@ rapporto cibo/sazieta.
 Alla prossima settimana con il report numero #5! :)
 
 PS: [sul post precedente mi sono
-sbagliato!](http://www.diegor.it/2009/05/21/dieta-report-3/) :P
+sbagliato!]({{site.url}}/2009/05/21/dieta-report-3/) :P
 

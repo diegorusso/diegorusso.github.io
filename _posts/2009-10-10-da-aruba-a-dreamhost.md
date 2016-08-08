@@ -11,11 +11,11 @@ tags:
 - mysql
 ---
 Questo doveva essere uno dei primi post da fare appena eseguito[ il
-trasferimento da Aruba a DreamHost](http://www.diegor.it/2009/10/02/di-nuovo-
+trasferimento da Aruba a DreamHost]({{site.url}}/2009/10/02/di-nuovo-
 online-ed-in-versione/). Va beh lo scrivo oggi, e lo stesso.
 
 Perché questo passaggio? Prima di passare a Dreamhost il dominio e l'hosting
-[www.diegor.it](http://www.diegor.it) erano registrati presso Aruba.it. Sono
+[www.diegor.it]({{site.url}}) erano registrati presso Aruba.it. Sono
 stato loro cliente per due anni con [questo
 profilo](http://hosting.aruba.it/hosting_con_spazio.asp?offerta=2): per circa
 25€ l'anno hai un hosting di medio profilo. Il database mysql e a parte. Non
@@ -25,7 +25,7 @@ hosting.
 
   * Sistemi non molto aggiornati: php5 ci ha messo molto ad approdare sui loro sistemi
   * Supporto tecnico: gli do **un 6 scarso.**
-  * **Spazio web NON e illimitato**. Leggi [qui](http://www.diegor.it/?s=aruba) per maggiori dettagli
+  * **Spazio web NON e illimitato**. Leggi [qui]({{site.url}}/?s=aruba) per maggiori dettagli
   * Il database mysql a mio avviso indispensabile lo devi prendere a parte ed e limitato a 5 db da 100MB l'uno (inizialmente a 50MB)
   * Pannello di controllo anti-intuitivo, **come il resto del sito.**
   * **Sistemi lenti:** il mio wordpress non era velocissimo
@@ -61,7 +61,7 @@ Una nota se vuoi lasciare l'hosting con Aruba. Come scritto sul contratto
 l'hosting cessa di esistere nelle seguenti condizioni:
 
 [![cessazione-contratto-aruba]({{site.url}}/images/cessazione-contratto-
-aruba.png)]({{site.url}}/images/cessazione-contratto-aruba.png)
+aruba.png){: .align-center}]({{site.url}}/images/cessazione-contratto-aruba.png)
 
 **Dunque in caso di trasferimento esegui subito un backup dei tuoi file e del database altrimenti andra tutto perso! **Ho avuto la fortuna che anche dopo la chiusuta dell'hosting un'operatrice mi ha fatto accedere lo stesso per eseguire il backup di tutti i miei dati. :)
 
@@ -73,5 +73,5 @@ promozionale. **Lo ringrazio publicamente! **:) Se cerchi su google "Dreamhost
 discount" ci sono migliaia di codici che puoi utilizzare per aprire il tuo
 hosting con Dreamhost.
 
-**Tirando le somme consiglio fortemente Dreamhost come sito di hosting.** Se vuoi farmi domande, darmi suggerimenti o altro [contattami](http://www.diegor.it/chi-e-diegor/) o commenta, saro felice di risponderti! :)
+**Tirando le somme consiglio fortemente Dreamhost come sito di hosting.** Se vuoi farmi domande, darmi suggerimenti o altro [contattami]({{site.url}}/chi-e-diegor/) o commenta, saro felice di risponderti! :)
 

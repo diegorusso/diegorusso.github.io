@@ -22,13 +22,13 @@ I siti dei loghi in questione sono questi:
   
 Ora, osserva bene i loghi:
 
-[![]({{site.url}}/images/logo_miro_example.png)]({{site.url}}/images/logo_miro
+[![]({{site.url}}/images/logo_miro_example.png){: .align-center}]({{site.url}}/images/logo_miro
 _example.png)
 
 _Logo di Miro_
 
 []({{site.url}}/images/logo_miro_example.png) [![]({{site.url}}/images/logo_me
-dinvest_example.png)]({{site.url}}/images/logo_medinvest_example.png)
+dinvest_example.png){: .align-center}]({{site.url}}/images/logo_medinvest_example.png)
 
 _Logo di Medinvest_
 

@@ -24,7 +24,7 @@ verificar cada linea, **puedes resaltar espacios**. Como?
   
 
   3. Puedes ver un resultado como este a continuacion  
-[![]({{site.url}}/images/vimsetlist1.png)]({{site.url}}/images/vimsetlist1.png
+[![]({{site.url}}/images/vimsetlist1.png){: .align-center}]({{site.url}}/images/vimsetlist1.png
 )
 
   4. Si quieres ver cada espacio como caracter, digita este comando 
@@ -34,7 +34,7 @@ verificar cada linea, **puedes resaltar espacios**. Como?
   
 
   5. El resultado deberia ser como este  
-[![]({{site.url}}/images/vimsetlist2.png)]({{site.url}}/images/vimsetlist2.png
+[![]({{site.url}}/images/vimsetlist2.png){: .align-center}]({{site.url}}/images/vimsetlist2.png
 )
 
   

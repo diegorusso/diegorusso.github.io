@@ -23,7 +23,7 @@ Ricordati che ognuno di noi e unico e per Natale fatti una promessa:** in ogni
 piccola azione che fai mettici un pizzico di altruismo e buon senso**. Vedrai
 che fara stare meglio sia te, sia a chi ti sta intorno. :)
 
-[![]({{site.url}}/images/diegor_natale.png)]({{site.url}}/images/diegor_natale
+[![]({{site.url}}/images/diegor_natale.png){: .align-center}]({{site.url}}/images/diegor_natale
 .png)
 
 ## **Buon Natale!!!!! :)**

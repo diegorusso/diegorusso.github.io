@@ -9,7 +9,7 @@ categories:
 - viaggi
 tags: []
 ---
-[![]({{site.url}}/images/cambridge_ARM.jpg)]({{site.url}}/images/cambridge_ARM
+[![]({{site.url}}/images/cambridge_ARM.jpg){: .align-center}]({{site.url}}/images/cambridge_ARM
 .jpg)[  
 ]({{site.url}}/images/cambridge_ARM.jpg)_Rimanete sintonizzati!_
 
