@@ -18,7 +18,7 @@ L'applicazione di cui farai uso e prodotta da
 L'applicazione che ti interessa e **Evom**, scaricabile da [questo
 link](http://thelittleappfactory.com/evom/).
 
-[![logo_128]({{site.url}}/images/logo_128.png)]({{site.url}}/images/logo_128.p
+[![logo_128]({{site.url}}/images/logo_128.png){: .align-center}]({{site.url}}/images/logo_128.p
 ng)_Logo di Evom_
 
 Una volta scaricata, installala nella tua cartella Applicazioni ed avviala.

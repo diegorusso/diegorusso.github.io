@@ -17,7 +17,7 @@ comporta una pagina web con una conexion lenta, entonces "speedlimit" haz para
 ti! Es una pequeña aplicacion (se instala en **las preferencias de sistema**)
 que puedes descargar desde [aqui](http://mschrag.github.com/).
 
-[![]({{site.url}}/images/speedlimit.png)]({{site.url}}/images/speedlimit.png)
+[![]({{site.url}}/images/speedlimit.png){: .align-center}]({{site.url}}/images/speedlimit.png)
 
   
 Los pasos son muy simple:

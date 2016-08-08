@@ -67,6 +67,6 @@ interno il client WOL: dunque basta connettersi al router ed accendere la
 macchina direttamente dalla pagina web del router. Ovviamente appena accesa
 accedo in ssh alla macchina per lavorarci sopra ed alla fine spegnerla! :)
 
-Se hai domande o suggerimenti sul WOL, [contattami](http://www.diegor.it/chi-
+Se hai domande o suggerimenti sul WOL, [contattami]({{site.url}}/chi-
 e-diegor/)! :)
 

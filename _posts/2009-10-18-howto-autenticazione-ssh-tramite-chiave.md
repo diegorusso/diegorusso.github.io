@@ -11,7 +11,7 @@ categories:
 tags:
 - howto
 ---
-Gia ho parlato di SSH [in questo post](http://www.diegor.it/2009/08/22/howto-
+Gia ho parlato di SSH [in questo post]({{site.url}}/2009/08/22/howto-
 tunneling-con-ssh/). Oggi vedrai impostare il tuo client ed il tuo server per
 accedere in maniera sicura e veloce tramite **l'autenticazione con chiave**,
 piùttosto che con una semplice password. L'autenticazione basata su nomeutente

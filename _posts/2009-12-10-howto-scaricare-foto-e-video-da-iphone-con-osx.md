@@ -18,7 +18,7 @@ gestire i video. _In generale si possono scaricare sia foto che video da
 iPhone con l'applicazione **"Acquisizione immagine"**_ che ha la seguente
 icona:
 
-[![acquisizione_immagine]({{site.url}}/images/acquisizione_immagine.png)]({{si
+[![acquisizione_immagine]({{site.url}}/images/acquisizione_immagine.png){: .align-center}]({{si
 te.url}}/images/acquisizione_immagine.png)  
 _Logo di "Acquisizione Immagine"_
 
@@ -28,7 +28,7 @@ video presenti nel tuo iPhone. Puoi semplicemente selezionare gli oggetti
 cliccandoci sopra ed importarli dove vuoi scegliendo la cartella di
 destinazione.
 
-[![acquisizione_immagine2]({{site.url}}/images/acquisizione_immagine2.png)]({{
+[![acquisizione_immagine2]({{site.url}}/images/acquisizione_immagine2.png){: .align-center}]({{
 site.url}}/images/acquisizione_immagine2.png)_  
 Schermata di "Acquisizione Immagine"_
 

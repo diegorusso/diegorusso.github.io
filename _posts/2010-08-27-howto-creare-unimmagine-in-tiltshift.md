@@ -17,7 +17,7 @@ tags:
 - guida
 ---
 Poco tempo feci un post riguardante [l'HDR e su come fare foto in
-HDR](http://www.diegor.it/2010/07/15/howto-creare-unimmagine-hdr/). Li gia
+HDR]({{site.url}}/2010/07/15/howto-creare-unimmagine-hdr/). Li gia
 anticipai anche un'altra tecnica che mi ha colpito parecchio. Si tratta del
 **"[tiltshift](http://en.wikipedia.org/wiki/Tilt-shift_photography)****"**. Il
 tiltshift e una tecnica che si fa con degli obbiettivi particolare, il
@@ -28,7 +28,7 @@ dispositivi mobili che ti permettono di creare foto "tiltshiftate".
 
 Per spiegare cosa e il tiltshift, basta guardare la foto sottostante.
 
-[![]({{site.url}}/images/firsttiltshift.jpg)]({{site.url}}/images/firsttiltshi
+[![]({{site.url}}/images/firsttiltshift.jpg){: .align-center}]({{site.url}}/images/firsttiltshi
 ft.jpg)
 
 Questa immagina l'ho creata con il mio vecchio **iPhone 3GS **e con

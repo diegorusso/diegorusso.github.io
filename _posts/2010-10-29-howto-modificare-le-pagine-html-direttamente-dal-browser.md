@@ -16,7 +16,7 @@ direttamente dal tuo browser il contenuto della pagina. Queste modifiche sono
 solo "client side", ovvero le pagine sul server non verranno in alcuna maniera
 modificate. Infatti se ricarichi la pagina la vedrai tornare alla normalita.
 
-[![]({{site.url}}/images/modifica_html_con_js.png)]({{site.url}}/images/modifi
+[![]({{site.url}}/images/modifica_html_con_js.png){: .align-center}]({{site.url}}/images/modifi
 ca_html_con_js.png)
 
 _uh.. che caos! :)_

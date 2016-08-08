@@ -25,7 +25,7 @@ Autodesk:
   6. **scarica il software Autodesk** di cui necessiti :)
   
 
-[![]({{site.url}}/images/diegor-autodesk.png)]({{site.url}}/images/diegor-
+[![]({{site.url}}/images/diegor-autodesk.png){: .align-center}]({{site.url}}/images/diegor-
 autodesk.png)
 
   

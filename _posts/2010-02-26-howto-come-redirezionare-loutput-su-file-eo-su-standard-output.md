@@ -60,5 +60,5 @@ _[_linux.byexamples.com_](http://linux.byexamples.com/archives/349/how-to-
 redirect-output-to-a-file-as-well-as-display-it-out/)
 
 Se hai domande e suggerimenti, commenta oppure
-[contattami](http://www.diegor.it/chi-e-diegor/)
+[contattami]({{site.url}}/chi-e-diegor/)
 

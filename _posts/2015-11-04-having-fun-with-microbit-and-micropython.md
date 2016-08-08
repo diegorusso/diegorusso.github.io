@@ -6,7 +6,7 @@ tags: [python, test, sed, microbit, micropython]
 Last night I attended the usual [CamPUG](http://www.meetup.com/CamPUG/)
 monthly meeting and the main topic was about micro:bit and micropython.
 
-[![IMG_6734]({{site.url}}/images/IMG_6734.jpg)]({{site.url}}/images/IMG_6734.j
+[![IMG_6734]({{site.url}}/images/IMG_6734.jpg){: .align-center}]({{site.url}}/images/IMG_6734.j
 pg)
 
 micro:bit is a board that BBC will distribute to every year 7 student in the
@@ -17,7 +17,7 @@ can be found [here](https://www.microbit.co.uk/device): it has a Cortex-M0,
 compass, accelerometer, 5x5 leds, bluetooth, uart, i2c, two buttons and other
 stuff you can use.
 
-[![IMG_6731]({{site.url}}/images/IMG_6731.jpg)]({{site.url}}/images/IMG_6731.j
+[![IMG_6731]({{site.url}}/images/IMG_6731.jpg){: .align-center}]({{site.url}}/images/IMG_6731.j
 pg)
 
 In a such tiny tiny board you can run python... well

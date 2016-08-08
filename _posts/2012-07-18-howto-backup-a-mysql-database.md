@@ -18,6 +18,6 @@ Backup a MYSQL database is simple as to dump it. From a Unix shell:
 
   
 Ok, now [you can dump it following this
-post](http://www.diegor.it/2012/07/17/howto-dump-data-into-mysql/ "HOWTO: dump
+post]({{site.url}}/2012/07/17/howto-dump-data-into-mysql/ "HOWTO: dump
 data into MYSQL" ). :)
 

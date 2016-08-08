@@ -19,20 +19,20 @@ specifico ho inserito il mio mighty mouse usb e Growl me ne ha notificato
 subito la presenza:
 
 [![hardware-growl1]({{site.url}}/images/hardware-
-growl1.png)]({{site.url}}/images/hardware-growl1.png)  
+growl1.png){: .align-center}]({{site.url}}/images/hardware-growl1.png)  
 _Inserisco il mouse..._
 
 Se eseguo l'operazione inversa ho un'altro tipo di notifica:
 
 [![hardware-growl2]({{site.url}}/images/hardware-
-growl2.png)]({{site.url}}/images/hardware-growl2.png)  
+growl2.png){: .align-center}]({{site.url}}/images/hardware-growl2.png)  
 _.. e lo tolgo! :)_
 
 Ovviamente questo e solo una delle centinaia di notifiche Growl supporta. Tra
 le applicazioni supportate ne troviamo un po' nell'imagine sottostante:
 
 [![application-growl]({{site.url}}/images/application-
-growl.png)]({{site.url}}/images/application-growl.png)
+growl.png){: .align-center}]({{site.url}}/images/application-growl.png)
 
 Alcuni esempi di notifica sono:
 

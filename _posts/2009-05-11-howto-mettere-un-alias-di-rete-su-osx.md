@@ -11,7 +11,7 @@ tags:
 - howto
 ---
 Poco tempo fa hai visto come impostare un [alias di rete su
-linux](http://www.diegor.it/2009/04/28/howto-mettere-un-alias-di-rete-su-
+linux]({{site.url}}/2009/04/28/howto-mettere-un-alias-di-rete-su-
 linux/). Oggi vedrai come fare la stessa cosa su OSX. sostanzialmente ci sono
 due modi per impostare un alias di rete su OSX: da terminale e da interfaccia
 grafica.  

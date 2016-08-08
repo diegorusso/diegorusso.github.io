@@ -37,7 +37,7 @@ vedere la data nella tua barra di stato
   
 []({{site.url}}/images/risultato.png)
 
-[![risultato]({{site.url}}/images/risultato.png)]({{site.url}}/images/risultat
+[![risultato]({{site.url}}/images/risultato.png){: .align-center}]({{site.url}}/images/risultat
 o.png)
 
 PS: se dei nomi non sono uguali ai vostri e perché ho OSX in spagnolo :)

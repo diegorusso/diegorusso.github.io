@@ -9,13 +9,13 @@ categories:
 tags:
 - howto
 ---
-Come [detto nel post precedente](http://www.diegor.it/2009/11/09/howto-
+Come [detto nel post precedente]({{site.url}}/2009/11/09/howto-
 cambiare-la-lingua-del-controllo-vocale-in-iphone-3gs/), iPhone 3gs ti da la
 possibilita di impartire comandi vocali. Sicuramente ti starai chiedendo...
 "**Ma quali sono questi comandi vocali?" "Quale e l'elenco dei comandi vocali
 dell'iPhone 3gs?"**
 
-[![controllo_vocale]({{site.url}}/images/controllo_vocale.png)]({{site.url}}/i
+[![controllo_vocale]({{site.url}}/images/controllo_vocale.png){: .align-center}]({{site.url}}/i
 mages/controllo_vocale.png)
 
   
@@ -42,7 +42,7 @@ Quando attivi il controllo vocale iPhone ti mostrera sul monitor dei
 suggerimenti su quello che potrai dire! :)
 
 Se sai o hai scoperto altri controlli vocali segnalamelo commentando il post
-oppure [scrivendomi](http://www.diegor.it/chi-e-diegor/), saro felice di
+oppure [scrivendomi]({{site.url}}/chi-e-diegor/), saro felice di
 integrarlo! :)
 
 **UPDATE del 2010-07-25.**

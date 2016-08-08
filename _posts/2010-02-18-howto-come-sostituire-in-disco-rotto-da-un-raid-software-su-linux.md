@@ -71,7 +71,7 @@ cat /proc/mdstats
 
   
 Se hai suggerimenti, problemi, domande, commenta il post oppure
-[contattami](http://www.diegor.it/chi-e-diegor/)! :)
+[contattami]({{site.url}}/chi-e-diegor/)! :)
 
 _Autore originale: _[_Lorenzo_](http://twitter.com/l_allegrucci)
 

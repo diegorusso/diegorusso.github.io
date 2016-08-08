@@ -20,7 +20,7 @@ at a time_").
 
 A window like the one below will appear:
 
-[![]({{site.url}}/images/firefox_profile.png)]({{site.url}}/images/firefox_pro
+[![]({{site.url}}/images/firefox_profile.png){: .align-center}]({{site.url}}/images/firefox_pro
 file.png)
 
 No worries, the solution is pretty simple. It's enough **to delete** these

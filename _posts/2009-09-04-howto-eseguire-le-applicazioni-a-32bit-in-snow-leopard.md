@@ -22,7 +22,7 @@ scaricare la stessa applicazione a 32 bit. Segui questi semplici passi
   2. selezionala e digita **_Command - I  
 _**Vedrai una finestra come la sottostante
 
-[![safari_info]({{site.url}}/images/safari_info.png)]({{site.url}}/images/safa
+[![safari_info]({{site.url}}/images/safari_info.png){: .align-center}]({{site.url}}/images/safa
 ri_info.png)
 
   3. Clicca su _"Apri in 32-bit Mode"_

@@ -24,7 +24,7 @@ mai trovato il tempo per farlo bene, fino ad ora. Non voglio parlare di uno
 qualsiasi dei dettagli dei progetti ma solo sulla strategia di branching e
 della gestione delle release.
 
-[![]({{site.url}}/images/git1.png)]({{site.url}}/images/git1.png)
+[![]({{site.url}}/images/git1.png){: .align-center}]({{site.url}}/images/git1.png)
 
 Ci concentreremo su [Git](http://git-scm.com/) come strumento di versione per
 tutti i nostri sorgenti
@@ -71,7 +71,7 @@ nessuna cosa considerata come un repo centrale a livello tecnico). Si fara
 riferimento a questo repository come **_origin_**, dal momento che questo nome
 e familiare a tutti gli utenti Git.
 
-[![]({{site.url}}/images/git2.png)]({{site.url}}/images/git2.png)
+[![]({{site.url}}/images/git2.png){: .align-center}]({{site.url}}/images/git2.png)
 
 Ogni sviluppatore compie i propri push e pull in **origin**. Ma oltre le
 relazioni centralizzata push-pull, ogni sviluppatore puo effettuare i pull di
@@ -209,7 +209,7 @@ anche se il merge potrebbe essere eseguito con un fast-forward. Cio evita la
 perdita di informazioni circa l'esistenza storica del feature branch e
 raggruppa tutti i commit che hanno aggiunto questa feature. Confronta:
 
-[![]({{site.url}}/images/git5.png)]({{site.url}}/images/git5.png)
+[![]({{site.url}}/images/git5.png){: .align-center}]({{site.url}}/images/git5.png)
 
 In quest'ultimo caso, e impossibile vedere dalla storia di git che l'insieme
 di commit hanno implementato una nuova funzionalita \- si dovrebbero leggere
@@ -359,7 +359,7 @@ Si dovrebbero formare da: **master**
 Devono essere rimergiati in: **develop** e **master**  
 I nomi che solitamente si usano: **hotfix-***
 
-**[![]({{site.url}}/images/git6.png)]({{site.url}}/images/git6.png)**
+**[![]({{site.url}}/images/git6.png){: .align-center}]({{site.url}}/images/git6.png)**
 
 ** **
 
@@ -485,8 +485,8 @@ stampala ed appendila al muro per una rapida consultazione.
 
 **Aggiornamento:** e per chiunque lo ha richiesto: qui sotto anche il diagramma principale in formato Apple Keynote.
 
-[![]({{site.url}}/images/pdf.png)]({{site.url}}/files/Git-branching-model.pdf)[
-![]({{site.url}}/images/keynote.png)]({{site.url}}/files/gitflow-model.src.key)
+[![]({{site.url}}/images/pdf.png){: .align-center}]({{site.url}}/files/Git-branching-model.pdf)[
+![]({{site.url}}/images/keynote.png){: .align-center}]({{site.url}}/files/gitflow-model.src.key)
 
   
 Sentitevi liberi di commentare! :)

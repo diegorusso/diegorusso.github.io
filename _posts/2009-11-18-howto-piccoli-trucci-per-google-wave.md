@@ -32,6 +32,6 @@ cs.google.com/View?docid=0AdY6WUNA7GnbZGZ0aGhqeDNfMGNmNndwcWhn&pli=1 "Google
 wave Extension List" ).
 
 Se conosci altri segreti, trucchi o vuoi dare semplici consigli, commenta o
-[contattami](http://www.diegor.it/chi-e-diegor/). Saro felice di integrare il
+[contattami]({{site.url}}/chi-e-diegor/). Saro felice di integrare il
 post con il tuo suggerimento! :)
 

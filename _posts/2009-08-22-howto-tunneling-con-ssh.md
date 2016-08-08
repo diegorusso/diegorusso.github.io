@@ -27,7 +27,7 @@ L'esempio più classico e di voler raggiunere una macchina che si trova dietro
 NAT sfruttando il server che "natta" l'host finale. L'immagine sottostante puo
 schiarirti ulteriormente le idee! :)
 
-[![local_tunnel_ssh]({{site.url}}/images/local_tunnel_ssh.png)]({{site.url}}/i
+[![local_tunnel_ssh]({{site.url}}/images/local_tunnel_ssh.png){: .align-center}]({{site.url}}/i
 mages/local_tunnel_ssh.png)Forwarding della porta locale
 
 Per raggiungere ad esempio il webserver che e in esecuzione su OS9
@@ -66,7 +66,7 @@ un host remoto, ad un host della tua rete. Un esempio e che vorresti rendere
 visibile all'esterno una macchina della tua rete privata. L'immagine
 sottostante ti aiuta a capire lo scenario:
 
-[![remote_tunnel_ssh]({{site.url}}/images/remote_tunnel_ssh.png)]({{site.url}}
+[![remote_tunnel_ssh]({{site.url}}/images/remote_tunnel_ssh.png){: .align-center}]({{site.url}}
 /images/remote_tunnel_ssh.png)
 
 Forwarding della porta remota

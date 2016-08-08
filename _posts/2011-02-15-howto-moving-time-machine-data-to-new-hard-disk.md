@@ -25,7 +25,7 @@ this, but with some trick you can do it easily. Follow these steps:
   9. realax for some hours (**_for 120 GB I waited 5 hours_**).
   
 
-[![]({{site.url}}/images/TMrestore.png)]({{site.url}}/images/TMrestore.png)
+[![]({{site.url}}/images/TMrestore.png){: .align-center}]({{site.url}}/images/TMrestore.png)
 
   
 When the process will finish, new drive has the same name of the old one.

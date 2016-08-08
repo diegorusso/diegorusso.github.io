@@ -12,8 +12,8 @@ tags:
 - apache
 - test
 ---
-In passato già ho scritto [qualche](http://www.diegor.it/2010/01/21/howto-
-configurare-virtualhost-su-osx/) [cosa](http://www.diegor.it/2009/10/31/howto-
+In passato già ho scritto [qualche]({{site.url}}/2010/01/21/howto-
+configurare-virtualhost-su-osx/) [cosa]({{site.url}}/2009/10/31/howto-
 installare-mod_wsgi-in-osx/) riguardante il server web
 [Apache](http://www.apache.org) integrato in OSX.  
 Oggi vedrai come abilitare il supporto ad SSL su questo server web. Fai queste
@@ -47,7 +47,7 @@ che dovra diventare:
 
   4. Ora configura SSL seguendo [questa documentazione](http://httpd.apache.org/docs/2.0/mod/mod_ssl.html)
   5. Riavvia Apache per fargli rileggere la configurazione. Per fare cio vai sulle **"Preferenze di Sistema -> Condivisione"  
-[![]({{site.url}}/images/apache.png)]({{site.url}}/images/apache.png) **
+[![]({{site.url}}/images/apache.png){: .align-center}]({{site.url}}/images/apache.png) **
 
   6. **Disabilita ed abilita** la condivisione Web cliccando sul segno di spunta.
   7. Apri il tuo browser e testa il corretto funzionamento di SSL

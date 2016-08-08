@@ -11,9 +11,9 @@ tags:
 - howto
 - test
 ---
-Ho già discusso [qui](http://www.diegor.it/2009/06/15/howto-
+Ho già discusso [qui]({{site.url}}/2009/06/15/howto-
 wordpress-2-8-e-tinymce-dove-e-finito/) e
-[qui](http://www.diegor.it/2009/07/13/howto-wordpress-2-8-1-e-tinymce-eccolo-
+[qui]({{site.url}}/2009/07/13/howto-wordpress-2-8-1-e-tinymce-eccolo-
 di-nuovo/) sull'utilita di Gears su alcuni siti e/o piattaforme.
 [Prism](http://prism.mozilla.com/started/) invece e software che ti permette
 di trasformare qualsiasi sito web in un'applicazione per il desktop.
@@ -25,7 +25,7 @@ Io uso Prism per il mio sito. Questa piattaforma usa wordpress che e
 compatibile con Gears. Se proverai a installare Gears su Prism sicuramente
 riceverai il seguente messaggio:
 
-[![incompatible_gears]({{site.url}}/images/incompatible_gears.png)]({{site.url
+[![incompatible_gears]({{site.url}}/images/incompatible_gears.png){: .align-center}]({{site.url
 }}/images/incompatible_gears.png)
 
 Il trucco e far credere a Google Gears che l'applicazione che gira su Prism e

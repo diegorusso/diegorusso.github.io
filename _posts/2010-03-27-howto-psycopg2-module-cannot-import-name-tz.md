@@ -11,7 +11,7 @@ tags:
 - django
 ---
 Gia ho scritto a riguardo di [postgres + psycopg2 +
-django](http://www.diegor.it/2009/09/04/howto-snow-leopard-django-postgresql-
+django]({{site.url}}/2009/09/04/howto-snow-leopard-django-postgresql-
 psycopg2/) e nell'utilizzo (dunque la compilazione e andata a buon fine) di
 **psycopg2 con django **puoi incappare in un errore del genere:
 

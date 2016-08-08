@@ -43,8 +43,8 @@ testo molto ben fatto per OSX.
 
 Altro metodo per installare LaTex (un pochino più complicato) e quello di
 utilizzare i **macports o fink**. [Ho usato varie volte i
-macports](http://www.diegor.it/?s=macports) e sono molto comodi. [Fink invece
-l'ho disinstallato](http://www.diegor.it/2010/09/24/howto-disinstallare-fink-
+macports]({{site.url}}/?s=macports) e sono molto comodi. [Fink invece
+l'ho disinstallato]({{site.url}}/2010/09/24/howto-disinstallare-fink-
 in-osx/) :)
 
 Dunque per installare LaTeX dai macports segui questi passi:

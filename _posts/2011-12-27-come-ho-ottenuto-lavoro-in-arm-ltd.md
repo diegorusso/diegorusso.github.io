@@ -62,7 +62,7 @@ Italia). Pensai.. cosa e successo? Poi mi ricordai che il giorno prima misi su
 PDF. Infatti fu proprio quell'azione a scatenare la tempesta di chiamate e
 mail.
 
-[![]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg)]({{site.url}}/im
+[![]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg){: .align-center}]({{site.url}}/im
 ages/IMG_1050-2011-08-03-at-16-08-28.jpg)
 
 La prima domanda che mi sono fatto e stata: **perché?** La seconda e stata:
@@ -120,7 +120,7 @@ l'autista mi riaccompagna a Stansted, rivolo a Roma e **sono a casa per le
 
 **Alle 7:30am mi sveglio**, doccia, caffe, subito pronto per fare il colloquio con la Norvegia. 3 ore di colloquio al telefono ed offline. Anche li rispiegai la mia situazione e diedi il nome della persona con cui feci il colloqui a Cambridge così che anche in Norvegia potessero avere un feedback sulla persona. **Il pomeriggio del 3 agosto ricevetti entrambe le offerte: da Cambridge e da Trondheim.**
 
-[![]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg)]({{site.url}}/im
+[![]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg){: .align-center}]({{site.url}}/im
 ages/IMG_2008-2011-08-22-at-19-04-22.jpg)
 
 Non ricordo la reazione che ebbi, ricordo che non ero più nella pelle. **Avevo

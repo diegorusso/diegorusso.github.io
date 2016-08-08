@@ -42,5 +42,5 @@ Ora il tuo apache e pronto per eseguire applicazioni Python con interfaccia
 WSGI.
 
 Per qualsiasi problema o suggerimento commenta o
-[scrivimi](http://www.diegor.it/chi-e-diegor/)! :)
+[scrivimi]({{site.url}}/chi-e-diegor/)! :)
 

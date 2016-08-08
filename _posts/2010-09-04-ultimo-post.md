@@ -22,7 +22,7 @@ Con chi vai? Ovviamente con [Miriam](http://solomiri.blogspot.com/) y su niño,
 Nicolas. Saro via** fino al 17 di settembre** e la saro ospitato dal mio amico
 Emiliano, che vive e lavora a Marbella.
 
-[![]({{site.url}}/images/marbella.jpg)]({{site.url}}/images/marbella.jpg)
+[![]({{site.url}}/images/marbella.jpg){: .align-center}]({{site.url}}/images/marbella.jpg)
 
   
 Non credo che riusciro ad aggiornare il blog nel frattempo (mi devo un po'
