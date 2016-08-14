@@ -33,7 +33,7 @@ leggermi in Italiano! :)
 
 **Alternativamente puoi iscriverti via posta elettronica.**
 
-**NOTA:** questo sito ha **tre** Feed RSS, uno per lingua. Questo feed e e sara solo in Italiano
+**NOTA:** questo sito ha **tre** Feed RSS, uno per lingua. Questo feed e e sarà solo in Italiano
 
 Semplice, no?
 

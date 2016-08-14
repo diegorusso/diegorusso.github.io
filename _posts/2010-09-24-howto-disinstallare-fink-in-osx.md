@@ -41,7 +41,7 @@ Cosi ho deciso di **disinstallarlo** seguendo questi semplici passi:
 
   
 Se hai problemi, domande o integrazioni, commenta o
-[contattami]({{site.url}}/chi-e-diegor/).
+contattami.
 
 A presto :)
 

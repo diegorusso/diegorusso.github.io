@@ -159,8 +159,8 @@ _Feature branches_ (a volte chiamati topic branches) sono usati per sviluppare
 nuove features per release future più o meno lontane. Quando si parte allo
 sviluppo di una nuova feature, la release di destinazione in cui la
 funzionalita dovra essere incorporata potrebbe essere sconosciuta fino a quel
-momento. L'essenza del feature branch e che esiste finche la funzionalita e in
-sviluppo, fin quando eventualmente sara rimergiata in **develop** (per
+momento. L'essenza del feature branch e che esiste finché la funzionalita e in
+sviluppo, fin quando eventualmente sarà rimergiata in **develop** (per
 aggiungerla definitivamente alla prossima release) oppure scartata
 (esperimento fallito).
 
@@ -250,7 +250,7 @@ Ed e proprio all'inizio di unrelease branch che alla prossima release viene
 assegnato un numero di versione - nessuno precedentemente. Fino a quel
 momento, il branch **develop** rispecchiava i cambiamentei per la "prossima
 release", ma non e chiaro se questa "prossima release" diventera eventualmente
-un 0.3 oppure una 1.0, fino a quando release branch sara avviato. Tale
+un 0.3 oppure una 1.0, fino a quando release branch sarà avviato. Tale
 decisione e effettuata all'inizio della release branch ed il numero e
 assegnato secondo le regole del progetto.
 
@@ -287,7 +287,7 @@ cambia qualche file nella working copy per rispecchiare la nuova versione.
 (Questo puo essere fatto anche manualmente - il punto e che alcuni file
 cambiano). Successivamente, la versione numerata e committata.
 
-Questo nuovo branch puo esistere per un po' di tempo, finche la release non
+Questo nuovo branch puo esistere per un po' di tempo, finché la release non
 verra lanciata definitivamente. Durante questo intervallo, i bug fix possono
 essere applicati a questo branch (anziche al branch **develop**). Aggiungere
 nuove grandi feature e severamente vietato. Devono essere mergiate nel

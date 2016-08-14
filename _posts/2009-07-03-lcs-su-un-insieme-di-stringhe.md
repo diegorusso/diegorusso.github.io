@@ -11,10 +11,10 @@ tags:
 - test
 ---
 Questo post prende spunto dal progetto di **Programmazione Avanzata** che ho
-dato qualche tempo fa all'universita. Lo scopo del progetto e **trovare una
+dato qualche tempo fa all'università. Lo scopo del progetto è **trovare una
 lista di
 [LCS](http://en.wikipedia.org/wiki/Longest_common_subsequence_problem), con
-ricerca [Branch and Bound](http://en.wikipedia.org/wiki/Branch_and_bound),  in
+ricerca [Branch and Bound](http://en.wikipedia.org/wiki/Branch_and_bound), in
 un insieme di stringhe la cui lunghezza sia maggiore di un intero X**
 
 Senza dilungarmi troppo, troverai un'analisi abbastanza approfindita delle
@@ -29,7 +29,6 @@ precisi, ma credo che il suo lavoro lo svolge egregiamente.
 L'archivio del progetto con tanto di sorgenti e relazione lo puoi scaricare
 [da qui.]({{site.url}}/files/Progetto_LCS-BB.zip)
 
-Ti ricordo che il progetto e rilasciato sotto licenza Creative Commons 2.5
+Ti ricordo che il progetto è rilasciato sotto licenza Creative Commons 2.5
 Attribuzione-Non commerciale [(qui il testo completo della
 licenza)](http://creativecommons.org/licenses/by-nc/2.5/it/)
-

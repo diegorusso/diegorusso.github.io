@@ -12,7 +12,7 @@ categories:
 - trabajo
 tags: []
 ---
-.. **prima di partire per le ferie**! :) Eh si, finalmente lunedi partiro per
+.. **prima di partire per le ferie**! :) Eh si, finalmente lunedì partiro per
 le meritate ferie, mentre tutti voi sarete a lavorare :P Destinazione?
 **Marbella, Malaga y alrededores (dintorni)**. Tutti i consigli sono ben
 accetti: li attendo con piacere nei commenti,

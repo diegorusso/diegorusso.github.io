@@ -23,21 +23,19 @@ Segui questi passi:
   4. In questa schermata potrai **abilitare/disabilitare la percentuale della batteria** con l'apposito switch. Inoltre qui puoi tenere sotto controllo ed azzerare vari contatori sull'utilizzo del telefono.
   
 
-[![batteria_iPhone]({{site.url}}/images/batteria_iPhone.png){: .align-center}]({{site.url}}/ima
-ges/batteria_iPhone.png)
+[![batteria_iPhone]({{site.url}}/images/batteria_iPhone.png){: .align-center}]({{site.url}}/images/batteria_iPhone.png)
 
 **Ora in alto a destra accanto al simbolo della batteria** potrei sempre monitorare la percentuale della stessa.
 
 NOTA: Se hai il bluetooth attivo la percentuale scompare solo se l'iPhone non
-e sbloccato.
+è sbloccato.
 
-Come sempre se hai domande da farmi, [contattami!]({{site.url}}/chi-e-
-diegor/) :)
+Come sempre se hai domande da farmi, contattami :)
 
-_PS: come il mio osx, gmail etc, anche il mio iPhone e in spagnolo! :P_
+_PS: come il mio osx, gmail etc, anche il mio iPhone è in spagnolo! :P_
 
-_**UPDATE**: [@francescoonair](http://twitter.com/francescoonair)__ tramite
+_**UPDATE**: [@francescoonair](http://twitter.com/francescoonair) __tramite
 [una sua twittata](http://twitter.com/francescoonair/status/4122997911)__ mi
-dice che questa funzione e presente **SOLO** su iPhone 3Gs e **NON**__ su
+dice che questa funzione è presente **SOLO** su iPhone 3Gs e **NON** su
 iPhone 3G. Grazie! :)_
 
