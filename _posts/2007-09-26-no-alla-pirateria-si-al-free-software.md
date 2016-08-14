@@ -52,7 +52,7 @@ problema e che molti lo fanno **inconsapevolmente**.
 La risposta e semplice, ed e la stessa della domanda _"Come diffondere il
 software libero?"_: con la conoscenza. Noi della blogsfera, e soprattutto noi
 autori di blog trattanti l'argomento_ Open Source_, abbiamo il dovere di
-promuovere la conoscenza, affinche tutti gli utenti possano prendere le
+promuovere la conoscenza, affinché tutti gli utenti possano prendere le
 proprie decisioni consapevolmente.  
 Un modo per farlo e pubblicizzare questo articolo.
 

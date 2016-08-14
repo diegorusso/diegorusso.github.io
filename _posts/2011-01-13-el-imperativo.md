@@ -110,5 +110,5 @@ Esempio:
 **Construir:** construye, construya, construyamos, construid, construyan
 
 Come al solito se trovi errori o vuoi integrare quello che ho scritto,
-commenta oppure [contattami](http://www.espanol.diegor.it/quien-soy-yo/)!! :)
+commenta oppure contattami!! :)
 

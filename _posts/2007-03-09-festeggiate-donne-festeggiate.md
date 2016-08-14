@@ -17,7 +17,7 @@ Ora mi chiedo una cosa... ma che CAZZO avete da festeggiare?!?! Il culo a
 Costantino (lui è solo il capro espiatorio) lo potete vedere tutto l'anno. Non
 mi dite che aspettate l'8 marzo per andare a ballare, per vedere quattro
 imbecilli sopra un cubo, per andare a cena tutte insieme e bere. Non lo dite,
-non fate le ipocrite! Ci potete andare tutti i giovedi, tutti i sabati, quando
+non fate le ipocrite! Ci potete andare tutti i giovedì, tutti i sabati, quando
 volete. Siete sempre ben accette ovunque! Festeggiate, ok! Ma fatelo in modo
 giusto, costruttivo! Avete questo giorno, sfruttatelo per qualche cosa di
 serio.. non andate a fare le "sgallettate" in giro, che tanto lo fate tutto

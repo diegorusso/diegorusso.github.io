@@ -54,8 +54,7 @@ l'applicazione da te sviluppata nel tuo iPhone. Segui questi passi:
   
 Non mi resta che augurarti buon lavoro ed in bocca al lupo! :)
 
-Se hai suggerimenti, correzioni, critiche,
-[scrivimi]({{site.url}}/chi-e-diegor/) o commenta il post!
+Se hai suggerimenti, correzioni, critiche, scrivimi o commenta il post!
 
 _Fonte: _[_bubidevs.net_](http://www.bubidevs.net)
 

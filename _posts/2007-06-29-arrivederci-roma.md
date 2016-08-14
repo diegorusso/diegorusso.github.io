@@ -40,7 +40,7 @@ Questa è la scaletta del concerto:
 4\. Voglio andare al mare  
 5\. La compagnia  
 6\. Buoni o cattivi  
-7\. Lunedi  
+7\. Lunedì  
 8\. Non sopporto (inedito)  
 9\. Anima fragile  
 10\. Siamo soli  

@@ -26,7 +26,7 @@ bellissimo parco sangiuliano.
 > I biglietti saranno rimborsati dall'organizzazione ma la gioia di ritrovarsi
 insieme sul prato ad ascoltare musica dal vivo chi ce la rimborsa? Avete
 ragione ma non e facile organizzare un concerto per centomila persone e il
-parco mi dicono non sara più disponibile almeno fino all'anno prossimo.
+parco mi dicono non sarà più disponibile almeno fino all'anno prossimo.
 >
 > Non so ancora in che modo e dove ma vi prometto che qualche cosa  
 mi inventero magari a settembre.
@@ -43,7 +43,7 @@ Guardare oltre l'orizzonte e ricominciare tutto da capo…senza perdersi d'animo
 mai… e combattere e lottare contro tutto contro… questo e il nostro destino di
 uomini ed e questo che ci rende grandi…
 >
-> Oggi sono "spento" ma giovedi a s.siro saro acceso!"
+> Oggi sono "spento" ma giovedì a s.siro saro acceso!"
 
   
 **TI VOGLIO BENE!**

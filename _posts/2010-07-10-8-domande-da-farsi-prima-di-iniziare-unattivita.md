@@ -64,7 +64,7 @@ non e possibile pagare gli stipendi e non puoi pagare l'affitto. Sei fuori
 strada.
 
 Il corto di cassa ti rende vulnerabile. Quanto scoperto hai? Di quanto
-capitale hai bisogno? Quanto tempo devi attendere finche i soldi dei clienti
+capitale hai bisogno? Quanto tempo devi attendere finché i soldi dei clienti
 appaiano nel tuo conto in banca? Quanto hai bisogno per operare ogni
 settimana?
 
@@ -100,7 +100,7 @@ R = Realistico
 T = Tempestivo
 
 Per esempio un obiettivo puo essere "ottenere 20 nuovi clienti in un anno". La
-tua pianificazione sara più efficace. Domandati poi "Dove li trovo 20 nuovi
+tua pianificazione sarà più efficace. Domandati poi "Dove li trovo 20 nuovi
 clienti?" ed agisci di conseguenza. Non avere obiettivi vaghi come "avere un
 business di successo" oppure "essere felici". Non andrai da nessuna parte.
 

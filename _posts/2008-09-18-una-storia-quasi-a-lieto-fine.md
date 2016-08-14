@@ -50,14 +50,14 @@ in altri ipermercati della nostra rete che ne fanno da cornice, rientra
 pienamente in questo nostro impegno: abbiamo voluto offrire ai bambini ed alle
 loro famiglie un momento di divertimento._
 
-_Affinche i piccoli frequentatori degli ipermercati potessero vivere per un
+_Affinché i piccoli frequentatori degli ipermercati potessero vivere per un
 attimo dentro la "favola", l'organizzazione è stata curata nei minimi
 dettagli, anche attraverso l'ausilio di societa esterne. Tutte le persone
 coinvolte sono state adeguatamente selezionate ed informate circa la filosofia
 aziendale ed i comportamenti necessari._
 
 _Abbiamo preso contatto con la Signora con la volontà di approfondire
-l'accaduto affinche ogni responsabilita accertata venga punita con il massimo
+l'accaduto affinché ogni responsabilità accertata venga punita con il massimo
 rigore._
 
 _Ci auguriamo peraltro che un singolo sfortunato episodio non pregiudichi il

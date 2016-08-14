@@ -72,6 +72,6 @@ pluriennale)
 _Ora permettetemi un po' di pubblicita:_ **il 14 febbraio** questo locale
 festeggia, oltre il San Valentino, anche **il primo anniversario della loro
 apertura.** Da quello che la titolare mi ha detto ci saranno estrazioni di
-vari premi e ci sara la musica. _Si dovrebbe pagare **25€** a testa._ **Io
+vari premi e ci sarà la musica. _Si dovrebbe pagare **25€** a testa._ **Io
 conto di andarci**. Chi si vuole unire me lo faccia sapere.  
 

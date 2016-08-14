@@ -18,7 +18,7 @@ fare.
 [![]({{site.url}}/images/io_senigallia.jpg){: .align-center}]({{site.url}}/images/io_senigallia.jpg)
 
 Seguo due (quasi tre) progetti e non trovo il tempo per fare nulla.
-Quando ho un pochino di tempo lo occupo per altre cose e quando finiscono
+Quando ho un pochino di tempo lo occupò per altre cose e quando finiscono
 queste altre cose, cerco di riposarmi (forse e successo una volta) o stare con
 una persona molto speciale! Beh.. ci sarebbe da dire talmente tanto, che forse
 stare zitti e la migliore soluzione.

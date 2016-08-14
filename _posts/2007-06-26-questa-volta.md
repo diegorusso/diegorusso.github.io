@@ -12,7 +12,7 @@ categories:
 tags: []
 ---
 .. e la volta buona!!! Sicuramente ti stai chiedendo "ma de che?!?". Se vuoi
-sapere la risposta continua a leggere! Finalmente domani, mercoledi 27 giugno
+sapere la risposta continua a leggere! Finalmente domani, mercoledì 27 giugno
 2007, andrò al concerto di Vasco.
 
 Non ci posso credere. Ho ancora tutta l'euforia

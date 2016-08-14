@@ -76,7 +76,7 @@ Quando fai l'università, e altamente consigliato non avere la playstation.
 Se fai l'università, e sei al secondo anno fuoricorso, hai la playstation.  
 Quando fai l'università, i termosifoni sembrano gratuiti, ma quando arriva la
 bolletta guarda caso nessuno si era scordato di spegnerli.  
-Quando fai l'università, il venerdi prepari il pranzo Svuota-frigo (Pasta
+Quando fai l'università, il venerdì prepari il pranzo Svuota-frigo (Pasta
 tonno e mais probabilmente).  
 Quando fai l'università, e hai una chitarra, 2 canzoni su 10 sono di Ligabue e
 Vasco, una dei nirvana una di Bob Marley e una dei Green Day (GoodRiddance

@@ -7,13 +7,14 @@ categories:
 tags:
 - test
 ---
-Ovviamente [dopo i festeggiamenti]({{site.url}}/2009/04/09/il-tg1-ma-
-che-bello/) vogliono essere lasciati anche in pace. Lo scrivono** anche in
-rosso**, per assicurarsi la visibilita.  
+Ovviamente [dopo i festeggiamenti]({{site.url}}/2009/04/09/il-tg1-ma-che-bello/)
+vogliono essere lasciati anche in pace. Lo scrivono **anche in
+rosso**, per assicurarsi la visibilità.  
 Direttamente dal sito del TG1:
 
-[![tg1_bastardo]({{site.url}}/images/tg1_bastardo.png){: .align-center}]({{site.url}}/images/tg
-1_bastardo.png)_Clicca sull'immagine per incazzarti ingrandirla._
+[![tg1bastardo]({{site.url}}/images/tg1_bastardo.png){: .align-center}]({{site.url}}/images/tg1_bastardo.png)
+_Clicca sull'immagine per incazzarti ingrandirla._
+{: .text-center}
 
 Ah mi raccomando di **NON CONTATTARLI*** per proteste ai seguenti indirizzi:
 
@@ -24,9 +25,7 @@ Ah mi raccomando di **NON CONTATTARLI*** per proteste ai seguenti indirizzi:
   * g.riotta@rai.it
   * g.caserta@rai.i
   
-
-  
 Non potranno rispondere, sono molto impegnati.
 
-_*: e ironico? No e triste! :(_
+_*: è ironico? No è triste! :(_
 

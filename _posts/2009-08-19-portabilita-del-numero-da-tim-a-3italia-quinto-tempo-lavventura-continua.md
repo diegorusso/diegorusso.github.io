@@ -8,11 +8,10 @@ categories:
 - various links
 tags: []
 ---
-Risposta del servizio clienti 3Italia alla mail contenuta in [ due post
-fa]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-
-quarto-tempo/):
+Risposta del servizio clienti 3Italia alla mail contenuta in [due post
+fa]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quarto-tempo/):
 
-_"Gentile Sig. Russo,  
+>"Gentile Sig. Russo,  
 in merito alla sua mail inoltrata in data odierna, le comunichiamo che, il
 ritardo nelle procedure di portabilita' che Lei sta subendo non dipende da
 "3", na' da malfunzionamenti di tipo tecnico.  
@@ -25,33 +24,33 @@ per le garanzie nelle comunicazioni (il modello per la denuncia e' disponibile
 sul suo sito web).  
 Siamo a disposizione per eventuali comunicazioni al numero 133 o all'indirizzo
 e-mail: Servizioclienti@tre.it  
-Cordiali saluti,_
-
-_Federica  
+Cordiali saluti,
+>
+>Federica  
 Servizio Clienti 3  
 tre.it  
 Numero identificativo: xxxxxxx"_
 
-Chiamarla supercazzola e sbagliato? Ok, ho capito che dipende da Tim, ma
+Chiamarla supercazzola è sbagliato? Ok, ho capito che dipende da Tim, ma
 **IERI** ho parlato con l'operatore Tim e mi ha detto che entro 3 giorni
 lavorativi il mio numero sarebbe stato portato. Dunque non ci dovrebbero
 essere ulteriori ritardi, da parte di Tim. Avevo fatto una domanda ben
-precisa: **"Vorrei sapere per quando il mio numero sara portato!"** (visto che
+precisa: **"Vorrei sapere per quando il mio numero sarà portato!"** (visto che
 Tim me lo ha approvato).
 
-Domanda eregiamente non risposta. Mollo? Non Mollo? Mollo? **NON MOLLO!**
+Domanda egregiamente non risposta. Mollo? Non Mollo? Mollo? **NON MOLLO!**
 Scrivo un'altra mail al servizio clienti:  
 
-_"Buonasera, dopo aver scambiato una serie di messaggi con il vostro servizio
+>"Buonasera, dopo aver scambiato una serie di messaggi con il vostro servizio
 clienti vorrei porvi un quesito.  
 Ieri ho parlato con un operatore della Tim che ha dato l'ok per la mia
-portabilita verso di voi. Dunque non ci dovrebbero essere più ulteriori
-ritardi da parte di Tim. L'operatore inoltremi ha detto che entro 3 giorni
+portabilità verso di voi. Dunque non ci dovrebbero essere più ulteriori
+ritardi da parte di Tim. L'operatore inoltre mi ha detto che entro 3 giorni
 lavorativi il numero sarebbe stato portato.  
 Alla luce di questi fatti vorrei sapere da voi entro quanto tempo la
-portabilita sara fatta._  
-
-_Grazie mille."_
+portabilità sarà fatta.  
+>
+>Grazie mille."
 
 Vediamo un po' fino a dove arriviamo. Nel frattempo vado a cercare il modulo
 da inviare ad [agcom](http://www.agcom.it/) per **denunciare Tim**....

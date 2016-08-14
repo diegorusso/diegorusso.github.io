@@ -54,7 +54,7 @@ assumevano. Io, giusto per iniziare ad esplorare un pochino, ho lasciato i
 miei CV ed ho subito avuto dei colloqui conoscitivi con tutte. Al ritorno di
 quella settimana ho fatto poi delle interviste al telefono.
 
-Dicevo che tutto inizio un normale **mercoledi** **6 luglio 2011**. Aspettavo
+Dicevo che tutto inizio un normale **mercoledì** **6 luglio 2011**. Aspettavo
 la chiamata di questa azienda irlandese. Oltre a questa, ho ricevuto altre 5/6
 chiamate ed altrettante mail per proposte di lavoro da tutta Europa (no
 Italia). Pensai.. cosa e successo? Poi mi ricordai che il giorno prima misi su

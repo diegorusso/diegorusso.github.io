@@ -9,15 +9,13 @@ categories:
 tags:
 - howto
 ---
-Il cavo [ethernet](http://it.wikipedia.org/wiki/Ethernet) puo essere fatto in
+Il cavo [ethernet](http://it.wikipedia.org/wiki/Ethernet) può essere fatto in
 due modi:
 
   1. **dritto**: per collegare un computer ad router, switch, hub oppure per collegare switch
   2. **incrociato**: per collegare due computer o due hub a "cascata"
   
-
-  
-Per la prima modalita, prendi il cavo ed allinea i fili al suo interno secondo
+Per la prima modalità, prendi il cavo ed allinea i fili al suo interno secondo
 il seguente schema (da sinistra verso destra):
 
   1. **Bianco-Arancio**
@@ -30,11 +28,10 @@ il seguente schema (da sinistra verso destra):
   8. **Marrone**
   
 
-  
-Per il cavo incrociato la situazione e leggermente più complicata. Infatti
-ogni estremita del cavo ha il suo ordine di fili. **Per l'estremita di
-sinistra lo schema e come quello sopra.**  
-Per l'estremita di destra devi seguire questo schema (sempre da sinistra verso
+Per il cavo incrociato la situazione è leggermente più complicata. Infatti
+ogni estremità del cavo ha il suo ordine di fili. **Per l'estremità di
+sinistra lo schema è come quello sopra.**  
+Per l'estremità di destra devi seguire questo schema (sempre da sinistra verso
 destra):
 
   1. **Bianco-Verde**
@@ -46,11 +43,7 @@ destra):
   7. **Blu**
   8. **Bianco-Marrone**
   
-
-  
 Praticamente vengono incrociati i seguenti pin:
 
   * 1sx » 3dx
   * 2sx » 6dx
-  
-

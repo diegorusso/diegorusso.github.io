@@ -31,11 +31,11 @@ Puoi partecipare in due modi:
   
 
   
-Il minicontest scade alle **23:59 di lunedi 15 febbraio** e saranno
+Il minicontest scade alle **23:59 di lunedì 15 febbraio** e saranno
 conteggiati tutti quelli che hanno partecipato con le modalita sopra
 descritte. I fortunati saranno estratti tramite il sito
 [random.org](http://random.org) e saranno contattati tramite mail o twitter
-**durante la giornata di martedi 16 febbraio.**
+**durante la giornata di martedì 16 febbraio.**
 
 Dunque partecipati numerosi al mio primo contest! :)
 

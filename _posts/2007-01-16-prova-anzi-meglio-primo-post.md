@@ -55,7 +55,7 @@ aggettivo mi e stato suggerito da Serena; ecco le prove
 (01/15/2007 10:20:42 PM) diegor: no no    
 (01/15/2007 10:20:46 PM) diegor: vada per il funny    
 (01/15/2007 10:20:52 PM) diegor: funny weasel    
-(01/15/2007 10:21:01 PM) serena: ...non darmi certe responsabilita!    
+(01/15/2007 10:21:01 PM) serena: ...non darmi certe responsabilità!    
 (01/15/2007 10:21:02 PM) serena: ;)    
 (01/15/2007 10:21:19 PM) diegor: però tolgo il blog    
 (01/15/2007 10:21:28 PM) serena: d'accordo!    

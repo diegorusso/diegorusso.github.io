@@ -10,7 +10,7 @@ tags: []
 ---
 COMUNICATO STAMPA:
 
-"Le necessita di sangue della Regione Abruzzo sono state presidiate a curadel
+>"Le necessita di sangue della Regione Abruzzo sono state presidiate a curadel
 Centro Nazionale Sangue fino dalle prime ore di questa mattina,
 mediantel'attivazione della rete dei Centri Regionali Sangue. Entro la
 giornatasaranno recapitate al Centro Regionale Sangue di Pescara 170 unita di
@@ -23,7 +23,8 @@ esiste più per ora la necessita di promuovere sessioni straordinarie di
 donazione al di fuori della Regione Abruzzo. Nei prossimi giorni
 saragarantito, 24 ore su 24, il monitoraggio dei fabbisogni trasfusionali
 inAbruzzo, con tutti gli interventi che si renderanno eventualmente
-necessari."  
+necessari."
+
 Dunque ragazzi calmiamoci con  falsi allarmi. **L'unica cosa che ancora si
-chiede e la disponibilita alla donazione**. Tutto qua.
+chiede e la disponibilità alla donazione**. Tutto qua.
 

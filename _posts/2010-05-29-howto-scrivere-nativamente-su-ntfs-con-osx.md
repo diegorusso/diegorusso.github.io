@@ -21,7 +21,7 @@ Come ho detto prima, OSX ha la scrittura disabilitata per default **ma e in
 grado di scrivere su partizioni di tipo NTFS.** Per fare cio e sufficiente
 eseguire qualche piccolo passo con il Terminale.
 
-**ATTENZIONE: non mi assumo nessuna responsabilita sull'eventuale perdita di dati o corruzione del filesystem. La procedura, se pur semplice, e consigliata ad utenti che hanno un minimo di esperienza con il Terminale.**
+**ATTENZIONE: non mi assumo nessuna responsabilità sull'eventuale perdita di dati o corruzione del filesystem. La procedura, se pur semplice, e consigliata ad utenti che hanno un minimo di esperienza con il Terminale.**
 
   
 ****Detto cio, procedi pure:
@@ -57,7 +57,7 @@ eseguire qualche piccolo passo con il Terminale.
   
 
   
-Il gioco e fatto. **Ora sarai in grado di scrivere in ogni partizione NTFS**
+Il gioco è fatto. **Ora sarai in grado di scrivere in ogni partizione NTFS**
 senza alcun problema.
 
 Se hai domande, suggerimenti, critiche... commenta oppure scrivimi una mail!

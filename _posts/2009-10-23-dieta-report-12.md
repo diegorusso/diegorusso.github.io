@@ -5,9 +5,9 @@ categories:
 - private
 tags: []
 ---
-Dopo [l'ultima visita]({{site.url}}/2009/10/06/dieta-
-report-11-e-vaiii/), mi ero promesso di perdere qualche cosina. **Cosi non e
-stato.** Il giorno** 2009-10-16** la bilancia segnava **78.5Kg**, un chilo in
+Dopo [l'ultima visita]({{site.url}}/2009/10/06/dieta-report-11-e-vaiii/),
+mi ero promesso di perdere qualche cosina. **Così non è
+stato.** Il giorno **2009-10-16** la bilancia segnava **78.5Kg**, un chilo in
 più rispetto all'ultima volta. Questo non indica che sono aumentato.. Il 25
 settembre era caldo ed ero vestito con un abbigliamento ancora estivo:
 maglietta e calzoncini corti. Il 16 ottobre invece era molto freddo e di
@@ -25,7 +25,7 @@ un chilo di vestiti ce lo avevo addosso. Dunque ricapitolando:
   * Peso al 25/09/2009: 77.5Kg (-2.5Kg)
   * **Peso al 16/10/2009: 78.5Kg (+1.5Kg) <\- con vestiti invernali!!!**
   
-
-  
-**Nonostante cio ho ricevuto il mantenimento! **:) Dedichero un post a parte sul mantenimento e sulla corretta alimentazione suggeritami. Per ora va bene così! :)
+**Nonostante ciò ho ricevuto il mantenimento!** :)
+Dedicherò un post a parte sul mantenimento e sulla corretta alimentazione suggeritami.
+Per ora va bene così! :)
 

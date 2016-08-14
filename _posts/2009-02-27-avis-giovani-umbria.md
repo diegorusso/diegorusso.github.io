@@ -13,16 +13,16 @@ tags:
 - ebook
 - test
 ---
-_"Tre parole...acronimo di altrettanti significati....e molto di più..  
+_"Tre parole... acronimo di altrettanti significati... e molto di più..  
 Avis..  
-comunita di una moltitudine di persone le quali si ricordano di non essere
+comunità di una moltitudine di persone le quali si ricordano di non essere
 sole al mondo...  
 che esiste chi ha bisogno di noi...di loro...  
 un piccolo aiuto che non tutti sanno dare...e io sono tra uno di questi...  
 forse paura forse egoismo..  
-nel pensare che ci sara sempre qualcuno che lo potra fare e lo fara comunque
+nel pensare che ci sarà sempre qualcuno che lo potra fare e lo fara comunque
 sempre al posto nostro...  
-sicuramente sbagliando..perché questo aiuto potrebbe servire anche a noi
+sicuramente sbagliando... perché questo aiuto potrebbe servire anche a noi
 nell'arco della nostra vita..  
 persone che hanno bene presente che non e solo un modo per scaricarsi la
 coscienza...  
@@ -81,8 +81,8 @@ _krys.. un amico.."_
 **Testo preso dal gruppo avis giovani umbria su facebook.**
 
 Credo che meriti l'attenzione di molti giovani e non solo. Bravo Krys  
-Visto che sono in tema domani (anzi stanotte) parto** per Torino per il
-Meeting Nazionale Avis Giovani**. Sicuramente sara un'esperienza fantastica.
+Visto che sono in tema domani (anzi stanotte) parto **per Torino per il
+Meeting Nazionale Avis Giovani**. Sicuramente sarà un'esperienza fantastica.
 
 Ci sentiamo presto! :)
 

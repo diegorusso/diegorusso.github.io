@@ -5,13 +5,13 @@ categories:
 - private
 tags: []
 ---
-Aiaiaiai, questa volta non e andata bene come le altre volte. Eh si.. sono
-andato dal dietologo martedi scorso, per la precisione il 4 agosto 2009. Quel
-giorno avrei dovuto prendere il mantenimento. **Purtroppo non e stato cosi.**
+Aiaiaiai, questa volta non è andata bene come le altre volte. Eh si.. sono
+andato dal dietologo martedì scorso, per la precisione il 4 agosto 2009. Quel
+giorno avrei dovuto prendere il mantenimento. **Purtroppo non è stato cosi.**
 
-Infatti in due settimane il mio peso** non e sceso neanche di un grammo** ed
+Infatti in due settimane il mio peso **non è sceso neanche di un grammo** ed
 abbiamo preferito rinunciare al mantenimento e buttare via un altro chiletto,
-giusto per sicurezza. Non e però una sconfitta, anzi **e stato un sollievo
+giusto per sicurezza. Non è però una sconfitta, anzi **è stato un sollievo
 sapere che non sono aumentato.** Proprio così! Per quello che ho mangiato in
 due settimane avrei dovuto mettere su almeno un kilo.
 
@@ -19,7 +19,7 @@ Purtroppo seguire la dieta di estate e molto più dura rispetto ai mesi più
 freddi e miti dell'anno. Quando e caldo esci, bevi qualche cosa, prendi un
 gelato.. nsomma mangi e bevi cose non consone ad una dieta.
 
-Comunque non mi perdo d'animo. La prossima visita sara il 4 di settembre e per
+Comunque non mi perdo d'animo. La prossima visita sarà il 4 di settembre e per
 quella data avro perso un kilo, se non più! :) Giusto per completezza riporto
 la lista delle mie visite con i relativi pesi:
 
@@ -31,8 +31,6 @@ la lista delle mie visite con i relativi pesi:
   * Peso al 22/07/2009: 78.5Kg (-0.9Kg)
   * Peso al 04/08/2009: **78.5Kg (-0.0Kg)**
   * Peso al 05/09/2009: ?!?!?
-  
-
   
 A presto.. e mi raccomando bevete molto (acqua eh :)!
 

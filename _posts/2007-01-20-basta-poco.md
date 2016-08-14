@@ -35,7 +35,7 @@ _**lancia una canzone in uno stagno per far alzare le onde. **_
 Del resto si sa che Il Blasco obbedisce soltanto al suo istinto e non alle
 logiche discografiche.  
   
-"Basta poco" non sara un cd singolo in vendita e non prelude a un album. Ne
+"Basta poco" non sarà un cd singolo in vendita e non prelude a un album. Ne
 fara tutt'al più parte quando verra.  
   
 _"Sono un po' stanco di fare degli album" _- dichiara provocatoriamente Vasco

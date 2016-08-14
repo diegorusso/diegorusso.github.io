@@ -8,7 +8,7 @@ tags: []
 ---
 Dopo la piccola sconfitta dell'ultima volta ecco una degna rivincita. Il 25 di
 settembre sono andato a fare a consueta visita dal dietologo e... sopresa, ho
-perso ben** 2,5Kg**, portando il mio peso a be **77,5Kg**, ovvero a dei minimi
+perso ben **2,5Kg**, portando il mio peso a be **77,5Kg**, ovvero a dei minimi
 storici! :)
 
 In circa 3 settimana ho perso quello che ho messo su durante l'estate più un
@@ -25,10 +25,7 @@ altro chiletto. Ricapitolando:
   * Peso al 25/09/2009: **77.5Kg (-2.5Kg)**
   * Peso al 16/10/2009: ?!?!?
   
-
-  
-Come si vede dalla tabella la prossima visita sara il 16 di ottobre. Per
+Come si vede dalla tabella la prossima visita sarà il 16 di ottobre. Per
 quella data spero di aver perso qualcos'altro! :)
 
 Stay tuned.
-

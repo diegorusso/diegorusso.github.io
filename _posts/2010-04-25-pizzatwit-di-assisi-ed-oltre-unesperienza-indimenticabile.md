@@ -141,7 +141,7 @@ ordine che ho sul foglio) @[mikiplus](http://twitter.com/mikiplus),
 [@jibbolo](http://twitter.com/jibbolo), Antonio (il proprietario dell'Hotel La
 Quiete) **sono stati raccolti ben 120€** (ovviamente ho tolto le spese che ho
 avuto). Grazie a tutti voi per aver partecipato a questa giusta causa. **La
-donazione sara però di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
+donazione sarà però di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
 seguito la prova della donazione:
 
 [![]({{site.url}}/images/donazione-acumen.png){: .align-center}]({{site.url}}/images/donazione-
@@ -172,7 +172,7 @@ eh!**
 
 Spero di aver detto tutto. Grazie a tutti, di cuore.
 
-Per qualsiasi cosa, [sono a disposizione!]({{site.url}}/chi-e-diegor/)
+Per qualsiasi cosa, sono a disposizione!
 
 ** **
 

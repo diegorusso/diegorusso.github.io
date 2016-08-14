@@ -53,7 +53,7 @@ Come partecipare il contest? Semplice, tramite twitter:
   
 
   
-**Il contest termina alle 23:59:59 di Giovedi 25 Novembre** ([ThanksGiving Day](http://en.wikipedia.org/wiki/Thanksgiving)) ed il vincitore sara annunciato **Venerdi 26 Novembre** ([Black Friday](http://en.wikipedia.org/wiki/Black_Friday_\(shopping\))). Il fortunato **sara estratto a sorte** e sara mia cura contattarlo per inviargli la licenza di [1Password per Mac](http://agilewebsolutions.com/products/1Password/Mac).
+**Il contest termina alle 23:59:59 di Giovedi 25 Novembre** ([ThanksGiving Day](http://en.wikipedia.org/wiki/Thanksgiving)) ed il vincitore sarà annunciato **Venerdi 26 Novembre** ([Black Friday](http://en.wikipedia.org/wiki/Black_Friday_\(shopping\))). Il fortunato **sarà estratto a sorte** e sarà mia cura contattarlo per inviargli la licenza di [1Password per Mac](http://agilewebsolutions.com/products/1Password/Mac).
 
 Dunque non resta che partecipare! Mi raccomando.. spargi la voce! :)
 
