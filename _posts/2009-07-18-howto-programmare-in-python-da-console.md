@@ -21,7 +21,7 @@ scomodo.
 
 A tal proposito voglio indicarti due progetti promettenti per il python da
 console. **Il primo è [iPython](http://ipython.scipy.org/moin/Documentation)**,
-una shell interattiva con tante funzionalita per la programmazione in python, quali:
+una shell interattiva con tante funzionalità per la programmazione in python, quali:
 
   * autocompletamento di variabili, classi, packages, metodi, premendo il tasto TAB
   * sintassi automatica
@@ -31,7 +31,7 @@ una shell interattiva con tante funzionalita per la programmazione in python, qu
   
 Personalmente uso iPython come console di default per il python e per eseguire
 test di script o altro che poi importerò nel mio editor preferito
-([Textmate](http://macromates.com/)). iPython puo essere installato in vari
+([Textmate](http://macromates.com/)). iPython può essere installato in vari
 modi: con easy_install, da sorgente, eseguibile per windows. Maggiori dettagli
 li puoi trovare [qui](http://ipython.scipy.org/doc/rel-0.9.1/html/install/install.html#installing-ipython-itself).
 

@@ -11,5 +11,5 @@ tags: []
 
 [![hands_blog.jpg]({{site.url}}/images/hands_blog.jpg){: .align-center}]({{site.url}}/images/hands_blog.jpg "hands_blog.jpg" )
 
-Forse saro più fortunato. :)
+Forse sarò più fortunato. :)
 

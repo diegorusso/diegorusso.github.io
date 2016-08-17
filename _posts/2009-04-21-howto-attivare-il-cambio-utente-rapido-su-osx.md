@@ -16,7 +16,7 @@ OSX è basato su un sistema UNIX e come tale supporta nativamente:
 OSX dunque può collegare più di due utenti contemporaneamente. **Qual è la
 sua utilità?** Supponiamo che tu condivida il tuo computer con un tuo amico
 e/o conoscente e supponiamo che ci stia lavorando. Il tuo amico arriva e ti
-chiede di fare una cosa urgentissima e che non puo tardare. Non c'è problema!
+chiede di fare una cosa urgentissima e che non può tardare. Non c'è problema!
 Segui i passi sottostanti e potrai usare **il cambio rapido di utente per OSX!
 **:)
 

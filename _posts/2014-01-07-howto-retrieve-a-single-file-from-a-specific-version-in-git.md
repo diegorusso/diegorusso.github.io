@@ -11,11 +11,11 @@ git show will help you. Few examples below:
 
     
     
-    #> git show file.py  
+    $ git show file.py  
     
-    #> git show HEAD^^^:file.py  
+    $ git show HEAD^^^:file.py  
     
-    #> git show 948a17:file.py  
+    $ git show 948a17:file.py  
     
     
 

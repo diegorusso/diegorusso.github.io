@@ -21,7 +21,7 @@ strumento.** Quando avvio GNU/Linux la prima cosa che apro e terminale perché
 tanto ho sempre qualche cosa da fare con questo strumento. In verità sono
 stato mesi e mesi senza intefaccia utente! :P Il problema e che quelle poche
 volte che uso Windows, non so dove sbattere la testa e preferisco aprire
-"Risorse del Computer" piùttosto che il "prompt dei comandi". Tranne questa
+"Risorse del Computer" piuttosto che il "prompt dei comandi". Tranne questa
 introduzione (di parte) oggi mi vorrei incentrare su un utile comando da
 terminale che si trova su OSX: **"defaults"**
 

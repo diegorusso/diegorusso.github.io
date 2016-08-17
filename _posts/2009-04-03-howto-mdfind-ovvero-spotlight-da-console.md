@@ -49,7 +49,7 @@ accettare. Se vuoi maggiori informazioni su mdfind digita
 man mdfind
 ```
 
-e ti si aprira la pagina di manuale di mdfind. Ad esempio puoi cercare tutti i
+e ti si aprirà la pagina di manuale di mdfind. Ad esempio puoi cercare tutti i
 file che hanno a che fare con la parola _"vacanze"_ semplicemente digitanto
 
 ```

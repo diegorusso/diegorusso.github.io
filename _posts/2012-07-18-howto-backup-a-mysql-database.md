@@ -14,7 +14,7 @@ Backup a MYSQL database is simple as to dump it. From a Unix shell:
 
     
     
-    #> mysqldump --opt -uUSER -pDBPASSWD -hHOSTNAME DBNAME > DUMPED_TEXTFILE
+    $ mysqldump --opt -uUSER -pDBPASSWD -hHOSTNAME DBNAME > DUMPED_TEXTFILE
 
   
 Ok, now [you can dump it following this

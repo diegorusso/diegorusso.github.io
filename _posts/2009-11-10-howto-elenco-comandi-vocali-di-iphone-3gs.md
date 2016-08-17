@@ -37,7 +37,7 @@ Quando attivi il controllo vocale iPhone ti mostrerà sul monitor dei
 suggerimenti su quello che potrai dire! :)
 
 Se sai o hai scoperto altri controlli vocali segnalamelo commentando il post
-oppure scrivendomi, saro felice di integrarlo! :)
+oppure scrivendomi, sarò felice di integrarlo! :)
 
 **UPDATE del 2010-07-25.**
 

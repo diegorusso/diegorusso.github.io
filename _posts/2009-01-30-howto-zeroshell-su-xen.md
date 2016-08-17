@@ -26,7 +26,7 @@ pagina](http://www.zeroshell.net/download/ "Zeroshell Download" )
 posizionarla ad esempio in _"/var/xen/domains/zeroshell"_. 
 In XEN dovete avere compilato il supporto della piena virtualizazione: in
 debian sono nel pacchetto _**"xen-ioemu".  
-Fatto cio create il file di configurazione _"/etc/xen/zeroshell.cfg"_ con il
+Fatto ciò create il file di configurazione _"/etc/xen/zeroshell.cfg"_ con il
 seguente contenuto:**_
 
     

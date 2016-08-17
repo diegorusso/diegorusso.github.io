@@ -20,7 +20,7 @@ console or via config file.
 **Via console:**
     
     
-    #> ssh -o 'StrictHostKeyChecking no' username@remotemachine
+    $ ssh -o 'StrictHostKeyChecking no' username@remotemachine
 
   
 **Via config file**, adding below line to /etc/ssh_config (OSX) or /etc/ssh/ssh_config (linux):

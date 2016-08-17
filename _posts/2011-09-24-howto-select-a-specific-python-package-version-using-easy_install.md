@@ -18,7 +18,7 @@ instance, if you need django 1.1.4, you'll type:
 
     
     
-    #> easy_install "django==1.1.4"
+    $ easy_install "django==1.1.4"
 
   
 Pretty simple eh?

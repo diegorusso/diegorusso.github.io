@@ -42,9 +42,9 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
 
 **Definizioni Veloci:** premi i tasti **⌘ + ctrl + D** e vai con il mouse sopra le parole presenti in qualsiasi applicazione (NOTA: la definizione e solo in inglese!)
 
-**Aprire nuovi link sempre su tab piùttosto che su nuove finestre:**
+**Aprire nuovi link sempre su tab piuttosto che su nuove finestre:**
 
-  * Apri il terminale e digita: ```defaults write com.apple.Safari TargetedClicksCreateTabs -bool true``` (false per disabilitare)
+  * Apri il terminale e digita: `defaults write com.apple.Safari TargetedClicksCreateTabs -bool true` (false per disabilitare)
 
 **Volume**: ci sono delle piccole varianti sulla regolazione del volume
 
@@ -54,13 +54,13 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
   
 **Usare la nuova visualizzazione "List View" nel Dock:**
 
-  * Apri il terminale e digita ```defaults write com.apple.dock use-new-list-stack -bool YES``` (NO per disabilitarla)
-  * Riavvia il Dock digitanto ```killall Dock```
+  * Apri il terminale e digita `defaults write com.apple.dock use-new-list-stack -bool YES` (NO per disabilitarla)
+  * Riavvia il Dock digitanto `killall Dock`
   
 **Widget sul Desktop:** puoi impostare le widgets della Dashboard direttamente sul tuo desktop
 
-  * Apri il **Terminale** digita ```defaults write com.apple.dashboard devmode YES``` (NO se lo vuoi disabilitare)
-  * Riavvia il Dock digitando sempre sul Terminale ```killall Dock```
+  * Apri il **Terminale** digita `defaults write com.apple.dashboard devmode YES` (NO se lo vuoi disabilitare)
+  * Riavvia il Dock digitando sempre sul Terminale `killall Dock`
   * Entra nella Dashboard e tieni premuto con il mouse sopra una widget e spostala leggermente per assicurarti che l'hai catturata
   * Esci dalla dashboard e la widget selezionata rimarra sul Desktop
   * Per eliminare la widget dal Desktop esegui l'operazione inversa
@@ -75,7 +75,7 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
 **Scaricare un video da youtube:** puoi scaricare i video senza dover scaricare alcun applicazione
 
   * Vai sulla pagina del video con Safari
-  * Premi **Option+⌘+A** per aprire la finestra delle attivita.
+  * Premi **Option+⌘+A** per aprire la finestra delle attività.
   * Nella lista seleziona il sito e cerca il file con dimensione maggiore.
   * Doppio click su di esso e partira il download! :)
   
@@ -88,7 +88,7 @@ Mentre sei in Selezione puoi usare i seguenti tasti per affinare l'area da
   * icona di MobileMe: mostra l'orario dell'ultima sincronizzazione
   
 Se premi il tasto **alt** mentre stati tagliando un video con QuickTime X ti
-verra mostrata la traccia audio piùttosto che la traccia video.
+verrà mostrata la traccia audio piuttosto che la traccia video.
 
 **Altri shortcut direttamente da Apple:** <http://support.apple.com/kb/HT1343>
 

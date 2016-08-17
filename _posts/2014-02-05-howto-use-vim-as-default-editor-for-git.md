@@ -12,13 +12,13 @@ Pick your favorite from the following ones:
 
     
     
-    #> export GIT_EDITOR=vim  
+    $ export GIT_EDITOR=vim  
     
-    #> git config --global core.editor "vim"  
+    $ git config --global core.editor "vim"  
     
-    #> export VISUAL=vim  
+    $ export VISUAL=vim  
     
-    #> export EDITOR=vim  
+    $ export EDITOR=vim  
     
     
 

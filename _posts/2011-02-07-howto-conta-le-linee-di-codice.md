@@ -23,7 +23,7 @@ suo eseguibile; poi digita il comando qui sotto:
 
     
     
-    #> perl cloc-1.53.pl /path/to/project/
+    $ perl cloc-1.53.pl /path/to/project/
 
   
 ed avrai un output come questo (dipende dalla complessita del progetto). La

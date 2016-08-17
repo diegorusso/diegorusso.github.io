@@ -23,7 +23,7 @@ stai leggendo questo posto io starò volando via verso la Finlandia!** (non è
 che sono un mago, ma ho semplicemente programmato la pubblicazione :)
 
 Comunque se avvii la console del Python ed importi la _"libreria this"_
-digitando ```import this``` vedrai descritta tutta l'essenza del Python vista
+digitando `import this` vedrai descritta tutta l'essenza del Python vista
 da [Tim Peters](http://c2.com/cgi/wiki?TimPeters), guru del
 [Python](http://www.python.org):
 

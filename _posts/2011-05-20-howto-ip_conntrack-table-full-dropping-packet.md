@@ -13,7 +13,7 @@ I used to manage a server based on linux and once I had this strange message:
 
     
     
-    #> ip_conntrack: table full, dropping packet
+    $ ip_conntrack: table full, dropping packet
 
   
 One of the effects of this message is that you aren't able to make and receive
@@ -23,7 +23,7 @@ the current value typing:
 
     
     
-    #> cat /proc/sys/net/ipv4/ip_conntrack_max  
+    $ cat /proc/sys/net/ipv4/ip_conntrack_max  
     
     65536
 
@@ -32,7 +32,7 @@ Now, increase this value typing:
 
     
     
-    #> echo 131072 > /proc/sys/net/ipv4/ip_conntrack_max
+    $ echo 131072 > /proc/sys/net/ipv4/ip_conntrack_max
 
   
 Generally the right value of _ip_conntrack_max_ is set to the **total MB of

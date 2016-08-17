@@ -18,7 +18,7 @@ un servidor remoto **con finalidad de testing**. Veamos como:
   1. Abre tu terminal favorito
   2. Escribe (en cambio de diegor.it puedes elegir cualquiera server quieras) 
     
-        #> telnet diegor.it 80
+        $ telnet diegor.it 80
 
   
 y deberias tener este output:

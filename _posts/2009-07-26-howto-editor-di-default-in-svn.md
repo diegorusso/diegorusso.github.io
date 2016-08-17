@@ -24,7 +24,7 @@ Quando un programmatore finisce di scrivere la sua parte di codice, la deve
 _**committare**_ in modo che gli altri sviluppatori la possono scaricare e
 continuare lo sviluppo in team. E' buona regola quando un programmatore
 commita la sua porzione di codice di lasciare un commento (documentazione) sul
-lavoro che andra a inviare ai suoi colleghi. Questo e possibile digitando:
+lavoro che andrà a inviare ai suoi colleghi. Questo e possibile digitando:
 
 ```
 svn commit
@@ -43,6 +43,6 @@ export SVN_EDITOR=vim
 
 Facendo così impostarei come editor di default l'amato
 [Vim](http://www.vim.org/). Ovviamente tu puoi mettere ciò che vuoi.  
-Se vuoi mantere questa impostazione metti questa riga nel file ```.bash_profile```
-o ```.bashrc``` che trovi nella tua home.
+Se vuoi mantere questa impostazione metti questa riga nel file `.bash_profile`
+o `.bashrc` che trovi nella tua home.
 

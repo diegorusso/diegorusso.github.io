@@ -13,7 +13,7 @@ From a Unix shell:
 
     
     
-    #> mysql -hHOSTNAME -uUSER -pDBPASSWD DBNAME < DUMPED_TEXTFILE
+    $ mysql -hHOSTNAME -uUSER -pDBPASSWD DBNAME < DUMPED_TEXTFILE
 
   
 Simple eh :)

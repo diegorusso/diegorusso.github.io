@@ -22,7 +22,7 @@ icona:
 _Logo di "Acquisizione Immagine"_
 {: .text-center}
 
-Puoi trovare _"Acquisizione Immagine"_ in Applicazioni. Ti bastera aprirla e
+Puoi trovare _"Acquisizione Immagine"_ in Applicazioni. Ti basterà aprirla e
 collegare il tuo iPhone. Vedrai subito la lista sia delle immagini che dei
 video presenti nel tuo iPhone. Puoi semplicemente selezionare gli oggetti
 cliccandoci sopra ed importarli dove vuoi scegliendo la cartella di

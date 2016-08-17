@@ -22,7 +22,7 @@ ejecutable; luego escriba el comando de bajo:
 
     
     
-    #> perl cloc-1.53.pl /path/to/project/
+    $ perl cloc-1.53.pl /path/to/project/
 
   
 y tendras un output como esto (depende de la complejidad del projecto). La

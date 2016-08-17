@@ -22,7 +22,7 @@ postgres user. Follow this two steps:
 
   1. Become root, typing: 
     
-        #>sudo su
+        $sudo su
 
   
 

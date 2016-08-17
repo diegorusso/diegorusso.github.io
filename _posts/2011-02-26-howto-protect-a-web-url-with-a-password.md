@@ -20,7 +20,7 @@ done in several ways (you can find it in Google) and in this post I use
   1. Install Apache2. Most OS have a preinstalled version (OSX has got)
   2. Create a file named "**.htpasswd**" via "htpasswd": 
     
-        #> htpasswd -c /path/to/.htaccess diegor
+        $ htpasswd -c /path/to/.htaccess diegor
 
   
 and when the prompt will ask you the password, type it (twice). The file looks

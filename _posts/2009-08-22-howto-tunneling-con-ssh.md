@@ -71,7 +71,7 @@ Forwarding della porta remota
 Per farti capire meglio: hai sviluppato una nuova web application in un server
 di sviluppo che e presente nella tua rete privata. Se vuoi far vedere questa
 web application ai tuoi clienti devi aprire un tunnel ssh dalla macchina che
-puo raggiungere entrambe i server ovvero il server pubblico che i tuoi clieti
+può raggiungere entrambe i server ovvero il server pubblico che i tuoi clieti
 devono contattare ed il tuo server di sviluppo.  
 Il comando da lanciare sarà il seguente:
 

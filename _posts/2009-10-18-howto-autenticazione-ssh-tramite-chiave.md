@@ -43,7 +43,7 @@ Enter file in which to save the key (/Users/exampleuser/.ssh/id_rsa):
 ```
 
 Se vuoi usare l'algoritmo DSA basta specificare "-t DSA". Ad un certo punto ti
-verra chiesto di inserire una passphrase per proteggere la chiave privata:
+verrà chiesto di inserire una passphrase per proteggere la chiave privata:
 
 ```
 Enter passphrase (empty for no passphrase):  
@@ -53,7 +53,7 @@ Enter same passphrase again:
 La scelta di una passphrase dipenda da situazione a situazione. Se non
 immetterai nessuna passphrase potrai accedere al tuo server **direttamente
 senza dover digitare niente**. Questo però comporta se qualcun altro accede
-alla tua chiave privata oppure ad una copia puo entrare senza nessun problema
+alla tua chiave privata oppure ad una copia può entrare senza nessun problema
 nel server dove e impostata quella chiave. Se invece decidi di proteggerla con
 una passphrase dovrai digitare ogni volta la password per sbloccare la chiave
 privata. Per venirti incontro potresti usare un
@@ -62,8 +62,8 @@ privata. Per venirti incontro potresti usare un
 esempio un'ora, una giornata, al termine della sessione grafica etc.
 
 Appena finita la creazione delle due chiavi le potrai trovare in
-```/home/tuo_username/.ssh/``` per sistemi GNU/Linux oppure
-```/Users/tuo_username/.ssh/``` per sistemi OSX. Ora devi **copiare la tua
+`/home/tuo_username/.ssh/` per sistemi GNU/Linux oppure
+`/Users/tuo_username/.ssh/` per sistemi OSX. Ora devi **copiare la tua
 chiave pubblica nel server remoto** tramite il seguente comando:
 
 ```
@@ -101,8 +101,8 @@ puoi dire al server ssh di non accettare l'autenticazione ssh.
 
 **ATTENZIONE: prima di fare questa operazione assicurati di avere un accesso secondario alla macchina per non rimanere tagliati fuori**
 
-Vai sul tuo server ed edita il file ```/etc/sshd_config``` in modo da avere
-questa questa direttiva: ```PasswordAuthentication no```
+Vai sul tuo server ed edita il file `/etc/sshd_config` in modo da avere
+questa questa direttiva: `PasswordAuthentication no`
 
 Fatto ciò riavvia il server ssh per fargli leggere la nuova configurazione.
 
