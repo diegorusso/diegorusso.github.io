@@ -50,7 +50,7 @@ aggettivo mi e stato suggerito da Serena; ecco le prove
 (01/15/2007 10:18:50 PM) diegor: beh ha diversi significati    
 (01/15/2007 10:19:40 PM) diegor: fuori di testa, sotto l'effetto di droga    
 (01/15/2007 10:19:45 PM) serena: e tu come lo intendi in quel contesto?    
-(01/15/2007 10:20:08 PM) diegor: però puo essere anche svitato, matto    
+(01/15/2007 10:20:08 PM) diegor: però può essere anche svitato, matto    
 (01/15/2007 10:20:15 PM) diegor: euforico    
 (01/15/2007 10:20:42 PM) diegor: no no    
 (01/15/2007 10:20:46 PM) diegor: vada per il funny    

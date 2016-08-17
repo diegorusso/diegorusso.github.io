@@ -42,10 +42,10 @@ Ho effettuato l'installazione su una **Ubuntu 9.10**, grazie anche all'aiuto
 di [Pablo](http://www.berbell.com/) e alle **dritte del team di sviluppo di
 Tilimi** stesso. Ecco i semplici passi per installare Tilimi su Linux:
 
-  1. Installa Wine: ```apt-get install wine1.2``` (con wine 1.0.X l'installer non funziona)
+  1. Installa Wine: `apt-get install wine1.2` (con wine 1.0.X l'installer non funziona)
   2. Scarica il file **winetricks** seguendo le istruzioni di questa pagina: <http://wiki.winehq.org/winetricks>
-  3. Installa la libreria GDIPLUS: ```sh winetricks gdiplus"``` (necessaria per visualizare correttamente l'interfaccia)
-  4. Installa Tilimi tramite il comando: ```msiexec /a TilimiInstaller.exe```
+  3. Installa la libreria GDIPLUS: `sh winetricks gdiplus"` (necessaria per visualizare correttamente l'interfaccia)
+  4. Installa Tilimi tramite il comando: `msiexec /a TilimiInstaller.exe`
   5. Lancia Tilimi cliccando su "**_Applicazioni -> Wine -> Programs -> Tilimi -> Tilimi_**"
   
 Ovviamente per far funzionare il tutto **devi avere sia il microfono che la

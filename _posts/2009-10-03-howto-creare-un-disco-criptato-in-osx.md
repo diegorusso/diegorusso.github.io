@@ -24,7 +24,7 @@ nessun tipo di software aggiuntivo. Dunque segui questi passi:
      ![disco-crittato-osx2]({{site.url}}/images/disco-crittato-osx2.png)
   5. Clicca su **"Accetta"** ed il gioco è fatto! :)
   
-**Ti consiglio inoltre di non salvare la password nel portachiavi.** Questo fa si che ogni volta che apri l'immagine crittata ti verra chiesta la password. Questo ovviamente per una maggiore sicurezza.
+**Ti consiglio inoltre di non salvare la password nel portachiavi.** Questo fa si che ogni volta che apri l'immagine crittata ti verrà chiesta la password. Questo ovviamente per una maggiore sicurezza.
 
 Appena hai finito la procedura apri la tua immagine (.dmg) facendo doppio
 click su di essa. Inserisci la password e trascinaci i file all'interno.  

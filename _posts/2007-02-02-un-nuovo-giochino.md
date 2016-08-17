@@ -12,7 +12,7 @@ Se volete lasciare un messaggio a qualcuno che sta in un'altra parte del mondo
 (anche a 1 km di distanza) questo fa per voi.  
   
 Sfruttando le mappe di Google, localizzi il posto desiderato e poi scrivi un
-messaggio che verra visualizzato a mo di segnali di fumo. Potrai scegliere la
+messaggio che verrà visualizzato a mo di segnali di fumo. Potrai scegliere la
 destinazione come mail, link o pulsante HTML/Myspace. Intanto io vi lascio il
 mio saluto dal colosseo! :)
   

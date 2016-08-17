@@ -20,49 +20,39 @@ tags:
 - guia
 ---
 Como empezar un nuevo blog? Obviamente con un **"Hola Mundo!"** (si no sabes
-que quiere decir, [lee aqui](http://es.wikipedia.org/wiki/Hola_mundo))  
-Hace unas semanas decidi de cambiar este blog y ponerlo multilingue. Italiano,
-Ingles y Español. ¿Español, porque Español? Porque un italiano escribe en un
+que quiere decir, [lee aquí](http://es.wikipedia.org/wiki/Hola_mundo))  
+Hace unas semanas decidí de cambiar este blog y ponerlo multiidioma. Italiano,
+Ingles y Español. ¿Español, porqué Español? Porqué un italiano escribe un
 blog en Español? No lo se. Me gusta y nada mas! :) Ahora te cuento la mi
 pequeñita historia.
 
-Todo empezo mas o menos **hace unos años**. Decidi de aprender el español pero
-no tuve tiempo para ir a la escuela o a una clase de idioma. Asi descargue
-desde internet, libros, apuntes podcast. Todas cosas que me ayudaron a
-aprender y amar el español. Con el paso del tiempo este idioma me gusto
-siempre mas. **De hecho hoy tengo mi iPhone, mi OSX, mi Gmail en español asi
-cada vez puedo leo en españ**ol.
+Todo empezó mas o menos **hace unos años**. Decidí de aprender el español pero
+no tuve tiempo para ir a la escuela o a una clase de idioma. Así descargué
+desde internet, libros, apuntes y podcast. Todas cosas que me ayudaron a
+aprender y amar el español. Con el paso del tiempo este idioma me gustó
+siempre mas. **De hecho hoy tengo mi iPhone, mi OSX, mi Gmail en español así
+cada vez puedo leo en español**.
 
-[![]({{site.url}}/images/Spanish_flag.jpg){: .align-center}]({{site.url}}/images/Spanish_flag.j
-pg)
+[![]({{site.url}}/images/Spanish_flag.jpg){: .align-center}]({{site.url}}/images/Spanish_flag.jpg)
 
-  
 Ademas tengo amigos españoles en Gtalk y en Facebook para hablar con ellos. El
-año pasato atendi una clase de español y **en mayo 2010 tuve exito al
-**[**DELE**](http://diplomas.cervantes.es/index.jsp) consiguiendo el nivel B1.
+año pasato atendí una clase de español y **en mayo 2010 tuve exito al
+[DELE](http://diplomas.cervantes.es/index.jsp)** consiguiendo el nivel B1.
 Bueno, esta es la mi pequeña historia.
 
-En este blog escribire un poco de todo però en **la mayoria de IT**. Los
-proximos articulos seran reglas gramaticales que escribi en un viejo blog que
+En este blog escribiré un poco de todo pero por **la mayoria sobre IT**. Los
+proximos articulos seran reglas gramaticales que escribí en un viejo blog que
 tenia en español.
 
 Vale, ahora te explico un poquito la estructura de mi sitio:
 
-  * el dominio termina en **.it**: si, soy Italiano però "IT" significa tambien Information Technology (come el lema dice). Como he dicho poco antes voy a escribir sobre todo de IT
-  * estoy usando [WPML](http://wpml.org/) (WP multiple language), un plugin que te permite de gestionar mas idiomas. Asi habran **tres feed de RSS**, uno por idioma. Elige lo que prefieres!
-  * todas la paginas estan traducidas de mi, entonces **podrian haber fallos** (de seguro!).
+  * el dominio termina en **.it**: sí, soy Italiano però "IT" significa tambien Information Technology. Como he dicho poco antes voy a escribir sobre todo de IT
+  * estoy usando [WPML](http://wpml.org/) (WP multiple language), un plugin que te permite de gestionar mas idiomas. Así habran **tres feed de RSS**, uno por idioma. Elige lo que prefieres!
+  * todas la paginas estan traducidas por mi, entonces **podrian haber fallos** (de seguro!).
   * unos articulos (depende de la importancia) puede ser que los traduzco **en los tres** (o dos) idiosmas
-  * en "[Curriculum]({{site.url}}/es/curriculum/)" hay em mi CV traducido en el idioma elegido
-  * en la pagina "[HOWTOs]({{site.url}}/es/howtos/)" hay todas las guias que voy a escribir
-  * en "[Download]({{site.url}}/es/descargas/)".. oh Dios mios!, ya sabes que estara en esta pagina!
-  * la pagina "[Licencia]({{site.url}}/es/licencia/)" contiene la Licencia CC 2.5
-  * en "[¿Quien es diegor?]({{site.url}}/es/¿quien-es-diegor/)" puedes encontrar todas las mias informaciones personales y cntactos (y el mi cariñoso avatar por supuesto). Esta pagina tiene dos paginas hijas: "[Red Sociales]({{site.url}}/es/¿quien-es-diegor/red-sociales/)" donde esta mi lado 2.0 y "[Citaciones]({{site.url}}/es/¿quien-es-diegor/citaciones/)"
+  * en "[Curriculum]({{site.url}}/cv/)" hay em mi CV traducido en el idioma elegido
   
-
-  
-Este es un blog ECL (Español como secunda lengua) y tu (si, propio tu!) puedes
-corregir mis fallos, aconsecarme y integrar mis
-[HOWTO]({{site.url}}/es/howtos/).
+Este es un blog ECL (Español como secunda lengua) y tú (si, propio tu!) puedes
+corregir mis fallos, aconsecarme y integrar mis HOWTO
 
 Por ahora, gracias por todo y... ¡hasta pronto! :)
-

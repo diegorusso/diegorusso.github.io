@@ -15,7 +15,7 @@ tags:
 - guida
 ---
 Giusto oggi mi è capitato di rispondere a delle domande che un mio amico mi ha
-fatto sull'iPhone. Visto la quantita di domande e la loro utilità ho deciso di
+fatto sull'iPhone. Visto la quantità di domande e la loro utilità ho deciso di
 riproporle qui.
 
 **M.** è il mio amico ed ovviamente **D.** sono io! :) Ah.. le domande sono riferite a un iPhone 3GS con abbonamento zero6top della [3Italia](http://www.tre.it/)
@@ -44,7 +44,7 @@ riproporle qui.
 **M. Volendo acquistare un applicazione-navigatore satellitare, quale mi consigli ? Tom tom o altri?**  
 **D.** Ho provato sia il Tom Tom che il Navigon. Preferisco il secondo
 
-**M. Perché il servizio x series che paghiamo non si puo utilizzare con i phone?**  
+**M. Perché il servizio x series che paghiamo non si può utilizzare con i phone?**  
 **D.** Mistero, spero che la 3 faccia qualche cosa in merito per farceli usare.
 
 **M. La batteria mi dura pochissimo..ho letto in Internet di togliere il 3g ... Mai le telefonate e gli SMS sono sempre compresi nel contratto? Dato che si va in tim?**  
@@ -78,5 +78,5 @@ Il Jailbreak ha i suoi vantaggi, ma bisogna anche vedere l'uso che si fa di
 iPhone.
 
 Ecco questo e quello che ho risposto. Come lui anche altre persone potrebbero
-avere domande simili. Dunque se hai domande contattami e saro felice di risponderti
+avere domande simili. Dunque se hai domande contattami e sarò felice di risponderti
 e magari integrarle in questo post! :)

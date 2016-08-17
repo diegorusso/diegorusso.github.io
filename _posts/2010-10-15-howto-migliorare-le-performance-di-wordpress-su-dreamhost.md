@@ -10,24 +10,23 @@ categories:
 tags:
 - howto
 ---
-[DreamHost](http://www.dreamhost.com/) e l'hosting che ospita questo blog ed
+[DreamHost](http://www.dreamhost.com/) è l'hosting che ospita questo blog ed
 altri miei progetti. É molto affidabile, serio e ti da molti servizi che qui
 in Italia ci sogniamo! Se vuoi leggere le differenze tra Aruba e DreamHost,
 [accomodati]({{site.url}}/2009/10/10/da-aruba-a-dreamhost/)! Gli unici
 svantaggi che hanno sono due: ping a 200ms (hanno il datacenter a Los Angeles)
-e la **non registrazione** di domini **.it **(io uso
+e la **non registrazione** di domini **.it** (io uso
 [misterdomain.eu](http://www.misterdomain.eu/)). Ovviamente nel pannello puoi
-**gestire** tutti i domini che vuoi, **anche i .it!**
+**gestire** tutti i domini che vuoi, **anche gli .it!**
 
 Da quanto sono su DH, ho usato molte volte l'assistenza online: hanno una chat
 e **nove volte su dieci ti risolvono il problema**. Inoltre sono molto
 preparati tecnicamente.
 
 [![]({{site.url}}/images/dh_logo.png){: .align-center}]({{site.url}}/images/dh_logo.png)
-
 _Logo di DreamHost_
+{: .text-center}
 
-  
 Tempo fa avevo problema di performance su questo sito ed ho chiesto aiuto. Il
 tecnico oltre a darmi delle dritte su come mettere su wordpress, mi ha dato
 una lista di link molto utili per avere un'installazione di wordpress
@@ -45,8 +44,6 @@ Ecco la lista dei link:
   * **Risoluzione dei problemi legati alla lentezza del sito**: <http://wiki.dreamhost.com/Slow_site_troubleshooting>
   * **Risoluzione dei problemi legati al Private Server**: <http://wiki.dreamhost.com/DreamHost_PS_Troubleshooting>
   
-
-  
 Io li ho trovati molto utili!
 
 Ovviamente se vuoi passare a DreamHost lo puoi fare cliccando il link in
@@ -58,4 +55,3 @@ Puoi anche mettere **in fase di registrazione** il codice **"DIEGOR"** per
 ricevere lo stesso sconto.
 
 Happy hosting!
-

@@ -21,7 +21,7 @@ Basta seguire questi semplici passi:
   4. A questo punto crea la tua data come vuoi, trascinando gli elementi sottostanti ed inserendo del testo o simboli. Io per esempio mi accontento del giorno del mese ed il mese stesso, in questo modo
 ![data]({{site.url}}/images/data.png){: .align-center}
      Appena hai creato la data selezionala tutta con **+A** e copiala con **+C**.
-     Fatto cio clicca su **Cancella**.
+     Fatto ciò clicca su **Cancella**.
   5. Ora clicca su **Personalizza** nella sezione **Ora** e seleziona **Media**. Con **-V** incolla la tua data dove vuoi. Ricorda che qui puoi modificare anche il formato della tua ora. Il mio risultato e il seguente
 ![ora]({{site.url}}/images/ora.png){: .align-center}
 

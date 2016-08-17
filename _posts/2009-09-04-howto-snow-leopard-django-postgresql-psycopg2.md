@@ -41,9 +41,9 @@ Dunque per avere Django + Postgresql + Python + Psycopg2 funzionante segui
 queste istruzioni:
 
   1. installa i macports
-  2. da terminale digita: ```sudo ports install postgresql84-server```
+  2. da terminale digita: `sudo ports install postgresql84-server`
   3. segui le istruzioni dopo l'installazione di postgresql
-  4. installa psycopg digitando: ```sudo easy_install psycopg2```
+  4. installa psycopg digitando: `sudo easy_install psycopg2`
   5. installa django1.1 scaricando i sorgenti dal [sito](http://www.djangoproject.com/)
   
 Seguendo questi semplici passi avrai la tua piattaforma in django e postgres

@@ -76,7 +76,7 @@ colloquio-di-lavoro/) (te lo consiglio vivamente).
 
 Feci molti colloqui, con varie aziende più o meno famose, tra Irlanda,
 Inghilterra, Germania, Lussemburgo, Norvegia. Nel frattempo ho dato anche due
-esami all'universita ed avuto problemi personali. Nonostante cio la
+esami all'all'università ed avuto problemi personali. Nonostante ciò la
 determinazione non e mancata e sono andato avanti. Infatti alla fine ho avuto
 anche il lusso di una scelta, **tripla**.
 

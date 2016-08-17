@@ -13,13 +13,13 @@ iPhone da parte i 3Italia:
 
 >"Come richiesto, il numero da lei richiesto e' attivo sulla sua scheda 3"
   
-Dunque la storia della portabilità puo definitvamente considerarsi conclusa. A
+Dunque la storia della portabilità può definitvamente considerarsi conclusa. A
 distanza di **34 giorni sono riuscito ad avere la portabilità del numero da
 Tim a 3Italia.**
 
 Alla fine di questa storia l'unica cosa che ti consiglio e di chiamare
 l'operatore che devi lasciare per autorizzare la portabilità, anche se per
-legge non serve poiché l'operatore non puo più rifiutare la portabilità.
+legge non serve poiché l'operatore non può più rifiutare la portabilità.
 
 Speriamo che tim si riallinei alle procedure e chei suoi clienti on debbano
 trovarsi nelle mie stesse condizioni. Ultima cosa: **complimenti al servizio

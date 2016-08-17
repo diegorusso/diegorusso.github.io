@@ -18,46 +18,46 @@ tags:
   4. Verify with _fdisk/cfdisk_ the partition table of the disk: there should be one or more "raid autodetect" partitions
   5. Open a terminal and type 
     
-        #> mdadm --assemble --run /dev/md0 /dev/sdc1
+        $ mdadm --assemble --run /dev/md0 /dev/sdc1
 
   
 to create a temporary RAID1 and to make it available using /dev/md0
 
   6. If it doesn't work, maybe the RAID kernel module is not loaded. 
     
-        #> modprobe raid1
+        $ modprobe raid1
 
   
 and try again
 
   7. If everything is ok, it will be possible to mount /dev/md0: 
     
-        #> mount /dev/md0 /mnt
+        $ mount /dev/md0 /mnt
 
   
 
   8. If the above command gives back "invalid argument", likely the ext3 module is not loaded. 
     
-        #> modprobe ext3
+        $ modprobe ext3
 
   
 and try again
 
   9. If mount hasn't given back any error, it will be possible to mount to access data in the raid1 from /mnt
   10. Save all you can save
-  11.     #> umount /mnt
+  11.     $ umount /mnt
 
   
 
   12. Stop the temporary raid1 using 
     
-        #> mdadm --stop /dev/md0
+        $ mdadm --stop /dev/md0
 
   
 
   13. If necessary, repeat the same process with the other partitions 
     
-        #> mdadm --assemble --run /dev/md1 /dev/sdc2
+        $ mdadm --assemble --run /dev/md1 /dev/sdc2
 
   14. Done
   

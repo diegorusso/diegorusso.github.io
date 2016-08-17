@@ -26,11 +26,11 @@ To solve this issue, open a **Terminal** and type these commands:
 
     
     
-    #> sudo mdutil -i off "/Volume/where/is/Mail"  
+    $ sudo mdutil -i off "/Volume/where/is/Mail"  
     
-    #> sudo mdutil -i on "/Volume/where/is/Mail"  
+    $ sudo mdutil -i on "/Volume/where/is/Mail"  
     
-    #> sudo mdutil -E "/Volume/where/is/Mail"
+    $ sudo mdutil -E "/Volume/where/is/Mail"
 
   
 In according to [mdutil's man page](http://www.unix.com/man-

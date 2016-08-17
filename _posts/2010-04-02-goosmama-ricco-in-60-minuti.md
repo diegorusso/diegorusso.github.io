@@ -19,16 +19,16 @@ Sai? Se ripeti questa parola,
 _guusmama_), per 10 volte, diventi ricco in 60 minuti! E' una parola magica!
 
 # **[GOOSMAMA](http://www.brunozzi.it/2010/04/01/goosmama/)**
+{: .text-center}
 
-  
 Ovviamente sai che sto scherzando.. ma non del tutto!! Ora ti spiego il
 perché. Tranquillo, non ti portero via più di 3 minuti di orologio!
 
-[Simone Brunozzi](http://www.brunozzi.it/) e una persona veramente in gamba.
+[Simone Brunozzi](http://www.brunozzi.it/) è una persona veramente in gamba.
 Credo sia una delle persone più belle (dopo di me ovviamente) che io conosca.
 In gamba, sveglio, intelligente, simpatico, etc etc etc... insomma un
-**genio**! Dico cio perché lo conosco, perché ho avuto la fortuna di passare
-molto tempo con lui: da professore universitario a.. amico. Ora, cosa c'èntra
+**genio**! Dico ciò perché lo conosco, perché ho avuto la fortuna di passare
+molto tempo con lui: da professore universitario a.. amico. Ora, cosa c'entra
 tutto questo con lui? GOOSMAMA, ricordati questa parola.
 
 Ieri, **1 aprile 2010**, Simone ha rilasciato **GOOSMAMA** (bravo, te la sei
@@ -49,4 +49,3 @@ Dunque cosa aspetti? Investi un po' del tuo tempo per qualche cosa che e
 veramente utile a te ed a tutte le persone a cui vuoi bene.
 
 Ti aspetto qui, come sempre.
-

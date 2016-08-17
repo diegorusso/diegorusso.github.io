@@ -26,12 +26,12 @@ nazionale, questo vorrebe poter dire una riduzione di spesa pubblica.
 Il [Free Software User Group Italia ](http://www.fsugitalia.org/
 "http://www.fsugitalia.org/" ) è orgoglioso di partecipare all'iniziativa
 internazionale, con un talk organizzato presso i locali del **"Dipartimento di
-Matematica ed Informatica" dell'Universita degli Studi di Perugia**, in Via
+Matematica ed Informatica" dell'Università degli Studi di Perugia**, in Via
 Vanvitelli 1. Si ringrazia il direttore del Dipartimento, il Professor G.
 Vinti per la cortese ospitalità. Per maggiori informazioni, visitare il sito
 [Document Freedom](http://documentfreedom.org/ "http://documentfreedom.org/").  
 Nel medesimo incontro il Professor Renzo Davoli, dell'Alma Mater Studiorum
-Universita di Bologna, presenterà l'iniziativa "LiberaSW". Per maggiori
+Università di Bologna, presenterà l'iniziativa "LiberaSW". Per maggiori
 informazioni consultare la nostra pagina su
 [LiberaSW](http://www.fsugitalia.org/liberasw.php
 "http://www.fsugitalia.org/liberasw.php" ).  

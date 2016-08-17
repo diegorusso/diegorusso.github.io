@@ -11,9 +11,9 @@ categories:
 tags:
 - howto
 ---
-Bene, questo e il mio primo howto del 2010. Oggi vedrai come aggiornare tutte
+Bene, questo è il mio primo howto del 2010. Oggi vedrai come aggiornare tutte
 le tue applicazioni installate in OSX in maniera semplice, veloce ed
-automatica. Per fare cio c'è [Appfresh](http://metaquark.de/appfresh/) che
+automatica. Per fare ciò c'è [Appfresh](http://metaquark.de/appfresh/) che
 esegue i seguenti passi:
 
   1. scansiona il tuo mac per trovare tutte le applicazioni che usi
@@ -21,7 +21,6 @@ esegue i seguenti passi:
   3. confrontale versioni da te installate con quelle presenti in [osx.iusethis.com](http://osx.iusethis.com)
   4. se ci sono aggiornamenti te li segnala e con un semplice click puoi mantenere aggiornati i tuoi software.
   
-
 Di seguito due screenshot che ti mostrano l'interfaccia di Appfresh:
 
 [![]({{site.url}}/images/appfresh1.png){: .align-center}]({{site.url}}/images/appfresh1.png)

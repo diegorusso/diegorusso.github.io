@@ -44,7 +44,7 @@ consigli, informatica, sport (tranne il calcio), curiosita, pazzie, viaggi,
 sfoghi, puttanate, religione, etc.. etc.. etc..  
   
 Dunque per ora ci metto quel che voglio! Spero che un giorno, se questo blog
-andra avanti, di canalizzare i post in argomenti più ristretti (cosi forse la
+andrà avanti, di canalizzare i post in argomenti più ristretti (cosi forse la
 gente si decidera a commentare!!! :). Staremo a vedere  
   
 Altra domanda.. "Perché Funny Weasel?" uff... il primo post, sembrava tanto

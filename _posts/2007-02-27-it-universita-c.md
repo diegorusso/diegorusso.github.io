@@ -14,7 +14,7 @@ le università siano cosi, ma l'andazzo è questo. Spero solo che mi sbagli!!
 [![]({{site.url}}/images/priori.jpg){: .align-center}]({{site.url}}/images/priori.jpg)
 
 Inoltre, potete animare anche il [*fantastico* forum](http://www.informatica.unipg.it/phpbb/viewtopic.php?t=1054)
-dell'universita di informatica di Perugia, visto che al momento NON FREGHI UN
+dell'all'università di informatica di Perugia, visto che al momento NON FREGHI UN
 CAZZO a nessuno!!!  
   
 Sono sempre più convinto di una cosa.... TUTTI VIA DALL'ITALIA!!!  

@@ -31,7 +31,7 @@ Segui questi passi per installare mod_wsgi su OSX:
      make  
      sudo make install
      ```
-  5. Ora edita il file ```/etc/apache2/httpd.conf``` (con i permessi di root) ed aggiungi la seguente riga:
+  5. Ora edita il file `/etc/apache2/httpd.conf` (con i permessi di root) ed aggiungi la seguente riga:
 
      ```
      LoadModule wsgi_module     libexec/apache2/mod_wsgi.so

@@ -20,7 +20,7 @@ un mio concerto fosse annullato. Ero pronto, teso come un arco e
 improvvisamente sono qui solo… in una camera d'albergo inutile e frustrato
 >
 > Doveva esserci la grande festa del mio concerto all'Heineken ed è stato
-cancellato da un maledetta tromba d'aria che ha devastato mezza citta e il
+cancellato da un maledetta tromba d'aria che ha devastato mezza città e il
 bellissimo parco sangiuliano.
 >
 > I biglietti saranno rimborsati dall'organizzazione ma la gioia di ritrovarsi
@@ -43,7 +43,7 @@ Guardare oltre l'orizzonte e ricominciare tutto da capo…senza perdersi d'animo
 mai… e combattere e lottare contro tutto contro… questo e il nostro destino di
 uomini ed e questo che ci rende grandi…
 >
-> Oggi sono "spento" ma giovedì a s.siro saro acceso!"
+> Oggi sono "spento" ma giovedì a s.siro sarò acceso!"
 
   
 **TI VOGLIO BENE!**

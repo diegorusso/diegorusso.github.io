@@ -30,7 +30,7 @@ alla mia mail. Infatti il testo e il seguente:
 in riferimento alla sua mail del 14/08/2009 11.11.11 e a seguito della
 relativa telefonata intercorsa, riassumiamo di seguito quanto comunicato a
 voce:la portabilita' e' prevista per il giorno 21/08/2009.  
-Per essere sempre aggiornato sulle novita' e le offerte di 3 la invitiamo a
+Per essere sempre aggiornato sulle novità e le offerte di 3 la invitiamo a
 visitare il sito tre.it oppure ad accedere gratuitamente dal suo videofonino
 alla sezione Offerta di 3 dell'Area Clienti 133 Mobile:  
 ><http://portale3.tre.it/133/detail/pid/2293>  

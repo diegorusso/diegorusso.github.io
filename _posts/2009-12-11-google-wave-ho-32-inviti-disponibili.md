@@ -17,7 +17,7 @@ altri strumenti di collaborazione. Già ho parlato di Google Wave in [questo
 post]({{site.url}}/2009/11/18/howto-piccoli-trucci-per-google-wave/).
 Il wave é un concetto difficile da capire, **almeno inizialmente**. Senza
 provare a spiegartelo ti consiglio la visione di questo breve video che mostra
-tutte le funzionalita di Google Wave.
+tutte le funzionalità di Google Wave.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6pgxLaDdQw" frameborder="0" allowfullscreen></iframe>
 _Google Wave in meno di 10 minuti!_

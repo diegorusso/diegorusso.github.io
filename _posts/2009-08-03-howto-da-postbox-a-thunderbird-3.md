@@ -40,7 +40,7 @@ Segui questi semplici passi e passerai in due minuti da Postbox a Thunderbird 3:
   3. Clicca con il tasto destro del mouse e seleziona **"Copia 2 elementi"**
   4. Sempre attraverso il Finder vai in **"Library/Thunderbird"** che si trova nella tua cartella inizio
   5. Clicca con il tasto destro nella cartella e seleziona **"Incolla elementi"**
-  6. Attendi la fine della copia che puo variare a seconda delle mail che hai scaricato ed alla fine avvia Thunderbird
+  6. Attendi la fine della copia che può variare a seconda delle mail che hai scaricato ed alla fine avvia Thunderbird
   7. Controlla che tutte le tue impostazioni siano state preservate
   
 

@@ -31,7 +31,7 @@ _Cache Out X ha un'interfaccia minimalista semplice ed intuitiva :)_
 
 Una volta avviata l'applicazione non devi fare altro che selezionare le
 cartelle da ripulire e premere il tasto **"Clean"**. Attendi qualche minuto (a
-seconda della quantita di dati da eliminare) ed il gioco è fatto.
+seconda della quantità di dati da eliminare) ed il gioco è fatto.
 
 **Cache Out X cancella Cache, History e Cookie.** Se vuoi mantenere il tuo sistema sempre pulito da questi file puoi anche importare l'applicazione in modo che ti pulisca la cache ad ogni login, mettendo il segno di spunta su **"AutoClean at login"**
 

@@ -52,7 +52,7 @@ vuoi da me, Delusa, Sono ancora in coma)
 15\. Stupendo  
 16\. Come stai  
 17\. Sally  
-18\. C'e chi dice no  
+18\. C'è chi dice no  
 19\. Gli spari sopra  
 20\. Siamo solo noi  
 21\. Rewind  

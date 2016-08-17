@@ -43,7 +43,7 @@ Quando fai l'università, non esistono più muri bianchi.
 Quando fai l'università, ogni inquilino compra un calendario.  
 Quando fai l'università, non parli più piano, alzi il volume della tv.  
 Quando fai l'università, il tuo dentifricio....come per il bagnoschiuma.  
-Quando fai l'università, in cucina punti alla quantita, non alla qualita.  
+Quando fai l'università, in cucina punti alla quantità, non alla qualita.  
 Quando fai l'università, tutti sono cuochi ma nessuno sa lavare quei cazzo di
 piatti.  
 Quando fai l'università, il tg1 e troppo serio, studio aperto e troppo idiota,
@@ -55,7 +55,7 @@ mai da solo/a.
 Quando fai l'università, alle 16,00 ancora stai guardando 'seven heaven' o
 'una mamma per amica' o Maria de Filippi.  
 Quando fai l'università, e meglio avere 2 bagni.  
-Quando fai l'università, e c'è un solo bagno, puo capitare che mentre uno si
+Quando fai l'università, e c'è un solo bagno, può capitare che mentre uno si
 lava i denti, uno si fa la doccia, un'altro sta sulla tazza, un'altro si
 asciuga i capelli, quello he aspetta fuori la porta si sta cagando addosso, ma
 stanno tutti parlando di Fica o di calcio.  
@@ -86,7 +86,7 @@ ascoltando e se una ti chiede di dedicarle una canzone, la sera prima avevi
 stuccato 2 corde perché eri troppo ubriaco per suonare.  
 Quando fai l'università, e hai finito le lezioni, purtroppo devi finire di
 studiare a casa.  
-Quando fai l'università, ti sembra che non finira mai, o almeno così vorresti.  
+Quando fai l'università, ti sembra che non finirà mai, o almeno così vorresti.  
 Quando fai l'università, conosci un sacco di persone e quando finisci
 l'università non fare l'errore di scordarti di loro.  
 Quando l'università e stato il periodo più bello della tua vita e hai

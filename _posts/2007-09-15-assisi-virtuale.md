@@ -19,7 +19,7 @@ Realizzata in scala su planimetrie originali, la Basilica e unica nel suo
 genere, per fedelta nella riproduzione ed attenzione per i dettagli. Al suo
 interno e possibile ammirare le opere di Giotto, Cimabue, Pietro Lorenzetti e
 molti altri pittori che hanno contribuito con la propria arte a fare della
-basilica un prezioso tesoro per la citta di Assisi e per l'Italia stessa.
+basilica un prezioso tesoro per la città di Assisi e per l'Italia stessa.
 
 A disposizione del pubblico vi sono dei pannelli informativi che consentono di
 ricevere notizie generali sulle opere, semplicemente cliccando sull'opera

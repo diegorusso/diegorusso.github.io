@@ -35,7 +35,7 @@ adattatore) da 1GB per espandere i 50MB di memoria interna. **Puo essere usato
 tranquillamente come lettore MP3.** La garanzia, ovviamente, e italiana e di
 due anni. Altra cosa importante e che il giocattolino non e importato
 dall'estero, ma era destinato fin dall'inizio al mercato Italiano. _**A molti
-puo fare comodo, dunque ho deciso di regalarvi anche il caricabatteria da
+può fare comodo, dunque ho deciso di regalarvi anche il caricabatteria da
 auto: utile per chi viaggia spesso.**_ Qui sotto metto una foto:
   
 
@@ -48,9 +48,9 @@ parti che secondo me sono importanti rispetto alle altre.
 
 **Principali caratteristiche:**
 
-  * Utilizza al meglio la tua giornata di lavoro grazie a un'ampia scelta di funzionalita: chiamate in conferenza, registrazione vocale, blocco note, vivavoce integrato, suonerie personalizzate e Nokia Team Suite
+  * Utilizza al meglio la tua giornata di lavoro grazie a un'ampia scelta di funzionalità: chiamate in conferenza, registrazione vocale, blocco note, vivavoce integrato, suonerie personalizzate e Nokia Team Suite
   * Invia messaggi tramite SMS, MMS con liste di distribuzione, Instant Messaging (verificare la disponibilita del servizio con il proprio operatore) ed e-mail
-  * Accedi alle funzionalita di lavoro in modo facile e veloce: tasti One Touch per chiamate in conferenza, attivazione/disattivazione volume e rubrica
+  * Accedi alle funzionalità di lavoro in modo facile e veloce: tasti One Touch per chiamate in conferenza, attivazione/disattivazione volume e rubrica
   * Parla in tutto il mondo grazie alla copertura quadband su cinque continenti
   * Mostra il tuo stile con il suo design sottile ed elegante
   * Lavora in modo efficiente senza rinunciare al divertimento - ascolta le tue canzoni preferite o guarda i tuoi video con i lettori musicale e multimediale

@@ -10,7 +10,7 @@ tags: []
 ---
 ... e tu stai lì, che aspetti. A proposito di tempo, ho trovato 10 minuti per
 scrivere questo post. Ancora sto a Madrid ed non parlerò di come sto, di come
-stanno andando le cose etc etc anche se qualche cosa c'èntra. Dico solo che
+stanno andando le cose etc etc anche se qualche cosa c'entra. Dico solo che
 quando uno sta bene, il tempo vola via. Credo che basti, per ora! :)
   
 [![]({{site.url}}/images/tempo.jpg){: .align-center}]({{site.url}}/images/tempo.jpg)

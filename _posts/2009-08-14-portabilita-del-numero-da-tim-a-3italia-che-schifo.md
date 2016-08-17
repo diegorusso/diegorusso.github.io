@@ -44,7 +44,7 @@ La 3Italia mi ha risposto con il seguente messaggio:
 in riferimento alla sua mail del 03/08/2009, la informiamo che abbiamo preso
 in carico la sua segnalazione con numero di pratica 4610692 e che sara'
 contattato quanto prima.  
-Per essere sempre aggiornato sulle novita' e le offerte di 3 la invitiamo a
+Per essere sempre aggiornato sulle novità e le offerte di 3 la invitiamo a
 visitare il sito tre.it oppure ad accedere gratuitamente dal suo videofonino
 alla sezione Offerta di 3 dell'Area Clienti 133 Mobile:  
 ><http://portale3.tre.it/133/detail/pid/2293>  
@@ -63,7 +63,7 @@ ca\*\*o dicono?!? Io non ho annullato un bel niente!!!
 Appena letta questa cosa ho chiamato di nuovo il 133 e l'operatore mi ha detto
 che la Tim è restia a lasciare i propri clienti. Mi ha chiesto se avevano
 contattato ed io ho spiegato che la scheda e sempre spenta poiché non la uso.
-Dopo di cio l'operatore mi ha detto di chiamare il numero gratuito **411599**,
+Dopo di ciò l'operatore mi ha detto di chiamare il numero gratuito **411599**,
 un numero dedicato alle portabilità. Cosi ho fatto: sono stato al telefono
 circa 15 minuti, concludendo che la portabilità sarebbe avvenuta il **14
 agosto 2009 (terza data)**. In questo lasso di tempo ho deciso di accendere un

@@ -13,7 +13,7 @@ Yo gestionaba un server con sobre linux y una vez tuve un mensaje extraño:
 
     
     
-    #> ip_conntrack: table full, dropping packet
+    $ ip_conntrack: table full, dropping packet
 
   
 Uno de los efectos de este mensaje es que no puedas crear y recibir conexiones
@@ -23,7 +23,7 @@ Como primero paso verifica el valor actual, digitando:
 
     
     
-    #> cat /proc/sys/net/ipv4/ip_conntrack_max  
+    $ cat /proc/sys/net/ipv4/ip_conntrack_max  
     
     65536
 
@@ -32,7 +32,7 @@ Ahora, aumenta este valor digitando:
 
     
     
-    #> echo 131072 > /proc/sys/net/ipv4/ip_conntrack_max
+    $ echo 131072 > /proc/sys/net/ipv4/ip_conntrack_max
 
   
 En general el valor de _ip_conntrack_max_ esta establecido a **el total en MB

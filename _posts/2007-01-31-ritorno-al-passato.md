@@ -32,7 +32,7 @@ sono bravi (non lo vogliono ammettere) e mi hanno detto di unirmi a loro. Sono
 due chitarre, basso e batteria. Ci ho pensato su.
 
 L'uni per quest'anno l'ho finita, sono ritornato a casa, una volta a settimana
-si puo fare, non è niente di impegnativo... perché no?!? Allora Fred (lo zio
+si può fare, non è niente di impegnativo... perché no?!? Allora Fred (lo zio
 di Francesco) mi ha dato tutti i cd con tutti i spartiti per farmeli imparare.
 Mi sono messo giù e ieri sera abbiamo fatto le prime prove. Direi che come
 prima volta sono andate più che bene!

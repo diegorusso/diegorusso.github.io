@@ -23,7 +23,7 @@ non e stata la mia risposta... ma la sua!
 Io ho chiesto: _"E tu cosa vorresti fare nel 2008?"_ 10 secondi di pausa... e
 lui: __"Fare la differenza"__  
 In questa risposta c'è tutta l'essenza di mille risposte. Pensandoci bene
-non puo esserci risposta migliore.  
+non può esserci risposta migliore.  
 Ah la foto sopra mostra il contachilometri della mia macchina. Ieri sera si è
 azzerato per la seconda volta! Almeno ora ho la macchina nuova! :P  
 Dunque non resta che augurarmi ed auguravi un buon 2008.

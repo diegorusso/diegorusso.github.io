@@ -31,7 +31,7 @@ molte ventole (dunque anche il rumore sarebbe stato assordante). Ho così
 posizionato la mia macchina in una cantina e portato un cavo di rete fino a
 dentro casa a cui ho connesso un router WRT-54GL con [DD-WRT](http://www.dd-
 wrt.com/). Fatto ciò ho reso pubblica la mia macchina all'esterno in modo da
-connetermi in ssh. La macchina anche se in cantina, non puo stare sempre
+connetermi in ssh. La macchina anche se in cantina, non può stare sempre
 accesa a non fare niente. Dunque mi è venuto in mente questo protocollo: il
 [WOL](http://en.wikipedia.org/wiki/Wake-on-LAN). **Il Wake On Lan non fa altro
 che accedere un computer connesso ad una rete.** Gli unici prerequisiti sono i

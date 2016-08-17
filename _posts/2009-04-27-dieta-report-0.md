@@ -16,10 +16,10 @@ howto o altro! :)
 
 Dopo un anno passato a mangiare (Cristo sa quanto ca\*\*o ho mangiato) ho deciso
 che perdere qualche chiletto mi dovrebbe fare bene. Se ancora stai leggendo ti
-chiederai: _"Basta fare attivita fisica!"_ Si è vero, serve anche quella, **ma
+chiederai: _"Basta fare attività fisica!"_ Si è vero, serve anche quella, **ma
 non basta**. Se accanto però non ci metti una dieta equilibrata, sana e
-controllata, l'attivita fisica non serve ad una cippa. Per la cronaca, da
-settembre ho ripreso a fare kungufu e credimi che di attivita li ce ne sta
+controllata, l'attività fisica non serve ad una cippa. Per la cronaca, da
+settembre ho ripreso a fare kungufu e credimi che di attività li ce ne sta
 molta!!
 
 Prime impressioni sulla dieta: **mangio di tutto, controllando solo latticini

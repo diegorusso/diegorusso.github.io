@@ -16,7 +16,7 @@ Open a terminal and type the following command:
 
     
     
-    #> setxkbmap  
+    $ setxkbmap  
     
     
 

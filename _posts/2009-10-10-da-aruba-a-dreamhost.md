@@ -45,7 +45,7 @@ I loro punti forti sono:
   * subversion, cron jobs, amazon cloudfront, flash media, media straming, server jabber, google adword, google apps, mail illimitate, gestione dns, gestione multiutente, gestione sottocartelle, statistiche avanzate, gruppi unix **il tutto configurabile dal pannello di controllo.**
   
 Unica pecca di Dreamhost (come di qualsiasi servizio hosting non Italiano) è
-che non puo ne registrare ne trasferire domini italiani **.it**. Per ovviare a
+che non può ne registrare ne trasferire domini italiani **.it**. Per ovviare a
 cio sposti o registri il tuo dominio su un registrant in grado di gestire .it
 e punti i nameserver verso Dreamhost. Nello specifico mi sono appoggiato a
 [misterdomain.eu](http://misterdomain.eu) che con circa **6€ l'anno hai il tuo
@@ -69,4 +69,4 @@ discount" ci sono migliaia di codici che puoi utilizzare per aprire il tuo
 hosting con Dreamhost.
 
 **Tirando le somme consiglio fortemente Dreamhost come sito di hosting.**
-Se vuoi farmi domande, darmi suggerimenti o altro contattami o commenta, saro felice di risponderti! :)
+Se vuoi farmi domande, darmi suggerimenti o altro contattami o commenta, sarò felice di risponderti! :)

@@ -51,7 +51,7 @@ Quattro animali in via di estinzione
 
 Il giorno dopo pasquetta, stanco di questa vita e forse anche un po' per
 obbligo ma anche per piacere, ho iniziato a vivere... eh si... una [segunda
-vida](http://secondlife.com/)!!! Su questo argomento ci si puo parlare per
+vida](http://secondlife.com/)!!! Su questo argomento ci si può parlare per
 ore, ore ed ore. Bene o male tutti abbiamo una seconda vita. Chi per scelta,
 chi magari perché obbligato, chi per solo piacere, si ha una seconda vita.
 Questo sono io in Second Life alle prese con la mia prima costruzione! Un

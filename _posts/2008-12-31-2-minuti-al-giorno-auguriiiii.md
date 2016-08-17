@@ -63,7 +63,7 @@ dico che è colpa nostra, ma di cause di forza maggiore. Dunque se potete
 sorridete e regalate un sorriso a chi volete.
 
 Ora concludo altrimenti arriviamo al 2009 che ancora sto scrivendo. Devo dire
-**che era molto che non scrivevo così tanto** e cio mi ha reso felice. Vi
+**che era molto che non scrivevo così tanto** e ciò mi ha reso felice. Vi
 lascio con qualche immagine con la speranza di strapparvi un sorriso e di
 **augurarvi un buon 2009 ed un buon continuo della vostra vita.**
 

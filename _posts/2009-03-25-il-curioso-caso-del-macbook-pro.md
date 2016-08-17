@@ -48,7 +48,7 @@ che ci volevano dai 7 ai 10 giorni lavorativi per la sostituzione del pezzo.
 Prima di consegnarlo ho però effettuato un backup di tutti i dati attraverso
 la Condivisione Schermo ([descritta nel precedente
 post]({{site.url}}/2009/03/20/howto-abilitare-condivisione-schermo-su-osx-da-terminale/))
-e mettendo i file dell'universita su [DropBox]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-file/)
+e mettendo i file dell'all'università su [DropBox]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-file/)
 
 Il giorno lunedì 23 marzo mi arriva una mail dicendo che il mio macbook pro
 era pronto per essere ritirato. **Sono passati solo 5 giorni lavorativi ed il

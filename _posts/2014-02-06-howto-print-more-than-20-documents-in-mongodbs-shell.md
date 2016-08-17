@@ -9,7 +9,7 @@ tags:
 - mongo
 ---
 
-    #> mongo  
+    $ mongo  
     
     MongoDB shell version: 2.4.5  
     

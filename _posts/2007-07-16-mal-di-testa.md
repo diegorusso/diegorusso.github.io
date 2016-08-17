@@ -24,7 +24,7 @@ andata al cinema a vedere [Harry Potter e l'ordine della
 Fenice](http://it.wikipedia.org/wiki/Harry_Potter_e_l%27ordine_della_fenice
 "http://it.wikipedia.org/wiki/Harry_Potter_e_l%27ordine_della_fenice" )!!!
 **E' talmente noioso, lungo, palloso, "povero" che _anche il vostro mal di
-testa se ne andra per disperazione!_ :)**
+testa se ne andrà per disperazione!_ :)**
 
 PS: il tutto e tratto da una storia vera!  
 PPS: cazzo, mi stavo addormentando!  

@@ -18,7 +18,7 @@ testing**. Let's see how:
   1. Open you favorite terminal
   2. Type (instead of diegor.it you can choose whatever server you want) 
     
-        #> telnet diegor.it 80
+        $ telnet diegor.it 80
 
   
 and you should have as output:

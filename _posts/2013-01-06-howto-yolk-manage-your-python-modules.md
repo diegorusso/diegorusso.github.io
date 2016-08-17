@@ -17,11 +17,11 @@ Examples:
 
     
     
-    #> yolk -l   # List all installed Python packages  
+    $ yolk -l   # List all installed Python packages  
     
-    #> yolk -U   # Checks PyPI to see if any packages have updates available  
+    $ yolk -U   # Checks PyPI to see if any packages have updates available  
     
-    #> yolk -a   # List only the activated packages installed
+    $ yolk -a   # List only the activated packages installed
 
   
 Just go to the [PyPy page](http://pypi.python.org/pypi/yolk/0.4.3), download

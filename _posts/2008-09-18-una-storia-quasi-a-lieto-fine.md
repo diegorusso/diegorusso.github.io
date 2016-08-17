@@ -42,7 +42,7 @@ Non possiamo che confermare che il nostro costante impegno e rivolto alla
 soddisfazione dei nostri Clienti, al totale rispetto delle loro esigenze ed
 aspettative, dai più piccoli ai più grandi._  
 
-_L'etica è alla base della nostra attivita e condizione imprescindibile del
+_L'etica è alla base della nostra attività e condizione imprescindibile del
 comportamento dei nostri collaboratori._
 
 _Il tour Disney Cars, realizzato presso il Carrefour di Assago e programmato

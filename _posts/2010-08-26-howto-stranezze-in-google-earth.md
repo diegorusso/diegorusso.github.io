@@ -14,27 +14,23 @@ categories:
 tags:
 - howto
 ---
-[Google Earth](http://earth.google.it/) e un fantastico programma per
+[Google Earth](http://earth.google.it/) è un fantastico programma per
 "viaggiare" ed "esplorare" per il pianeta Terra stando comodamente seduti
 davanti al proprio computer. Si basa su fotografie satellitare, aeree,
 orografie del territorio, foto degli utenti, modelli 3D dei principali
-monumenti e delle citta e molto altro ancora.
+monumenti e delle città e molto altro ancora.
 
-[![]({{site.url}}/images/google_earth.png){: .align-center}]({{site.url}}/images/google_earth.p
-ng)
-
+[![]({{site.url}}/images/google_earth.png){: .align-center}]({{site.url}}/images/google_earth.png)
 _Ecco gli UFO!! :P_
+{: .text-center}
 
-  
-La superficie terrestre e molto vasta ed **ha delle "stranezze" che molti
+La superficie terrestre è molto vasta ed **ha delle "stranezze" che molti
 utenti hanno scoperto/segnalato**. Vorrei qui raggrupparle per fartele
 esplorare e lasciarti un po' di "mistero". I passi da fare sono semplici:
 
-  1. scarica [Google Earth](http://earth.google.it/) ed installalo
-  2. apri Google Earth
-  3. inserisci le seguente coordinate sul riquadro in alto a sinistra
-  
-
+  1. Scarica [Google Earth](http://earth.google.it/) ed installalo
+  2. Apri Google Earth
+  3. Inserisci le seguente coordinate sul riquadro in alto a sinistra
   
 Le coordinate sono queste:
 
@@ -56,10 +52,8 @@ Le coordinate sono queste:
   16. 39°31'42.16"N 107°42'58.31"W
   
 
-  
 Se hai idea di cosa possano essere commenta il post indicando il numero della
 coordinata con la tua ipotesi. Ovviamente **se conosci o scopri altri posti
-interessanti scriveli nei commenti**, saro felice di integrarli. :)
+interessanti scriveli nei commenti**, sarò felice di integrarli. :)
 
 Buona esplorazione!
-

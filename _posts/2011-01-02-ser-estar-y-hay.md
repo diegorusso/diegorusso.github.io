@@ -15,7 +15,7 @@ significato dei tre verbi:
   3. **Hay** = c'è, ci sono
   
 
-**Ser** si usa per cose che non cambiano come il fisico e  carattere di una persona, proprieta, nazionalita, professioni, tipi, materiale, provenienza. Inoltre puo essere usato con numeri, orari. Per eventi particolari si usa la forma passiva.  
+**Ser** si usa per cose che non cambiano come il fisico e  carattere di una persona, proprieta, nazionalita, professioni, tipi, materiale, provenienza. Inoltre può essere usato con numeri, orari. Per eventi particolari si usa la forma passiva.  
 Ejemplos:
 
   * Eres una persona muy linda (Sudamerica) o hermosa (España)
@@ -33,7 +33,7 @@ Ejemplos:
   * Hoy esta soleado
   
 
-**Hay** invece indica l'esistenza di qualche cosa e si usa con quantita ed avverbi. Con Hay si usa l'articolo indeterminativo.  
+**Hay** invece indica l'esistenza di qualche cosa e si usa con quantità ed avverbi. Con Hay si usa l'articolo indeterminativo.  
 Ejemplos:
 
   * Hay dos personas en casa

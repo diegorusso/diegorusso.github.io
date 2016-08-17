@@ -14,20 +14,17 @@ categories:
 tags: []
 ---
 Oggi voglio proporti un blog davvero interessante,
-[UbuntuLook](http://ubuntulook.blogspot.com). L'autore e **Davide Berti**,
-utente linux che dal 2006 si interessa di **produttivita personale e gestione
+[UbuntuLook](http://ubuntulook.blogspot.com). L'autore è **Davide Berti**,
+utente linux che dal 2006 si interessa di **produttività personale e gestione
 del tempo**. Inoltre nel suo blog ci sono ottimi consigli per migliorare la
 tua esperienza con linux e come usare questo strumento a tuo vantaggio
 facendoti risparmiare tempo :)  
   
-
-[![]({{site.url}}/images/personal_productivity.jpg){: .align-center}]({{site.url}}/images/perso
-nal_productivity.jpg)
+[![]({{site.url}}/images/personal_productivity.jpg){: .align-center}]({{site.url}}/images/personal_productivity.jpg)
 
 Ah dimenticavo, i post di questo anno **li ha scritti tutti in inglese**.
 Dunque se conosci l'inglese non hai problemi, altrimenti te lo studi e ti godi
 questo blog.  
-  
   
 Alcuni esempi di post interessanti sono questi:
 
@@ -39,7 +36,5 @@ Alcuni esempi di post interessanti sono questi:
   * [Declutter every byte of your Digital Life. part 2](http://ubuntulook.blogspot.com/2010/08/declutter-every-byte-of-your-digital.html)
   * [decluttering, for the sake of it](http://ubuntulook.blogspot.com/2010/07/decluttering-for-sake-of-it.html)
   
-
 E questi post sono solo un assaggio. Dunque non resta che augurarti **buona
 lettura** :)
-

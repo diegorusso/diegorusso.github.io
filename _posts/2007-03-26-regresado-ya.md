@@ -30,7 +30,7 @@ La *nostra* metro (callao meravigliao.....)
 Ovviamente ho vissuto Madrid solo da turista/studente e solo per poco tempo.
 La mia critica potrebbe risultare superficiale, però ho conosciuto molte
 persone che vivono li da anni, che studiano li da anni, che lavorano li da
-anni. 9 su 10 mi hanno detto che è una citta fantastica. Beh allora non mi
+anni. 9 su 10 mi hanno detto che è una città fantastica. Beh allora non mi
 sono sbagliato più di tanto. Quando stai a Madrid (ci sono stato due volte)
 sei felice, stai bene. Li tutto funziona. Non parliamo poi dei treni. Non
 hanno niente a che vedere con i nostri. Trenitalia sta anni luce indietro e

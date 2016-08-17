@@ -22,8 +22,8 @@ incredibile. Lo puoi usare in molti modi: per il tuo lavoro, per i giochi, per
 chattare con i tuoi amici lontani, guadare le loro foto e moti altri modi.
 
 Ma cosa succede se **usassi Facebook nella maniera sbagliata? **Non posso
-rispondere per te, ma **tu puoi farlo**. Pensa a come Facebook puo migliorare
-la tua vita, pensa ai benefici che puo darti e pensa** come puoi usarlo.**
+rispondere per te, ma **tu puoi farlo**. Pensa a come Facebook può migliorare
+la tua vita, pensa ai benefici che può darti e pensa** come puoi usarlo.**
 
 **Facebook e potente**. Non lasciare che ti rovini
 

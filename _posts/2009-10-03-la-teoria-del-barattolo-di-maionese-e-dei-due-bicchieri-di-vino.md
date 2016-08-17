@@ -52,7 +52,7 @@ con i vostri figli, tenete sotto controllo la vostra salute. Portate il vostro
 partner a cena fuori. Giocate altre 18 buche! Fatevi un altro giro sugli sci!
 C'è sempre tempo per sistemare la casa e per buttare l'immondizia. Dedicatevi
 prima di tutto alle palline da golf, le cose che contano sul serio. Definite
-le vostre priorita, tutto il resto e solo sabbia"._
+le vostre priorità, tutto il resto e solo sabbia"._
 
 _Una studentessa alzò la mano e chiese che cosa rappresentasse il vino. Il
 professore sorrise. "Sono contento che tu l'abbia chiesto. Serve solo a

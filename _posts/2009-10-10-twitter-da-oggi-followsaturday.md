@@ -34,7 +34,7 @@ alla mole di lavoro che ho.
 
 Preferisco prendermi del tempo il sabato che solitamente lo dedico allo
 studio/cazzeggio/blog/social/etc e consigliare ai miei followers altre persone
-da seguire. **C'e un problema:** non posso fare un #followfriday di sabato..
+da seguire. **C'è un problema:** non posso fare un #followfriday di sabato..
 non è coerente! :) **Problema risolto:** creo un **#followsaturday.**
 
 Dunque la definizione di **#followsaturday** è:

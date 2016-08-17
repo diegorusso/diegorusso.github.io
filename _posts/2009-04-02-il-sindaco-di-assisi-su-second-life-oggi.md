@@ -28,7 +28,7 @@ _La piazza inferiore di Assisi... in Second Life! :)_
 
 Dunque non perdere l'occasione di parlare in diretta con il sindaco di Assisi,
 **Cluadio Ricci.** Puoi fargli tutte le domande che vuoi, ricevere
-informazioni turistiche ed essere informato sulle attivita della bellissima
+informazioni turistiche ed essere informato sulle attività della bellissima
 città di Assisi.
 
 Inoltre sarà presente anche la RAI che riprenderà e documenterà tutta la

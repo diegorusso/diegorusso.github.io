@@ -41,7 +41,7 @@ _"Il 65% della popolazione italiana ha un'eta compresa tra i 18 e i 65 anni
   
 __Siamo ancora in pochi!!__ Io sono donatore __SOLO__ da un anno e mi pento di non esserlo
 diventato appena maggiorenne. Il consiglio che vi do è quello di iscrivervi all'AVIS
-([Associazione Volontari Italiani Sangue](http://www.avis.it/)) della vostra citta e
+([Associazione Volontari Italiani Sangue](http://www.avis.it/)) della vostra città e
 andare a donare il sangue. E' un grande gesto di solidarietà verso il prossimo.
 Spero che non mi servi mai del sangue (non me la voglio tirare eh!), però se un giorno
 dovesse succedere mi fa stare "tranquillo" il fatto che ce ne sia abbastanza in grado
@@ -60,7 +60,7 @@ strana e bella!
   
 Il dottore ogni volta che vado a donare mi dice sempre: "Mi raccomando,
 portaci gli amici!". Quando mi ha detto queste parole ho pensato subito al
-blog. Nel mio piccolo forse riusciro a fare qualche cosa.  
+blog. Nel mio piccolo forse riuscirò a fare qualche cosa.  
   
 Sul sito dell'[AVIS](http://www.avis.it/) ci sono tutte le informazioni di cui
 avete bisogno: chi, come, quando, perché donare, i benefici (ce ne sono!!) e

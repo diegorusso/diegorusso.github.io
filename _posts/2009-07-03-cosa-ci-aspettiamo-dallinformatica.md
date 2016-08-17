@@ -30,7 +30,7 @@ molte ricerche in ambito scientifico. **Il discorso sarebbe troppo lungo** da
 spiegare qui, servirebbero circa 2 o 3 ore per descriverlo tutto.
 
 Ad un certo punto è uscita una domanda del genere: **"Cosa ci aspettiamo
-dall'informatica? Cosa puo fare lei per noi nel prossimo futuro?"** Queste
+dall'informatica? Cosa può fare lei per noi nel prossimo futuro?"** Queste
 parole hanno spiazzato tutti quanti, e quando abbiamo provato a rispondere M.
 ci ha fermato e ci ha detto di pensarci su, con calma. La risposta sarebbe
 stata il discorso della prossima cena.

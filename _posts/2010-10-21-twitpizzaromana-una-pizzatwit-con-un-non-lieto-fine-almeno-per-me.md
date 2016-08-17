@@ -18,7 +18,7 @@ categories:
 - viaggi
 tags: []
 ---
-Ieri, 20 ottobre 2010, a Roma si e svolta la
+Ieri, 20 ottobre 2010, a Roma si è svolta la
 [**#TwitPizzaRomana**](http://twitter.com/#!/search/%23TwitPizzaRomana). Come
 non andare a trovare i twitteri romani, dopo aver fatto la pazzia di andare a
 trovare gli amici milanesi? Cosi io (con tanto di badge),
@@ -27,7 +27,7 @@ trovare gli amici milanesi? Cosi io (con tanto di badge),
 [@pabloberbell](http://twitter.com/#!/pabloberbell) siamo partiti alla volta
 della capitale.
 
-La serata e stata piacevole, **molto**. Ho conosciuto persone in gamba,
+La serata è stata piacevole, **molto**. Ho conosciuto persone in gamba,
 stimolanti, intelligenti, simpatiche. Il locale era altrettanto buono. Durante
 la serata ho avuto occasione di conoscere meglio alcuni "personaggi" che
 seguivo o che già ne avevo sentito parlare:
@@ -43,7 +43,7 @@ seguivo o che già ne avevo sentito parlare:
 [@tomjoad70](http://twitter.com/#!/tomjoad70), che già conoscevo per la
 #pizzatwit di #milano. Un saludo a los españoles
 [@parigi_sett](http://twitter.com/#!/parigi_sett) (venezuelana) y
-[@osmin_LE](http://twitter.com/#!/osmin_LE) (cubano): con ellos hable un
+[@osmin_LE](http://twitter.com/#!/osmin_LE) (cubano): con ellos hablé un
 poquito de español :) Abbiamo parlato di tutto: tecnologia, marketing,
 programmazione, viaggi, esperienze all'estero, twitteri (account fake),
 lavoro, passioni, hobby, etc, etc, etc  
@@ -62,10 +62,8 @@ qui](http://twitter.com/#!/marcoMenu/twit-pizza-romana), sul profilo di
 
 Terminata la cena, la consueta foto di gruppo.
 
-[![]({{site.url}}/images/twitpizzaromana.jpg){: .align-center}]({{site.url}}/images/twitpizzaro
-mana.jpg)
+[![]({{site.url}}/images/twitpizzaromana.jpg){: .align-center}]({{site.url}}/images/twitpizzaromana.jpg)
 
-  
 Dopo la foto di gruppo, **il NON-lieto fine**. Ritornati all'auto
 (parcheggiata 200 metri dal locale), troviamo la portiera forzata ed il mio
 marsupio sui sedili anteriori (che avevo messo nel bagagliaio). Beh il
@@ -78,20 +76,17 @@ bilancio del furto e il seguente:
   * giaccha a vento: **rubata**
   * borsettina dei trucchi (di @solomiri): **rubata**
   * spicci nell'auto: **rubati**
-  
-
-  
-Il valore totale e intorno ai **250€**. Il problema non e per gli oggetti o
-per il valore, ma per il gesto che non riesco a mandare giu. Non vorrei
+    
+Il valore totale e intorno ai **250€**. Il problema non è per gli oggetti o
+per il valore, ma per il gesto che non riesco a mandare giù. Non vorrei
 dilungarmi troppo, altrimenti cadrei in uno sfogo no-sense. Un mio amico mi ha
 detto: "_io al tuo posto me ne fregherei meglio 100 euro in meno che una vita
 di merda_". **Ha ragione, Marco.**
 
-Concludo dicendo che, nonostante questa disavventura, **e stata una serata
+Concludo dicendo che, nonostante questa disavventura, **è stata una serata
 piacevole**.
 
-Grazie a tutti i partecipanti, e per la "solidarieta" dimostrata.
+Grazie a tutti i partecipanti, e per la "solidarietà" dimostrata.
 
-_PS: lezione imparata: se possibile evitare di usare la macchina a Roma :)  
-__PPS: se mi sono scordato di menzionare qualcuno, fatemelo notare!_
-
+_PS: lezione imparata: se possibile evitare di usare la macchina a Roma :)_  
+_PPS: se mi sono scordato di menzionare qualcuno, fatemelo notare!_
