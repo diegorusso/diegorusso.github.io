@@ -28,11 +28,11 @@ tags:
 ---
 **What**: Europython conference  
 **Where**: Florence, Hotel Mediterraneo  
-**When**: from 1st July to 8th July  
+**When**: from 1st July to 8th July 2012  
 **Who**: me and other 750+ nerds, worldwide  
 **Why**: we love python!
 
-So Europython is a conference about a great programming language and this
+So Europython is a conference about a great programming language. This
 year, like the last year, it was located in Florence and organised by Python
 Italia with a wonderful support of www.develer.com. This post doesn't want to
 be a story about my Europython but it would be an analysis from the point of
@@ -40,8 +40,8 @@ view of attendee. If you are interested on what happened there, you can read
 many stories following the [twitter
 stream](https://twitter.com/#!/search/%23europython). Just for the record I
 worked last year to help the company that provided WiFi connection, so I'm a
-bit aware about problems related to the organisation of the conference. So
-let's start with the analysis of every single thing giving **some personal
+bit aware about problems related to the organisation of the conference.
+Let's start with the analysis of every single thing giving **some personal
 hint**
 
 **Location**  
@@ -50,13 +50,13 @@ not far from the city centre. Big enough to host seven tracks (including two
 trainings), and 750+ people. There has been some issue the first day when
 there was just a track and all the attendees were split in two big rooms where
 the upper one was connected audio/video. For the remaining days all the rooms
-have been big enough to host all the tracks: just some track was a bit
+have been big enough to host all the tracks: just some tracks was a bit
 overcrowded but the organisers doubled the track more popular. This year there
 has been also a "garden" in the rear of the hotel but personally I've never
 been there: too hot, no wi-fi (just in a small area).
 
 **Schedule and timing**  
-Schedule busy, very busy but with regular break: one in the morning, lunch,
+Schedule busy, very busy but with regular breaks: one in the morning, lunch,
 and another break in the afternoon. So good timing. Nothing to say. Maybe yes,
 but after.
 
@@ -79,11 +79,11 @@ is, I agree. But when you are there, maybe it's different. Something can be
 changed, in better obviously.  
 Poster session: anyone did use it? Lighting talks: perfect! :)
 
-**Connection and tech things.**  
+**Connection and tech things**  
 I don't want to go to the core of the last year problems about the connection,
 but the organisers have learnt the lesson. The result is that this year the
 connection has been much better stable and faster. There have been problems
-(they are everywhere) but solved in a record time. About the connection I can
+(they are everywhere) but solved at a record time. About the connection I can
 suggest just something after. Other tech things.. oh yes.. the "help desk":
 I've never used it but the idea was great! I hope that people used it and
 looking the schedule there was some sold out. iPhone and Android app was very
@@ -97,28 +97,26 @@ on youtube](http://www.youtube.com/user/PythonItalia/feed) :) Great job!
 **Events**  
 Tag cocktails, help desk, pybirra, pyfiorentina, google code jam, prize draw,
 pyriddle, sprint: a lot of stuff! Very cool and always something to do. Sure
-you didn't get bored.Everything was nice, except "tag cocktails". I didn't
+you didn't get bored. Everything was nice, except "tag cocktails". I didn't
 like that many people could come because that didn't have the "pass": this
 pass gave you a free cocktail and if you had wanted another cocktail, you
 would have paid it. So what's the problem? My solution is to give the free
 access to everyone and a free cocktail just to whom had the pass. The terrace
 was big enough to host more and more people.
 
-[![]({{site.url}}/images/tagcocktail.jpg){: .align-center}]({{site.url}}/images/tagcocktail.jpg
-)
-
+[![]({{site.url}}/images/tagcocktail.jpg){: .align-center}]({{site.url}}/images/tagcocktail.jpg)
 _Nice view from Cocktail Terrace_
+{: .text-center}
 
-  
 **Food**  
 I'm Italian and I care about the food. Good food means good attitude that
 helps a lot the progress of the conference (I think). In Hotel Mediterraneo
 the food is very good and talking with many of the attendees I had the same
 feedback. So congratulations to the hotel. Just a quick note: horrible coffee
-but at least we had free coffee at american bar.
+but at least we had free coffee at the bar.
 
 **People and VIPs**  
-How can  a conference be without interesting people? This year we've got many
+How can a conference be without interesting people? This year we've got many
 of them: [Guido Van Rossum](http://www.python.org/~guido/), [Alex
 Martelli](http://www.aleax.it/), PyPy staff and many others key members of
 python community. They were there, with you: you could swing by them and have
@@ -157,13 +155,13 @@ up to my mind, I'll update the blog post.
 
 **How to improve it the next year?**  
 I didn't express myself on Schedule and timing, Duration and contents because
-I'd like to doit here, all together. I think that the organisers can improve a
+I'd like to do it here, all together. I think that the organisers can improve a
 lot the content to give a higher quality. This can affect scheduling, duration
 and timing. So far, speakers submitted talks and who bought an early bird
 ticket could vote them. I like this, very democratic but too much "anarchic":
 not for the voting system but for the content proposed. Too many topics
-together with no room for further studies. So why not organize the content in
-a different way, organize the content in macro areas, in big topic. Just to
+together with no room for further studies. So why not organizing the content in
+a different way, organizing the content in macro areas, in big topic. Just to
 give an example: web, enterprise, mobile, HPC, community, etc. Then every big
 topic should have a "path", starting from the basics to reach an advanced
 level.  
@@ -178,4 +176,3 @@ wonderful job and see you next year for a better Europython. Great job guys!
 
 And you? How can the Europython be improved the next year? What did you like?
 What didn't you like? Drop a comment and tell your opinion. :)
-

@@ -7,6 +7,5 @@ categories:
 tags:
 - howto
 ---
-Check it out in [this post](http://www.thegeekstuff.com/2010/08/raid-levels-
-tutorial/).
+Check it out in [this post](http://www.thegeekstuff.com/2010/08/raid-levels-tutorial/).
 

@@ -8,11 +8,9 @@ tags:
 - python
 ---
 
-    import fileinput  
-    
-    for line in fileinput.input(['myfile']):  
-    
-        do_something(line)  
-    
-    
+```python
+import fileinput  
 
+for line in fileinput.input(['myfile']):  
+    do_something(line)
+```

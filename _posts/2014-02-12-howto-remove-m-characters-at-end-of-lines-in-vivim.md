@@ -9,12 +9,8 @@ tags:
 ---
 Open the file with vim, then type:
 
+```
+:%s/^V^M//g  
+```    
     
-    
-    :%s/^V^M//g  
-    
-    
-
-  
-^V (CONTROL-V) is used to escape control characters.
-
+`^V` (CONTROL-V) is used to escape control characters.

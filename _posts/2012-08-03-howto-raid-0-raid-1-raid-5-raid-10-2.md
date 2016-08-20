@@ -8,6 +8,5 @@ tags:
 - howto
 - guia
 ---
-Lealo en [este articulo](http://www.thegeekstuff.com/2010/08/raid-levels-
-tutorial/).
+Lealo en [este artìculo](http://www.thegeekstuff.com/2010/08/raid-levels-tutorial/).
 

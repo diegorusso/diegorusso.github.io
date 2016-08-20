@@ -11,10 +11,9 @@ tags:
 ---
 From a Unix shell:
 
-    
-    
-    $ mysql -hHOSTNAME -uUSER -pDBPASSWD DBNAME < DUMPED_TEXTFILE
+```
+$ mysql -h HOSTNAME -u USER -p DBPASSWD DBNAME < DUMPED_TEXTFILE
+```
 
-  
 Simple eh :)
 
