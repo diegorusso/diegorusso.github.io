@@ -8,9 +8,8 @@ tags:
 - scp
 - linux
 ---
-Add ./ in front of the file name:
+Add `./` in front of the file name:
 
-    
-    
-    $ scp ./file:with:colon.txt user@host.com:/remote/path
-
+```
+$ scp ./file:with:colon.txt user@host.com:/remote/path
+```

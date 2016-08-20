@@ -12,10 +12,9 @@ tags:
 ---
 Open a terminal and type
 
-    
-    
-    $ defaults write com.apple.versioner.python Version 2.X
+```
+$ defaults write com.apple.versioner.python Version 2.X
+```
 
-  
 X could be: 5, 6, 7
 
