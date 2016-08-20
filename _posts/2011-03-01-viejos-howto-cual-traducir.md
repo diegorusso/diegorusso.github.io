@@ -22,14 +22,14 @@ tags:
 - django
 - guia
 ---
-Durante unos años este blog fue escrito **solamente en Italiano**, y como
-sabes, hace tiempo decidi de cambiar **en tres idiomas**. Mientras escribia
+Durante unos años este blog ha sido escrito **solamente en Italiano**, y como
+sabes, hace tiempo decidí de cambiar **a tres idiomas**. Mientras escribía
 solamente  en italiano, hice muchos HOWTO (¿adivina el idioma?). A
-continuacion puedes encontrar todos **mis HOWTO italianos** (si, he traducido
-solo el titulo)
+continuación puedes encontrar todos **mis HOWTO italianos** (si, he traducido
+solo el título)
 
-Si te gusta uno de ellos, dimelo.. asi **que pueda traducirlo para ti**. Si te
-importa, puedes traducirlo tu tambien :)
+Si te gusta uno de ellos, dimelo.. así **que pueda traducirlo para ti**. Si te
+interesas, puedes traducirlo tú tambien :)
 
   * cambia el codigo html desde el browser
   * abres un file con VIM a una linea especificada
@@ -104,8 +104,5 @@ importa, puedes traducirlo tu tambien :)
   * recuperar el EEE PC a traves de USB (windows y linux)
   * Zeroshell sobre Xen
   
-
-  
-Comenta este articulo escribiendo tu solicitud o enviame un correo
+Comenta este artículo escribiendo tu solicitud o enviame un correo
 electronico.
-

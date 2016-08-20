@@ -15,8 +15,5 @@ seguenti:
   * **Fusion -> [P2 theme](http://p2theme.com/)**: più pulito e leggero
   * **3 Feeds -> 1 Feed**: ora c'è un solo feed (<http://feeds.feedburner.com/diegor>)
   * **Molte altre cose**
-  
 
-  
 Ti piace? Commenta!
-

@@ -18,7 +18,6 @@ a small application (**preference pane** exactly) that you can find
 
 [![]({{site.url}}/images/speedlimit.png){: .align-center}]({{site.url}}/images/speedlimit.png)
 
-  
 The steps are very simple:
 
   1. download it (from [here](http://mschrag.github.com/))
@@ -27,8 +26,6 @@ The steps are very simple:
   4. choose the ports and the sites where you want go slowly
   5. finally choose the slowness of you "emulated" connection
   6. once you have set up everything, press the button "Slow Down"
-  
-
-  
+    
 So, don't run!! :)
 

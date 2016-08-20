@@ -13,35 +13,30 @@ tags:
 If you have a [PS](http://www.dreamhost.com/hosting-vps.html) with
 [DreamHost](http://www.dreamhost.com/) and you need to use
 [PostgreSQL](http://www.postgresql.org/) as database, you'll see that's
-impossible to login with _postgres_ user and so you won't able to use
+impossible to login with `postgres` user and so you won't able to use
 PostgreSQL.  
 Dreamhost supports officially only MySQL, so they don't provide any info about
 PostgreSQL.  
 Anyway the problem of using PostgreSQL in DH's PS is permit the login to
 postgres user. Follow this two steps:
 
-  1. Become root, typing: 
-    
-        $sudo su
+  1. Become root, typing:
 
+     ```
+     $ sudo su
+     ```
+  2. Edit `/etc/passwd` file and find the line containing `postgres`. Change it from:
+
+     ```
+     postgres:x:32:32:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/false
+     ```
+     to:
+
+     ```
+     postgres:x:32:32:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
+     ```
   
-
-  2. Edit _/etc/passwd_ file and find the line containing _postgres_. Change it from: 
-    
-        postgres:x:32:32:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/false
-
-  
-to:
-
-    
-        postgres:x:32:32:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
-
-  
-
-  
-
-  
-Now you can become _postgres_ user and you can use PostgreSQL.  
+Now you can become `postgres` user and you can use PostgreSQL.  
 Doubts? Comment! :)
 
 _PS: Are you looking for a serious, riable and fast hosting? So

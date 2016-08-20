@@ -17,33 +17,24 @@ donde la linea termina, especialmente si termina con espacios. En lugar de
 verificar cada linea, **puedes resaltar espacios**. Como?
 
   1. Apre [Vim](http://www.vim.org/) desde el **Terminal**
-  2. digita 
-    
-        :set list
+  2. Digita 
 
-  
-
-  3. Puedes ver un resultado como este a continuacion  
-[![]({{site.url}}/images/vimsetlist1.png){: .align-center}]({{site.url}}/images/vimsetlist1.png
-)
-
+     ```
+     :set list
+     ```
+  3. Puedes ver un resultado como este a continuación  
+     [![]({{site.url}}/images/vimsetlist1.png){: .align-center}]({{site.url}}/images/vimsetlist1.png)
   4. Si quieres ver cada espacio como caracter, digita este comando 
-    
-        :set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
-  
-
+     ```
+     :set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+     ```
   5. El resultado deberia ser como este  
-[![]({{site.url}}/images/vimsetlist2.png){: .align-center}]({{site.url}}/images/vimsetlist2.png
-)
+     [![]({{site.url}}/images/vimsetlist2.png){: .align-center}]({{site.url}}/images/vimsetlist2.png)
 
-  
-
-  
 ¡Un consejo muy simple y utiles! :)
 
-Si tienes dudas, consejos u otro, ¡comenta este articulo!
+Si tienes dudas, consejos u otro, ¡comenta este artículo!
 
-_Fuente: [Stackoverflow](http://stackoverflow.com/questions/1675688/make-vim-
-show-all-white-spaces-as-a-character)_
+_Fuente: [Stackoverflow](http://stackoverflow.com/questions/1675688/make-vim-show-all-white-spaces-as-a-character)_
 

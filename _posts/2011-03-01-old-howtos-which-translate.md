@@ -22,12 +22,12 @@ tags:
 ---
 For some years this blog has been written **only in italian**, and as you
 know, some time ago I decided to switch it **in three languages**. While I
-wrote only in italian, I made many HOWTOs (guess the language?!). In below
-list you can find **all my italian howtos** (yep, i've translated only the
+wrote only in italian, I made many HOWTOs (guess the language?!). The list
+below contains **all my italian howtos** (yep, i've translated only the
 title).
 
 If you like one of them, tell me.. so **I can translate it for you**. If you
-like, you may translate too :)
+like, you may translate them too :)
 
   * modify html code from web browser
   * open a file with Vim at a specified line
@@ -101,8 +101,6 @@ like, you may translate too :)
   * what are ".DS_Store" files in OSX?
   * EEE PC recovery via USB (windows and linux)
   * Zeroshell on Xen
-  
-
   
 Comment this post with your request or write me an email!
 
