@@ -1,8 +1,9 @@
 ---
 title: My CV on github
 categories:
-- Uncategorized
-- private
+- personal
+- italian
+
 tags:
 - git
 - svn

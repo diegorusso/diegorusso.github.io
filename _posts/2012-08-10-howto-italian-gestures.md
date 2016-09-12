@@ -1,6 +1,8 @@
 ---
 title: 'HOWTO: Italian gestures'
 categories:
+- personal
+- italian
 - languages
 - friends
 - travels
@@ -9,7 +11,6 @@ categories:
 - humor
 - curiosity
 tags:
-- howto
 - italians
 ---
 Gestures have been always very important in communication. They preceded the

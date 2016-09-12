@@ -1,9 +1,10 @@
 ---
 title: 'HOWTO: drop all tables in MySQL'
 categories:
+- personal
+- italian
 - howto
 tags:
-- howto
 - mysql
 ---
 Unfortunately MySQL doesn't have any command to drop all tables or to truncate

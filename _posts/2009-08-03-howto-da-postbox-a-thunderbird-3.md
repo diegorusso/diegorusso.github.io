@@ -1,14 +1,13 @@
 ---
 title: 'HOWTO: Da Postbox a Thunderbird 3'
 categories:
+- personal
+- italian
 - osx
-- car
 - open source
-- various links
 - job
 - howto
 tags:
-- howto
 ---
 Da qualche tempo il famoso client di Posta elettronica per OSX
 [Postbox](http://www.postbox-inc.com/) ha annunciato l'uscita dalla fase di

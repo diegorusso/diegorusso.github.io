@@ -1,10 +1,10 @@
 ---
 title: metamorfosi..
 categories:
-- private
-- emergency
+- personal
+- italian
+tags:
 - friends
-tags: []
 ---
 .. di primavera! Con queste belle giornate, la natura subisce dei cambiamenti.
 Gli alberi, gli animali cambiano le loro abitudini quando arriva la bella

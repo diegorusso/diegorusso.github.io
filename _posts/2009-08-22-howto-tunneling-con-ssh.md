@@ -1,13 +1,12 @@
 ---
 title: 'HOWTO: Tunneling con ssh'
 categories:
-- private
+- personal
+- italian
 - linux
-- various links
 - job
 - howto
 tags:
-- howto
 ---
 **Il tunnel ssh e un modo sicuro per raggiungere un host che normalmente non potrebbe essere raggiunto.**
 Il metodo sfrutta una canale (tunnel) sicuro tra la tua macchina e la macchina remota sfruttando però un altro server che farà da ponte.

@@ -1,13 +1,14 @@
 ---
 title: 'HOWTO: rename all files in lowercase'
 categories:
+- personal
+- italian
 - osx
 - linux
 - job
 - howto
 - geek
 tags:
-- howto
 ---
 Pretty simple.
 

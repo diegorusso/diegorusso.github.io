@@ -1,16 +1,15 @@
 ---
 title: 'HOWTO: Software Open Source su OSX'
 categories:
+- personal
+- italian
 - osx
-- car
 - linux
 - open source
-- various links
 - iPhone
 - howto
 - google
 tags:
-- howto
 ---
 Chi passa, come me, da un sistema linux ad un sistema OSX la prima cosa che va
 a cercare sono **le applicazioni open source** che possono farti comodo. In

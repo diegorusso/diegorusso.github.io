@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: remove external repositories from subversion'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - svn
 ---
 Go to the root of your svn local copy and type:

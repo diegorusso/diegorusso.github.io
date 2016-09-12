@@ -1,9 +1,8 @@
 ---
 title: 'HOWTO: "import this" in Python'
 categories:
-- private
-- technology
-- various links
+- personal
+- italian
 - travels
 - howto
 - geek
@@ -11,7 +10,6 @@ categories:
 - curiosit&agrave;
 - programmazione
 tags:
-- howto
 - python
 ---
 Più che howto, questa è una piccola curiosità sul

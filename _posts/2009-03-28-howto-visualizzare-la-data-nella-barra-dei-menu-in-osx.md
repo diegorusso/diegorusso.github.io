@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Visualizzare la data nella barra dei menu in OSX'
 categories:
+- personal
+- italian
 - osx
-- car
 - howto
 tags:
-- howto
-- test
 ---
 Non ci sono modi di vedere la data in OSX senza dover aprire il calendario,
 fare click sull'ora in OSX oppure senza aprire la dashboard con il plugin del

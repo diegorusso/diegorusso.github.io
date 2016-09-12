@@ -1,12 +1,12 @@
 ---
 title: 'HOWTO: "psycopg2 module: cannot import name tz"'
 categories:
+- personal
+- italian
 - open source
-- various links
 - job
 - howto
 tags:
-- howto
 - python
 - django
 ---

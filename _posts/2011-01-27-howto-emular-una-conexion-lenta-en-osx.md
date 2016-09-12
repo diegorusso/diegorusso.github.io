@@ -1,14 +1,14 @@
 ---
 title: 'HOWTO: emular una conexi&oacute;n lenta en OSX'
 categories:
+- personal
+- italian
 - osx
-- car
 - apple
 - howto
 - guia
 - trabajo
 tags:
-- howto
 - guia
 ---
 En Italia, donde vivo (por ahora), no está dificil "emular" una conexión

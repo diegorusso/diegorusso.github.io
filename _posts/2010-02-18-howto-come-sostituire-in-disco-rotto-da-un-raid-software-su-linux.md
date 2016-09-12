@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: Come sostituire in disco rotto da un RAID software su linux'
 categories:
+- personal
+- italian
 - linux
 - friends
-- various links
 - job
 - howto
 tags:
-- howto
 ---
 Se sei un sysadmin oppure ti piace smanettare con linux + dischi +
 [RAID](http://en.wikipedia.org/wiki/RAID) questo howto ti potrebbe essere

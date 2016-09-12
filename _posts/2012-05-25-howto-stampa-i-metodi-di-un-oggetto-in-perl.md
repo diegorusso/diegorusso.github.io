@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: stampa i metodi di un oggetto in perl'
 categories:
+- personal
+- italian
 - howto
 - guida
 - programmazione
 tags:
-- howto
 - python
 - guida
 ---

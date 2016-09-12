@@ -1,11 +1,10 @@
 ---
 title: How i've got a job at ARM Ltd
 categories:
+- personal
+- italian
 - languages
 - blog
-- private
-- technology
-- computer
 - travels
 - thoughts
 - job

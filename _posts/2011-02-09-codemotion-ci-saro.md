@@ -1,17 +1,15 @@
 ---
 title: 'Codemotion: ci sar&ograve;!'
 categories:
+- personal
+- italian
 - programming
-- private
-- computer
 - linux
 - open source
-- various links
 - travels
 - job
-- video
 - twitter
-tags: []
+tags:
 ---
 Chi partecipà al Codemotion sa che prenderà parte ad una **maratona tecnica
 davvero unica**.  

@@ -1,18 +1,14 @@
 ---
 title: 'HOWTO: Creare un&rsquo;immagine in &ldquo;tiltshift&rdquo;'
 categories:
-- private
-- car
-- computer
-- various links
-- photography
+- personal
+- italian
 - iPhone
 - book
 - howto
 - google
 - guida
 tags:
-- howto
 - ebook
 - guida
 ---

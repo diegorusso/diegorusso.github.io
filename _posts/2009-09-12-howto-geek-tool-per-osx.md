@@ -1,8 +1,9 @@
 ---
 title: 'HOWTO: Geek Tool per OSX'
 categories:
+- personal
+- italian
 - osx
-- technology
 - leopard
 - job
 - howto
@@ -10,7 +11,6 @@ categories:
 - snow leopard
 - lavoro
 tags:
-- howto
 ---
 In questo post vedrai un'applicativo per OSX molto utile per il monitoraggio
 della tua macchina o di sistemi remoti. Il programma si chiama [Geek

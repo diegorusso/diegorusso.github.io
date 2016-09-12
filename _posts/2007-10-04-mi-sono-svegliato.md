@@ -1,11 +1,11 @@
 ---
 title: Mi sono svegliato&hellip;
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - friends
 - thoughts
-tags: []
 ---
 ... ma non e successo nulla! Sarà per la prossima volta!   
 

@@ -1,15 +1,15 @@
 ---
 title: 'HOWTO: resaltar espacios con car&aacute;cteres en VIM'
 categories:
+- personal
+- italian
 - osx
-- car
 - howto
 - guia
 - programaci&oacute;n
 - trabajo
 - enlaces varios
 tags:
-- howto
 - guia
 ---
 Cuando modificas un archivo con [vim](http://www.vim.org/), es comodo ver

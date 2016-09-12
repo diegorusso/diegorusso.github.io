@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: Reset della PRAM, NVRAM e PMU nei Mac'
 categories:
-- car
-- technology
-- computer
+- personal
+- italian
 - apple
-- various links
 - howto
 - guida
 tags:
-- howto
 - guida
 ---
 Questa guida è rivolta a tutti i possessori di computer che hanno una mela

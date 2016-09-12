@@ -1,9 +1,10 @@
 ---
 title: rotta cambiata
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-tags: []
 ---
 Bene, bene, bene. Se stai leggendo questo post e perché probabilmente sei
 capitato [qui](http://quozar.blogspot.com/2007/06/cambiamento-di-rotta.html "Vecchio blog")!

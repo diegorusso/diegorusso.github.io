@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: Abilitare "Condivisione Schermo" su OSX da terminale'
 categories:
+- personal
+- italian
 - osx
-- private
 - apple
 - leopard
 - howto
 tags:
-- howto
 ---
 Posto questo howto con particolare soddisfazione, poiché mi ha salvato da una
 situazione molto critica (ma questa e un'altra storia post :). Come unico

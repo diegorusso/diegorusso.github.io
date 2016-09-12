@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: Cambiare la lingua del controllo vocale in iPhone 3gs'
 categories:
+- personal
+- italian
 - iPhone
 - howto
 - telephony
 - lingue
 tags:
-- howto
 ---
 L'iPhone 3gs ha integrato il **controllo vocale** che ti permette di
 poter eseguire delle azioni semplicemente parlando. Questo controllo vocale è

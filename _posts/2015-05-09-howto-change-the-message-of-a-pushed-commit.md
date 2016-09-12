@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: Change the message of a pushed commit'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - git
 ---
 

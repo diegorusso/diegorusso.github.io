@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: restore a deleted file in git'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - git
 ---
 

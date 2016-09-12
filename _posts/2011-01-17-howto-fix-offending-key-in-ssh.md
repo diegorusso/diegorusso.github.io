@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: fix offending key in SSH'
 categories:
+- personal
+- italian
 - osx
-- technology
 - linux
 - job
 - howto
 tags:
-- howto
 ---
 When you perform an ssh connection to a remote machine, the first time you will
 be prompted to say 'yes' to authenticate the remote host.  

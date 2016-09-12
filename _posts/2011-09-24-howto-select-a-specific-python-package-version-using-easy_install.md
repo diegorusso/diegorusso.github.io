@@ -1,15 +1,14 @@
 ---
 title: 'HOWTO: select a specific python package version using easy_install'
 categories:
+- personal
+- italian
 - programming
-- computer
 - job
 - howto
 tags:
-- howto
 - python
 - django
-- test
 ---
 [`easy_install`](http://pypi.python.org/pypi/setuptools) installs the latest
 version available of a python package. Sometime you need to use a specific

@@ -1,16 +1,15 @@
 ---
 title: 'HOWTO: Scopri il tuo IP pubblico tramite terminale'
 categories:
+- personal
+- italian
 - osx
 - blog
-- computer
 - linux
-- various links
 - job
 - howto
 - google
 tags:
-- howto
 ---
 A volte potrebbe servire conoscere il proprio indirizzo IP pubblico. Per chi
 lavora davanti ad un computer con un browser questa operazione risulta molto

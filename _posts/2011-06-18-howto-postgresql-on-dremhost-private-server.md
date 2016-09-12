@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: postgresql on Dremhost Private Server'
 categories:
-- private
+- personal
+- italian
 - linux
 - open source
 - job
 - howto
 tags:
-- howto
 - mysql
 ---
 If you have a [PS](http://www.dreamhost.com/hosting-vps.html) with

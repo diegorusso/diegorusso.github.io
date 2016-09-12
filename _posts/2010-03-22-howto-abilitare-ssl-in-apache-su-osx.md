@@ -1,16 +1,14 @@
 ---
 title: 'HOWTO: Abilitare SSL in Apache su OSX'
 categories:
+- personal
+- italian
 - osx
-- private
 - open source
-- various links
 - job
 - howto
 tags:
-- howto
 - apache
-- test
 ---
 In passato già ho scritto [qualche]({{site.url}}/2010/01/21/howto-configurare-virtualhost-su-osx/)
 [cosa]({{site.url}}/2009/10/31/howto-installare-mod_wsgi-in-osx/) riguardante il server web

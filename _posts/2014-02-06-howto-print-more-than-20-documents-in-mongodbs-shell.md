@@ -1,11 +1,11 @@
 ---
 title: 'HOWTO: print more than 20 documents in MongoDB''s shell'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
-- test
 - mongo
 ---
 

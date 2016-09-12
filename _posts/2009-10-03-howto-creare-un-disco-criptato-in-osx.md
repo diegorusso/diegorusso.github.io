@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Creare un disco criptato in OSX'
 categories:
+- personal
+- italian
 - osx
-- private
-- technology
 - howto
 tags:
-- howto
 ---
 É comodo avere una parte del disco cryptata dove poterci mettere i documenti
 con una elevata sensibilita (ad esepio password di vari servizi, certificati

@@ -1,16 +1,15 @@
 ---
 title: Ultimo post..
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - friends
 - spain
 - travels
-- photography
 - twitter
 - trabajo
-tags: []
+tags:
 ---
 .. **prima di partire per le ferie**! :) Eh si, finalmente lunedì partirò per
 le meritate ferie, mentre tutti voi sarete a lavorare :P Destinazione?

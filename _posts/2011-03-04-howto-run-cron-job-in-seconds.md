@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: run cron job in seconds'
 categories:
+- personal
+- italian
 - osx
-- computer
 - linux
 - job
 - howto
 tags:
-- howto
 ---
 If you know what [cron](http://en.wikipedia.org/wiki/Cron) is, you also know
 that the minimum time to execute a job is a minute. There is a small trick to

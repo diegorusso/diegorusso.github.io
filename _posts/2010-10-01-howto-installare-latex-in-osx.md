@@ -1,19 +1,17 @@
 ---
 title: 'HOWTO: Installare LaTeX in OSX'
 categories:
+- personal
+- italian
 - osx
 - blog
-- private
 - open source
-- various links
 - howto
 - university
 - geek
 - snow leopard
 - lavoro
 tags:
-- howto
-- test
 ---
 [LaTeX](http://www.latex-project.org/) è un linguaggio di markup per la
 produzioni di testi basato su [TeX](http://en.wikipedia.org/wiki/TeX). É usato

@@ -1,15 +1,10 @@
 ---
 title: Tutti al Convento
 categories:
-- blog
-- private
-- friends
-- various links
-- music
-- photography
-- lavoro
+- personal
+- italian
 tags:
-- test
+- friends
 ---
 6 gennaio, arriva la befana che ci porta i dolci. La giornata sembra
 abbastanza noiosa (solita giornata del cazzo), forse dovuto al mal tempo. Che

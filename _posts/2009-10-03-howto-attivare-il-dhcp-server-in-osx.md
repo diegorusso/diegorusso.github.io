@@ -1,14 +1,13 @@
 ---
 title: 'HOWTO: Attivare il DHCP server in OSX'
 categories:
+- personal
+- italian
 - osx
-- technology
-- computer
 - leopard
 - howto
 - snow leopard
 tags:
-- howto
 ---
 Se hai necessità di usare un server DHCP in OSX (sia Leopard che Snow Leopard)
 allora non devi installare nessun software aggiuntivo. Infatti OSX ne ha uno

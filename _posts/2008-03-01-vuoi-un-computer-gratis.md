@@ -1,19 +1,10 @@
 ---
 title: Vuoi un computer GRATIS?
 categories:
-- blog
-- environment
-- car
-- technology
-- computer
-- linux
-- open source
-- various links
-- photography
-- google
+- personal
+- italian
 tags:
 - contest
-- test
 - linux
 ---
 **Non è uno scherzo**, tranquilli. **E neanche una truffa**.

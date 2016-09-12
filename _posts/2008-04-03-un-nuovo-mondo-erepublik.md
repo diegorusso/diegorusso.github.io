@@ -1,11 +1,10 @@
 ---
 title: Un nuovo mondo, Erepublik
 categories:
-- blog
-- private
-- various links
+- personal
+- italian
+tags:
 - politics
-tags: []
 ---
 Non voglio essere ne polemico, ne brontolone sul questo mondo che non va. Anzi
 vorrei segnalarvi questo nuovo servizio. Si chiama

@@ -1,13 +1,12 @@
 ---
 title: 'HOWTO: Controllare le ventoline del tuo macbook (pro)'
 categories:
-- car
+- personal
+- italian
 - apple
-- various links
 - book
 - howto
 tags:
-- howto
 ---
 Con [smcFanControl](http://www.eidac.de/?cat=40) puoi controllare con pochi
 semplici click le ventole del tuo macbook (pro). Appena scaricato [da questa

@@ -1,15 +1,14 @@
 ---
 title: 'HOWTO: Installare mod_wsgi in OSX'
 categories:
+- personal
+- italian
 - osx
-- car
 - open source
-- various links
 - job
 - howto
 - snow leopard
 tags:
-- howto
 - python
 - apache
 - django

@@ -1,15 +1,14 @@
 ---
 title: 'HOWTO: Trovare file e cancellarli in un solo comando'
 categories:
+- personal
+- italian
 - osx
 - linux
-- various links
 - howto
 - programmazione
 tags:
-- howto
 - python
-- test
 ---
 Eccomi di nuovo. Oggi vedrai come trovare e cancellare file in un solo step
 con il comando "[**find**](http://www.gnu.org/software/findutils/)". Questo

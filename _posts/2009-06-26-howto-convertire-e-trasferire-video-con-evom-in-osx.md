@@ -1,15 +1,13 @@
 ---
 title: 'HOWTO: Convertire e trasferire video con Evom in OSX'
 categories:
+- personal
+- italian
 - osx
 - blog
-- car
 - apple
-- various links
-- video
 - howto
 tags:
-- howto
 ---
 Oggi vedrai come convertire file video in OSX con estrema velocità.
 L'applicazione di cui farai uso è prodotta da

@@ -1,15 +1,15 @@
 ---
 title: 'HOWTO: make vim show ending line spaces as characters'
 categories:
+- personal
+- italian
 - osx
 - programming
 - open source
-- various links
 - job
 - howto
 - geek
 tags:
-- howto
 ---
 When you edit a file with [vim](http://www.vim.org/), it's useful to understand
 where the line ends especially if there are spaces at the end of the line.

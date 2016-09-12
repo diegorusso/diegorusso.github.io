@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: ejecutar un trabajo de cron en segundos'
 categories:
+- personal
+- italian
 - osx
 - howto
 - guia
 - trabajo
 tags:
-- howto
 - guia
 ---
 Si ya sabes que es [cron](http://es.wikipedia.org/wiki/Cron), tambien conoces

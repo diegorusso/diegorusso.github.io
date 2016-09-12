@@ -1,18 +1,15 @@
 ---
 title: 'HOWTO: Il modello di branching di Git'
 categories:
-- private
-- car
+- personal
+- italian
 - friends
 - apple
-- various links
 - job
 - howto
 - lavoro
 - libro
 tags:
-- howto
-- test
 ---
 **_"Questo post è la traduzione del post originale '[A successful Git branching model](http://nvie.com/git-model?utm_source=diegor&utm_medium=blog&utm_campaign=branch-model)' di Vincent Driessen." Se trovi errori o incomprensioni nella traduzione ti prego di farmelo presente. Lo correggero prima possibile._**
 

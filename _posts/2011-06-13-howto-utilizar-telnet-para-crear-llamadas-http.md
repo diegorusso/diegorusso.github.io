@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: utilizar telnet para crear llamadas HTTP'
 categories:
+- personal
+- italian
 - howto
 - guia
 - trabajo
 tags:
-- howto
 - apache
-- test
 - guia
 ---
 [Telnet](http://es.wikipedia.org/wiki/Telnet) es una vieja utilidad utilizadas

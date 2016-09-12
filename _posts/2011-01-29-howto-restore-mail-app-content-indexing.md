@@ -1,14 +1,13 @@
 ---
 title: 'HOWTO: restore Mail.app content indexing'
 categories:
+- personal
+- italian
 - osx
-- technology
 - apple
 - howto
 - geek
 tags:
-- howto
-- test
 ---
 [Mail](http://www.apple.com/macosx/what-is-macosx/mail-ical-address-book.html)
 is a great mail client provided with OSX. It works very well, fully integrated

@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: Modificare le pagine html direttamente dal browser'
 categories:
-- private
-- car
-- technology
+- personal
+- italian
 - job
 - howto
 - geek
 tags:
-- howto
-- test
 ---
 Se stai facendo un sito oppure stai semplicemente navigando, puoi modificare
 direttamente dal tuo browser il contenuto della pagina. Queste modifiche sono

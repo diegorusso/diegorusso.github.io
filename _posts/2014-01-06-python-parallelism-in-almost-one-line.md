@@ -1,7 +1,9 @@
 ---
 title: 'Python: parallelism in (almost) one line'
 categories:
-- Uncategorized
+- personal
+- italian
+
 tags:
 - python
 ---

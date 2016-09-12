@@ -1,18 +1,15 @@
 ---
 title: 'HOWTO: Programmare in python da console'
 categories:
+- personal
+- italian
 - osx
-- car
-- computer
 - linux
-- various links
 - windows
 - howto
 - programmazione
 tags:
-- howto
 - python
-- test
 ---
 Oggi voglio segnalarti alcune utility che ti aiuteranno a programmare in
 Python dalla console di un sistema Unix-like (Linux, BSD, OSX etc). Molti

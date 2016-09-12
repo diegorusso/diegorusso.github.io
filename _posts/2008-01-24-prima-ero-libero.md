@@ -1,9 +1,10 @@
 ---
 title: Prima ero Libero...
 categories:
-- blog
-- private
-tags: []
+- personal
+- italian
+tags:
+- job
 ---
 .. ed ora sto aspettando Alice. Ma quando arrivi? Sono in astinenza! :)
 

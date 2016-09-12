@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: allow Apache access from IP without password using htaccess'
 categories:
+- personal
+- italian
 - linux
 - job
 - howto
 - geek
 tags:
-- howto
 - apache
 - htaccess
 ---

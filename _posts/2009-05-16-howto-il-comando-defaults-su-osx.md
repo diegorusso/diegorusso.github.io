@@ -1,16 +1,15 @@
 ---
 title: 'HOWTO: Il comando "defaults" su OSX'
 categories:
+- personal
+- italian
 - osx
-- computer
 - linux
 - apple
 - windows
 - howto
 - guida
 tags:
-- howto
-- test
 - guida
 - linux
 - vim

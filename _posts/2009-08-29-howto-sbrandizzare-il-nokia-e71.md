@@ -1,14 +1,12 @@
 ---
 title: 'HOWTO: Sbrandizzare il Nokia E71'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
-- various links
 - howto
 - telephony
 tags:
-- howto
 ---
 Ci sono dei cellulari che sono venduti con il brand dell'operatore. Questo,
 oltre a vedere il marchio dell'operatore sul cellulare implica anche una serie

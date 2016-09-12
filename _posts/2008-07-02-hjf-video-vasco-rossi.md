@@ -1,17 +1,13 @@
 ---
 title: 'HJF Video: Vasco Rossi'
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
 - friends
-- various links
 - music
 - concerts
-- photography
-- video
-- twitter
-- personale
-tags: []
 ---
 Eccomi qui, dopo secoli di twitterate. In questi ultimi giorni mi sono dato al
 divertimenti. [21 e 22 giugno, Heineken Jammin'
