@@ -1,16 +1,14 @@
 ---
 title: 'HOWTO: Fixare Steam su OSX con partizione case-sensitive'
 categories:
+- personal
+- italian
 - osx
 - blog
-- private
-- car
 - linux
-- various links
 - windows
 - howto
 tags:
-- howto
 ---
 Valve Software ha rilasciato da pochi giorni Steam **per OSX e per Linux**.
 Steam è la piattaforma di gioco di suddetta azienda dove ci girano molti

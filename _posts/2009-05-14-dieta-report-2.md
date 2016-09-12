@@ -1,8 +1,9 @@
 ---
 title: 'Dieta: report #2'
 categories:
-- private
-tags: []
+- personal
+- italian
+tags:
 ---
 Eccomi qui, puntuale con il report della mia dieta. Nello [scorso
 post]({{site.url}}/2009/05/09/dieta-report-1/) mi sono dilungato in

@@ -1,12 +1,11 @@
 ---
 title: Bella Italia
 categories:
-- private
-- emergency
-- various links
+- personal
+- italian
+tags:
 - thoughts
 - politics
-tags: []
 ---
 E pensate che c'è ancora qualcuno (_cittadino_, non politico!) che dice che il
 nostro amato Paese va bene. Mi dispiace ma io non ci credo più. Vedo che

@@ -1,13 +1,11 @@
 ---
 title: 'HOWTO: Schema di un cavo ethernet dritto ed incrociato'
 categories:
-- private
-- technology
-- computer
+- personal
+- italian
 - job
 - howto
 tags:
-- howto
 ---
 Il cavo [ethernet](http://it.wikipedia.org/wiki/Ethernet) può essere fatto in
 due modi:

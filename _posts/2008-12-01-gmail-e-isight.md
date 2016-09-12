@@ -1,13 +1,12 @@
 ---
 title: Gmail e iSight
 categories:
+- personal
+- italian
+tags:
 - osx
 - blog
-- technology
-- various links
-- video
 - google
-tags: []
 ---
 Come detto precedentemente, [Gmail ha introdotto il supporto video e
 audio.]({{site.url}}/2008/11/12/gtalk-e-video/

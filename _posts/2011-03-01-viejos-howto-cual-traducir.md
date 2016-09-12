@@ -1,9 +1,10 @@
 ---
 title: Viejos HOWTO.. &iquest;cual traducir?
 categories:
+- personal
+- italian
 - osx
 - blog
-- car
 - linux
 - leopard
 - windows
@@ -16,7 +17,6 @@ categories:
 - programaci&oacute;n
 - idiomas
 tags:
-- howto
 - python
 - apache
 - django

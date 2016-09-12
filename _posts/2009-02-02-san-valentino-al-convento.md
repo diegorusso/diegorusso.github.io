@@ -1,11 +1,11 @@
 ---
 title: San Valentino al Convento!
 categories:
+- personal
+- italian
 - blog
-- private
 - friends
-- various links
-tags: []
+tags:
 ---
 Non sai dove andare a San Valentino? **Beh io una idea ce l'ho!** [Già ne ho
 parlato più o meno l'anno scorso, qui]({{site.url}}/2008/01/10/tutti-al-convento/).

@@ -1,11 +1,10 @@
 ---
 title: Un nuovo giochino&hellip;
 categories:
-- blog
-- technology
-- various links
+- personal
+- italian
+tags:
 - google
-tags: []
 ---
 Ciao ragazzi, il buon Giacomo mi ha dato questo link [http://www.mapmsg.com/](http://www.mapmsg.com/).
 Se volete lasciare un messaggio a qualcuno che sta in un'altra parte del mondo

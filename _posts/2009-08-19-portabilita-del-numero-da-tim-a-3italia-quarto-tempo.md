@@ -1,10 +1,10 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: quarto tempo.'
 categories:
+- personal
+- italian
 - blog
-- private
 tags:
-- test
 ---
 Dopo la chiamata di ieri al servizio clienti TIM tutto avrebbe dovuto
 risolvere, avendo il mio numero per il giorno **21 agosto 2009 (quarta data)**

@@ -1,11 +1,12 @@
 ---
 title: Cercasi volontario!
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - music
 - concerts
-tags: []
 ---
 Vorrei fare un appello a chiunque voglia venire (ancora sto valutando,
 problemi di budget) con me al concerto di Renato Zero il 2 o il 3 giugno

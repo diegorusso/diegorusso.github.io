@@ -1,11 +1,10 @@
 ---
 title: Giocando con la Luna
 categories:
-- blog
+- personal
+- italian
+tags:
 - environment
-- various links
-- photography
-tags: []
 ---
 Bellissimi scatti,[ qui.](http://haha.nu/creative/playing-with-the-moon/
 "http://haha.nu/creative/playing-with-the-moon/" ) :)

@@ -1,13 +1,12 @@
 ---
 title: Linux & l&rsquo;inquinamento
 categories:
+- personal
+- italian
+tags:
 - environment
-- emergency
-- technology
-- computer
 - linux
 - open source
-tags: []
 ---
 Leggo con piacere [qui](http://www.e-linux.it/news_detail.php?id=2607) che
 scegliendo linux si inquina di meno. Eh come?!? Non sai cosa è linux?!? Ma

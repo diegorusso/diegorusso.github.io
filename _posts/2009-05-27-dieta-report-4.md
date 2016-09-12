@@ -1,8 +1,9 @@
 ---
 title: 'Dieta: report #4'
 categories:
-- private
-tags: []
+- personal
+- italian
+tags:
 ---
 Eccomi di nuovo con il report pseudo-settimanale della mia dieta. Essendo
 stato ieri dal dietologo, oggi torno con un po' di numeri senza dilungarmi

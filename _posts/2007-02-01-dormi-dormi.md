@@ -1,12 +1,11 @@
 ---
 title: Dormi, dormi&hellip;
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
-- friends
 - music
-- thoughts
-tags: []
 ---
 Stai con me....ancora un po'  
 solo un momento...ti pagherò  

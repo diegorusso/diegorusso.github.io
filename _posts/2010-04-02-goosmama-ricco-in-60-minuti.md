@@ -1,11 +1,10 @@
 ---
 title: 'Goosmama: ricco in 60 minuti.'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - friends
-- various links
 - travels
 - thoughts
 - twitter

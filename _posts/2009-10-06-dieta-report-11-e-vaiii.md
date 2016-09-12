@@ -1,10 +1,11 @@
 ---
 title: 'Dieta: report #11 E vaiii! :)'
 categories:
+- personal
+- italian
 - blog
-- private
 - thoughts
-tags: []
+tags:
 ---
 Dopo la piccola sconfitta dell'ultima volta ecco una degna rivincita. Il 25 di
 settembre sono andato a fare a consueta visita dal dietologo e... sopresa, ho

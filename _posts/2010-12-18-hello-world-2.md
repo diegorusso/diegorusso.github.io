@@ -1,14 +1,13 @@
 ---
 title: Hello World
 categories:
+- personal
+- italian
 - languages
 - blog
-- technology
-- various links
 - social network
 - howto
 tags:
-- howto
 ---
 Usually when someone (nerd) starts writing a new blog, he begins with an
 "[Hello World](http://en.wikipedia.org/wiki/Hello_world)". I have this blog

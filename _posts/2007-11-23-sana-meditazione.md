@@ -1,14 +1,11 @@
 ---
 title: Sana meditazione.
 categories:
-- blog
-- private
-- technology
-- computer
+- personal
+- italian
+tags:
 - thoughts
 - job
-- meditazione
-tags: []
 ---
 Ogni tanti ci vuole eh! :)
 

@@ -1,10 +1,10 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: ottavo tempo. Forse ci siamo!'
 categories:
+- personal
+- italian
 - blog
-- private
-- various links
-tags: []
+tags:
 ---
 Oggi sull'[areaclienti del sito di 3Italia](http://areaclienti.tre.it) vedo
 che lo stato della mia portabilità e cambiato:

@@ -1,10 +1,10 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: terzo tempo.'
 categories:
+- personal
+- italian
 - blog
-- private
 tags:
-- test
 ---
 Oggi pomeriggio casualmente vedo che ho un sms sul numero Tim che devo portare
 ad 3Italia. Il testo recitava cosi: _"Gentile Cliente non riusciamo a

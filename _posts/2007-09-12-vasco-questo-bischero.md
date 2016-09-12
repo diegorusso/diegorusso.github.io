@@ -1,16 +1,13 @@
 ---
 title: Vasco, questo bischero!
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
-- car
 - friends
 - music
 - concerts
-- photography
-- video
-- google
-tags: []
 ---
 Che concerto!!!! Penso il più bello dopo quello di San Siro del 2003. Io,
 Francesco, Miriam e Vasco i protagonisti di questa fantastica storia. Partiti

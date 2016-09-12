@@ -1,10 +1,10 @@
 ---
 title: illusione ottica
 categories:
-- blog
-- technology
-- various links
-tags: []
+- personal
+- italian
+tags:
+- optical illusion
 ---
 Fissate la ballerina qui sotto. Noterete che gira in senso orario (non e
 difficile eh!!!). Bene. Continuate a fissarla... si ancora... ancora...

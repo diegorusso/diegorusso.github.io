@@ -1,17 +1,15 @@
 ---
 title: 'HOWTO: DropBox, condividi i tuoi file'
 categories:
+- personal
+- italian
 - blog
-- car
-- computer
 - linux
-- various links
 - windows
 - ubuntu
 - twitter
 - howto
 tags:
-- howto
 ---
 DropBox è un servizio che ti permette di condividere e sincronizzare i tuoi
 file tra vari computer. Esistono due tipi di servizi:

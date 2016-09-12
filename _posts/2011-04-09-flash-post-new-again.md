@@ -1,11 +1,11 @@
 ---
 title: 'Flash post: new, again'
 categories:
+- personal
+- italian
 - languages
 - blog
-- private
-- various links
-tags: []
+tags:
 ---
 Yesterday I decided to update my site and significant changes are:
 

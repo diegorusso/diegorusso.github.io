@@ -1,14 +1,12 @@
 ---
 title: export /home/diegor = bastia_umbra
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - friends
-- photography
 - job
 - iPhone
-- lavoro
-tags: []
 ---
 Da oggi si inizia una nuova vita diversa. Per motivi di lavoro mi sono
 trasferito a Bastia Umbra in un piccolo appartamento che presto condividerò

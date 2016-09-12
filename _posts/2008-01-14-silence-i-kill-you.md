@@ -1,10 +1,10 @@
 ---
 title: Silence, I KILL YOU!
 categories:
-- blog
-- various links
-- video
-tags: []
+- personal
+- italian
+tags:
+- jokes
 ---
 [Jeff Dunham](http://www.jeffdunham.com/ "http://www.jeffdunham.com/" ) é un
 famoso (forse il più) [~~ventricolo~~

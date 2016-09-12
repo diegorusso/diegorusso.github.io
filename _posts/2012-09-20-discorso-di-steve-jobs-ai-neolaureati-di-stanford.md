@@ -1,12 +1,13 @@
 ---
 title: Discorso di Steve Jobs ai neolaureati di Stanford
 categories:
+- personal
+- italian
 - meditation
 - friends
 - apple
 - thoughts
 - job
-- video
 - curiosity
 tags:
 - steve jobs

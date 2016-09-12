@@ -1,8 +1,9 @@
 ---
 title: Does anyone know anything about this technology http...
 categories:
-- Uncategorized
-- technology
+- personal
+- italian
+
 tags:
 - nosql
 ---

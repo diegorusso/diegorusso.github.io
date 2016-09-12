@@ -1,16 +1,14 @@
 ---
 title: 'HOWTO: Recovery via USB dell''EEE PC (windows e linux)'
 categories:
-- car
-- computer
+- personal
+- italian
 - linux
 - microsoft
-- various links
 - windows
 - howto
 - guida
 tags:
-- howto
 - guida
 ---
 Vorrei scrivere questa guida per semplificare la vita a coloro che vorranno

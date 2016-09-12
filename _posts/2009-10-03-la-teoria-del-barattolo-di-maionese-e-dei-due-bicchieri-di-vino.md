@@ -1,14 +1,13 @@
 ---
 title: La Teoria del barattolo di maionese e dei due bicchieri di vino
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - friends
 - thoughts
 - lavoro
 tags:
-- test
 ---
 Non è mio solito pubblicare storielle già scritte da altri, però questa mi ha
 colpito particolarmente. Spero ti piaccia :)

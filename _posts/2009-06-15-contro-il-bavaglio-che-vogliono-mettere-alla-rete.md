@@ -1,11 +1,11 @@
 ---
 title: Contro il bavaglio che vogliono mettere alla rete
 categories:
-- emergency
-- various links
+- personal
+- italian
 - thoughts
 - politics
-tags: []
+tags:
 ---
 Mi arriva per email ed il la ripropongo qui:
 

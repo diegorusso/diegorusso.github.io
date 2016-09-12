@@ -1,13 +1,13 @@
 ---
 title: 'Minicontest: vinci un buono di 75&euro; per Google Adwords'
 categories:
+- personal
+- italian
 - blog
-- various links
 - twitter
 - google
 tags:
 - contest
-- test
 ---
 Oggi voglio fare anche io in piccolo contest. Ho a disposizione **due buoni da
 75€ ciascuno per [Google Adwords](http://adwords.google.com)**. Ricordo che

@@ -1,9 +1,10 @@
 ---
 title: Chi non ha un ca\*\*o da fare! - The Luke Johnson Phone Experiment
 categories:
-- car
-- video
-tags: []
+- personal
+- italian
+tags:
+- experiment
 ---
 Luke Johnson, un ragazzo dell'Arizona, ha avviato a settembre 2006 uno strano
 esperimento. Ha registrato un video (pubblicato regolarmente su youtube) dove

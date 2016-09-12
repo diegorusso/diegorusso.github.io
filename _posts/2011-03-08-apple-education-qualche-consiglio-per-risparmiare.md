@@ -1,12 +1,12 @@
 ---
 title: 'Apple Education: qualche consiglio per risparmiare'
 categories:
-- car
+- personal
+- italian
 - friends
 - apple
-- various links
 - book
-tags: []
+tags:
 ---
 Se sei uno studente (universitario e non), se tuo figlio è uno studente, se
 insegni in una scuola (all'università e non), Apple ti da l'opportunità di

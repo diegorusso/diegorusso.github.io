@@ -1,10 +1,10 @@
 ---
 title: 'HOWTO: Spegnere il mac con degli shortcut'
 categories:
-- various links
+- personal
+- italian
 - howto
 tags:
-- howto
 ---
 Questo howto è indicato per tutti i mac user. Dunque se hai un mac sicuramete
 questi shortcut ti faranno molto comodo. I tasti vanno premuti tutti

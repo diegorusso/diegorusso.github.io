@@ -1,15 +1,11 @@
 ---
 title: Cocaina, NO!
 categories:
-- blog
-- private
-- emergency
-- friends
-- various links
+- personal
+- italian
+tags:
 - spain
 - thoughts
-- video
-tags: []
 ---
 Un bel video anti-cocaina del governo spagnolo.
 

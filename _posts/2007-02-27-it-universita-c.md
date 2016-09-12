@@ -1,8 +1,10 @@
 ---
 title: IT, Universit&agrave; & C.
 categories:
-- emergency
-tags: []
+- personal
+- italian
+tags:
+- university
 ---
 PER TUTTI GLI UNIVERSITARI E NON!!!! 'NSOMMA PER TUTTI! :)
 

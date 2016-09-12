@@ -1,16 +1,15 @@
 ---
 title: 'Contest: vinci un fantastico MacBook Pro 13'''' con Apple Trib&ugrave;'
 categories:
+- personal
+- italian
 - blog
-- computer
 - apple
-- various links
 - iPhone
 - book
 - iPad
 tags:
 - contest
-- test
 ---
 Visto che siamo in tema di contest, partecipiamo anche a questo! Il premio
 questa volta è un bel MacBook Pro!!

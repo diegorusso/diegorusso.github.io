@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: backup a MYSQL database'
 categories:
+- personal
+- italian
 - osx
-- technology
 - linux
 - job
 - howto
 tags:
-- howto
 - mysql
 ---
 Backup a MYSQL database is simple as to dump it. From a Unix shell:

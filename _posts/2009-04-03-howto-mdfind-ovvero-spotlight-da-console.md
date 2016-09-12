@@ -1,17 +1,14 @@
 ---
 title: 'HOWTO: "mdfind", ovvero Spotlight da console'
 categories:
+- personal
+- italian
 - osx
-- car
-- computer
 - linux
-- various links
 - windows
 - howto
 - guida
 tags:
-- howto
-- test
 - guida
 ---
 Se hai un mac con OSX sicuramente hai usato

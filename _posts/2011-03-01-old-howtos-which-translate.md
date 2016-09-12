@@ -1,6 +1,8 @@
 ---
 title: Old HOWTOs.. Which translate?
 categories:
+- personal
+- italian
 - languages
 - osx
 - programming
@@ -8,14 +10,12 @@ categories:
 - linux
 - leopard
 - windows
-- video
 - iPhone
 - howto
 - google
 - geek
 - snow leopard
 tags:
-- howto
 - python
 - apache
 - django

@@ -1,17 +1,16 @@
 ---
 title: Questa volta&hellip;
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
-- emergency
 - friends
 - music
 - concerts
 - travels
-- thoughts
-tags: []
 ---
-.. e la volta buona!!! Sicuramente ti stai chiedendo "ma de che?!?". Se vuoi
+.. è la volta buona!!! Sicuramente ti stai chiedendo "ma de che?!?". Se vuoi
 sapere la risposta continua a leggere! Finalmente domani, mercoledì 27 giugno
 2007, andrò al concerto di Vasco.
 

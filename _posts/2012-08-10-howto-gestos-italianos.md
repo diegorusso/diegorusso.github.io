@@ -1,7 +1,8 @@
 ---
 title: 'HOWTO: gestos italianos'
 categories:
-- car
+- personal
+- italian
 - howto
 - humor
 - amigos
@@ -11,7 +12,6 @@ categories:
 - pensamientos
 - viajes
 tags:
-- howto
 - guia
 ---
 Los gestos han sido siempre muy ~~importante~~ importantes en la comunicación.

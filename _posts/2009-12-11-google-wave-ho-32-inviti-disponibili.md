@@ -1,13 +1,12 @@
 ---
 title: 'Google Wave: ho 32 inviti disponibili'
 categories:
+- personal
+- italian
 - blog
 - open source
-- various links
-- video
 - google
 tags:
-- test
 ---
 [Google Wave](http://wave.google.com) è la nuova piattaforma di Google basata
 su un nuovo standard **aperto** chiamato ["wave

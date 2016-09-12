@@ -1,14 +1,14 @@
 ---
 title: non sono sparito
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- computer
 - friends
 - job
-tags: []
 ---
-Pero mi assentero per qualche tempo su questo blog.
+Però mi assenterò per qualche tempo su questo blog.
 
 A presto! :)
 

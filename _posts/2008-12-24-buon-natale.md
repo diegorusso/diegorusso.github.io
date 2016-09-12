@@ -1,13 +1,12 @@
 ---
 title: '"Buon Natale"....'
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- car
 - friends
-- thoughts
-- lingue
-tags: []
+- languages
 ---
 [![]({{site.url}}/images/buon_natale.jpg){: .align-center}]({{site.url}}/images/buon_natale.jpg)
 _... in tutte le lingue del mondo! :P_

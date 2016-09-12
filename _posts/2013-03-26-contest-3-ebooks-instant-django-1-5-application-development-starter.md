@@ -1,10 +1,9 @@
 ---
 title: 'CONTEST: 3 eBooks, Instant Django 1.5 Application Development Starter [CLOSED]'
 categories:
+- personal
+- italian
 - programming
-- private
-- technology
-- computer
 - friends
 - job
 - twitter
@@ -15,7 +14,6 @@ tags:
 - contest
 - django
 - ebook
-- test
 ---
 Well, well, well.. after a while I'm here again writing a post. This time I
 won't write anything techy, well it's related to my job/passion: programming.

@@ -1,11 +1,10 @@
 ---
 title: Auguri donne!
 categories:
-- blog
-- private
-- emergency
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 Rimango sempre [della stessa idea]({{site.url}}/2007/03/08/8-marzo/
 "{{site.url}}/2007/03/08/8-marzo/" ) dello [scorso

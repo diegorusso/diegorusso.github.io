@@ -1,14 +1,13 @@
 ---
 title: REM ad Umbria Jazz
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - music
 - concerts
-- photography
-- video
-- lavoro
-tags: []
+- job
 ---
 Ore 18:00 circa di domenica 20 luglio 2008. Squilla il telefono: e Marco
 Piermarini. Sicuramente dovrà dirmi qualche cosa riguardante il lavoro, il mac

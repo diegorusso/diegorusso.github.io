@@ -1,12 +1,11 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: sesto tempo.'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - thoughts
-- video
-tags: []
+tags:
 ---
 Bene, sono arrivato al **sesto post** di questa fantastica storia. Circa 15
 minuti fa mi ha chiamato il servizio clienti 3 in quanto mi volevano dare

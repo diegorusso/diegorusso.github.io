@@ -1,11 +1,11 @@
 ---
 title: pubblicit&agrave;
 categories:
+- personal
+- italian
+tags:
 - blog
-- technology
-- computer
-- various links
-tags: []
+- jokes
 ---
 Eh si, ho fatto arrivare il mio blog anche a Londra. Ho contattato un'agenzia
 pubblicitaria tedesca che per pochi euro pubblicizza quello che vuoi per una

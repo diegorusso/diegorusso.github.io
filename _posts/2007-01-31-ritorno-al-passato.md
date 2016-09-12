@@ -1,13 +1,10 @@
 ---
 title: Ritorno al passato
 categories:
-- califano
-- private
-- computer
-- music
-- thoughts
+- personal
+- italian
 tags:
-- test
+- music
 ---
 Prima di scrivere questo post vorrei dirvi (per chi non mi conosce bene) un
 po' del mio passato. Oramai risaliamo a circa 10 anni fa, nella mia fase

@@ -1,15 +1,14 @@
 ---
 title: 'Twitter: da oggi #followsaturday'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - friends
-- various links
 - twitter
 - social network
 - lavoro
-tags: []
+tags:
 ---
 In twitter c'è una curiosa tendenza che si chiama #followfriday:
 

@@ -1,6 +1,8 @@
 ---
 title: Come ho ottenuto lavoro in ARM Ltd
 categories:
+- personal
+- italian
 - blog
 - lavoro
 - lingue

@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: dump data into MYSQL'
 categories:
+- personal
+- italian
 - osx
 - linux
 - job
 - howto
 tags:
-- howto
 - mysql
 ---
 From a Unix shell:

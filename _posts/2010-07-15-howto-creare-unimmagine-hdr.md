@@ -1,15 +1,11 @@
 ---
 title: 'HOWTO: Creare un&rsquo;immagine HDR'
 categories:
-- private
-- car
-- computer
-- various links
-- photography
+- personal
+- italian
 - howto
 - guida
 tags:
-- howto
 - guida
 ---
 Con l'avvento della fotografia digitale molte tecniche sono state

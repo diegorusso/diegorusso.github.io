@@ -1,12 +1,10 @@
 ---
 title: Truffa alla nigeriana sugli annunci privati di vendita
 categories:
+- personal
+- italian
 - blog
-- private
-- emergency
-- car
 - friends
-- various links
 - thoughts
 - iPhone
 - twitter
@@ -14,7 +12,7 @@ categories:
 - google
 - lavoro
 - personale
-tags: []
+tags:
 ---
 Come puoi vedere [dal precedente post]({{site.url}}/2010/07/30/vendo-iphone-3gs-16gb-nero/),
 ho venduto il mio iPhone 3GS. Per venderlo ho adottato

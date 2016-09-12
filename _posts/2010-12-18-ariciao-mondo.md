@@ -1,15 +1,15 @@
 ---
 title: (Ari)Ciao Mondo!
 categories:
+- personal
+- italian
 - blog
-- technology
 - social network
 - howto
 - guida
 - lingue
 - link vari
 tags:
-- howto
 - guida
 ---
 Quando si inizia a scrivere su un nuovo blog, il primo post è sempre un

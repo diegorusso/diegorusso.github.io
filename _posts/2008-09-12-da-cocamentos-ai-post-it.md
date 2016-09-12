@@ -1,10 +1,10 @@
 ---
 title: Da Coca&Mentos ai Post-it
 categories:
+- personal
+- italian
+tags:
 - blog
-- various links
-- video
-tags: []
 ---
 Vi ricordate il video della [Coca Cola e le
 mentos](http://it.youtube.com/watch?v=hKoB0MHVBvM

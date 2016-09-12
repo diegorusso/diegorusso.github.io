@@ -1,14 +1,14 @@
 ---
 title: '&ldquo;Arrivederci Roma&rdquo;'
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
 - friends
 - music
 - concerts
-- curiosit&agrave;
-tags:
-- test
+- travels
 ---
 Queste sono le parole che ieri sera ha cantato prima della sua ultima canzone
 "albachiara". Tutto è iniziato ieri pomeriggio. Partenza verso le 15:30

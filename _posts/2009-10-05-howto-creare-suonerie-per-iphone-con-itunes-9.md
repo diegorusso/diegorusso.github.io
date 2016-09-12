@@ -1,15 +1,14 @@
 ---
 title: 'HOWTO: Creare suonerie per iPhone con iTunes 9'
 categories:
-- computer
-- various links
+- personal
+- italian
 - music
 - iPhone
 - howto
 - telephony
 - guida
 tags:
-- howto
 - guida
 ---
 **Guida aggiornata il 2010-06-04 per le ultime versione di iTunes 9**

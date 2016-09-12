@@ -1,10 +1,10 @@
 ---
 title: Hola Mundo!
 categories:
+- personal
+- italian
 - osx
 - blog
-- car
-- technology
 - iPhone
 - book
 - howto
@@ -15,7 +15,6 @@ categories:
 - enlaces varios
 - personale
 tags:
-- howto
 - ebook
 - guia
 ---

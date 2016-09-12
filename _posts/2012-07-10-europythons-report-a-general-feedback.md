@@ -1,19 +1,17 @@
 ---
 title: 'Europython''s report: a general feedback'
 categories:
+- personal
+- italian
 - programming
 - blog
 - environment
-- car
-- technology
 - open source
 - friends
-- various links
 - music
 - travels
 - thoughts
 - job
-- video
 - iPhone
 - twitter
 - book
@@ -24,7 +22,6 @@ categories:
 tags:
 - europython
 - python
-- test
 ---
 **What**: Europython conference  
 **Where**: Florence, Hotel Mediterraneo  

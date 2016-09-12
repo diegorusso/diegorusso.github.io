@@ -1,16 +1,13 @@
 ---
 title: wake me up when september ends.
 categories:
+- personal
+- italian
+tags:
 - vasco
-- blog
-- private
-- emergency
 - friends
 - music
 - thoughts
-- video
-tags:
-- test
 ---
 Bellissima canzone. Una delle preferite di Vasco. Un testo bellissimo. Ecco il
 video (versione live).

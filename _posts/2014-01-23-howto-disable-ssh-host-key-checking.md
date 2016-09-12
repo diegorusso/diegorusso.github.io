@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: disable SSH host key checking'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - ssh
 ---
 Just once:

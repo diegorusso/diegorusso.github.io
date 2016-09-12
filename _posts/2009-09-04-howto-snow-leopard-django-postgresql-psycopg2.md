@@ -1,16 +1,15 @@
 ---
 title: 'HOWTO: Snow Leopard + django + postgresql + psycopg2'
 categories:
+- personal
+- italian
 - osx
-- car
 - leopard
-- various links
 - job
 - howto
 - snow leopard
 - lavoro
 tags:
-- howto
 - python
 - django
 ---

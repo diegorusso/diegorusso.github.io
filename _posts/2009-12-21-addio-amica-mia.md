@@ -1,15 +1,14 @@
 ---
 title: Addio, amica mia.
 categories:
-- private
-- car
+- personal
+- italian
 - music
 - travels
-- photography
 - thoughts
 - humor
 - viaggi
-tags: []
+tags:
 ---
 Era il **29 gennaio del 2007**, il giorno che scrissi [la mia lettera di
 addio]({{site.url}}/2007/01/29/lettera-di-addio/), per dare il

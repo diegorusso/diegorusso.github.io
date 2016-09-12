@@ -1,13 +1,12 @@
 ---
 title: Una storia quasi a lieto fine
 categories:
+- personal
+- italian
+tags:
 - blog
-- emergency
-- car
 - friends
-- various links
 - thoughts
-tags: []
 ---
 Apprendo dal blog di [Simone](http://ubuntista.wordpress.com/
 "http://ubuntista.wordpress.com/" ) una [triste

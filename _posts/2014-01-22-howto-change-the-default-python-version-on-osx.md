@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: change the default Python version on OSX'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - osx
 - apple
 - howto
 tags:
-- howto
 - python
 - osx
 ---

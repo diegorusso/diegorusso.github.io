@@ -1,12 +1,12 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: nono tempo. Esodo.'
 categories:
+- personal
+- italian
 - blog
-- private
 - iPhone
 - howto
 tags:
-- howto
 ---
 Stamane 24 agosto 2009 (sesta data) alle ore 6:21 mi è arrivato un sms sul mio
 iPhone da parte i 3Italia:

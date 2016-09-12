@@ -1,12 +1,12 @@
 ---
 title: Codice mordente
 categories:
-- private
-- emergency
-tags: []
+- personal
+- italian
+tags:
 ---
 [![]({{site.url}}/images/morsecodes.png){: .align-center}]({{site.url}}/images/morsecodes.png)
 
-_Forse a qualcuno servira per mandare un S.O.S_
+_Forse a qualcuno servirà per mandare un S.O.S_
 {: .text-center}
 

@@ -1,11 +1,11 @@
 ---
 title: Non sono sparito...
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
-- photography
 - thoughts
-tags: []
 ---
 [![]({{site.url}}/images/luciano.jpg){: .align-center}]({{site.url}}/images/luciano.jpg)
 

@@ -1,15 +1,13 @@
 ---
 title: Quando fai l'universit&agrave;...
 categories:
+- personal
+- italian
+tags:
 - vasco
-- blog
-- private
-- car
 - friends
 - travels
 - thoughts
-- sport
-tags: []
 ---
 Quando fai l'università, le superiori sembrano così lontane.  
 Quando fai l'università, ti accorgi che prima non avevi visto niente.  

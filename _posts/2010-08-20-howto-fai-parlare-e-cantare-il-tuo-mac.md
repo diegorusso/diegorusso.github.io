@@ -1,10 +1,10 @@
 ---
 title: 'HOWTO: fai parlare e cantare il tuo mac'
 categories:
+- personal
+- italian
 - osx
-- car
 - apple
-- various links
 - job
 - howto
 - geek
@@ -12,8 +12,6 @@ categories:
 - curiosity
 - lavoro
 tags:
-- howto
-- test
 ---
 Esatto, non è una presa in giro :) **Il tuo mac sa parlare (e cantare)!** Lo
 sa fare solo in inglese e senza installare nessun software aggiuntivo. É

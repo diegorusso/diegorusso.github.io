@@ -1,8 +1,9 @@
 ---
 title: 'Dieta: report #8'
 categories:
-- private
-tags: []
+- personal
+- italian
+tags:
 ---
 Sono quasi alla fine. In queste ultime due settimane non mi sono comportato
 benissimo (alimentarmente parlando :). **Martedì 21 luglio** ho fatto la mia

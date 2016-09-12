@@ -1,14 +1,13 @@
 ---
 title: Di nuovo online ed in versione &beta;
 categories:
+- personal
+- italian
 - blog
-- car
-- various links
 - thoughts
 - geek
 - lavoro
 tags:
-- test
 ---
 Carissimo, come puoi vedere è da circa una settimana e mezzo che non scrivo
 più niente su questo blog. **No, non lo sto abbandonando!** Al contrario, ho

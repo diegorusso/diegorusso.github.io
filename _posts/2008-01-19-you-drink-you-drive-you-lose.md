@@ -1,13 +1,10 @@
 ---
 title: You drink. You drive. You lose.
 categories:
-- blog
-- private
-- emergency
-- car
-- photography
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 [![drive + drink = lose]({{site.url}}/images/2186622491_6dbccdc2d6_o.jpg){: .align-center}]({{site.url}}/images/2186622491_6dbccdc2d6_o.jpg "drive + drink = lose" )
 [![drive + drink = lose]({{site.url}}/images/2186622971_f0cc915981_o.jpg){: .align-center}]({{site.url}}/images/2186622971_f0cc915981_o.jpg "drive + drink = lose" )

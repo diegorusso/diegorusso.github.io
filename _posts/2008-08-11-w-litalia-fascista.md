@@ -1,16 +1,11 @@
 ---
 title: W l'Italia... fascista.
 categories:
-- blog
-- emergency
-- car
-- technology
-- computer
-- various links
+- personal
+- italian
+tags:
 - thoughts
 - politics
-- google
-tags: []
 ---
 Abbiamo raggiunto veramente il culmine! "Fascisti" è l'appellativo che ci
 meritiamo. Il perché?  

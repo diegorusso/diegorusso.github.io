@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: jump to a specific portion of a huge file with less'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - linux
 - less
 ---

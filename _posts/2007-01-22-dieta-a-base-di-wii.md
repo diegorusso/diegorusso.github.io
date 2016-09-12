@@ -1,11 +1,9 @@
 ---
 title: Dieta a base di Wii
 categories:
-- blog
-- technology
-- computer
-- video
-tags: []
+- personal
+- italian
+tags:
 ---
 Da tempo sto pensando di riprendere un'attività fisica, oltre al sesso
 ovviamente (hahaha ho fatto la battuta)! L'unica soluzione sarebbe il nuoto,

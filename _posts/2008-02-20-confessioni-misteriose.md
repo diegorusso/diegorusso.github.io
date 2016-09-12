@@ -1,11 +1,10 @@
 ---
 title: Confessioni misteriose...
 categories:
-- blog
-- private
-- photography
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 Chissa di cosa stanno parlando? :P
 

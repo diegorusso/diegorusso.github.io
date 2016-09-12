@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: Il primo easter egg di Facebook'
 categories:
+- personal
+- italian
 - book
 - social network
 - howto
 tags:
-- howto
 - ebook
 ---
 Ho appena scoperto un piccolo [**"easter egg"**](http://it.wikipedia.org/wiki/Easter_egg)

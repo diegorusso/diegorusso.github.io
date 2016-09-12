@@ -1,10 +1,10 @@
 ---
 title: problemi di linea
 categories:
-- emergency
-- computer
+- personal
+- italian
+tags:
 - job
-tags: []
 ---
 Ma secondo voi una linea così può andare bene?!?! Il gateway che perde il 70%
 dei pacchetti.

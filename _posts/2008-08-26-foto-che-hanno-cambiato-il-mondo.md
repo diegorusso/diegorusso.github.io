@@ -1,14 +1,10 @@
 ---
 title: Foto che hanno cambiato il mondo
 categories:
-- blog
-- emergency
-- various links
-- photography
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
-[Mi limito solo a segnalare il link,
-qui.](http://photosthatchangedtheworld.com/
-"http://photosthatchangedtheworld.com/" )
+[Mi limito solo a segnalare il link, qui.](http://photosthatchangedtheworld.com/ "http://photosthatchangedtheworld.com/" )
 

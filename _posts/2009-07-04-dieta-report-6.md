@@ -1,10 +1,10 @@
 ---
 title: 'Dieta: report #6'
 categories:
-- private
-- various links
+- personal
+- italian
 - thoughts
-tags: []
+tags:
 ---
 Tranquillo, non mi sono scordato del report (anche se non e diventato più
 settimanale :). Ho avuto quest'ultimo periodo un po' più impegnato del solito,

@@ -1,11 +1,11 @@
 ---
 title: volere = potere?!?
 categories:
-- private
-- emergency
+- personal
+- italian
+tags:
 - friends
 - thoughts
-tags: []
 ---
 Molti dicono che e vero, ma io sono fermamente convinto che** questa
 uguaglianza non sia vera**. O meglio forse _manca qualche cosa_ che la rende

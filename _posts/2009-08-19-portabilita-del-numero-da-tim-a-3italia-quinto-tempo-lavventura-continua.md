@@ -2,11 +2,10 @@
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: quinto tempo. L''avventura
   continua!'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
-- various links
-tags: []
+tags:
 ---
 Risposta del servizio clienti 3Italia alla mail contenuta in [due post
 fa]({{site.url}}/2009/08/19/portabilita-del-numero-da-tim-a-3italia-quarto-tempo/):

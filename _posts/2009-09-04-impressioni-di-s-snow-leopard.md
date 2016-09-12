@@ -1,10 +1,10 @@
 ---
 title: Impressioni di S... Snow Leopard
 categories:
+- personal
+- italian
 - blog
-- car
 - leopard
-- various links
 - snow leopard
 - guida
 tags:

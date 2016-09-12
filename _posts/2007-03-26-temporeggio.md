@@ -1,11 +1,12 @@
 ---
 title: temporeggio
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - spain
 - travels
-tags: []
 ---
 Sono in Italia ma ho da fare mille cose. Appena le ho finite faro un bel post
 su questa stupenda vacanza.

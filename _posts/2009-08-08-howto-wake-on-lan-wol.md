@@ -1,19 +1,16 @@
 ---
 title: 'HOWTO: Wake On Lan (WOL)'
 categories:
+- personal
+- italian
 - osx
-- private
-- car
-- computer
 - linux
-- various links
 - job
 - book
 - howto
 - university
 - geek
 tags:
-- howto
 ---
 Il [Wake On Lan (WOL)](http://en.wikipedia.org/wiki/Wake-on-LAN) è un
 protocollo standard multipiattaforma e indipendente dal sistema operativo.

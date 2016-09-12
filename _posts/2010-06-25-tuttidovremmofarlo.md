@@ -1,12 +1,10 @@
 ---
 title: Tuttidovremmofarlo
 categories:
+- personal
+- italian
 - blog
-- private
-- emergency
-- car
 - friends
-- various links
 - thoughts
 - book
 - avis

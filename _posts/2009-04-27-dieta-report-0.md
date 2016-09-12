@@ -1,14 +1,13 @@
 ---
 title: 'Dieta: report #0'
 categories:
+- personal
+- italian
 - blog
-- private
-- car
 - thoughts
 - kungfu
 - howto
 tags:
-- howto
 ---
 Eh si, **da oggi inizio la dieta**. Vorrei utilizzre questo blog anche come i
 vecchi tempi, scrivendo cose personali. Tranquillo, non smetterò di scrivere

@@ -1,11 +1,12 @@
 ---
 title: L&rsquo;ultimo messaggio
 categories:
-- private
+- personal
+- italian
+tags:
 - travels
 - thoughts
-tags:
-- test
+- friends
 ---
 **Ieri mattina** mentre ero in macchina, un qualche cosa ha assalito la mia testa: un pensiero orrendo ed una strana immagine bianca e rossa. Non gli ho dato peso, ho proseguito la mia corsa.
 

@@ -1,12 +1,11 @@
 ---
 title: Think different
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - apple
 - thoughts
-- video
-tags: []
 ---
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/gLqqJDSWvyU" frameborder="0" allowfullscreen></iframe>

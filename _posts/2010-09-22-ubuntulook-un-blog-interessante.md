@@ -1,17 +1,16 @@
 ---
 title: UbuntuLook, un blog interessante
 categories:
+- personal
+- italian
 - blog
-- private
-- computer
 - linux
 - friends
 - blog's friends
-- various links
 - thoughts
 - ubuntu
 - personale
-tags: []
+tags:
 ---
 Oggi voglio proporti un blog davvero interessante,
 [UbuntuLook](http://ubuntulook.blogspot.com). L'autore è **Davide Berti**,

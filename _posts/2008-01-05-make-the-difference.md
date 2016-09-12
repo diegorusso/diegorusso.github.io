@@ -1,13 +1,11 @@
 ---
 title: make the difference
 categories:
-- blog
-- private
-- car
+- personal
+- italian
+tags:
 - friends
-- photography
 - thoughts
-tags: []
 ---
 Questo è il primo post del 2008... Un altro anno che finisce.. ed uno che
 inizia, ovviamente. L'inizio è stato come tutti gli altri anni. Promesse,

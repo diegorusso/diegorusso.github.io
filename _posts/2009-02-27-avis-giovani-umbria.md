@@ -1,9 +1,8 @@
 ---
 title: Avis.. Giovani.. Umbria..
 categories:
-- private
-- emergency
-- car
+- personal
+- italian
 - friends
 - thoughts
 - book
@@ -11,7 +10,6 @@ categories:
 - avis
 tags:
 - ebook
-- test
 ---
 _"Tre parole... acronimo di altrettanti significati... e molto di più..  
 Avis..  

@@ -1,9 +1,10 @@
 ---
 title: 'Dieta: report #5'
 categories:
+- personal
+- italian
 - blog
-- private
-tags: []
+tags:
 ---
 Sono arrivato al quinto report della dieta. Purtroppo la scorsa settimana l'ho
 saltato, per vari motivi. Questo dovrebbe essere stato il sesto... ma

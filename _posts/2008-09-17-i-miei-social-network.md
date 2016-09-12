@@ -1,17 +1,12 @@
 ---
 title: I miei Social Network
 categories:
-- nanosocial
-- blog
-- private
-- friends
-- blog's friends
-- various links
-- twitter
-- book
-- social network
+- personal
+- italian
 tags:
-- ebook
+- blog
+- friends
+- social network
 ---
 Dopo un periodo "esplorativo" mi sono deciso di fare un piccolo elenco di
 social network in cui sono presente. Un po' di questi sono presenti nel mio

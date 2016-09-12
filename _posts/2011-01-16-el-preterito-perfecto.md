@@ -1,9 +1,11 @@
 ---
 title: El Preterito Perfecto
 categories:
+- personal
+- italian
 - languages
 - trabajo
-tags: []
+tags:
 ---
 El "Preterito Perfecto" se usa:
 

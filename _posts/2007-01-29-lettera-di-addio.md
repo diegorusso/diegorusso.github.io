@@ -1,16 +1,14 @@
 ---
 title: Lettera di addio
 categories:
+- personal
+- italian
+tags:
 - vasco
 - califano
 - blog
-- private
-- car
 - music
 - thoughts
-- guida
-tags:
-- guida
 ---
 Come promesso dal post scorso ecco qui la mia rivelazione. E' una lettera
 "d'amore/addio" dedicata a.. leggetela! Anche se non la leggera mai l'ho

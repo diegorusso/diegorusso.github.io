@@ -1,14 +1,12 @@
 ---
 title: Vendo iPhone 3GS 16GB Nero [AGGIORNATO x 2] e [VENDUTO]
 categories:
+- personal
+- italian
 - blog
-- private
-- car
-- various links
-- video
 - iPhone
 - telephony
-tags: []
+tags:
 ---
 Ciao! Ebbene si, ho deciso di vendere il mio amato iPhone... per cambiarlo
 ovviamente con il nuovo iPhone4 :) Senza mandarla troppo per le lunghe. si

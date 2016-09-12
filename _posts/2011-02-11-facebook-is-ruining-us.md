@@ -1,8 +1,9 @@
 ---
 title: Facebook is ruining us
 categories:
+- personal
+- italian
 - meditation
-- emergency
 - friends
 - book
 - social network

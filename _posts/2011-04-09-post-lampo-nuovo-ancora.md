@@ -1,11 +1,13 @@
 ---
 title: 'Post lampo: nuovo, ancora'
 categories:
+- personal
+- italian
 - blog
 - lingue
 - link vari
 - personale
-tags: []
+tags:
 ---
 Ieri ho deciso di aggiornare il mio sito e i cambi significativi sono i
 seguenti:

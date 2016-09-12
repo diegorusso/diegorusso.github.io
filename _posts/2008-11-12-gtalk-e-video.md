@@ -1,15 +1,11 @@
 ---
 title: Gtalk e video
 categories:
+- personal
+- italian
+tags:
 - osx
-- private
-- computer
-- leopard
-- various links
-- travels
-- video
 - google
-tags: []
 ---
 [Google ha aggiunto il supporto video ed audio a gtalk (via
 web)](http://googleblog.blogspot.com/2008/11/talk-face-to-face-right-from-within.html

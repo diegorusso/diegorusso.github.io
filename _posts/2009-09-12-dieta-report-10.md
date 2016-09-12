@@ -1,9 +1,10 @@
 ---
 title: 'Dieta: report #10'
 categories:
-- private
+- personal
+- italian
 - thoughts
-tags: []
+tags:
 ---
 É passato poco più di un mese [dall'ultimo
 post]({{site.url}}/2009/08/08/dieta-report-9/) sulla mia dieta.

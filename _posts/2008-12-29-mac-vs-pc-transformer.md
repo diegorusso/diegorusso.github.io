@@ -1,13 +1,11 @@
 ---
 title: Mac VS PC - Transformer
 categories:
-- blog
-- technology
-- computer
+- personal
+- italian
+tags:
 - microsoft
 - apple
-- video
-tags: []
 ---
 Ne abbiamo visti tanti di video "Mac vs PC" ma questo e veramente originale...
 

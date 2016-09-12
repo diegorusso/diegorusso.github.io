@@ -1,14 +1,13 @@
 ---
 title: Una serata da&hellip; Maestro!
 categories:
-- vasco
+- personal
+- italian
+tags:
 - califano
 - friends
 - music
 - concerts
-- book
-tags:
-- ebook
 ---
 Sono circa le 6:15 di mattina e mi sono appena messo nel letto. Ho acceso il
 mio notebook appositamente per fare questo post. Volevo solo farvi partecipi

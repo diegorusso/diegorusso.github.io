@@ -1,6 +1,8 @@
 ---
 title: 'HOWTO: count lines of code'
 categories:
+- personal
+- italian
 - languages
 - open source
 - job
@@ -8,7 +10,6 @@ categories:
 - geek
 - curiosity
 tags:
-- howto
 - python
 ---
 From today you will not go mental anymore to write a script that count lines

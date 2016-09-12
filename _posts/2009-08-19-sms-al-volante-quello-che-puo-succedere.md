@@ -1,12 +1,10 @@
 ---
 title: 'Sms al volante: quello che pu&ograve; succedere'
 categories:
-- private
-- emergency
-- various links
+- personal
+- italian
 - thoughts
-- video
-tags: []
+tags:
 ---
 Questo video sarà pubblicato dalla polizia inglese nelle aule di scuola per
 sensibilizzare i giovani.

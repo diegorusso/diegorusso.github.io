@@ -1,15 +1,12 @@
 ---
 title: Matrimonio geek
 categories:
-- computer
+- personal
+- italian
+tags:
 - linux
-- microsoft
-- open source
-- various links
 - windows
 - ubuntu
-- geek
-tags: []
 ---
 [![]({{site.url}}/images/apt-get-wife.png){: .align-center}]({{site.url}}/images/apt-get-wife.png)
 

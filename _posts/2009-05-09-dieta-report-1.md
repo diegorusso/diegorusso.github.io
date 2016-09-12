@@ -1,10 +1,10 @@
 ---
 title: 'Dieta: report #1'
 categories:
-- private
-- car
+- personal
+- italian
 - friends
-tags: []
+tags:
 ---
 Come promesso a [Daxeel](http://www.daxeel.it/) ecco qui il mio secondo report
 della dieta.  

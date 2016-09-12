@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: ignorar peticiones sin user agent en Apache'
 categories:
+- personal
+- italian
 - howto
 - guia
 - trabajo
 tags:
-- howto
 - apache
 - guia
 ---

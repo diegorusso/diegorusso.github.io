@@ -1,12 +1,12 @@
 ---
 title: 'HOWTO: Lettere accentate non italiane in OSX'
 categories:
+- personal
+- italian
 - osx
-- private
 - howto
 - snow leopard
 tags:
-- howto
 ---
 A volte è possibile avere il bisogno di poter scrivere su documenti, chat,
 nomi o altro lettere accentate che non sono previste dalla tua lingua. In

@@ -1,12 +1,10 @@
 ---
 title: L'estate sta finendo
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - music
-- concerts
-- video
-tags: []
 ---
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7Z-bmmuAY-w" frameborder="0" allowfullscreen></iframe>

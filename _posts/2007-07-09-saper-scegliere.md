@@ -1,16 +1,11 @@
 ---
 title: saper scegliere
 categories:
-- blog
-- private
-- emergency
-- car
+- personal
+- italian
+tags:
 - friends
-- travels
-- photography
 - thoughts
-- job
-tags: []
 ---
 **Chi di voi è così bravo da insegnarmi come scegliere?** Quali sono i
 canoni da prendere in considerazione? Non si tratta se scegliere se

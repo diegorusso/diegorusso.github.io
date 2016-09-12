@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: cuenta lineas de c&oacute;digo'
 categories:
-- car
+- personal
+- italian
 - howto
 - curiosidad
 - guia
 - trabajo
 tags:
-- howto
 - python
 - guia
 ---

@@ -1,7 +1,9 @@
 ---
 title: Just a note as this could be useful...
 categories:
-- Uncategorized
+- personal
+- italian
+
 - book
 tags:
 - python

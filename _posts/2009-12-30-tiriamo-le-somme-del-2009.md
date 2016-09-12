@@ -1,10 +1,9 @@
 ---
 title: Tiriamo le somme... del 2009
 categories:
-- private
-- car
+- personal
+- italian
 - friends
-- various links
 - spain
 - thoughts
 - job
@@ -15,7 +14,7 @@ categories:
 - lavoro
 - personale
 - viaggi
-tags: []
+tags:
 ---
 Eccoci qua, come al solito a **scrivere l'ultimo post dell'anno**. Quoto
 totalmente [tutto quello che ho scritto lo scorso

@@ -1,9 +1,10 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: settimo tempo. Eppur si muove!'
 categories:
+- personal
+- italian
 - blog
-- private
-tags: []
+tags:
 ---
 Verso le 19 di oggi mi arriva un sms dalla 3Italia:
 

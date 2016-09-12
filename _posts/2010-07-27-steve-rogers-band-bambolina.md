@@ -1,15 +1,14 @@
 ---
 title: 'Steve Rogers Band: "Bambolina"'
 categories:
+- personal
+- italian
 - vasco
-- private
 - friends
-- various links
 - music
 - travels
 - thoughts
-- video
-tags: []
+tags:
 ---
 Volevo solo twittare [il sito da dove ho "ritrovato" questo
 video](http://www.stefano11.it/sito/blog.php?post=109), ma questa canzone è

@@ -1,13 +1,10 @@
 ---
 title: CEO di Microsoft... :-|
 categories:
-- blog
-- emergency
-- technology
+- personal
+- italian
+tags:
 - microsoft
-- windows
-- video
-tags: []
 ---
   
 _Senza parole_

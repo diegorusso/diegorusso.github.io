@@ -1,16 +1,12 @@
 ---
 title: 'HOWTO: Editor di default in SVN'
 categories:
-- private
-- car
-- technology
-- various links
+- personal
+- italian
 - job
 - howto
 - lavoro
 tags:
-- howto
-- test
 ---
 Se sei un programmatore come me sicuramente ti sei imbattuto in
 [subversion](http://subversion.tigris.org/). Subversion (per gli amici, svn) è

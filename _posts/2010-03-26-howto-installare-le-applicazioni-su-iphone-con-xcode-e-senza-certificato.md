@@ -1,14 +1,13 @@
 ---
 title: 'HOWTO: Installare le applicazioni su iPhone con XCode e senza certificato'
 categories:
-- car
-- various links
+- personal
+- italian
 - iPhone
 - howto
 - telephony
 - lavoro
 tags:
-- howto
 ---
 Se vuoi sviluppare applicazioni per iPhone devi acquistare  [la
 licenza](http://developer.apple.com/programs/iphone/) (99$) che ti permette di

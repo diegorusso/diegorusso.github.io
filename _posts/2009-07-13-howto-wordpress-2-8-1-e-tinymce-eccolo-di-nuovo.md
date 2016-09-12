@@ -1,13 +1,12 @@
 ---
 title: 'HOWTO: Wordpress 2.8.1 e TinyMCE. Eccolo di nuovo! :)'
 categories:
+- personal
+- italian
 - blog
-- technology
-- computer
 - howto
 - google
 tags:
-- howto
 ---
 Un po' di tempo fa ho segnalato il problema che c'era con[ wordpress 2.8 e
 l'editor avanzato dei post in concomitanza con Google

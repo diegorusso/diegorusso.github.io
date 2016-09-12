@@ -1,28 +1,10 @@
 ---
 title: Argomenti di questo blog&hellip;
 categories:
-- vasco
-- califano
-- blog
-- private
-- environment
-- emergency
-- car
-- computer
-- linux
-- microsoft
-- open source
-- friends
-- apple
-- blog's friends
-- leopard
-- various links
-- music
-- windows
-- sport
-- viaggi
+- personal
+- italian
 tags:
-- test
+- blog
 ---
 Eh gia.. dopo due giorni dall'apertura di questo blog, molte persone mi
 chiedono: "Ma cosa ci scrivi su questo blog?!", "Come è la storia della

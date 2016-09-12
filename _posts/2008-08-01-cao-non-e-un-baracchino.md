@@ -1,12 +1,11 @@
 ---
 title: Ca\*\*o! Non &egrave; un baracchino!!!
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- technology
-- various links
 - job
-tags: []
 ---
 E non lo ripeto più! [I ricetrasmettitori CB (o comunemente chiamati
 baracchini)](http://it.wikipedia.org/wiki/Banda_cittadina

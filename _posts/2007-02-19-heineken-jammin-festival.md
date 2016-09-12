@@ -1,13 +1,13 @@
 ---
 title: Heineken Jammin&rsquo; Festival
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
 - friends
 - music
 - concerts
-- google
-tags: []
 ---
 **Quando?**: 17 giugno  
   

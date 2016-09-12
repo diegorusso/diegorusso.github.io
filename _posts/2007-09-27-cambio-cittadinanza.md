@@ -1,13 +1,10 @@
 ---
 title: Cambio cittadinanza!
 categories:
-- blog
-- private
-- emergency
-- various links
-- photography
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 Finalmente ho deciso! Voglio cambiare cittadinanza!! Cliccate per ingrandire e
 leggete!

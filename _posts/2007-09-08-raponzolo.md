@@ -1,12 +1,13 @@
 ---
 title: raponzolo
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - thoughts
 - job
-- sport
-tags: []
+- travel
 ---
 Il raponzolo verrà esportato in Finlandia... in bocca al lupo per tutto! Sei
 stato un grande amico e collega. Spero che un giorno di rivederti!

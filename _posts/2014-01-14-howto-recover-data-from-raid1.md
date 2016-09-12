@@ -1,12 +1,12 @@
 ---
 title: 'HOWTO: recover data from RAID1'
 categories:
-- Uncategorized
-- computer
+- personal
+- italian
+
 - ubuntu
 - howto
 tags:
-- howto
 - raid
 ---
 **Scenario**: two or more HDs configured as RAID1. One of them gets broken and the computer doesn't boot for any reason.  

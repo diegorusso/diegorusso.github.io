@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: schedule repeating events with Python'
 categories:
+- personal
+- italian
 - programming
 - job
 - howto
 tags:
-- howto
 - python
 ---
 

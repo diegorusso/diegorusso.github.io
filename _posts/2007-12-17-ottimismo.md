@@ -1,12 +1,11 @@
 ---
 title: Ottimismo
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- emergency
-- photography
 - thoughts
-tags: []
 ---
 Se con il precedente post siete diventati tristi/incazzati spero che con
 questo di tirarvi su il morale.  

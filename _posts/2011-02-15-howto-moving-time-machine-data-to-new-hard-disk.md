@@ -1,13 +1,12 @@
 ---
 title: 'HOWTO: moving Time Machine data to new hard disk'
 categories:
+- personal
+- italian
 - osx
-- technology
-- various links
 - howto
 - snow leopard
 tags:
-- howto
 ---
 If you are using [**Time Machine**](http://www.apple.com/macosx/what-is-macosx/time-machine.html)
 feature in OSX maybe you need to move data from

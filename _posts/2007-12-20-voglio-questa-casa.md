@@ -1,10 +1,11 @@
 ---
 title: Voglio questa casa!
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- photography
-tags: []
+- jokes
 ---
 **_Favolosa!!!_**
 

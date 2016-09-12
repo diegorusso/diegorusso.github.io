@@ -1,16 +1,14 @@
 ---
 title: Vasco, smettila! Ci sono i Police! :)
 categories:
+- personal
+- italian
+tags:
 - vasco
-- private
-- car
 - friends
-- various links
 - music
 - concerts
 - travels
-tags:
-- test
 ---
 Non che ci sia stato molto in questi giorni, ma nei prossimi due giorni non ci
 sarò proprio (neanche con la testa :) poiché porterò il mio corpo insieme a

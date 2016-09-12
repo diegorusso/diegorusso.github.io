@@ -1,12 +1,11 @@
 ---
 title: Effetto alcool
 categories:
-- emergency
-- car
-- photography
-- guida
+- personal
+- italian
 tags:
-- guida
+- thoughts
+- driving
 ---
 [![]({{site.url}}/images/drunkeffect.jpg){: .align-center}]({{site.url}}/images/drunkeffect.jpg)
 _L'immagine non ha bisogno di didascalie_

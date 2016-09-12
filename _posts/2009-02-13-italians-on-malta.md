@@ -1,10 +1,10 @@
 ---
 title: Italians on Malta
 categories:
-- private
+- personal
+- italian
 - friends
 - travels
-- video
 tags:
 - italians
 ---

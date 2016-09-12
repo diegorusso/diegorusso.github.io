@@ -1,13 +1,11 @@
 ---
 title: Ti scatterò una foto perché ero contentissimo
 categories:
-- private
-- car
+- personal
+- italian
+tags:
 - friends
 - thoughts
-- personale
-tags:
-- test
 ---
 Chi mi conosce, sa che ultimamente è scattata in me la "passione" per le foto.
 Scatto qualsiasi cosa in giro. Pensate che a Madrid ho fatto circa 760MB di

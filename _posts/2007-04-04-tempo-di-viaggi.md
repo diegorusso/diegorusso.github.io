@@ -1,12 +1,11 @@
 ---
 title: tempo di viaggi
 categories:
-- technology
-- various links
+- personal
+- italian
+tags:
 - google
-- lingue
-- viaggi
-tags: []
+- travels
 ---
 Dalla sua nascita ho sempre utilizzato moltissimo il servizio di BigG relativo
 alle mappe: [http://maps.google.it](http://maps.google.it/). L'ho sempre

@@ -1,17 +1,10 @@
 ---
 title: C'&egrave; mantide e mantide
 categories:
-- nanosocial
-- private
-- car
-- various links
-- photography
-- video
-- book
+- personal
+- italian
+tags:
 - kungfu
-- sport
-- social network
-tags: []
 ---
 E' da molto tempo che avevo da parte questo bookmark. Stasera ho trovato il
 tempo e la voglia di pubblicarlo. [In questo link ci sono delle foto stupende

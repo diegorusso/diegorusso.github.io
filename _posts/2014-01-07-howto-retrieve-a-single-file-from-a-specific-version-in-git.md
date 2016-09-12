@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: retrieve a single file from a specific version in git'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - git
 ---
 `git show` will help you. Few examples below:

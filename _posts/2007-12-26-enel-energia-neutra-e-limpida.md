@@ -1,19 +1,15 @@
 ---
 title: ENEL = Energia Neutra E Limpida
 categories:
-- blog
+- personal
+- italian
+tags:
 - environment
-- emergency
 - friends
-- blog's friends
-- various links
-- music
 - thoughts
-- video
 - politics
-tags: []
 ---
-Mi e sempre piaciuta questa pubblicita per le sue belle parole e per la sua
+Mi è sempre piaciuta questa pubblicità per le sue belle parole e per la sua
 musica. Immaginavo però che sotto **c'era qualche cosa che non andava**. Me lo
 sentivo. Erano parole troppo belle per una pubblicita, dell'ENEL poi..  
 _Ora ne ho le prove:_  

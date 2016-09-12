@@ -1,12 +1,11 @@
 ---
 title: 'Mac e PC: ecco la differenza'
 categories:
-- technology
-- computer
+- personal
+- italian
+tags:
 - microsoft
 - apple
-- windows
-tags: []
 ---
 [![]({{site.url}}/images/macpc.jpg){: .align-center}]({{site.url}}/images/macpc.jpg)
 _Simpaticissimo! :) E voi quale preferite?_

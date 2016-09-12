@@ -1,11 +1,10 @@
 ---
 title: Il TG1, ma che bello! (reprise)
 categories:
-- emergency
-- various links
+- personal
+- italian
 - thoughts
 tags:
-- test
 ---
 Ovviamente [dopo i festeggiamenti]({{site.url}}/2009/04/09/il-tg1-ma-che-bello/)
 vogliono essere lasciati anche in pace. Lo scrivono **anche in

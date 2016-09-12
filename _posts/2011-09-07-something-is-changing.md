@@ -1,14 +1,13 @@
 ---
 title: Something is changing
 categories:
+- personal
+- italian
 - blog
-- private
-- technology
-- computer
 - travels
 - thoughts
 - job
-tags: []
+tags:
 ---
 [![]({{site.url}}/images/cambridge_ARM.jpg){: .align-center}]({{site.url}}/images/cambridge_ARM.jpg)
 _Stay tuned!_

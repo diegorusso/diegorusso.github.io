@@ -1,18 +1,14 @@
 ---
 title: 'HOWTO: Tips & Tricks, shortcuts e segreti in Snow Leopard'
 categories:
-- car
-- technology
+- personal
+- italian
 - apple
 - leopard
-- various links
-- video
 - howto
 - geek
 - snow leopard
 tags:
-- howto
-- test
 ---
 Snow Leopard, come il suo Predecessore, ha delle scorciatoie che ti permettono
 di velocizzare alcuni operazioni. Qui vorrei proporre una lista di queste

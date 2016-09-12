@@ -1,13 +1,10 @@
 ---
 title: Twitter, cosa sto facendo?
 categories:
-- blog
-- private
-- car
-- various links
-- twitter
+- personal
+- italian
 tags:
-- test
+- twitter
 ---
 [Twitter](http://twitter.com "http://twitter.com" ) è un servizio di microblog
 che permette agli utenti di inviare dei piccoli messaggi di testo (140

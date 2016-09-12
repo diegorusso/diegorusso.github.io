@@ -1,16 +1,12 @@
 ---
 title: 'HOWTO: Aprire un file con VIM ad una specifica riga'
 categories:
-- private
-- car
-- computer
+- personal
+- italian
 - open source
-- various links
 - job
 - howto
 tags:
-- howto
-- test
 ---
 Spesso mi capita di modificare grandi file con l'editor di testo
 [VIM](http://www.vim.org/). A volte capita che prima di aprire il file per

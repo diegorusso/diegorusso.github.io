@@ -1,9 +1,9 @@
 ---
 title: Ti piace pi&ugrave; la moto o il camper?
 categories:
-- blog
-- photography
-tags: []
+- personal
+- italian
+tags:
 ---
 A me, tutte e due! :)
 

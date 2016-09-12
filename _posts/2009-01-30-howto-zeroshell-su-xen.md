@@ -1,15 +1,13 @@
 ---
 title: 'HOWTO: Zeroshell su Xen'
 categories:
-- car
-- technology
+- personal
+- italian
 - linux
 - job
 - howto
 - guida
 tags:
-- howto
-- test
 - guida
 ---
 Ciao, oggi vi spiego come far girare [Zeroshell](http://www.zeroshell.net/

@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: Cache Out X, elimina la cache del Mac'
 categories:
-- car
-- technology
-- computer
+- personal
+- italian
 - leopard
-- various links
 - howto
 - snow leopard
 tags:
-- howto
 ---
 L'utilizzo di applicazioni e browser quali Safari, Firefox, Opera &amp; C.
 utilizzano per il loro normale funzionamento delle cartelle nel sistema come

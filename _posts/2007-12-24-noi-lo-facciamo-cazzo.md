@@ -1,14 +1,11 @@
 ---
 title: noi lo facciamo, cazzo! :)
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - friends
-- blog's friends
-- photography
 - job
-- lavoro
-tags: []
 ---
 Il 2007 è stato il mio primo e vero anno di lavoro. Ho lavorato con diverse
 persone. Vecchi amici e nuovi conoscenti. Tutte persone in gamba, brave, che

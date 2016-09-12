@@ -1,16 +1,14 @@
 ---
 title: Worm per iPhone?!? Ma vaff...
 categories:
+- personal
+- italian
 - blog
-- private
-- emergency
-- car
 - thoughts
 - iPhone
 - google
 - telephony
 tags:
-- test
 ---
 Da quando sono venuto a conoscenza di questa notizia, volevo scrivere
 questo post per dire la mia. Se non sai di cosa sto parlando leggi

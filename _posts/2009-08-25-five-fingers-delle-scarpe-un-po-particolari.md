@@ -1,12 +1,10 @@
 ---
 title: 'Five Fingers: delle scarpe un po''... particolari'
 categories:
-- private
-- car
-- various links
+- personal
+- italian
 - humor
 tags:
-- test
 ---
 Visto che oggi le indosso scrivo questo post riguardo a delle scarpe un po'
 "strane". Ad inizio anno un mio amico me le fece vedere su una pagina web e me

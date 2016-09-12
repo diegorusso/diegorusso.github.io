@@ -1,17 +1,14 @@
 ---
 title: 'HOWTO: Terminal''s tips in OSX'
 categories:
+- personal
+- italian
 - osx
-- private
-- technology
-- computer
 - apple
-- various links
 - job
 - howto
 - geek
 tags:
-- howto
 - python
 ---
 Another useful and quick post about tips from OSX Terminal that let you to

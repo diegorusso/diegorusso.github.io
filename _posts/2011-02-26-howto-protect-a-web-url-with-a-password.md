@@ -1,15 +1,15 @@
 ---
 title: 'HOWTO: protect a web url with a password'
 categories:
+- personal
+- italian
 - osx
 - open source
-- various links
 - job
 - howto
 - google
 - geek
 tags:
-- howto
 - apache
 - htaccess
 ---

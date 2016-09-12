@@ -1,14 +1,13 @@
 ---
 title: Cosa ci aspettiamo dall'informatica?
 categories:
-- private
-- technology
-- computer
+- personal
+- italian
 - friends
 - thoughts
 - job
 - lavoro
-tags: []
+tags:
 ---
 L'altra sera ho avuto il piacere di andare a cena a casa di M. con alcuni dei
 miei colleghi di lavoro. Immagina una tavolata di informatici davanti ad una

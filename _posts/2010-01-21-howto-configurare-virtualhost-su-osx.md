@@ -1,18 +1,15 @@
 ---
 title: 'HOWTO: Configurare VirtualHost su OSX'
 categories:
+- personal
+- italian
 - osx
-- private
-- car
 - linux
 - open source
-- various links
 - job
 - howto
 tags:
-- howto
 - apache
-- test
 ---
 OSX, come molte distribuzioni linux hanno integrato il webserver
 [Apache](http://apache.org/). Apache ha centinaia di opzioni e configurazioni

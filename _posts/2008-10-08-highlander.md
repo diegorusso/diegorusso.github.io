@@ -1,11 +1,9 @@
 ---
 title: Highlander
 categories:
-- blog
-- private
-- photography
+- personal
+- italian
 tags:
-- test
 ---
 Febbre e virus intestinale sconfitti in un giorno.... wow! :)
 

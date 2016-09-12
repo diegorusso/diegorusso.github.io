@@ -1,15 +1,13 @@
 ---
 title: grazie papi!!!
 categories:
+- personal
+- italian
+tags:
 - vasco
-- blog
-- private
-- emergency
 - music
 - concerts
 - travels
-- lavoro
-tags: []
 ---
 _**Vedo che in qualche modo, non mi hai abbandonato!!!!**_
 

@@ -1,12 +1,10 @@
 ---
 title: quattro stagioni, un albero
 categories:
+- personal
+- italian
+tags:
 - environment
-- technology
-- computer
-- various links
-- photography
-tags: []
 ---
 Stupenda!  
 

@@ -1,13 +1,12 @@
 ---
 title: regole d&rsquo;oro&hellip;
 categories:
-- blog
-- car
-- friends
-- blog's friends
-- thoughts
+- personal
+- italian
 tags:
-- test
+- blog
+- friends
+- thoughts
 ---
 ...per un **blog di successo**. Copio ed incollo da [altro blog
 ](http://osrevolution.wordpress.com "http://osrevolution.wordpress.com" )che

@@ -1,13 +1,12 @@
 ---
 title: 'Ritorno al passato #2'
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- various links
 - music
 - kungfu
-- sport
-tags: []
 ---
 [Questa volta non parlo di musica]({{site.url}}/2007/01/31/ritorno-al-passato/trackback/
  "{{site.url}}/2007/01/31/ritorno-al-passato/trackback/" ).

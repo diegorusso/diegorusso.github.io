@@ -1,12 +1,10 @@
 ---
 title: 'Portabilit&agrave; del numero da Tim a 3Italia: che schifo!'
 categories:
-- private
-- car
-- various links
-- video
+- personal
+- italian
 - iPhone
-tags: []
+tags:
 ---
 Il giorno **21 luglio 2009** ho acquistato [iPhone
 3GS](http://www.apple.com/it/iphone/) con abbonamento

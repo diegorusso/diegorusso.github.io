@@ -1,12 +1,9 @@
 ---
 title: Gioco del sabato
 categories:
-- blog
-- car
-- technology
-- various links
-- windows
-tags: []
+- personal
+- italian
+tags:
 ---
 [Vi ricordate questo giochino?]({{site.url}}/2007/11/16/che-figata/
  "{{site.url}}/2007/11/16/che-figata/" ) Beh non è più una utopia. Ora

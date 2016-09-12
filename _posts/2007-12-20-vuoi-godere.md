@@ -1,13 +1,11 @@
 ---
 title: vuoi godere?
 categories:
-- blog
-- private
-- emergency
+- personal
+- italian
+tags:
 - friends
-- various links
 - thoughts
-tags: []
 ---
 Se si (chi è che direbbe di no!?!?!), fallo **sabato mattina alle ore 7.08**
 (ora italiana, 6.08GMT) partecipando **all'orgasmo globale**. Non sai cosa è

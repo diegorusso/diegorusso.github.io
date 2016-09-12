@@ -1,14 +1,10 @@
 ---
 title: Auguri... formali! :)
 categories:
-- blog
-- private
-- car
-- friends
-- blog's friends
-- personale
+- personal
+- italian
 tags:
-- test
+- friends
 ---
 Io sottoscritto (d'ora in avanti **"l'Augurante"**) chiedo al mio
 interlocutore (d'ora in avanti **"l'Augurato"**) di accettare senz'alcun

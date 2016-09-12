@@ -1,11 +1,13 @@
 ---
 title: 'Art&iacute;culo flash: nuevo, una otra vez'
 categories:
+- personal
+- italian
 - blog
 - idiomas
 - enlaces varios
 - privado
-tags: []
+tags:
 ---
 Ayer decidí de actualizar mi sitio y los cambios significativos son:
 

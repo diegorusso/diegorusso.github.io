@@ -1,9 +1,10 @@
 ---
 title: World Music
 categories:
-- private
+- personal
+- italian
+tags:
 - music
-tags: []
 ---
 Molto bella questa immagine.  
 

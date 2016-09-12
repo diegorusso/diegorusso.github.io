@@ -1,9 +1,10 @@
 ---
 title: 'Dieta: report #9'
 categories:
+- personal
+- italian
 - blog
-- private
-tags: []
+tags:
 ---
 Aiaiaiai, questa volta non è andata bene come le altre volte. Eh si.. sono
 andato dal dietologo martedì scorso, per la precisione il 4 agosto 2009. Quel

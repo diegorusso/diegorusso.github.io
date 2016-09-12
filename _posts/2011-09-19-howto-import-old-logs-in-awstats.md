@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: import old logs in AWStats'
 categories:
+- personal
+- italian
 - programming
 - linux
 - job
 - howto
 tags:
-- howto
 - python
 - apache
 ---

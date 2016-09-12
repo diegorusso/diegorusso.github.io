@@ -1,13 +1,10 @@
 ---
 title: Capodanno
 categories:
-- blog
-- private
-- emergency
+- personal
+- italian
+tags:
 - friends
-- travels
-- thoughts
-tags: []
 ---
 Ragazzi chiedo il vostro aiuto **per ~~raccimolare su idee~~ racimolare idee
 per la fine dell'anno.**

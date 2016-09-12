@@ -1,21 +1,14 @@
 ---
 title: NO alla pirateria, SI al Free Software
 categories:
-- blog
-- emergency
-- car
-- technology
-- computer
-- linux
+- personal
+- italian
+tags:
 - microsoft
 - open source
 - friends
-- various links
 - windows
 - thoughts
-- video
-- ubuntu
-tags: []
 ---
 Ci sono molti motivi per cui l'Open Source ed il software libero in generale
 non sono molto conosciuti tra la _gente comune_, ossia quelle persone non

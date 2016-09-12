@@ -1,16 +1,13 @@
 ---
 title: Assisi Virtuale
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- technology
-- computer
 - friends
-- various links
-- photography
 - job
 - second life
-tags: []
 ---
 
 **Il 21 settembre alle ore 18:00 italiane** apre al pubblico l'isola di **Assisi in Second Life** (coordinate 1090,1200). Il progetto, realizzato dall'azienda **Wedoit s.a.s. (Assisi)** con la collaborazione di **Metafuturing S.l. (Madrid)** ed **Euromedia Italia (Terni)**, ha come obiettivo quello di far conoscere le bellezze della Basilica di San Francesco al pubblico del metaverso.

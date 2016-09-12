@@ -1,11 +1,11 @@
 ---
 title: Sulla questione Aruba.it e lo spazio illimitato
 categories:
+- personal
+- italian
 - blog
-- car
-- various links
 - thoughts
-tags: []
+tags:
 ---
 [Sul precedente post]({{site.url}}/2009/06/30/aruba-it-e-il-fantomatico-spazio-web-illimitato)
 ho messo l'avviso che [Aruba.it](http://www.aruba.it) mi ha inviato per posta elettronica. Le

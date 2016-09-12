@@ -1,11 +1,11 @@
 ---
 title: Basta poco&hellip;
 categories:
-- vasco
-- car
-- music
+- personal
+- italian
 tags:
-- test
+- vasco
+- music 
 ---
 Non è un avvertimento! Neanche una minaccia! E' il titolo del nuovo singolo di
 Vasco Rossi (si lui!). Fino a qui tutto normale. La cosa fica e che questo

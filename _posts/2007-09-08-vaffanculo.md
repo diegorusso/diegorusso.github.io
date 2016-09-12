@@ -1,10 +1,10 @@
 ---
 title: vaffanculo
 categories:
-- emergency
-- various links
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 [Buon vaffanculo a tutti!!!](http://www.beppegrillo.it/vaffanculoday/
 "http://www.beppegrillo.it/vaffanculoday/" )

@@ -1,14 +1,11 @@
 ---
 title: Ma come hai fatto?
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- car
-- computer
 - friends
-- video
-- google
-tags: []
 ---
 Ieri pomeriggio mi ero deciso di rispondere ad un'altra domanda fondamentale
 che non riguarda direttamente questo blog. Purtroppo sono costretto a

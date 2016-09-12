@@ -1,18 +1,15 @@
 ---
 title: mal di testa
 categories:
-- private
-- emergency
-- friends
-- lavoro
+- personal
+- italian
 tags:
-- test
+- friends
 ---
 Chi e che non ha mal di testa ogni tanto? Credo un po' tutti. I motivi possono
 essere molti, tra cui stanchezza, stress, sonno, lavoro, caldo... D'altro
 canto esistono rimedi naturali e artificiali per "curare" questo piccolo
 flagello **(a me personalmente il mal di testa mi azzera!)**
-
 
 [![piton]({{site.url}}/images/piton.jpg){: .align-center}](http://it.wikipedia.org/wiki/Severus_Piton "http://it.wikipedia.org/wiki/Severus_Piton" )
 

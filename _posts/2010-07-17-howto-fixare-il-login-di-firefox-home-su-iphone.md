@@ -1,14 +1,13 @@
 ---
 title: 'HOWTO: Fixare il login di Firefox Home su iPhone'
 categories:
+- personal
+- italian
 - blog
-- computer
 - open source
-- various links
 - iPhone
 - howto
 tags:
-- howto
 ---
 Da qualche giorno Mozilla ha lanciato Firefox Home per iPhone. Chiariamo
 subito una cosa: **Firefox Home non è un browser**. É un'applicazione che

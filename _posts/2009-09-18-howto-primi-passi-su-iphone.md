@@ -1,17 +1,14 @@
 ---
 title: 'HOWTO: Primi passi su iPhone'
 categories:
-- car
+- personal
+- italian
 - friends
 - apple
-- various links
-- video
 - iPhone
 - howto
 - guida
 tags:
-- howto
-- test
 - guida
 ---
 Giusto oggi mi è capitato di rispondere a delle domande che un mio amico mi ha

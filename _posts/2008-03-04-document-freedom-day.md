@@ -1,11 +1,10 @@
 ---
 title: Document Freedom Day
 categories:
-- blog
-- linux
+- personal
+- italian
+tags:
 - open source
-- various links
-tags: []
 ---
 Il **26 Marzo** si terrà a **Perugia** l'ottavo "Document Freedom Day". In
 tutto il mondo, numerosi gruppi di utenti, sostengono e pubblicizzano i

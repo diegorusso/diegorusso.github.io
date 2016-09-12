@@ -1,10 +1,10 @@
 ---
 title: '#codemotion: tiriamo le somme'
 categories:
+- personal
+- italian
 - languages
 - programming
-- private
-- computer
 - open source
 - friends
 - blog's friends

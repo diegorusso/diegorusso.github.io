@@ -1,13 +1,12 @@
 ---
 title: Volete un N95 in regalo?
 categories:
-- blog
-- technology
-- friends
-- various links
+- personal
+- italian
 tags:
 - contest
-- test
+- mobile
+- friends
 ---
 **Si! Avete letto benissimo!!!** Ma non sono io a regalarvelo, bensi
 [gekissimo.com](http://www.geekissimo.com/ "http://www.geekissimo.com" )

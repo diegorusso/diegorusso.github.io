@@ -1,11 +1,11 @@
 ---
 title: 'Domani: artisti uniti per l''Abruzzo'
 categories:
-- emergency
+- personal
+- italian
 - music
 - thoughts
-- video
-tags: []
+tags:
 ---
 <iframe width="420" height="315" src="https://www.youtube.com/embed/p_WyCOGZjbM" frameborder="0" allowfullscreen></iframe>
 

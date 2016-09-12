@@ -1,10 +1,10 @@
 ---
 title: Vecchia scuola
 categories:
-- computer
+- personal
+- italian
+tags:
 - apple
-- photography
-tags: []
 ---
 [![]({{site.url}}/images/big-mac-class.jpg){: .align-center}]({{site.url}}/images/big-mac-class.jpg)
 

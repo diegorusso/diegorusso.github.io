@@ -1,12 +1,12 @@
 ---
 title: 'HOWTO: Script per notifica di mail con Fluid + Gmail'
 categories:
-- various links
+- personal
+- italian
 - howto
 - google
 - lingue
 tags:
-- howto
 ---
 Se hai [Fluid](http://fluidapp.com/ "http://fluidapp.com/" ) configurato per
 Gmail e non vuoi usare applicazioni esterne per controllare l'arrivo di posta

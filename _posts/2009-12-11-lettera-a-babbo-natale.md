@@ -1,12 +1,11 @@
 ---
 title: Lettera a Babbo Natale
 categories:
-- private
-- various links
+- personal
+- italian
 - travels
-- photography
 - humor
-tags: []
+tags:
 ---
 **No, non sono diventato né matto né ritornato bambino!** Sto dicendo solo la verità! Voglio sfatare un mito che affligge tutte le persone da 6 anni (circa) in su. Attenzione attenzione... **Babbo Natale ESISTE!** Si hai capito bene! Babbo Natale ESISTE e quest'anno, dopo 26 anni della mia vita, **ho deciso di mandargli una lettera** da parte dei miei nipotini, per dimostrare a tutti che esiste. Questa qui sotto é la busta con le letterine all'interno:
 

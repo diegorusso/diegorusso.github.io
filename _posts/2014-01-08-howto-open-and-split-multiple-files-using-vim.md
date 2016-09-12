@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: open and split/tab multiple files using vim'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - vim
 ---
 ```

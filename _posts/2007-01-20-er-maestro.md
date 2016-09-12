@@ -1,13 +1,12 @@
 ---
 title: Er Maestro!
 categories:
-- vasco
-- califano
-- blog
-- car
-- music
+- personal
+- italian
 tags:
-- test
+- music
+- califano
+- vasco
 ---
 Si proprio lui! [Franco Califano](http://it.wikipedia.org/wiki/Franco_Califano)
 (Califfo, Maestro o Professore.. chiamatelo come volete!) stasera sarà al

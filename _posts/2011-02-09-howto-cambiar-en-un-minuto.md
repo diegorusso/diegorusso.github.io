@@ -1,6 +1,8 @@
 ---
 title: 'HOWTO: cambiar en un minuto'
 categories:
+- personal
+- italian
 - howto
 - humor
 - amigos
@@ -11,7 +13,6 @@ categories:
 - meditaci&oacute;n
 - m&uacute;sica
 tags:
-- howto
 - guia
 ---
 Para mejorarte están suficiente cambios pequeños (menos de un minuto cada

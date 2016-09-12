@@ -1,12 +1,11 @@
 ---
 title: Apple estende garanzia a 3 anni per i possessori dei MBP
 categories:
-- private
+- personal
+- italian
 - apple
-- various links
-- video
 - book
-tags: []
+tags:
 ---
 Vi ricordate ["Il curioso caso del MacBook
 Pro"]({{site.url}}/2009/03/25/il-curioso-caso-del-macbook-pro/)? Bene!

@@ -1,12 +1,11 @@
 ---
 title: desaparecido
 categories:
-- blog
-- private
+- personal
+- italian
+tags:
 - friends
-- photography
 - thoughts
-tags: []
 ---
 Disappeared. Scomparso. Questo e quello che potrei risultare. **Si lo
 ammetto**. Non ho scritto più sul blog, su MSN parlo più poco, non

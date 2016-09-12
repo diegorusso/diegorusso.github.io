@@ -1,14 +1,11 @@
 ---
 title: Che schifo!
 categories:
-- blog
-- private
-- emergency
-- computer
-- various links
+- personal
+- italian
+tags:
 - thoughts
 - politics
-tags: []
 ---
 L'Italia fa [sempre più cagare](http://punto-informatico.it/p.aspx?i=2092327
 "http://punto-informatico.it/p.aspx?i=2092327" )! Fortuna [c'è qualcuno](http://www.antoniodipietro.com/2007/10/no_al_bavaglio_per_la_rete_1.html

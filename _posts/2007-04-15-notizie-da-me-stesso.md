@@ -1,15 +1,13 @@
 ---
 title: Notizie da.. me stesso
 categories:
-- blog
-- private
-- car
+- personal
+- italian
+tags:
 - friends
 - travels
-- photography
 - thoughts
 - second life
-tags: []
 ---
 Hola chicos! Como estais? E' da molto che non scrivo sul blog. Potete anche
 dire.. "Chi cazzo se ne frega?". Beh io magari vi provo a dire il perché e

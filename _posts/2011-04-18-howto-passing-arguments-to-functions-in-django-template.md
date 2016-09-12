@@ -1,12 +1,13 @@
 ---
 title: 'HOWTO: passing arguments to functions in Django Template'
 categories:
+- personal
+- italian
 - programming
 - job
 - howto
 - geek
 tags:
-- howto
 - django
 ---
 [Django](http://www.djangoproject.com/) doesn't allow you because it goes

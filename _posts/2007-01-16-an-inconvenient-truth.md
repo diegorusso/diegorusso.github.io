@@ -1,15 +1,12 @@
 ---
 title: An inconvenient truth
 categories:
-- blog
-- environment
-- emergency
-- car
-- guida
+- personal
+- italian
 tags:
-- guida
+- environment
 ---
-Una verita scomoda.. do cosa si parlera mai?!? Politica? Economia? Tecnologia?
+Una verità scomoda.. do cosa si parlera mai?!? Politica? Economia? Tecnologia?
 Terrorismo? Criminalita (più o meno e come dire Politica)? Niente di tutto
 questo.. si parla di natura, ambiente, flora, fauna, atmosfera che sta
 impazzendo! Sta impazzendo grazie a noi, a noi uomini! Gli uomini (incluso io)

@@ -1,11 +1,10 @@
 ---
 title: So cosa pensi.
 categories:
-- blog
-- technology
+- personal
+- italian
+tags:
 - friends
-- various links
-tags: []
 ---
 Non ci credi? Allora vai [qui](http://www.20q.net/ "http://www.20q.net/" ) e
 scoprilo da solo!

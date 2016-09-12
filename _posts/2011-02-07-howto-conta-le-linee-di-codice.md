@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: conta le linee di codice'
 categories:
-- car
+- personal
+- italian
 - howto
 - curiosit&agrave;
 - guida
 - lavoro
 tags:
-- howto
 - python
 - guida
 ---

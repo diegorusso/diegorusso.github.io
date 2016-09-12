@@ -1,18 +1,15 @@
 ---
 title: Hai rotto le balle!
 categories:
+- personal
+- italian
 - blog
-- private
-- emergency
-- car
 - microsoft
 - friends
 - blog's friends
-- various links
 - thoughts
 - humor
 tags:
-- test
 ---
 Esatto, proprio così!! Ogni giorno mi arrivano mail su mail di bufale, di
 messaggi di aiuto, su come salvare il mondo, su come salvare una bambina dal

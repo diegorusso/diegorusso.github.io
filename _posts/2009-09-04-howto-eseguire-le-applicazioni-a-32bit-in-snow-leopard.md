@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: Eseguire le applicazioni a 32bit in Snow Leopard'
 categories:
-- car
+- personal
+- italian
 - apple
 - leopard
 - howto
 - snow leopard
 tags:
-- howto
 ---
 Snow Leopard è un sistema interamente (quasi) a 64bit. Questo però non vuol
 dire che non riesce ad eseguire le applicazioni più anzianotte, a 32

@@ -1,9 +1,8 @@
 ---
 title: Paypal e Carte di Credito Mastercard
 categories:
-- private
-- car
-- various links
+- personal
+- italian
 tags:
 - git
 ---

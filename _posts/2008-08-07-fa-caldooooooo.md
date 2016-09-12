@@ -1,9 +1,10 @@
 ---
 title: Fa caldooooooo!!!!!
 categories:
-- environment
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 CDO.
 

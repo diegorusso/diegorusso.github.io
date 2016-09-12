@@ -1,11 +1,11 @@
 ---
 title: Classic, Carbon e Cocoa
 categories:
+- personal
+- italian
 - osx
-- car
 - apple
 - leopard
-- various links
 - google
 - programmazione
 tags:

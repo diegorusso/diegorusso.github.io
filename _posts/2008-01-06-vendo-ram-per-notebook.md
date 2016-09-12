@@ -1,16 +1,11 @@
 ---
 title: Vendo RAM per notebook
 categories:
-- blog
-- private
-- technology
-- computer
-- apple
-- photography
-- job
-- book
+- personal
+- italian
 tags:
-- ebook
+- apple
+- job
 ---
 Se a qualcuno interessano, sono le RAM del mio macbook pro **(due mesi di
 vita)**, due banchi da 1GB l'uno. Sono moduli di memoria SAMSUNG **1GB DDR2

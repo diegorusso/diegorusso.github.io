@@ -1,12 +1,13 @@
 ---
 title: Il tempo corre&hellip;
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - spain
 - travels
 - thoughts
-tags: []
 ---
 ... e tu stai lì, che aspetti. A proposito di tempo, ho trovato 10 minuti per
 scrivere questo post. Ancora sto a Madrid ed non parlerò di come sto, di come

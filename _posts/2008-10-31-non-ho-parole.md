@@ -1,12 +1,11 @@
 ---
 title: Non ho parole
 categories:
-- private
-- emergency
+- personal
+- italian
+tags:
 - thoughts
-- video
 - politics
-tags: []
 ---
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/5wTeI_tatoY" frameborder="0" allowfullscreen></iframe>

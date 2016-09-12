@@ -1,9 +1,9 @@
 ---
 title: Auguri, a tutti voi.
 categories:
-- private
+- personal
+- italian
 - friends
-- photography
 - thoughts
 - twitter
 - book

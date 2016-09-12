@@ -1,9 +1,10 @@
 ---
 title: Festeggiate, donne! Festeggiate!
 categories:
-- private
-- emergency
-tags: []
+- personal
+- italian
+tags:
+- thoughts
 ---
 L'8 marzo mi è rimasto alla gola. Non la mando giu questa festa. Oggi sul sito
 della repubblica leggo questo articolo.

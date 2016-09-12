@@ -1,13 +1,13 @@
 ---
 title: 'HOWTO: Nascondere Disqus su pagine statiche di wordpress'
 categories:
+- personal
+- italian
 - blog
-- various links
 - social network
 - howto
 - status
 tags:
-- howto
 ---
 [Disqus Comments](http://disqus.com/comments/) è un sistema di commenti e
 strumenti di moderazione per il tuo sito. Questo servizio ti permette di

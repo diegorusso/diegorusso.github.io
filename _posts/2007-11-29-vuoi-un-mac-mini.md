@@ -1,17 +1,13 @@
 ---
 title: Vuoi un Mac Mini?
 categories:
-- blog
-- private
-- computer
-- friends
-- apple
-- various links
-- travels
-- viaggi
+- personal
+- italian
 tags:
 - contest
-- test
+- friends
+- apple
+- travels
 ---
 Allora partecipa al logo contest organizzato da
 [Itineralis](http://www.itineralis.com/). Non devi fare altro che creare un

@@ -1,17 +1,11 @@
 ---
 title: Economia personale
 categories:
-- blog
-- private
-- environment
-- car
-- friends
-- various links
+- personal
+- italian
+tags:
 - travels
 - thoughts
-- personale
-tags:
-- test
 ---
 E' da poco più di un anno che [ho la macchina nuova (era quella dei miei)]({{site.url}}/2007/03/12/il-mio-nuovo-amore/
 "{{site.url}}/2007/03/12/il-mio-nuovo-amore/" ) e da quasi subito le

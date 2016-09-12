@@ -1,17 +1,13 @@
 ---
 title: la compagnia
 categories:
-- vasco
-- private
-- car
-- friends
-- various links
-- music
-- travels
-- thoughts
-- video
+- personal
+- italian
 tags:
-- test
+- vasco
+- friends
+- music
+- thoughts
 ---
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Yr7olNgZ5Bc" frameborder="0" allowfullscreen></iframe>

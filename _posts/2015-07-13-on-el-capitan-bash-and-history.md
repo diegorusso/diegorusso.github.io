@@ -1,6 +1,8 @@
 ---
 title: On El Capitan, bash, and history
 categories:
+- personal
+- italian
 - osx
 - environment
 - apple

@@ -1,12 +1,12 @@
 ---
 title: le giuste parole
 categories:
-- private
-- emergency
+- personal
+- italian
+tags:
 - friends
 - thoughts
 - job
-tags: []
 ---
 **"Piangere è da uomini, nasconderlo e da fessi..."** così iniziava
 una mail arrivata questa mattina in una delle mie tante caselle di posta.

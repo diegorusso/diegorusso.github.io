@@ -1,9 +1,10 @@
 ---
 title: Il mio nuovo amore&hellip;
 categories:
-- blog
-- private
-tags: []
+- personal
+- italian
+tags:
+- thoughts
 ---
 E' da un po' che la sto frequentando, ora mi ci trovo bene. Credevo che
 [dopo l'altra storia]({{site.url}}/2007/01/29/lettera-di-addio), non

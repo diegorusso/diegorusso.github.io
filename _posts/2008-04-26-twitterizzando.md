@@ -1,12 +1,11 @@
 ---
 title: Twitterizzando
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
-- various links
-- iPhone
 - twitter
-tags: []
 ---
 Poco tempo fa vi ho detto [che avevo un account su
 twitter]({{site.url}}/2008/04/03/twitter-cosa-sto-facendo/

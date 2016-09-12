@@ -1,13 +1,11 @@
 ---
 title: Sesso protetto
 categories:
-- private
-- emergency
-- friends
-- various links
-- photography
+- personal
+- italian
+tags:
+- sex
 - thoughts
-tags: []
 ---
 Fatelo SEMPRE!  
 

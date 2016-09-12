@@ -1,14 +1,11 @@
 ---
 title: tanto di cappello!
 categories:
-- private
-- computer
-- friends
-- various links
-- photography
+- personal
+- italian
+tags:
 - job
 - second life
-tags: []
 ---
 Non c'è bisogno da scrivere niente! Clicca sull'immagine e leggi!
 

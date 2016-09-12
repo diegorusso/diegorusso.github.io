@@ -1,13 +1,12 @@
 ---
 title: regresado (ya)
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - spain
 - travels
-- photography
-- video
-tags: []
 ---
 Il titolo la dice tutta. Sono ritornato dalla mia amata Madrid ieri sera. Sarò
 non di tante parole perché vorrei parlare con le delle foto. Spendo due parole

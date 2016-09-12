@@ -1,14 +1,12 @@
 ---
 title: Di che religione sei?
 categories:
-- blog
-- private
-- computer
+- personal
+- italian
+tags:
+- religion
 - friends
-- blog's friends
-- various links
 - thoughts
-tags: []
 ---
 Se non lo sai [clicca qui](http://quizfarm.com/quiz_repository/Religion/157212/
 "http://quizfarm.com/quiz_repository/Religion/157212/" ), rispondi a **55

@@ -1,12 +1,11 @@
 ---
 title: come google invia la mail
 categories:
-- technology
-- computer
-- various links
-- video
+- personal
+- italian
+tags:
 - google
-tags: []
+- jokes
 ---
 Questo e il segreto della sua "velocita e leggerezza"!!! :)
 

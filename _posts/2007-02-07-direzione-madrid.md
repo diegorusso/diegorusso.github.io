@@ -1,13 +1,12 @@
 ---
 title: Direzione Madrid!
 categories:
-- private
-- car
+- personal
+- italian
+tags:
 - friends
 - spain
 - travels
-- job
-tags: []
 ---
 Il buon caro [Simone ](http://simonao.wordpress.com/) oggi ha finito di
 prenotare tutto il necessario per andare in Spagna a fine marzo! Ovvero ha

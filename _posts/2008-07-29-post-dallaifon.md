@@ -1,15 +1,12 @@
 ---
 title: Post dall'aifon
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- car
-- technology
 - apple
-- music
-- video
 - iPhone
-tags: []
 ---
 Vediamo cosa si può fare con questo aifon (d'ora in poi _citofono_).  
 Allora, ci posso navigare, controllare posta, ascoltare musica, vedere video,

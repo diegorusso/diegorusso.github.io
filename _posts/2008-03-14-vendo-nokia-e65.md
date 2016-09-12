@@ -1,19 +1,10 @@
 ---
 title: Vendo Nokia E65
 categories:
-- blog
-- private
-- car
-- technology
-- various links
-- music
-- video
-- book
-- lavoro
-- viaggi
+- personal
+- italian
 tags:
-- ebook
-- test
+- mobile
 ---
 Avete letto bene. Vendo il mio cellulare. Qui ho scritto [il mio primo
 post]({{site.url}}/2007/06/13/e65/

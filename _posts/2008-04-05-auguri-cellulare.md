@@ -1,10 +1,10 @@
 ---
 title: Auguri, cellulare
 categories:
-- private
-- technology
-- various links
-tags: []
+- personal
+- italian
+tags:
+- mobile
 ---
 [Buon compleanno cellulare, hai solo dieci anni più di me!](http://www.hwupgrade.it/news/telefonia/35-anni-fa-la-prima-chiamata-con-un-cellulare-portatile_24875.html
 "http://www.hwupgrade.it/news/telefonia/35-anni-fa-la-prima-chiamata-con-un-cellulare-portatile_24875.html" )

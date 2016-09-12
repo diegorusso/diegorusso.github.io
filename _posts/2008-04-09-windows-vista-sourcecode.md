@@ -1,11 +1,11 @@
 ---
 title: Windows Vista sourcecode
 categories:
-- private
-- computer
+- personal
+- italian
+tags:
 - microsoft
 - windows
-tags: []
 ---
 Attraverso i miei agganci sono riuscito a prendere un pezzo del codice di
 Windows Vista! Eccolo qui.

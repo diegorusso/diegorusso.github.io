@@ -1,12 +1,11 @@
 ---
 title: Donazioni&hellip;
 categories:
-- blog
-- private
-- emergency
-- car
+- personal
+- italian
+tags:
 - avis
-tags: []
+- thoughts
 ---
 Donare: "dare ad altri spontaneamente e senza compenso"
 

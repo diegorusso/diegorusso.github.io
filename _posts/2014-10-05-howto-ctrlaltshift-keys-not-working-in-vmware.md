@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: Ctrl/Alt/Shift keys not working in VMWare'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - linux
 - howto
 tags:
-- howto
 - linux
 - sed
 - vmware

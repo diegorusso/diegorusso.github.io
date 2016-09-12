@@ -1,13 +1,12 @@
 ---
 title: Anche linux tra Mac e PC
 categories:
-- technology
-- computer
+- personal
+- italian
+tags:
 - linux
 - microsoft
 - apple
-- windows
-tags: []
 ---
 Come suggerito da [Giacomo nel commento del post
 precedente]({{site.url}}/2008/07/21/mac-e-pc-ecco-la-differenza/),

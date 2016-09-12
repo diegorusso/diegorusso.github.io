@@ -1,17 +1,12 @@
 ---
 title: Il lavoro dei sogni
 categories:
-- blog
-- private
-- car
+- personal
+- italian
+tags:
 - friends
-- various links
-- travels
 - thoughts
 - job
-- second life
-- lavoro
-tags: []
 ---
 Cinque semplice regole per ottenerlo:
 

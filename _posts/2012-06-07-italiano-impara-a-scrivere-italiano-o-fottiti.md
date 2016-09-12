@@ -1,6 +1,8 @@
 ---
 title: Impara a scrivere in italiano o fottiti
 categories:
+- personal
+- italian
 - languages
 - meditation
 - friends

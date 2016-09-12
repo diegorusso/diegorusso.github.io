@@ -1,9 +1,11 @@
 ---
 title: El Imperativo
 categories:
+- personal
+- italian
 - languages
 - lingue
-tags: []
+tags:
 ---
 L'imperativo risulta semplice solo se sai bene
 [l'indicativo]({{site.url}}/2009/10/24/el-indicativo/).

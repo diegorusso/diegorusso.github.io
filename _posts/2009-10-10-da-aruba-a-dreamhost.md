@@ -1,10 +1,9 @@
 ---
 title: Da Aruba a DreamHost
 categories:
+- personal
+- italian
 - blog
-- private
-- car
-- various links
 - job
 - google
 tags:

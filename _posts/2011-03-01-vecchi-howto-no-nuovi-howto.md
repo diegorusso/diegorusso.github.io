@@ -1,13 +1,14 @@
 ---
 title: Vecchi HOWTO.. no nuovi HOWTO!
 categories:
+- personal
+- italian
 - blog
 - howto
 - guida
 - programmazione
 - lingue
 tags:
-- howto
 - guida
 ---
 Ieri ho scritto sia in [inglese]({{site.url}}/2011/03/01/old-howtos-which-translate/ "Old HOWTOs.. Which translate?" )

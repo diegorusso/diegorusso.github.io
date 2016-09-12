@@ -1,16 +1,16 @@
 ---
 title: 8 domande da farsi prima di iniziare un'attivit&agrave;
 categories:
-- private
+- personal
+- italian
 - friends
 - apple
-- various links
 - thoughts
 - job
 - iPhone
 - lavoro
 - personale
-tags: []
+tags:
 ---
 Visto che siamo in tema "business" ho ritenuto interessante anche questo
 articolo qui: "_[Eight Questions To Ask Before You Start A

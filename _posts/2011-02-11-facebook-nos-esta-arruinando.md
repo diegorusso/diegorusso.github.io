@@ -1,6 +1,8 @@
 ---
 title: Facebook nos est&aacute; arruinando
 categories:
+- personal
+- italian
 - book
 - amigos
 - emergencia
@@ -8,9 +10,7 @@ categories:
 - libro
 - meditaci&oacute;n
 tags:
-- contest
 - ebook
-- test
 ---
 Eh si, es la verdad. Simplemente mira la imagen a continuación y.. **piensa**.
 

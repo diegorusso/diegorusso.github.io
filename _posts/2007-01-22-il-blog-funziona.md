@@ -1,11 +1,11 @@
 ---
 title: Il blog funziona!
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
-- computer
 - friends
-tags: []
 ---
 Senza fare troppi giri di parole vi incollo qui una chattata con un mio amico:
 

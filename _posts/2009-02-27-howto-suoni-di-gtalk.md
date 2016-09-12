@@ -1,16 +1,12 @@
 ---
 title: 'HOWTO: Suoni di Gtalk'
 categories:
+- personal
+- italian
 - blog
-- car
-- computer
-- various links
-- video
 - howto
 - google
 tags:
-- howto
-- test
 ---
 Se come me usi gtalk da web hai notato sicuramente i suoi di quando chatti
 oppure ti arriva una chiamata vocale o video. L'altro giorno stavo pensando a

@@ -1,12 +1,12 @@
 ---
 title: Second Life su mobile
 categories:
-- technology
-- various links
+- personal
+- italian
+tags:
 - job
-- video
 - second life
-tags: []
+- mobile
 ---
 La [Vollee](http://www.vollee.com/secondlife
 "http://www.vollee.com/secondlife" ) presto (fine maggio e per tutto giugno)

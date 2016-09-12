@@ -1,10 +1,11 @@
 ---
 title: 'HOWTO: remove ^M characters at end of lines in vi/vim'
 categories:
-- Uncategorized
+- personal
+- italian
+
 - howto
 tags:
-- howto
 - vim
 ---
 Open the file with vim, then type:

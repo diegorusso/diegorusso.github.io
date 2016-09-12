@@ -1,12 +1,12 @@
 ---
 title: Si riparte!
 categories:
-- private
+- personal
+- italian
+tags:
 - friends
 - spain
 - travels
-- job
-tags: []
 ---
 Eh vai! Dal 17 al 25 marzo ripartirò per la Spagna.. destinazione Madrid. Si,
 un'altra volta lì! Vado con Simone, ma stavolta con tanto di corso di

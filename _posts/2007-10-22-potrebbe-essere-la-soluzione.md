@@ -1,12 +1,10 @@
 ---
 title: Potrebbe essere la soluzione&hellip;.
 categories:
-- blog
-- emergency
-- friends
-- various links
+- personal
+- italian
+tags:
 - thoughts
-tags: []
 ---
 **La vita dovrebbe essere vissuta al contrario.**
 

@@ -1,15 +1,13 @@
 ---
 title: 2 minuti al giorno... AUGURIIIII!
 categories:
+- personal
+- italian
+tags:
 - blog
-- private
 - friends
-- photography
 - thoughts
 - job
-- lavoro
-tags:
-- test
 ---
 **31 dicembre 2008.** Molti non sanno come considerare questo giorno. E' festivo o feriale? La verità sta nel mezzo. E' meta feriale perché passi mezza giornata a lavorare come qualsiasi altro giorno e metà festivo perché occupi l'altra metà a pensare: "_Come è andato questo anno? Come sarà il nuovo anno? Quali sorprese/disgrazie mi aspetteranno nel 2009. Prometto che nel 2009 sarò migliore, farò questo, farò quello, cambierò etc etc etc_"  
 Insomma le classiche domande e i classici propositi che il 2 gennaio dell'anno

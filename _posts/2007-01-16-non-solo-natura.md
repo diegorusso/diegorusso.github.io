@@ -1,14 +1,11 @@
 ---
 title: Non solo natura
 categories:
-- emergency
-- technology
-- computer
-- linux
-- microsoft
+- personal
+- italian
+tags:
+- DRM
 - open source
-- video
-tags: []
 ---
 Alan Cox, noto personaggio nel mondo open source, sviluppatore del kernel
 Linux e dipendente della Red Hat, ha fatto richiesta all'ufficio brevetti

@@ -1,6 +1,8 @@
 ---
 title: Facebook ci sta rovinando
 categories:
+- personal
+- italian
 - book
 - social network
 - emergenza
@@ -9,7 +11,7 @@ categories:
 tags:
 - ebook
 ---
-Eh si, è la verita. Guarda semplicemente l'immagine sottostante e.. **pensa**.
+Eh si, è la verità. Guarda semplicemente l'immagine sottostante e.. **pensa**.
 
 [![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit.jpg)
 

@@ -1,11 +1,10 @@
 ---
 title: A proposito di Global warming
 categories:
+- personal
+- italian
+tags:
 - environment
-- emergency
-- car
-- technology
-tags: []
 ---
 E che è sta cosa?!?
 

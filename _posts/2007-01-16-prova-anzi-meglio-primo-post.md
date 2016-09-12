@@ -1,12 +1,10 @@
 ---
 title: '"Prova"&hellip; anzi meglio "Primo post"'
 categories:
-- blog
-- private
-- car
+- personal
+- italian
 tags:
-- contest
-- test
+- blog
 ---
 E' da un po' di tempo che avevo deciso di aprire un blog.. ed eccomi qua! :simple_smile:
 Questo per me sarebbe il secondo blog (ne avevo aperto uno due anni fa circa -

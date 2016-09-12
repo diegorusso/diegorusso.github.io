@@ -1,13 +1,11 @@
 ---
 title: 10 regole per rivoluzionari (del business)
 categories:
-- private
-- car
+- personal
+- italian
 - friends
-- various links
 - thoughts
 tags:
-- test
 ---
 Questo decalogo è preso da [qui](http://entrepreneurial-revolution.com/?page_id=16).
 Mi sono permesso di "tradurlo" a modo mio. Se

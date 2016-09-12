@@ -1,14 +1,12 @@
 ---
 title: Ubuntu semplice
 categories:
-- car
-- computer
-- linux
+- personal
+- italian
+tags:
 - open source
 - friends
 - ubuntu
-- libro
-tags: []
 ---
 E' già da molto tempo che volevo fare un post su questo argomento (l'avevo
 nella TODO list). Oggi è arrivato il momento. Perché proprio oggi?!? Perché ci
