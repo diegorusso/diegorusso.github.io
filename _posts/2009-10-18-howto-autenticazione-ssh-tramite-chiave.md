@@ -1,13 +1,10 @@
 ---
 title: 'HOWTO: Autenticazione SSH tramite chiave'
 categories:
-- personal
-- italian
-- osx
-- linux
-- job
 - howto
+- italian
 tags:
+- job
 ---
 Già ho parlato di SSH [in questo post]({{site.url}}/2009/08/22/howto-tunneling-con-ssh/).
 Oggi vedrai impostare il tuo client ed il tuo server per

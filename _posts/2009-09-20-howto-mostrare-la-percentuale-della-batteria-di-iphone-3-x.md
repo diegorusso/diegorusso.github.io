@@ -1,15 +1,10 @@
 ---
 title: 'HOWTO: Mostrare la percentuale della batteria di iPhone (3.X)'
 categories:
-- personal
-- italian
-- osx
-- friends
-- iPhone
 - howto
-- guida
+- italian
 tags:
-- guida
+- iPhone
 ---
 Scrivo questa piccola guida perché mi e stato chiesto più volte. Sui firmware
 2.X e precedenti questo era possibile sugli iPhone con il jailbreak. **Sul

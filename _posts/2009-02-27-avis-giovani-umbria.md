@@ -3,13 +3,10 @@ title: Avis.. Giovani.. Umbria..
 categories:
 - personal
 - italian
+tags:
 - friends
 - thoughts
-- book
-- social network
 - avis
-tags:
-- ebook
 ---
 _"Tre parole... acronimo di altrettanti significati... e molto di più..  
 Avis..  

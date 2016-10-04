@@ -3,13 +3,9 @@ title: Classic, Carbon e Cocoa
 categories:
 - personal
 - italian
+tags:
 - osx
 - apple
-- leopard
-- google
-- programmazione
-tags:
-- python
 ---
 **Chi sono questi sconosciuti?** Sembra un gioco di parole come qui-quo-qua oppure come tizio, caio e sempronio. Non hanno nulla a che fare con un gioco. Riguardano l'evoluzione degli ambienti del famoso sistema operativo della Apple. L'ordine non è a caso dei nomi, infatti sono messi in ordine cronologico, dal più vecchio al più nuovo. Ora te li descrivero con poche e semplici parole:
 

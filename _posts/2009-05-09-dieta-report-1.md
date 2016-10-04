@@ -3,8 +3,10 @@ title: 'Dieta: report #1'
 categories:
 - personal
 - italian
-- friends
 tags:
+- friends
+- diet
+- thoughts
 ---
 Come promesso a [Daxeel](http://www.daxeel.it/) ecco qui il mio secondo report
 della dieta.  

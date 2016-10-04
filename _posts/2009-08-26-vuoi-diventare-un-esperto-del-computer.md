@@ -3,9 +3,8 @@ title: Vuoi diventare un esperto del computer?
 categories:
 - personal
 - italian
-- geek
-- humor
 tags:
+- humor
 ---
 Basta seguire queste semplici istruzioni nella figura sottostante! :)
 

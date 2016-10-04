@@ -3,8 +3,8 @@ title: 'Dieta: report #12'
 categories:
 - personal
 - italian
-- blog
 tags:
+- diet
 ---
 Dopo [l'ultima visita]({{site.url}}/2009/10/06/dieta-report-11-e-vaiii/),
 mi ero promesso di perdere qualche cosina. **Così non è

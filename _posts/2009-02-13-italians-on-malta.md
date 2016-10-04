@@ -3,10 +3,9 @@ title: Italians on Malta
 categories:
 - personal
 - italian
+tags:
 - friends
 - travels
-tags:
-- italians
 ---
   
 E' troppo forte! :)

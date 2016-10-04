@@ -3,13 +3,10 @@ title: Worm per iPhone?!? Ma vaff...
 categories:
 - personal
 - italian
-- blog
-- thoughts
-- iPhone
-- google
-- telephony
 tags:
 ---
+- thoughts
+- iPhone
 Da quando sono venuto a conoscenza di questa notizia, volevo scrivere
 questo post per dire la mia. Se non sai di cosa sto parlando leggi
 [qui](http://www.iphoneitalia.com/nuovo-worm-per-iphone-jailbroken-64922.html)

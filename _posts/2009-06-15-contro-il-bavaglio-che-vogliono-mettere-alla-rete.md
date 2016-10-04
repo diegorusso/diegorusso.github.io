@@ -3,9 +3,9 @@ title: Contro il bavaglio che vogliono mettere alla rete
 categories:
 - personal
 - italian
+tags:
 - thoughts
 - politics
-tags:
 ---
 Mi arriva per email ed il la ripropongo qui:
 

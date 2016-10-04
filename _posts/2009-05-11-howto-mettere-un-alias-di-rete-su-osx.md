@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Mettere un alias di rete su OSX'
 categories:
-- personal
-- italian
-- osx
-- linux
-- job
 - howto
-- status
+- italian
 tags:
+- osx
 ---
 Poco tempo fa hai visto come impostare un [alias di rete su
 linux]({{site.url}}/2009/04/28/howto-mettere-un-alias-di-rete-su-linux/).

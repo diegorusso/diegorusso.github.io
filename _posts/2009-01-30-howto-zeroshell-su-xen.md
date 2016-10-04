@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: Zeroshell su Xen'
 categories:
-- personal
+- howto
 - italian
+tags:
 - linux
 - job
-- howto
-- guida
-tags:
-- guida
 ---
 Ciao, oggi vi spiego come far girare [Zeroshell](http://www.zeroshell.net/
 "Zeroshell" ) su una macchina virtuale basata su [XEN](http://www.xen.org/).

@@ -3,8 +3,8 @@ title: Il TG1, ma che bello! (reprise)
 categories:
 - personal
 - italian
-- thoughts
 tags:
+- thoughts
 ---
 Ovviamente [dopo i festeggiamenti]({{site.url}}/2009/04/09/il-tg1-ma-che-bello/)
 vogliono essere lasciati anche in pace. Lo scrivono **anche in

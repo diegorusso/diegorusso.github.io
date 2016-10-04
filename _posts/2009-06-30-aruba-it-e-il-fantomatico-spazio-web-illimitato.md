@@ -3,8 +3,8 @@ title: Aruba.it e il fantomatico spazio web illimitato
 categories:
 - personal
 - italian
-- blog
 tags:
+- blog
 ---
 In data odierna ricevo una bella mail da [Aruba.it](http://www.aruba.it),
 l'azienda che offre hosting dove risiede questo sito. La mail recita queste

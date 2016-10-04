@@ -3,10 +3,8 @@ title: Piccola curiosit&agrave; su Aruba.it
 categories:
 - personal
 - italian
-- google
-- geek
-- curiosit&agrave;
 tags:
+- blog
 ---
 Non sto scrivendo questo post per descrivere le vicende con questo sito di
 hosting. **Voglio solo informarti di una piccola curiosità! :)**

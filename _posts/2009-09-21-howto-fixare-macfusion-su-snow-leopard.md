@@ -1,15 +1,11 @@
 ---
 title: 'HOWTO: Fixare Macfusion su Snow Leopard'
 categories:
-- personal
-- italian
-- osx
-- open source
-- leopard
 - howto
-- geek
-- snow leopard
+- italian
 tags:
+- osx
+- snow leopard
 ---
 [Macfusion](http://www.macfusionapp.org/) è un applicazione open source (solo
 per Mac) che ti permette di lavorare con file che si trovano su server remoti,

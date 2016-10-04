@@ -3,10 +3,8 @@ title: Il curioso caso del MacBook Pro
 categories:
 - personal
 - italian
-- blog
-- apple
-- book
 tags:
+- apple
 ---
 Come anticipato [qui]({{site.url}}/2009/03/18/howto-dropbox-condividi-i-tuoi-file/)
 e [qui]({{site.url}}/2009/03/20/howto-abilitare-condivisione-schermo-su-osx-da-terminale/),

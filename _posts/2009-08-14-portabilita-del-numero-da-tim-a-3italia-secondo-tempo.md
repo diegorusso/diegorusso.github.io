@@ -3,8 +3,8 @@ title: 'Portabilit&agrave; del numero da Tim a 3Italia: secondo tempo.'
 categories:
 - personal
 - italian
-- blog
 tags:
+- blog
 ---
 Appena scritto [il post
 precedente]({{site.url}}/2009/08/14/portabilita-del-numero-da-tim-a-3italia-che-schifo/)

@@ -3,8 +3,9 @@ title: 'Dieta: report #6'
 categories:
 - personal
 - italian
-- thoughts
 tags:
+- thoughts
+- diet
 ---
 Tranquillo, non mi sono scordato del report (anche se non e diventato più
 settimanale :). Ho avuto quest'ultimo periodo un po' più impegnato del solito,

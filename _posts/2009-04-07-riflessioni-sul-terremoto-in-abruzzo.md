@@ -3,11 +3,10 @@ title: Riflessioni sul terremoto, in Abruzzo
 categories:
 - personal
 - italian
+tags:
 - environment
 - thoughts
 - avis
-- riflessioni
-tags:
 ---
 **Questo post sarà senza senso. Avvisati eh!**
 

@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: Parallels 4 e Boot Camp'
 categories:
-- personal
-- italian
-- osx
-- linux
-- leopard
-- windows
 - howto
+- italian
 tags:
+- osx
+- windows
 ---
 Ciao, oggi vedrai come risolvere un fastidioso errore di
 [Parallels](http://www.parallels.com/it/) 4 su partizioni [Boot

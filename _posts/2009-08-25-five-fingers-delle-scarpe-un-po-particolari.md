@@ -3,8 +3,8 @@ title: 'Five Fingers: delle scarpe un po''... particolari'
 categories:
 - personal
 - italian
-- humor
 tags:
+- humor
 ---
 Visto che oggi le indosso scrivo questo post riguardo a delle scarpe un po'
 "strane". Ad inizio anno un mio amico me le fece vedere su una pagina web e me

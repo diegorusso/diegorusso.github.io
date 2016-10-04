@@ -4,11 +4,8 @@ categories:
 - personal
 - italian
 - blog
-- leopard
-- snow leopard
-- guida
 tags:
-- guida
+- snow leopard
 ---
 Vorrei dedicare questo post al neo installato [Snow
 Leopard](http://www.apple.com/es/macosx/). Non sarà una guida su come

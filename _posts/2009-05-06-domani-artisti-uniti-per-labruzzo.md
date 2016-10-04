@@ -3,9 +3,10 @@ title: 'Domani: artisti uniti per l''Abruzzo'
 categories:
 - personal
 - italian
+tags:
 - music
 - thoughts
-tags:
+- environment
 ---
 <iframe width="420" height="315" src="https://www.youtube.com/embed/p_WyCOGZjbM" frameborder="0" allowfullscreen></iframe>
 

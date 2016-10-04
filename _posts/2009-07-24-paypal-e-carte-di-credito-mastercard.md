@@ -4,7 +4,8 @@ categories:
 - personal
 - italian
 tags:
-- git
+- paypal
+- credit card
 ---
 Qualche tempo fa ho cambiato il mio conto corrente, passando da [Poste
 Italiane](http://www.poste.it) alla Banca[ Popolare di Ancona

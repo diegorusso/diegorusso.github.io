@@ -1,18 +1,11 @@
 ---
 title: 'HOWTO: Installare Tilimi su Linux'
 categories:
-- personal
+- howto
 - italian
+tags:
 - linux
 - friends
-- windows
-- ubuntu
-- iPhone
-- social network
-- howto
-- geek
-- snow leopard
-tags:
 ---
 [Tilimi](http://tilimi.com) è una fantastica applicazione che **porta il mondo
 della radio a portata di computer o iPhone.** Tilimi è un progetto interamente

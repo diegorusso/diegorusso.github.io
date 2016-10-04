@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: Recovery via USB dell''EEE PC (windows e linux)'
 categories:
-- personal
+- howto
 - italian
+tags:
 - linux
 - microsoft
 - windows
-- howto
-- guida
-tags:
-- guida
 ---
 Vorrei scrivere questa guida per semplificare la vita a coloro che vorranno
 ripristinare il proprio **Asus EEE PC alle condizioni originali.**  

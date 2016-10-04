@@ -4,6 +4,8 @@ categories:
 - personal
 - italian
 tags:
+- diet
+- thoughts
 ---
 Sono quasi alla fine. In queste ultime due settimane non mi sono comportato
 benissimo (alimentarmente parlando :). **Martedì 21 luglio** ho fatto la mia

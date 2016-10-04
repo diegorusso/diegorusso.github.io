@@ -3,14 +3,11 @@ title: Giovani e Tiziano Ferro per Avis
 categories:
 - personal
 - italian
+tags:
 - friends
 - thoughts
-- job
-- book
+- music
 - avis
-tags:
-- ebook
-- git
 ---
 Questo fine settimana ho partecipato alla **73° Assemblea Nazionale di Avis**.
 Sicuramente già sai cosa e Avis e cosa fa. Se vuoi maggiori informazioni basta

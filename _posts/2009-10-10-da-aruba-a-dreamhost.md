@@ -3,11 +3,8 @@ title: Da Aruba a DreamHost
 categories:
 - personal
 - italian
-- blog
-- job
-- google
 tags:
-- mysql
+- blog
 ---
 Questo doveva essere uno dei primi post da fare appena eseguito [il
 trasferimento da Aruba a DreamHost]({{site.url}}/2009/10/02/di-nuovo-online-ed-in-versione/).

@@ -3,8 +3,8 @@ title: Sito delle poste defacciato
 categories:
 - personal
 - italian
-- thoughts
 tags:
+- thoughts
 ---
 Il sito delle Poste Italiane, [www.poste.it](http://www.poste.it), è stato
 defacciato. Qui di seguito come appariva il sito al momento dell'hacking:

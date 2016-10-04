@@ -3,10 +3,9 @@ title: Allarme sangue sottocontrollo per il terremoto del 6 aprile 2009
 categories:
 - personal
 - italian
-- environment
+tags:
 - thoughts
 - avis
-tags:
 ---
 COMUNICATO STAMPA:
 

@@ -4,6 +4,8 @@ categories:
 - personal
 - italian
 tags:
+- diet
+- thoughts
 ---
 Eccomi di nuovo con questo report quasi settimanale. Che dire? La dieta va
 avanti e mi piace sempre di più. **Equilibrata e con la giusta quantità di

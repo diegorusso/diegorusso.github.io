@@ -1,15 +1,10 @@
 ---
 title: 'HOTWO: Cosa sono i file ".DS_Store" in OSX?'
 categories:
-- personal
-- italian
-- osx
-- linux
-- microsoft
-- leopard
-- job
 - howto
+- italian
 tags:
+- osx
 ---
 I _".DS_Store"_ sono dei file presenti in **OSX**. Sono creati in automatico
 dal Finder in e si trovano in ogni cartella che si visualizza.  

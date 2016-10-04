@@ -3,18 +3,13 @@ title: Tiriamo le somme... del 2009
 categories:
 - personal
 - italian
+tags:
 - friends
-- spain
 - thoughts
 - job
-- twitter
-- social network
 - avis
 - university
-- lavoro
-- personale
-- viaggi
-tags:
+- job
 ---
 Eccoci qua, come al solito a **scrivere l'ultimo post dell'anno**. Quoto
 totalmente [tutto quello che ho scritto lo scorso

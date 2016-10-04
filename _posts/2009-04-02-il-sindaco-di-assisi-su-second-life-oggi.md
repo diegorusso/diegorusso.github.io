@@ -3,12 +3,9 @@ title: Il sindaco di Assisi su Second Life, oggi!
 categories:
 - personal
 - italian
-- blog
+tags:
 - job
 - second life
-- sport
-- social network
-tags:
 ---
 Dopo il pesce di aprile di ieri, torno sul mio blog per una notizia più
 interessante. **Oggi dalle 17 alle 18 il sindaco (reale) di Assisi sarà

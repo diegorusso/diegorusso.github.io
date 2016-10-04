@@ -3,11 +3,8 @@ title: veinte y seis
 categories:
 - personal
 - italian
-- thoughts
-- book
-- social network
 tags:
-- ebook
+- thoughts
 ---
 Da dove inizio? Sto cercando un argomento per scrivere un piccolo post per il
 mio compleanno. Si, oggi compio 26 anni. Cercando il numero 26 su

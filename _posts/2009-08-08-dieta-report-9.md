@@ -3,8 +3,9 @@ title: 'Dieta: report #9'
 categories:
 - personal
 - italian
-- blog
 tags:
+- blog
+- diet
 ---
 Aiaiaiai, questa volta non è andata bene come le altre volte. Eh si.. sono
 andato dal dietologo martedì scorso, per la precisione il 4 agosto 2009. Quel
@@ -16,7 +17,7 @@ giusto per sicurezza. Non è però una sconfitta, anzi **è stato un sollievo
 sapere che non sono aumentato.** Proprio così! Per quello che ho mangiato in
 due settimane avrei dovuto mettere su almeno un kilo.
 
-Purtroppo seguire la dieta di estate e molto più dura rispetto ai mesi più
+Purtroppo seguire la dieta di estate è molto più dura rispetto ai mesi più
 freddi e miti dell'anno. Quando e caldo esci, bevi qualche cosa, prendi un
 gelato.. nsomma mangi e bevi cose non consone ad una dieta.
 

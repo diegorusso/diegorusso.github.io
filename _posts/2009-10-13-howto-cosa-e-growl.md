@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Cosa &egrave; Growl?'
 categories:
-- personal
-- italian
-- osx
-- leopard
 - howto
-- geek
-- snow leopard
+- italian
 tags:
+- osx
 ---
 [Growl](http://growl.info/) è un sistema di notifica per OSX. **Permette a
 tutte le applicazioni che lo supportano di inviarti delle notifiche

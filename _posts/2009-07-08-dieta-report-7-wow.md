@@ -3,9 +3,10 @@ title: 'Dieta: report #7 (wow)'
 categories:
 - personal
 - italian
+tags:
 - blog
 - thoughts
-tags:
+- diet
 ---
 Siamo quasi alla fine eh! :) Senza perdermi in chiacchiere qui i numeri:
 

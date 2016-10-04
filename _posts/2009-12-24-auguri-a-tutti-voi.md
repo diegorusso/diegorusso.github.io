@@ -3,13 +3,9 @@ title: Auguri, a tutti voi.
 categories:
 - personal
 - italian
+tags:
 - friends
 - thoughts
-- twitter
-- book
-- social network
-tags:
-- ebook
 ---
 Non mi dilungo molto su questo post. Voglio solo augurare a **tutti i miei
 lettori, a tutti gli amici di Facebook di Twitter di Friendfeed un felice
