@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Come scrivere mail in modo corretto'
 categories:
-- personal
-- italian
-- friends
 - howto
-- lavoro
+- italian
 tags:
+- friends
+- job
 ---
 In questo piccolo howto imparerai **a scrivere una mail in maniera corretta**,
 che rispetti gli standard e che sia veramente letta dal tuo destinatario.  

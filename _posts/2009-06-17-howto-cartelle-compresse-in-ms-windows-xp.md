@@ -1,11 +1,10 @@
 ---
 title: 'HOWTO: Cartelle compresse in MS Windows XP'
 categories:
-- personal
-- italian
-- windows
 - howto
+- italian
 tags:
+- windows
 ---
 Non è mio solito scrivere HOWTO su MS Windows. Oggi vorrei fare un'eccezione.
 Da Windows XP in qua esiste una comoda libreria per comprimere e decomprimere

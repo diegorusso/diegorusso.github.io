@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Scaricare foto e video da iPhone con OSX'
 categories:
-- personal
+- howto
 - italian
+tags:
 - osx
 - iPhone
-- howto
-tags:
 ---
 Poco tempo fa, avevo scattato molte foto e girato dei video con il mio iPhone
 3Gs. **Dopo un po' di tempo decisi di trasferire tutte le foto ed i video sul

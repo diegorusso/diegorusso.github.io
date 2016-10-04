@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Elenco comandi vocali di iPhone 3gs'
 categories:
-- personal
-- italian
-- apple
-- music
-- iPhone
 - howto
-- telephony
+- italian
 tags:
+- iPhone
 ---
 Come [detto nel post precedente]({{site.url}}/2009/11/09/howto-cambiare-la-lingua-del-controllo-vocale-in-iphone-3gs/),
 iPhone 3gs ti da la possibilità di impartire comandi vocali. Sicuramente ti starai chiedendo...

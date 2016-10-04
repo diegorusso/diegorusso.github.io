@@ -1,12 +1,11 @@
 ---
 title: 'LCS-BB: LCS su un insieme di stringhe'
 categories:
-- personal
+- howto
 - italian
-- university
-- programmazione
-- lavoro
 tags:
+- university
+- job
 ---
 Questo post prende spunto dal progetto di **Programmazione Avanzata** che ho
 dato qualche tempo fa all'università. Lo scopo del progetto è **trovare una

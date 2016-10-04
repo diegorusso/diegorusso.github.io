@@ -1,18 +1,10 @@
 ---
 title: 'HOWTO: Il comando "defaults" su OSX'
 categories:
-- personal
-- italian
-- osx
-- linux
-- apple
-- windows
 - howto
-- guida
+- italian
 tags:
-- guida
-- linux
-- vim
+- osx
 ---
 Eccomi di nuovo con un HOWTO sui comandi da terminale in OSX. Ho sempre
 considerato il terminale (o shell, chiamatela come volete) un **potentissimo

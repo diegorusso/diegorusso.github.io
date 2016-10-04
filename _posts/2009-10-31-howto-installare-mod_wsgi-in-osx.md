@@ -1,17 +1,12 @@
 ---
 title: 'HOWTO: Installare mod_wsgi in OSX'
 categories:
-- personal
-- italian
-- osx
-- open source
-- job
 - howto
-- snow leopard
+- italian
 tags:
 - python
-- apache
-- django
+- osx
+- job
 ---
 Il **mod_wsgi** è un modulo di [Apache](http://apache.org/) per far girare
 applicazioni [Python](http://www.python.org) che supportano l'interfaccia

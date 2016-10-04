@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Cambiare il nome di una colonna in postgresql'
 categories:
-- personal
-- italian
-- open source
-- job
 - howto
+- italian
 tags:
+- job
+- database
 ---
 Se sei un programmatore come me, sicuramente hai avuto anche a che fare con i
 database. Io uso solo maggiormente [postgresql](http://www.postgresql.org) che

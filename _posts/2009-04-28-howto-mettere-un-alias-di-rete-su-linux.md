@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Mettere un alias di rete su linux'
 categories:
-- personal
+- howto
 - italian
+tags:
 - linux
 - job
-- howto
-tags:
 ---
 In questo howto vedrai come impostare un alias sulle interfacce di rete sotto
 Linux. L'alias è il **modo per impostare più indirizzi IP  sulla stessa

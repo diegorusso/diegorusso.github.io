@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Programmare in python da console'
 categories:
-- personal
-- italian
-- osx
-- linux
-- windows
 - howto
-- programmazione
+- italian
 tags:
+- programming
 - python
 ---
 Oggi voglio segnalarti alcune utility che ti aiuteranno a programmare in

@@ -1,12 +1,10 @@
 ---
 title: 'HOWTO: Installare Gears su Prism'
 categories:
-- personal
-- italian
-- open source
 - howto
-- google
+- italian
 tags:
+- google
 ---
 Ho già discusso [qui]({{site.url}}/2009/06/15/howto-wordpress-2-8-e-tinymce-dove-e-finito/) e
 [qui]({{site.url}}/2009/07/13/howto-wordpress-2-8-1-e-tinymce-eccolo-di-nuovo/)

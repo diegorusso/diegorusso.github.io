@@ -1,17 +1,13 @@
 ---
 title: 'HOWTO: Snow Leopard + django + postgresql + psycopg2'
 categories:
-- personal
-- italian
-- osx
-- leopard
-- job
 - howto
-- snow leopard
-- lavoro
+- italian
 tags:
+- job
+- osx
+- snow leopard
 - python
-- django
 ---
 Appena installato Snow Leopard, una delle prime applicazioni che ho dovuto
 installare sono quelle necessarie per il lavoro, ovvero:

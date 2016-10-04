@@ -1,12 +1,10 @@
 ---
 title: 'HOWTO: Wordpress 2.8 e TinyMCE. Dove &egrave; finito?'
 categories:
-- personal
-- italian
-- blog
 - howto
-- google
+- italian
 tags:
+- blog
 ---
 Sei hai aggiornato la tua piattaforma di blogging
 [wordpress](http://wordpress.org/) alla versione 2.8, ti potrebbe essere

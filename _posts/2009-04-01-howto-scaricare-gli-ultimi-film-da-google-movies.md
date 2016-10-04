@@ -1,12 +1,10 @@
 ---
 title: 'HOWTO: Scaricare gli ultimi film da Google Movies'
 categories:
-- personal
-- italian
 - howto
-- google
-- avis
+- italian
 tags:
+- google
 ---
 Google Movies è uno dei tanti servizi che BigG offre per la ricerca di film
 nelle sale cinematografiche.

@@ -1,11 +1,10 @@
 ---
 title: 'HOWTO: Attivare il "Cambio utente rapido" su OSX'
 categories:
-- personal
-- italian
-- osx
 - howto
+- italian
 tags:
+- osx
 ---
 OSX è basato su un sistema UNIX e come tale supporta nativamente:
 

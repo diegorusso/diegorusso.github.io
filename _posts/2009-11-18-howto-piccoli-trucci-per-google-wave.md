@@ -1,15 +1,11 @@
 ---
 title: 'HOWTO: Piccoli trucci per Google Wave'
 categories:
-- personal
-- italian
-- twitter
-- social network
 - howto
-- google
-- curiosit&agrave;
-- lingue
+- italian
 tags:
+- google
+- social network
 ---
 [Google Wave](http://wave.google.com), anche se in preview, sta prendendo
 molto piede nella comunità. **Molti lo hanno scambiato per un social
