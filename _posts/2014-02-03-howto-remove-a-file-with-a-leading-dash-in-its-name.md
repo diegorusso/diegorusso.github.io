@@ -1,13 +1,10 @@
 ---
 title: 'HOWTO: remove a file with a leading dash ''-'' in it''s name'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - linux
-- osx
 ---
 
 ```

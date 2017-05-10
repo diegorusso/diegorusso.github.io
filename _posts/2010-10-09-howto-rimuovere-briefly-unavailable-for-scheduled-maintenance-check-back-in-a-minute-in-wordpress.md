@@ -2,12 +2,10 @@
 title: 'HOWTO: Rimuovere "Briefly unavailable for scheduled maintenance. Check back
   in a minute."  in wordpress'
 categories:
-- personal
-- italian
-- blog
 - howto
-- geek
+- italian
 tags:
+- blog
 ---
 Oggi, dopo un po' di tempo che non scrivevo qui sul blog, ho deciso di
 scrivere un post. Entro nell'amministrazione di

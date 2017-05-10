@@ -1,9 +1,8 @@
 ---
 title: 'HOWTO: drop all tables in MySQL'
 categories:
-- personal
-- italian
 - howto
+- english
 tags:
 - mysql
 ---

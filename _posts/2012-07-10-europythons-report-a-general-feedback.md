@@ -2,26 +2,12 @@
 title: 'Europython''s report: a general feedback'
 categories:
 - personal
-- italian
-- programming
-- blog
-- environment
-- open source
-- friends
-- music
-- travels
-- thoughts
-- job
-- iPhone
-- twitter
-- book
-- social network
-- google
-- geek
-- status
+- english
 tags:
 - europython
 - python
+- travels
+- friends
 ---
 **What**: Europython conference  
 **Where**: Florence, Hotel Mediterraneo  

@@ -1,15 +1,10 @@
 ---
 title: 'HOWTO: cuenta lineas de c&oacute;digo'
 categories:
-- personal
-- italian
 - howto
-- curiosidad
-- guia
-- trabajo
+- spanish
 tags:
-- python
-- guia
+- job
 ---
 Desde hoy no deberas enojarte mas para escribir uno script que cuente las
 lineas de codigo de tu último projecto. No, porque hay

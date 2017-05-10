@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Change the message of a pushed commit'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - git
+- job
 ---
 
   * `git rebase -i` 

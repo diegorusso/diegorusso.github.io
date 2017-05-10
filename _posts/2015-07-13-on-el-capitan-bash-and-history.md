@@ -1,15 +1,11 @@
 ---
 title: On El Capitan, bash, and history
 categories:
-- personal
-- italian
-- osx
-- environment
-- apple
+- howto
+- english
 tags:
 - osx
 - bash
-- el capitan
 ---
 As explained in this [reddit](http://www.reddit.com/r/osx/comments/397uep/changes_to_bash_sessions_and_terminal_in_el/),
 Apple made some changed for bash users especially on saving bash sessions/history.

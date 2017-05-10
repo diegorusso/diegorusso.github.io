@@ -1,11 +1,8 @@
 ---
 title: 'HOWTO: recover data from RAID1'
 categories:
-- personal
-- italian
-
-- ubuntu
 - howto
+- english
 tags:
 - raid
 ---

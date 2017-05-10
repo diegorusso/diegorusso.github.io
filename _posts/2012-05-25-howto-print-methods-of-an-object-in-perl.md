@@ -1,13 +1,11 @@
 ---
 title: 'HOWTO: print methods of an object in perl'
 categories:
-- personal
-- italian
-- programming
 - howto
-- geek
+- english
 tags:
-- python
+- perl
+- job
 ---
 Pretty simple:
 

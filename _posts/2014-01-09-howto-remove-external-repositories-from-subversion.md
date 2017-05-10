@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: remove external repositories from subversion'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - svn
 ---

@@ -2,8 +2,10 @@
 title: Having fun with micro:bit and micropython
 categories:
 - personal
-- italian [programming]
-tags: [python, test, sed, microbit, micropython]
+- english
+tags:
+- microbit
+- micropython
 ---
 Last night I attended the usual [CamPUG](http://www.meetup.com/CamPUG/)
 monthly meeting and the main topic was about micro:bit and micropython.

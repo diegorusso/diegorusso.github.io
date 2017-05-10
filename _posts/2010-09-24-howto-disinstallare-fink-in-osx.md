@@ -1,14 +1,12 @@
 ---
 title: 'HOWTO: Disinstallare fink in OSX'
 categories:
-- personal
+- howto
 - italian
+tags:
 - osx
 - open source
 - job
-- howto
-- geek
-tags:
 ---
 [Fink](http://www.finkproject.org) è un'applicazione per OSX che ti permette
 di installare software opensource ed è basato sulla gestione dei pacchetti

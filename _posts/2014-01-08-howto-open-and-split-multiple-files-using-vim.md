@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: open and split/tab multiple files using vim'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - vim
 ---

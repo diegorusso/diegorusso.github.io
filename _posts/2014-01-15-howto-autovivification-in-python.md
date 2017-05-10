@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: AutoVivification in python'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - python
 ---

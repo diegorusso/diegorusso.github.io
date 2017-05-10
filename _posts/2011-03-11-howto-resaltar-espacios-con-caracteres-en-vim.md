@@ -1,16 +1,12 @@
 ---
 title: 'HOWTO: resaltar espacios con car&aacute;cteres en VIM'
 categories:
-- personal
-- italian
-- osx
 - howto
-- guia
-- programaci&oacute;n
-- trabajo
-- enlaces varios
+- spanish
 tags:
-- guia
+- vim
+- programming
+- job
 ---
 Cuando modificas un archivo con [vim](http://www.vim.org/), es comodo ver
 donde la linea termina, especialmente si termina con espacios. En lugar de

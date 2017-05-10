@@ -1,17 +1,12 @@
 ---
 title: 'HOWTO: protect a web url with a password'
 categories:
-- personal
-- italian
-- osx
-- open source
-- job
 - howto
-- google
-- geek
+- english
 tags:
 - apache
 - htaccess
+- job
 ---
 Today I show you how **to protect a web url with a password**. This can be
 done in several ways (you can find it in Google) and in this post I use

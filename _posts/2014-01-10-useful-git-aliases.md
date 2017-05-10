@@ -1,10 +1,8 @@
 ---
 title: useful git aliases
 categories:
-- personal
-- italian
-
-- status
+- howto
+- english
 tags:
 - git
 ---

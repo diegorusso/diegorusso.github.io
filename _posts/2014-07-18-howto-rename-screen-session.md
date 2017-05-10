@@ -1,11 +1,12 @@
 ---
 title: 'HOWTO: rename screen session'
 categories:
-- personal
-- italian
 - howto
+- english
 tags:
 - linux
+- screen
+- job
 ---
 Within screen:
 

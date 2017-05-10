@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: remove ^M characters at end of lines in vi/vim'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - vim
 ---

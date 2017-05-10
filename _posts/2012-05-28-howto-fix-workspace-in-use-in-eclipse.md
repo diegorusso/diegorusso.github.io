@@ -1,11 +1,11 @@
 ---
 title: 'HOWTO: fix "workspace in use" in Eclipse'
 categories:
-- personal
-- italian
-- job
 - howto
+- english
 tags:
+- job
+- eclipse
 ---
 If you have this error when you try to run Eclipse and you don't have any
 running instance of Eclipse, solve it in this way:

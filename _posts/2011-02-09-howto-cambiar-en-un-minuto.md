@@ -2,18 +2,10 @@
 title: 'HOWTO: cambiar en un minuto'
 categories:
 - personal
-- italian
-- howto
-- humor
-- amigos
-- conciertos
-- guia
-- libro
-- enlaces varios
-- meditaci&oacute;n
-- m&uacute;sica
+- spanish
 tags:
-- guia
+- book
+- thoughts
 ---
 Para mejorarte están suficiente cambios pequeños (menos de un minuto cada
 uno). [Richard Wiseman](http://www.richardwiseman.com/) escribí sobre esto en

@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Firefox, fix profile in use'
 categories:
-- personal
-- italian
-- osx
-- linux
-- friends
-- windows
 - howto
+- english
 tags:
+- firefox
 ---
 If you use Firefox and sometime you can have a strange error that prevents its
 execute:

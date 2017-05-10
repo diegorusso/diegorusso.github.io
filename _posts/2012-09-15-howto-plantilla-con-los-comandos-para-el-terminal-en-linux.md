@@ -1,15 +1,11 @@
 ---
 title: 'HOWTO: plantilla con los comandos para el terminal en linux'
 categories:
-- personal
-- italian
-- osx
-- linux
 - howto
-- guia
-- trabajo
+- spanish
 tags:
-- guia
+- job
+- linux
 ---
 Sin escribir demasiado, aquí tienes la plantilla con los principales comandos
 para el terminal en linux

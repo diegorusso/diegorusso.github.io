@@ -1,13 +1,11 @@
 ---
 title: 'HOWTO: linux terminal cheat sheet'
 categories:
-- personal
-- italian
-- osx
-- linux
-- job
 - howto
+- english
 tags:
+- job
+- linux
 ---
 Without syaing too much, here you go the image to set as background
 for your desktop :)

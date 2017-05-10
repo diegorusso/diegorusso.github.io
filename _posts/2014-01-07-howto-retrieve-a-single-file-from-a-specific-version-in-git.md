@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: retrieve a single file from a specific version in git'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - git
 ---

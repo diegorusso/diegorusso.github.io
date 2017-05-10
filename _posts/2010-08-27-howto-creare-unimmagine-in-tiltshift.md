@@ -1,16 +1,11 @@
 ---
 title: 'HOWTO: Creare un&rsquo;immagine in &ldquo;tiltshift&rdquo;'
 categories:
-- personal
-- italian
-- iPhone
-- book
 - howto
-- google
-- guida
+- italian
 tags:
-- ebook
-- guida
+- iPhone
+- photo
 ---
 Poco tempo feci un post riguardante [l'HDR e su come fare foto in
 HDR]({{site.url}}/2010/07/15/howto-creare-unimmagine-hdr/). Lì già

@@ -1,13 +1,10 @@
 ---
 title: 'HOWTO: using telnet to make HTTP request'
 categories:
-- personal
-- italian
-- job
 - howto
-- geek
+- english
 tags:
-- apache
+- job
 ---
 [Telnet](http://en.wikipedia.org/wiki/Telnet) is an old utility used in local
 network to offer a bidirectional communication text-oriented using a terminal.

@@ -2,18 +2,13 @@
 title: How i've got a job at ARM Ltd
 categories:
 - personal
-- italian
-- languages
-- blog
-- travels
-- thoughts
-- job
-- university
+- english
 tags:
-- arm ltd
-- italians
+- ARM
+- travel
+- job
 - europython
-- python
+- friends
 ---
 It's been long time that I don't write on my blog. I know, I'm bad guy even after
 all the pressure from my 2 readers :P  

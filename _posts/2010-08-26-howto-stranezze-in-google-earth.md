@@ -1,15 +1,13 @@
 ---
 title: 'HOWTO: Stranezze in Google Earth'
 categories:
-- personal
+- howto
 - italian
+tags:
 - friends
 - travels
-- howto
 - google
 - curiosity
-- viaggi
-tags:
 ---
 [Google Earth](http://earth.google.it/) è un fantastico programma per
 "viaggiare" ed "esplorare" per il pianeta Terra stando comodamente seduti

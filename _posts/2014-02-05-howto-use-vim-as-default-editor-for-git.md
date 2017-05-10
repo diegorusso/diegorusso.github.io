@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: use vim as default editor for git'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - git
 - vim

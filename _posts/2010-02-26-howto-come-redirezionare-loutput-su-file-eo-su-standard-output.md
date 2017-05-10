@@ -1,14 +1,10 @@
 ---
 title: 'HOWTO: Come redirezionare l&rsquo;output su file e/o su standard output'
 categories:
-- personal
-- italian
-- osx
-- linux
-- job
 - howto
-- geek
+- italian
 tags:
+- job
 ---
 Quando si usa la console, soprattutto per gli script, è molto utile saper
 redirezionare l'output su file o su standard output/error. Questo howto è
