@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: Il comando "open" in OSX'
 categories:
-- personal
-- italian
-- osx
-- blog
-- apple
 - howto
-- snow leopard
+- italian
 tags:
+- osx
+- apple
 ---
 Dopo un po' di post non tecnici, eccomi di nuovo con un piccolo
 howto. Se hai OSX ed usi spesso il

@@ -3,9 +3,9 @@ title: 10 regole per rivoluzionari (del business)
 categories:
 - personal
 - italian
-- friends
-- thoughts
 tags:
+- job
+- thoughts
 ---
 Questo decalogo è preso da [qui](http://entrepreneurial-revolution.com/?page_id=16).
 Mi sono permesso di "tradurlo" a modo mio. Se

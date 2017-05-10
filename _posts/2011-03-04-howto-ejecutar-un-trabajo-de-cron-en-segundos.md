@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: ejecutar un trabajo de cron en segundos'
 categories:
-- personal
-- italian
-- osx
 - howto
-- guia
-- trabajo
+- spanish
 tags:
-- guia
+- job
+- cron
 ---
 Si ya sabes que es [cron](http://es.wikipedia.org/wiki/Cron), tambien conoces
 que el tiempo minimo para ejecutar un trabajo de cron es un minuto. Hay un

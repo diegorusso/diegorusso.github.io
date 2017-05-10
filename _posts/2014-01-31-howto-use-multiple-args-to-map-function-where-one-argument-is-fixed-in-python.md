@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: use multiple args to map function where one argument is fixed in python'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - python
 ---

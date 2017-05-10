@@ -2,8 +2,7 @@
 title: Does anyone know anything about this technology http...
 categories:
 - personal
-- italian
-
+- english
 tags:
 - nosql
 ---

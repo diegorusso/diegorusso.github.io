@@ -3,14 +3,11 @@ title: Discorso di Steve Jobs ai neolaureati di Stanford
 categories:
 - personal
 - italian
-- meditation
+tags:
 - friends
 - apple
 - thoughts
 - job
-- curiosity
-tags:
-- steve jobs
 ---
 Questo video ha girato e rigirato il web. Anche se il video ha qualche anno io
 lo trovo sempre molto attuale. Buona visione

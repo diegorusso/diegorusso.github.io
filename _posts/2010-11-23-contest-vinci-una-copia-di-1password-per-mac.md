@@ -3,14 +3,11 @@ title: 'CONTEST: Vinci una copia di 1Password per Mac [CHIUSO]'
 categories:
 - personal
 - italian
-- blog
-- friends
-- apple
-- twitter
-- social network
-- geek
 tags:
 - contest
+- blog
+- friends
+- twitter
 ---
 Dopo un po' di assenza eccomi qui, di nuovo. Credo che questo sia l'ultimo
 post prima dello switching multilingua che subirà il blog. Dunque come

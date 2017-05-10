@@ -2,14 +2,10 @@
 title: 'HOWTO: change in a minute'
 categories:
 - personal
-- italian
-- meditation
-- friends
-- music
-- concerts
-- howto
-- humor
+- english
 tags:
+- book
+- thoughts
 ---
 To improve yourself little changes are enough (less than a minute each one).
 [Richard Wiseman](http://www.richardwiseman.com/) wrote about that in ["59

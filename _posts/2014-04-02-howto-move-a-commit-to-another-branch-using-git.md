@@ -1,9 +1,8 @@
 ---
 title: 'HOWTO: move a commit to another branch using GIT'
 categories:
-- personal
-- italian
 - howto
+- english
 tags:
 - git
 ---

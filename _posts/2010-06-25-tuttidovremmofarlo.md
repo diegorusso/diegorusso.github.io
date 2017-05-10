@@ -3,13 +3,10 @@ title: Tuttidovremmofarlo
 categories:
 - personal
 - italian
-- blog
+tags:
 - friends
 - thoughts
-- book
 - avis
-tags:
-- ebook
 ---
 No, **non mi sono rincoglionito** (va beh, un po' lo sono), so che ci vuole lo
 spazio tra le parole! :)

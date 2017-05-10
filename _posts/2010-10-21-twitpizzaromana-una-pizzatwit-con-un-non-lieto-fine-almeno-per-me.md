@@ -3,17 +3,11 @@ title: '#TwitPizzaRomana: una pizzatwit con un NON-lieto fine (almeno per me)'
 categories:
 - personal
 - italian
+tags:
 - friends
-- spain
 - travels
 - thoughts
-- iPhone
 - twitter
-- social network
-- programmazione
-- lavoro
-- viaggi
-tags:
 ---
 Ieri, 20 ottobre 2010, a Roma si è svolta la
 [**#TwitPizzaRomana**](http://twitter.com/#!/search/%23TwitPizzaRomana). Come

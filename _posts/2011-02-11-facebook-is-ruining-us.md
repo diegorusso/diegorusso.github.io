@@ -2,13 +2,10 @@
 title: Facebook is ruining us
 categories:
 - personal
-- italian
-- meditation
-- friends
-- book
-- social network
+- english
 tags:
-- ebook
+- facebook
+- thoughts
 ---
 Yep, it's true. Simply look the image below and.. **think**.
 

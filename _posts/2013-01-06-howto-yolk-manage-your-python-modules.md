@@ -1,13 +1,12 @@
 ---
 title: 'HOWTO: yolk, manage your python modules'
 categories:
-- personal
-- italian
-- programming
 - howto
-- geek
+- english
 tags:
 - python
+- programming
+- job
 ---
 Installing pyhton modules is very easy and straightforward. The problem is
 keeping them up to date, list the installed modules, etc. For all these tasks

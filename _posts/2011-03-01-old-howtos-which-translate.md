@@ -2,23 +2,10 @@
 title: Old HOWTOs.. Which translate?
 categories:
 - personal
-- italian
-- languages
-- osx
-- programming
-- blog
-- linux
-- leopard
-- windows
-- iPhone
-- howto
-- google
-- geek
-- snow leopard
+- english
 tags:
-- python
-- apache
-- django
+- languages
+- blog
 ---
 For some years this blog has been written **only in italian**, and as you
 know, some time ago I decided to switch it **in three languages**. While I

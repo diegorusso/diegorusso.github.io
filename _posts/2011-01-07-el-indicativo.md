@@ -3,9 +3,9 @@ title: El Indicativo
 categories:
 - personal
 - italian
-- languages
-- lingue
+- spanish
 tags:
+- languages
 ---
 **"El indicativo"** solitamente é la prima coniugazione temporale che si studia. I verbi (come in tutte le lingue) si dividono in due categorie: regolari e irregolari. I primi seguono una serie di regole e si può arrivare logicamente alla soluzione. I secondi hanno delle eccezioni, ma comunque con un po' di studio e logica non sono difficili.
 

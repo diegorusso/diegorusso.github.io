@@ -3,11 +3,10 @@ title: 'The Fun Theory: cambiare in meglio, divertendosi'
 categories:
 - personal
 - italian
+tags:
 - friends
 - music
 - thoughts
-- humor
-tags:
 ---
 ["The Fun Theory"](http://www.thefuntheory.com/) è una teoria con uno scopo
 ben preciso e semplice: **cambiare in meglio le abitudini delle persone in

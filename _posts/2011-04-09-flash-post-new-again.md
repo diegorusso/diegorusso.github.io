@@ -2,10 +2,10 @@
 title: 'Flash post: new, again'
 categories:
 - personal
-- italian
-- languages
-- blog
+- english
 tags:
+- blog
+- languages
 ---
 Yesterday I decided to update my site and significant changes are:
 

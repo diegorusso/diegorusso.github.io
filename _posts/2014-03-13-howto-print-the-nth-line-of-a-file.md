@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: print the nth line of a file'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - sed
 - awk

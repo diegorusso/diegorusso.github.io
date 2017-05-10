@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: jump to a specific portion of a huge file with less'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
-- linux
+- job
 - less
 ---
-
 ```
 $ less +56g hugefile.txt # it goes to the 56th line  
 $ less +56p hugefile.txt # it goes into the 56% of the file  

@@ -2,12 +2,9 @@
 title: My CV on github
 categories:
 - personal
-- italian
-
+- english
 tags:
 - git
-- svn
-- sed
 - latex
 - cv
 ---

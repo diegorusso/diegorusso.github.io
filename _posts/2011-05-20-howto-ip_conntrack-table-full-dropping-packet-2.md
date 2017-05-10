@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: "ip_conntrack: table full, dropping packet"'
 categories:
-- personal
-- italian
-- linux
 - howto
-- guia
-- trabajo
+- spanish
 tags:
-- guia
+- linux
+- job
 ---
 Yo gestionaba un server con linux y una vez tuve un mensaje extraño:
 

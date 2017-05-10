@@ -3,9 +3,9 @@ title: El Preterito Perfecto
 categories:
 - personal
 - italian
-- languages
-- trabajo
+- spanish
 tags:
+- languages
 ---
 El "Preterito Perfecto" se usa:
 
@@ -23,7 +23,7 @@ Ejemplos:
   * Esta semana no he podido estudia mucho por que he tenido que trabajar
   * Todavia no habeis comido el arroz tapado
   
-La costruzione del Preterito Perfecto e in questo modo
+La costruzione del Preterito Perfecto è in questo modo
 
 **HABER + PARTICIPIO PASADO**
 

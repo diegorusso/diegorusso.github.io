@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: "psycopg2 module: cannot import name tz"'
 categories:
-- personal
-- italian
-- open source
-- job
 - howto
+- italian
 tags:
 - python
-- django
+- job
 ---
 Già ho scritto a riguardo di [postgres + psycopg2 +
 django]({{site.url}}/2009/09/04/howto-snow-leopard-django-postgresql-psycopg2/)

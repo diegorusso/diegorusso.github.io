@@ -3,18 +3,12 @@ title: Come ho ottenuto lavoro in ARM Ltd
 categories:
 - personal
 - italian
-- blog
-- lavoro
-- lingue
-- personale
-- riflessioni
-- tecnologia
-- viaggi
 tags:
-- arm ltd
-- italians
+- ARM
+- travel
+- job
 - europython
-- python
+- friends
 ---
 Sono mesi che non scrivo più sul blog. Lo so, sono un delinquente anche dopo
 tutte le varie pressioni di quei 2 lettori del mio blog :P  

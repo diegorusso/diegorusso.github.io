@@ -1,12 +1,10 @@
 ---
 title: 'HOWTO: Migliorare le performance di Wordpress su DreamHost'
 categories:
-- personal
-- italian
-- blog
 - howto
-- geek
+- italian
 tags:
+- blog
 ---
 [DreamHost](http://www.dreamhost.com/) è l'hosting che ospita questo blog ed
 altri miei progetti. É molto affidabile, serio e ti da molti servizi che qui

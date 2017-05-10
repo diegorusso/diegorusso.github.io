@@ -1,12 +1,11 @@
 ---
 title: 'HOWTO: Software Autodesk gratis per gli studenti ed insegnanti'
 categories:
-- personal
-- italian
-- job
 - howto
-- university
+- italian
 tags:
+- job
+- university
 ---
 Grazie al programma **[Educational di
 Austodesk](http://students.autodesk.com/)** puoi scaricare "gratis" tutto il

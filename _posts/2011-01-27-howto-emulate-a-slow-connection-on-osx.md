@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: emulate a slow connection on OSX'
 categories:
-- personal
-- italian
-- osx
-- open source
-- apple
-- job
 - howto
+- english
 tags:
+- osx
+- job
 ---
 In Italy, where I live (for now), it's not difficult to "emulate" a slow
 connection. Anyway if you want test your new webapp or you want see the

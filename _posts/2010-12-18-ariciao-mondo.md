@@ -3,14 +3,9 @@ title: (Ari)Ciao Mondo!
 categories:
 - personal
 - italian
-- blog
-- social network
-- howto
-- guida
-- lingue
-- link vari
 tags:
-- guida
+- blog
+- languages
 ---
 Quando si inizia a scrivere su un nuovo blog, il primo post è sempre un
 ["Hello World"](http://it.wikipedia.org/wiki/Hello_world). In verità, solo i

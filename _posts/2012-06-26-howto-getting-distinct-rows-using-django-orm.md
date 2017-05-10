@@ -1,13 +1,11 @@
 ---
 title: 'HOWTO: getting distinct rows using Django ORM'
 categories:
-- personal
-- italian
-- programming
-- job
 - howto
+- english
 tags:
 - django
+- python
 ---
 Pretty simple:
 

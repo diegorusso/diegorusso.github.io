@@ -1,16 +1,11 @@
 ---
 title: Dual boot with Windows 8.1 and Linux on HP/Sony laptops
 categories:
-- personal
-- italian
-- linux
-- microsoft
+- howto
+- english
+tags:
 - windows
 - ubuntu
-tags:
-- linux
-- less
-- windows
 - dual boot
 - UEFI
 ---

@@ -3,14 +3,11 @@ title: '#pizzatwit di Assisi ed oltre.. un''esperienza indimenticabile'
 categories:
 - personal
 - italian
-- linux
+tags:
 - friends
 - thoughts
 - twitter
-- social network
-- lavoro
-- personale
-tags:
+- pizzatwit
 ---
 Eccomi qua, il giorno dopo della fantastica [#pizzatwit di
 #assisi]({{site.url}}/pizzatwit-assisi/). Un bel post è d'obbligo

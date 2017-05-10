@@ -3,15 +3,11 @@ title: 'Goosmama: ricco in 60 minuti.'
 categories:
 - personal
 - italian
-- blog
+tags:
+- ebook
 - friends
 - travels
 - thoughts
-- twitter
-- book
-- libro
-tags:
-- ebook
 ---
 Sai? Se ripeti questa parola,
 "_[Goosmama](http://www.brunozzi.it/2010/04/01/goosmama/)_" (pronuncialo

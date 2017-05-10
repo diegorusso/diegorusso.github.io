@@ -3,9 +3,10 @@ title: Ser, Estar y Hay
 categories:
 - personal
 - italian
+- spanish
+tags:
 - languages
 - blog
-tags:
 ---
 Bene, iniziamo con l'operatività di questo blog. Come ogni buon studioso di
 spagnolo oggi vedrai la differenza tra **ser, estar ed hay**. Ti ricordo il

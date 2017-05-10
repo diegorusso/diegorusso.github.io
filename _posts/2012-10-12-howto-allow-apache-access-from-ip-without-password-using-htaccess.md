@@ -1,15 +1,13 @@
 ---
 title: 'HOWTO: allow Apache access from IP without password using htaccess'
 categories:
-- personal
-- italian
-- linux
-- job
 - howto
-- geek
+- english
 tags:
 - apache
 - htaccess
+- linux
+- job
 ---
 Very straightforward. Just write these lines in your VirtualHost, Location or
 Directory configuration.

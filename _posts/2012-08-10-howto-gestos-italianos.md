@@ -1,18 +1,12 @@
 ---
 title: 'HOWTO: gestos italianos'
 categories:
-- personal
-- italian
 - howto
-- humor
-- amigos
-- curiosidad
-- guia
-- idiomas
-- pensamientos
-- viajes
+- spanish
 tags:
-- guia
+- humor
+- travels
+- languages
 ---
 Los gestos han sido siempre muy ~~importante~~ importantes en la comunicación.
 Ellos precedieron la lengua hablada y los seres humanos los utilizaban

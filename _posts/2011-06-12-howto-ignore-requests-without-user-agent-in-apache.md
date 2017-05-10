@@ -1,13 +1,11 @@
 ---
 title: 'HOWTO: ignore requests without user agent in Apache'
 categories:
-- personal
-- italian
-- open source
-- job
 - howto
+- english
 tags:
 - apache
+- job
 ---
 A public web server could be reached by many http requests with no user agent.
 Apache can avoid this kind of requests. The configuration is very

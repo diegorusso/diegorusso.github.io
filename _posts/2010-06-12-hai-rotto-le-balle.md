@@ -3,13 +3,11 @@ title: Hai rotto le balle!
 categories:
 - personal
 - italian
+tags:
 - blog
-- microsoft
 - friends
-- blog's friends
 - thoughts
 - humor
-tags:
 ---
 Esatto, proprio così!! Ogni giorno mi arrivano mail su mail di bufale, di
 messaggi di aiuto, su come salvare il mondo, su come salvare una bambina dal

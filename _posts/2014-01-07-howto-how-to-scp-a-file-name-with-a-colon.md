@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: How to scp a file name with a colon'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - scp
 - linux

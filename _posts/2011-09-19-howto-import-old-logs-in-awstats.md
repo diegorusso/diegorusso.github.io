@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: import old logs in AWStats'
 categories:
-- personal
-- italian
-- programming
-- linux
-- job
 - howto
+- ensglish
 tags:
 - python
 - apache
+- job
 ---
 [AWStats](http://awstats.sourceforge.net/) is a great software to analyse
 [Apache](http://www.apache.org/) logs for having statistics about your sites.

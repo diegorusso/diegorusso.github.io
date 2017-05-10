@@ -3,11 +3,8 @@ title: 'iPhone: una applicazione gratuita al giorno'
 categories:
 - personal
 - italian
-- apple
-- iPhone
-- twitter
-- telephony
 tags:
+- iPhone
 ---
 Questo post è dedicato a tutti i possessori di iPhone. Non so se sotto Natale
 avete seguito l'"_iTunes 12 days of christmas_" una iniziativa da parte di

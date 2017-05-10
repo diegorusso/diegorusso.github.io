@@ -2,15 +2,10 @@
 title: Facebook nos est&aacute; arruinando
 categories:
 - personal
-- italian
-- book
-- amigos
-- emergencia
-- trabajo
-- libro
-- meditaci&oacute;n
+- spanish
 tags:
-- ebook
+- facebook
+- thoughts
 ---
 Eh si, es la verdad. Simplemente mira la imagen a continuación y.. **piensa**.
 

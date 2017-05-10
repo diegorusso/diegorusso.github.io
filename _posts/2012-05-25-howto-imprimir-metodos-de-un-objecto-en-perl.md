@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: imprimir m&eacute;todos de un objecto en perl'
 categories:
-- personal
-- italian
 - howto
-- guia
-- programaci&oacute;n
+- spanish
 tags:
-- python
-- guia
+- perl
+- job
 ---
 Muy simple:
 

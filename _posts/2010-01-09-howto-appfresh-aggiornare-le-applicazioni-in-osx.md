@@ -1,15 +1,10 @@
 ---
 title: 'HOWTO: Appfresh, aggiornare le applicazioni in OSX'
 categories:
-- personal
-- italian
-- osx
-- leopard
-- social network
 - howto
-- geek
-- snow leopard
+- italian
 tags:
+- osx
 ---
 Bene, questo è il mio primo howto del 2010. Oggi vedrai come aggiornare tutte
 le tue applicazioni installate in OSX in maniera semplice, veloce ed

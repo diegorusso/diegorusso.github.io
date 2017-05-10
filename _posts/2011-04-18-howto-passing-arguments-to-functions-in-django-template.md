@@ -1,14 +1,12 @@
 ---
 title: 'HOWTO: passing arguments to functions in Django Template'
 categories:
-- personal
-- italian
-- programming
-- job
 - howto
-- geek
+- english
 tags:
 - django
+- programming
+- job
 ---
 [Django](http://www.djangoproject.com/) doesn't allow you because it goes
 against **MVC** model, but sometime it's useful to get output (**at view

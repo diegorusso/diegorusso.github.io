@@ -3,10 +3,9 @@ title: 'Miro e Medinvest: chi me lo sa spiegare?'
 categories:
 - personal
 - italian
+tags:
 - thoughts
 - google
-- curiosity
-tags:
 ---
 Stamattina in un momento di semicazzeggio, ho fatto una strana scoperta. **Si
 tratta di loghi. Di loghi "copiati"**. Non la faccio tanto lunga...

@@ -1,10 +1,8 @@
 ---
 title: 'HOWTO: read a huge file with low memory usage in python'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - python
 ---

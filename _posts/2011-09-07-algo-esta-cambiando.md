@@ -2,14 +2,10 @@
 title: Algo est&aacute; cambiando
 categories:
 - personal
-- italian
-- blog
-- trabajo
-- privado
-- pensamientos
-- tecnolog&iacute;a
-- viajes
+- spanish
 tags:
+- job
+- travel
 ---
 [![]({{site.url}}/images/cambridge_ARM.jpg){: .align-center}]({{site.url}}/images/cambridge_ARM.jpg)
 ¡Estad atentos!

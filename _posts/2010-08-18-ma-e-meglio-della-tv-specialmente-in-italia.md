@@ -3,6 +3,7 @@ title: Ma &egrave; meglio della TV (specialmente in Italia)
 categories:
 - personal
 - italian
+tags:
 - blog
 - friends
 - music
@@ -10,11 +11,7 @@ categories:
 - thoughts
 - politics
 - book
-- google
-- lavoro
-- lingue
-- libro
-tags:
+- job
 ---
 La mia TV e lì, sul mobile. **Spenta**. E lo è per molte ore al giorno. Una
 volta guardavo i telegiornali.. ora guardo **solo i cartoni animati la

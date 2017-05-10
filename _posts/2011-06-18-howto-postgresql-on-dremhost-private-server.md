@@ -1,14 +1,12 @@
 ---
 title: 'HOWTO: postgresql on Dremhost Private Server'
 categories:
-- personal
-- italian
-- linux
-- open source
-- job
 - howto
+- english
 tags:
-- mysql
+- postgresql
+- dreamhost
+- linux
 ---
 If you have a [PS](http://www.dreamhost.com/hosting-vps.html) with
 [DreamHost](http://www.dreamhost.com/) and you need to use

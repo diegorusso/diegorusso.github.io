@@ -3,10 +3,9 @@ title: 'I casin&ograve; online: questi sconosciuti'
 categories:
 - personal
 - italian
-- thoughts
-- sport
-- curiosit&agrave;
 tags:
+- thoughts
+- casino
 ---
 Se quello che succede in Internet è il corrispondente di quello che accade
 nella vita reale, non ci dovrebbe stupire più di tanto che il traino economico

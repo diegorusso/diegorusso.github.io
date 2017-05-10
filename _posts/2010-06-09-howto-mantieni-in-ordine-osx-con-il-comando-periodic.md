@@ -1,12 +1,10 @@
 ---
 title: 'HOWTO: Mantieni in ordine OSX con il comando &ldquo;periodic&rdquo;'
 categories:
-- personal
-- italian
-- osx
 - howto
-- snow leopard
+- italian
 tags:
+- osx
 ---
 OSX ha a disposizione una serie di comandi da Terminale per **mantenere in
 ordine il sistema operativo**. Sto parlando del comando `periodic`. Se

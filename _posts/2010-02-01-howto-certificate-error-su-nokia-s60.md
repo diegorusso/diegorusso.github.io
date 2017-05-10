@@ -1,11 +1,10 @@
 ---
 title: 'HOWTO: "Certificate error" su Nokia S60'
 categories:
-- personal
-- italian
 - howto
-- telephony
+- italian
 tags:
+- nokia
 ---
 Se sei possessore di un **Nokia** (con S60) questo post ti potrebbe far molto
 comodo. Il **"Certificate Error"** ti capita quando vuoi installare

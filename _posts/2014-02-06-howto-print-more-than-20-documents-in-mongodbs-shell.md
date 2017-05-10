@@ -1,15 +1,12 @@
 ---
 title: 'HOWTO: print more than 20 documents in MongoDB''s shell'
 categories:
-- personal
-- italian
-
 - howto
+- english
 tags:
 - mongo
+- job
 ---
-
-
 ```
 $ mongo  
 MongoDB shell version: 2.4.5  

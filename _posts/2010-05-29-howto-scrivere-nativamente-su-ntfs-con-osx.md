@@ -1,14 +1,11 @@
 ---
 title: 'HOWTO: Scrivere nativamente su NTFS con OSX'
 categories:
-- personal
-- italian
-- osx
-- leopard
-- windows
 - howto
-- snow leopard
+- italian
 tags:
+- osx
+- ntfs
 ---
 In OSX (sia Leopard che Snow Leopard) **manca per default il supporto per la
 scrittura su partizioni NTFS.** Per fare ciò esistono sono molte soluzioni di

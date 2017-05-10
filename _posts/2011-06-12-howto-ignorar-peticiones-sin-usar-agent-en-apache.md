@@ -1,14 +1,11 @@
 ---
-title: 'HOWTO: ignorar peticiones sin user agent en Apache'
+title: 'HOWTO: ignorar peticiones sin usar agent en Apache'
 categories:
-- personal
-- italian
 - howto
-- guia
-- trabajo
+- spanish
 tags:
 - apache
-- guia
+- job
 ---
 Un servidor web publico podria recibir muchas peticiones http que no tienen lo
 "user agent". Apache puede evitar este tipologia de peticiones. La

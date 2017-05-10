@@ -1,12 +1,12 @@
 ---
 title: 'HOWTO: check if I am in a screen session'
 categories:
-- personal
-- italian
-- linux
 - howto
+- english
 tags:
 - linux
+- screen
+- job
 ---
 
 ```

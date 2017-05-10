@@ -2,21 +2,10 @@
 title: Hola Mundo!
 categories:
 - personal
-- italian
-- osx
-- blog
-- iPhone
-- book
-- howto
-- amigos
-- guia
-- idiomas
-- libro
-- enlaces varios
-- personale
+- spanish
 tags:
-- ebook
-- guia
+- blog
+- languages
 ---
 Como empezar un nuevo blog? Obviamente con un **"Hola Mundo!"** (si no sabes
 que quiere decir, [lee aquí](http://es.wikipedia.org/wiki/Hola_mundo))  

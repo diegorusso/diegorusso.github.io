@@ -1,15 +1,11 @@
 ---
 title: 'HOWTO: Terminal''s tips in OSX'
 categories:
-- personal
-- italian
-- osx
-- apple
-- job
 - howto
-- geek
+- english
 tags:
-- python
+- osx
+- terminal
 ---
 Another useful and quick post about tips from OSX Terminal that let you to
 save a lot of time. So just open a Terminal and try them.

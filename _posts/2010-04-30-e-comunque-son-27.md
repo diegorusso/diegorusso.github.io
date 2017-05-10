@@ -3,13 +3,11 @@ title: E comunque son... 27 :)
 categories:
 - personal
 - italian
+tags:
 - vasco
 - blog
 - friends
 - thoughts
-- twitter
-- riflessioni
-tags:
 ---
 Oramai sono un po' di anni che scrivo un post nel giorno del mio compleanno.
 Ogni anno un post diverso, più o meno scherzoso, profondo... 'nsomma mai

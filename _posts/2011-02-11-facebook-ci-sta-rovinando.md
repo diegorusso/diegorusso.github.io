@@ -3,13 +3,9 @@ title: Facebook ci sta rovinando
 categories:
 - personal
 - italian
-- book
-- social network
-- emergenza
-- lavoro
-- meditazione
 tags:
-- ebook
+- facebook
+- thoughts
 ---
 Eh si, è la verità. Guarda semplicemente l'immagine sottostante e.. **pensa**.
 

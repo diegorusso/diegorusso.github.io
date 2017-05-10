@@ -1,26 +1,12 @@
 ---
 title: Viejos HOWTO.. &iquest;cual traducir?
 categories:
+categories:
 - personal
-- italian
-- osx
-- blog
-- linux
-- leopard
-- windows
-- iPhone
-- howto
-- google
-- geek
-- snow leopard
-- guia
-- programaci&oacute;n
-- idiomas
+- spanish
 tags:
-- python
-- apache
-- django
-- guia
+- languages
+- blog
 ---
 Durante unos años este blog ha sido escrito **solamente en Italiano**, y como
 sabes, hace tiempo decidí de cambiar **a tres idiomas**. Mientras escribía
