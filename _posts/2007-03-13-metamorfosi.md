@@ -14,20 +14,20 @@ della natura (e soprattutto essendo un animale) ho subito dei cambiamenti
 anche io. Guardate un po' cosa mi e successo?
 
 
-[![]({{site.url}}/images/prima.JPG){: .align-center}]({{site.url}}/images/prima.JPG)
+[![]({{site.url}}/assets/images/prima.JPG){: .align-center}]({{site.url}}/assets/images/prima.JPG)
 1) Prima della metamorfosi: pieno di pelo!!!
 {: .text-center}
   
 Qui mi hanno detto che assomiglio un po' al mondo... persino a Serpico!!!
-[![]({{site.url}}/images/serpico.gif){: .align-center}]({{site.url}}/images/serpico.gif)
+[![]({{site.url}}/assets/images/serpico.gif){: .align-center}]({{site.url}}/assets/images/serpico.gif)
 Dite che gli assomigliavo? Forse lui e un pochino meglio! :)
 
 
-[![]({{site.url}}/images/durante.JPG){: .align-center}]({{site.url}}/images/durante.JPG)
+[![]({{site.url}}/assets/images/durante.JPG){: .align-center}]({{site.url}}/assets/images/durante.JPG)
 2) Durante la metamorfosi: via i capelli!!
 {: .text-center}
 
-[![]({{site.url}}/images/dopo.JPG){: .align-center}]({{site.url}}/images/dopo.JPG)
+[![]({{site.url}}/assets/images/dopo.JPG){: .align-center}]({{site.url}}/assets/images/dopo.JPG)
 3) Metamorfosi terminata: via anche la barba! :)
 {: .text-center}
 

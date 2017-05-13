@@ -39,7 +39,7 @@ A questo punto Parallels configura la nuova macchina virtuale patchando
 windows installato in boot camp. Proprio in questa fase potrebbe capitarti un
 errrore che ti impedirebbe la configurazione della macchina virtuale.
 
-[![parallels_bootcamp]({{site.url}}/images/parallels_bootcamp.png){: .align-center}]({{site.url}}/images/parallels_bootcamp.png)
+[![parallels_bootcamp]({{site.url}}/assets/images/parallels_bootcamp.png){: .align-center}]({{site.url}}/assets/images/parallels_bootcamp.png)
 _Errore in fase di creazione della macchina virtuale_
 {: .text-center}
 

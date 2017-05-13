@@ -28,7 +28,7 @@ Appena hai fatto ti apparirà il seguente simbolo. Cliccandoci sopra e
 selezionando l'utente del tu amico OSX ti chiedera la sua password per
 accedere al suo desktop.
 
-[![cambio_rapido]({{site.url}}/images/cambio_rapido.png){: .align-center}]({{site.url}}/images/cambio_rapido.png)
+[![cambio_rapido]({{site.url}}/assets/images/cambio_rapido.png){: .align-center}]({{site.url}}/assets/images/cambio_rapido.png)
 
 Se volessi ritornare al tuo desktop rifai lo stesso procedimento selezionando
 il tuo utente.

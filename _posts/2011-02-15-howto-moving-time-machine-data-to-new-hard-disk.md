@@ -22,7 +22,7 @@ this, but with some trick you can do it easily. Follow these steps:
   8. Click _"Restore"_
   9. Realax for some hours (**_for 120 GB I waited 5 hours_**).
   
-[![]({{site.url}}/images/TMrestore.png){: .align-center}]({{site.url}}/images/TMrestore.png)
+[![]({{site.url}}/assets/images/TMrestore.png){: .align-center}]({{site.url}}/assets/images/TMrestore.png)
 
 When the process finishes, new drive will have the same name of the old one.
 **Rename old drive or give a new name to new drive**. Once you changed the

@@ -19,7 +19,7 @@ Da quanto sono su DH, ho usato molte volte l'assistenza online: hanno una chat
 e **nove volte su dieci ti risolvono il problema**. Inoltre sono molto
 preparati tecnicamente.
 
-[![]({{site.url}}/images/dh_logo.png){: .align-center}]({{site.url}}/images/dh_logo.png)
+[![]({{site.url}}/assets/images/dh_logo.png){: .align-center}]({{site.url}}/assets/images/dh_logo.png)
 _Logo di DreamHost_
 {: .text-center}
 

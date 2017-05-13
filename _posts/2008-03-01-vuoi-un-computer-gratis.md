@@ -16,7 +16,7 @@ e metterlo in premio per il suo contest.
 Il computer in questione non è uno qualsiasi: infatti e un pc a basso consumo
 energetico **(35W)** e con installato gOS. Qui sotto l'immagine del contest.
 
-[![Contest DaniRevi]({{site.url}}/images/contest.jpg){: .align-center}](http://www.danirevi.it/contest-danirevi-ti-regala-un-computer.html
+[![Contest DaniRevi]({{site.url}}/assets/images/contest.jpg){: .align-center}](http://www.danirevi.it/contest-danirevi-ti-regala-un-computer.html
 "http://www.danirevi.it/contest-danirevi-ti-regala-un-computer.html" )
 
 Per essere precisi si parla [del computer da 200€](http://www.syspack.com/news/67/gOS-PC---il-computer-per-internet.aspx

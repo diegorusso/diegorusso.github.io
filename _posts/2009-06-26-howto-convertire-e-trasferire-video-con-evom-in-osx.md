@@ -13,7 +13,7 @@ L'applicazione di cui farai uso è prodotta da
 L'applicazione che ti interessa e **Evom**, scaricabile da [questo
 link](http://thelittleappfactory.com/evom/).
 
-[![logo_128]({{site.url}}/images/logo_128.png){: .align-center}]({{site.url}}/images/logo_128.png)
+[![logo_128]({{site.url}}/assets/images/logo_128.png){: .align-center}]({{site.url}}/assets/images/logo_128.png)
 _Logo di Evom_
 {: .text-center}
 

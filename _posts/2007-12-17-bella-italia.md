@@ -20,7 +20,7 @@ wikipedia](http://it.wikipedia.org/wiki/Economia_italiana
 di oggi.
 
 
-[![Italia Mia]({{site.url}}/images/italiamia.jpg){: .align-center}]({{site.url}}/images/italiamia.jpg "Italia Mia" )
+[![Italia Mia]({{site.url}}/assets/images/italiamia.jpg){: .align-center}]({{site.url}}/assets/images/italiamia.jpg "Italia Mia" )
 
 Il bel Paese, [rapresentato nel web da una truffa](http://www.italia.it/
 "http://www.italia.it/" ), sta andando **in discesa**. Il problema che molti

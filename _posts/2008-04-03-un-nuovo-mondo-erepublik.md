@@ -14,7 +14,7 @@ simulatore politico-economico-militare. E' web-based ed il suo punto di forza
 ben fatto. Per diventare citadino di questo nuovo mondo devi solo rispettare
 10 semplici regole (in inglese):
 
-[![]({{site.url}}/images/logo-erepublik.gif){: .align-center}]({{site.url}}/images/logo-erepublik.gif)
+[![]({{site.url}}/assets/images/logo-erepublik.gif){: .align-center}]({{site.url}}/assets/images/logo-erepublik.gif)
 
   1. All citizens are born free and equal in dignity and rights.
   2. No citizen should oppress another citizen

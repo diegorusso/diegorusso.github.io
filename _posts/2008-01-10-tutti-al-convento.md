@@ -13,7 +13,7 @@ Andiamo a Ussita a pattinare sul ghiaccio! :) E così fu. **Ovviamente non sto
 qui a raccontare la mia bravura e destrezza sui pattini.** Anzi per dirla
 tutta mi sono anche trattenuto nell'eseguire qualche acrobazia... :P
 
-[![io_miri_ghiaccio.jpg]({{site.url}}/images/io_miri_ghiaccio.jpg){: .align-center}]({{site.url}}/images/io_miri_ghiaccio.jpg "io_miri_ghiaccio.jpg" )  
+[![io_miri_ghiaccio.jpg]({{site.url}}/assets/images/io_miri_ghiaccio.jpg){: .align-center}]({{site.url}}/assets/images/io_miri_ghiaccio.jpg "io_miri_ghiaccio.jpg" )  
 _Descansamos un momentito_
 
 Usciamo dal frigorifero, direzione casa. Piccolo problema: eravamo due

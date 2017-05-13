@@ -15,7 +15,7 @@ davanti al proprio computer. Si basa su fotografie satellitare, aeree,
 orografie del territorio, foto degli utenti, modelli 3D dei principali
 monumenti e delle città e molto altro ancora.
 
-[![]({{site.url}}/images/google_earth.png){: .align-center}]({{site.url}}/images/google_earth.png)
+[![]({{site.url}}/assets/images/google_earth.png){: .align-center}]({{site.url}}/assets/images/google_earth.png)
 _Ecco gli UFO!! :P_
 {: .text-center}
 

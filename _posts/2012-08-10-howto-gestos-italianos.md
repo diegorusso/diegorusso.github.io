@@ -25,11 +25,11 @@ nosotros los italianos, ~~utilizan~~ utilizamos los gestos para ~~comunicar~~
 comunicarnos con otras personas. A continuacion ~~hay~~ encontrarás tres
 imagenes con los gestos italianos mas populares.
 
-[![]({{site.url}}/images/italian-gestures-1.jpg){: .align-center}]({{site.url}}/images/italian-gestures-1.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-1.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-1.jpg)
 
-[![]({{site.url}}/images/italian-gestures-2.jpg){: .align-center}]({{site.url}}/images/italian-gestures-2.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-2.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-2.jpg)
 
-[![]({{site.url}}/images/italian-gestures-3.jpg){: .align-center}]({{site.url}}/images/italian-gestures-3.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-3.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-3.jpg)
 
 ¿Que gesto prefieres?
 

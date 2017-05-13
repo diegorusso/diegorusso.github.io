@@ -13,7 +13,7 @@ come se fossero nel tuo computer. Per i più tecnici, **macfusion ti permette
 di montare cartelle remote sul tuo mac** sfruttando vari protocolli. Vedrai la
 cartella remota nel Finder di OSX.
 
-[![macfusion]({{site.url}}/images/macfusion.jpg){: .align-center}]({{site.url}}/images/macfusion.jpg)
+[![macfusion]({{site.url}}/assets/images/macfusion.jpg){: .align-center}]({{site.url}}/assets/images/macfusion.jpg)
 
 In Snow Leopard però questa applicazione ha qualche problema rifiutando a
 connessione con il server remoto. Per ora non c'è un fix ufficiale

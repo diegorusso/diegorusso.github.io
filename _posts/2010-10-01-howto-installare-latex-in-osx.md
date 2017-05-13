@@ -25,7 +25,7 @@ linguaggio. A riguardo, sempre in questa pagina (<http://www.tug.org/mactex/>)
 c'è il **MacTeXtras.zip** che contiene molti extras, tra cui anche degli
 editor.
 
-[![]({{site.url}}/images/latex.png){: .align-center}]({{site.url}}/images/latex.png)
+[![]({{site.url}}/assets/images/latex.png){: .align-center}]({{site.url}}/assets/images/latex.png)
 
 Da bravo programmatore uso [TextMate](http://macromates.com/), un editor di
 testo molto ben fatto per OSX.

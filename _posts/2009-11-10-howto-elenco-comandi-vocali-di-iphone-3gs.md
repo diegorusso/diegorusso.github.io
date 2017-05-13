@@ -11,7 +11,7 @@ iPhone 3gs ti da la possibilità di impartire comandi vocali. Sicuramente ti sta
 "**Ma quali sono questi comandi vocali?" "Qual è l'elenco dei comandi vocali
 dell'iPhone 3gs?"**
 
-[![controllo_vocale]({{site.url}}/images/controllo_vocale.png){: .align-center}]({{site.url}}/images/controllo_vocale.png)
+[![controllo_vocale]({{site.url}}/assets/images/controllo_vocale.png){: .align-center}]({{site.url}}/assets/images/controllo_vocale.png)
 
 Le operazioni che si possono impartire sono le seguenti:
 

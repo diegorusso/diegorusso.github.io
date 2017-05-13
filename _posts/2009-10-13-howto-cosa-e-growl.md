@@ -14,20 +14,20 @@ usando. Nell'immagine sottostante puoi vedere growl all'azione. Nel caso
 specifico ho inserito il mio mighty mouse usb e Growl me ne ha notificato
 subito la presenza:
 
-[![hardware-growl1]({{site.url}}/images/hardware-growl1.png){: .align-center}]({{site.url}}/images/hardware-growl1.png)  
+[![hardware-growl1]({{site.url}}/assets/images/hardware-growl1.png){: .align-center}]({{site.url}}/assets/images/hardware-growl1.png)  
 _Inserisco il mouse..._
 {: .text-center}
 
 Se eseguo l'operazione inversa ho un'altro tipo di notifica:
 
-[![hardware-growl2]({{site.url}}/images/hardware-growl2.png){: .align-center}]({{site.url}}/images/hardware-growl2.png)  
+[![hardware-growl2]({{site.url}}/assets/images/hardware-growl2.png){: .align-center}]({{site.url}}/assets/images/hardware-growl2.png)  
 _.. e lo tolgo! :)_
 {: .text-center}
 
 Ovviamente questo è solo una delle centinaia di notifiche Growl supporta. Tra
 le applicazioni supportate ne troviamo un po' nell'imagine sottostante:
 
-[![application-growl]({{site.url}}/images/application-growl.png){: .align-center}]({{site.url}}/images/application-growl.png)
+[![application-growl]({{site.url}}/assets/images/application-growl.png){: .align-center}]({{site.url}}/assets/images/application-growl.png)
 
 Alcuni esempi di notifica sono:
 

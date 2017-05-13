@@ -14,4 +14,4 @@ romantica al Convento..**
 L'anno scorso mi è andata male... quest'anno ci riprovo! Se ci andate fatemelo
 sapere che almeno ci andiamo insieme! :)
 
-[![san-valentino-al-convento]({{site.url}}/images/san-valentino-al-convento.jpg){: .align-center}]({{site.url}}/images/san-valentino-al-convento.jpg)
+[![san-valentino-al-convento]({{site.url}}/assets/images/san-valentino-al-convento.jpg){: .align-center}]({{site.url}}/assets/images/san-valentino-al-convento.jpg)

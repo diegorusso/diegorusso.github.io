@@ -23,7 +23,7 @@ puoi fare anche il gruppo "Work" per usare questi strumenti per il tuo lavoro.
 
 L'immagine sottostante e il mio desktop.
 
-[![geek_tool_diegor]({{site.url}}/images/geek_tool_diegor.png){: .align-center}]({{site.url}}/images/geek_tool_diegor.png)
+[![geek_tool_diegor]({{site.url}}/assets/images/geek_tool_diegor.png){: .align-center}]({{site.url}}/assets/images/geek_tool_diegor.png)
 
 Come puoi vedere ci sono delle informazioni. Ci sono tre zone del desktop:
 

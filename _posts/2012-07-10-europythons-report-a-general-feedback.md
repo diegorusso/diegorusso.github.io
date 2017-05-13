@@ -43,7 +43,7 @@ Schedule busy, very busy but with regular breaks: one in the morning, lunch,
 and another break in the afternoon. So good timing. Nothing to say. Maybe yes,
 but after.
 
-[![]({{site.url}}/images/ep2012.jpg){: .align-center}]({{site.url}}/images/ep2012.jpg)
+[![]({{site.url}}/assets/images/ep2012.jpg){: .align-center}]({{site.url}}/assets/images/ep2012.jpg)
 
 **Duration**  
 I think that organisers thought enough to optimise everything in one week: 5
@@ -87,7 +87,7 @@ would have paid it. So what's the problem? My solution is to give the free
 access to everyone and a free cocktail just to whom had the pass. The terrace
 was big enough to host more and more people.
 
-[![]({{site.url}}/images/tagcocktail.jpg){: .align-center}]({{site.url}}/images/tagcocktail.jpg)
+[![]({{site.url}}/assets/images/tagcocktail.jpg){: .align-center}]({{site.url}}/assets/images/tagcocktail.jpg)
 _Nice view from Cocktail Terrace_
 {: .text-center}
 

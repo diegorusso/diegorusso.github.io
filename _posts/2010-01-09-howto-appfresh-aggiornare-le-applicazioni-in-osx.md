@@ -18,14 +18,14 @@ esegue i seguenti passi:
   
 Di seguito due screenshot che ti mostrano l'interfaccia di Appfresh:
 
-[![]({{site.url}}/images/appfresh1.png){: .align-center}]({{site.url}}/images/appfresh1.png)
+[![]({{site.url}}/assets/images/appfresh1.png){: .align-center}]({{site.url}}/assets/images/appfresh1.png)
 
 Nel primo screenshot puoi vedere tutte le applicazioni che richiedono di
 essere aggiornate. **É possibile che ci siano delle versioni che non
 corrispondono e dunque non e possibile aggiornarle. Per queste applicazioni
 fai un aggiornamento "manuale" :)**
 
-[![]({{site.url}}/images/appfresh2.png){: .align-center}]({{site.url}}/images/appfresh2.png)
+[![]({{site.url}}/assets/images/appfresh2.png){: .align-center}]({{site.url}}/assets/images/appfresh2.png)
 
 In questo screenshot invece puoi vedere il download degli aggiornamenti delle
 applicazioni installate. **Uso Appfresh con Snow Leopard senza alcun

@@ -19,14 +19,14 @@ verificar cada linea, **puedes resaltar espacios**. Como?
      :set list
      ```
   3. Puedes ver un resultado como este a continuación  
-     [![]({{site.url}}/images/vimsetlist1.png){: .align-center}]({{site.url}}/images/vimsetlist1.png)
+     [![]({{site.url}}/assets/images/vimsetlist1.png){: .align-center}]({{site.url}}/assets/images/vimsetlist1.png)
   4. Si quieres ver cada espacio como caracter, digita este comando 
 
      ```
      :set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
      ```
   5. El resultado deberia ser como este  
-     [![]({{site.url}}/images/vimsetlist2.png){: .align-center}]({{site.url}}/images/vimsetlist2.png)
+     [![]({{site.url}}/assets/images/vimsetlist2.png){: .align-center}]({{site.url}}/assets/images/vimsetlist2.png)
 
 ¡Un consejo muy simple y utiles! :)
 

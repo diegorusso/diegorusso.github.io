@@ -20,7 +20,7 @@ Autodesk:
   5. Se tutto va bene, **riceverai un link sulla mail** universitaria dove potrai attivare il tuo account educational
   6. **Scarica il software Autodesk** di cui necessiti :)
   
-[![]({{site.url}}/images/diegor-autodesk.png){: .align-center}]({{site.url}}/images/diegor-autodesk.png)
+[![]({{site.url}}/assets/images/diegor-autodesk.png){: .align-center}]({{site.url}}/assets/images/diegor-autodesk.png)
 
 Personalmente ho scaricato solo **Autocad 2011** e **Maya 2011** per Mac. **Se
 hai problemi con la registrazione o se sei riuscito ad attivare il tuo

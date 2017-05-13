@@ -9,6 +9,6 @@ tags:
 [Buon vaffanculo a tutti!!!](http://www.beppegrillo.it/vaffanculoday/
 "http://www.beppegrillo.it/vaffanculoday/" )
 
-[![fottiti]({{site.url}}/images/fottiti.jpg){: .align-center}]({{site.url}}/images/fottiti.jpg
+[![fottiti]({{site.url}}/assets/images/fottiti.jpg){: .align-center}]({{site.url}}/assets/images/fottiti.jpg
 "fottiti" )
 

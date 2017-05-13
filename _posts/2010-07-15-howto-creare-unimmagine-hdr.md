@@ -43,7 +43,7 @@ Invece che una guida completa vorrei soffermarmi su qualche piccolo consiglio
 per scattare delle ottime foto per produrre un HDR e per impostare al meglio i
 parametri di Photomatix Pro.
 
-[![]({{site.url}}/images/20090816_3181_80_79_tonemapped.jpg){: .align-center}]({{site.url}}/images/20090816_3181_80_79_tonemapped.jpg)
+[![]({{site.url}}/assets/images/20090816_3181_80_79_tonemapped.jpg){: .align-center}]({{site.url}}/assets/images/20090816_3181_80_79_tonemapped.jpg)
 _Una delle mie prime HDR._
 {: .text-align}
 

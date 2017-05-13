@@ -10,6 +10,6 @@ tags:
 Without syaing too much, here you go the image to set as background
 for your desktop :)
 
-[![]({{site.url}}/images/linux-cheat-sheet.png){: .align-center}]({{site.url}}/images/linux-cheat-sheet.png)
+[![]({{site.url}}/assets/images/linux-cheat-sheet.png){: .align-center}]({{site.url}}/assets/images/linux-cheat-sheet.png)
 
 PS: most of them work also on OSX

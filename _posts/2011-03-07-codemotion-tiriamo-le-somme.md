@@ -13,7 +13,7 @@ tags:
 ---
 **Sabato 5 Marzo 2011** ho partecipato al **[Codemotion](http://www.codemotion.it/)** (ex Javaday), un evento per sviluppatori (e non solo). Consisteva di **talk**, più o meno approfonditi, su vari aspetti nel mondo della programmazione: mobile, enterprise, paragoni tra linguaggi, analisi di alcuni software, soluzioni e molto altro ancora.
 
-[![]({{site.url}}/images/codemotion.png){: .align-center}]({{site.url}}/images/codemotion.png)
+[![]({{site.url}}/assets/images/codemotion.png){: .align-center}]({{site.url}}/assets/images/codemotion.png)
   
 Altra cosa interessante era **la presenza massiccia di molte aziende**,
 soprattutto di IT, sviluppo e consulting, alle quali potevi andare al loro

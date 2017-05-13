@@ -84,7 +84,7 @@ google_ad_slot           : "8253794087"
 # Site Author
 author:
   name             : "Diego Russo"
-  avatar           : "diegor.jpg"
+  avatar           : "assets/images/diegor.jpg"
   bio              : "smile :)"
   location         : "Cambridge"
   email            : "me@diegor.it"

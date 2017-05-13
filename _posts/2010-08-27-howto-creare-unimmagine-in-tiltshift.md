@@ -19,7 +19,7 @@ dispositivi mobili che ti permettono di creare foto "tiltshiftate".
 
 Per spiegare cosa è il tiltshift, basta guardare la foto sottostante.
 
-[![]({{site.url}}/images/firsttiltshift.jpg){: .align-center}]({{site.url}}/images/firsttiltshift.jpg)
+[![]({{site.url}}/assets/images/firsttiltshift.jpg){: .align-center}]({{site.url}}/assets/images/firsttiltshift.jpg)
 
 Questa immagina l'ho creata con il mio vecchio **iPhone 3GS** e con
 l'applicazione [TiltShift Generator](http://itunes.apple.com/it/app/tiltshift-generator-fake-miniature/id327716311?mt=8),
