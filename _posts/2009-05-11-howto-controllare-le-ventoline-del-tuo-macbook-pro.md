@@ -12,7 +12,7 @@ pagina](http://homepage.mac.com/holtmann/eidac/software/software.html),
 copialo nella cartella **"Applicazioni"** ed avvialo. Vedrai un'icona nella
 barra di stato come nell'immagine sottostante.
 
-[![smc]({{site.url}}/images/smc.png){: .align-center}]({{site.url}}/images/smc.png)
+[![smc]({{site.url}}/assets/images/smc.png){: .align-center}]({{site.url}}/assets/images/smc.png)
 _Preferenze di smcFanControl_
 {: .text-center}
 

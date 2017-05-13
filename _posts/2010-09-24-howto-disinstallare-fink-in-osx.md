@@ -14,7 +14,7 @@ presenti in Debian. Personalmente uso i [Macports](http://www.macports.org/)
 ed ho installato [Fink](http://www.finkproject.org) solo una volta per provare
 dei pacchetti che non erano presenti nei [Macports](http://www.macports.org/).
 
-[![]({{site.url}}/images/fink_logo.png){: .align-center}]({{site.url}}/images/fink_logo.png)
+[![]({{site.url}}/assets/images/fink_logo.png){: .align-center}]({{site.url}}/assets/images/fink_logo.png)
   
 Così ho deciso di **disinstallarlo** seguendo questi semplici passi:
 

@@ -13,7 +13,7 @@ sa fare solo in inglese e senza installare nessun software aggiuntivo. É
 dotato di [VoiceOver](http://www.apple.com/accessibility/voiceover/) per
 rendere accessibile l'utilizzo di OSX agli ipovedenti e non vedenti.
 
-[![]({{site.url}}/images/voice_over.jpg){: .align-center}]({{site.url}}/images/voice_over.jpg)
+[![]({{site.url}}/assets/images/voice_over.jpg){: .align-center}]({{site.url}}/assets/images/voice_over.jpg)
   
 Dunque oltre a leggere quello che "vede" sullo schermo puoi fargli leggere
 delle frasi a tuo piacimento o sentire come e la pronuncia **in inglese** di

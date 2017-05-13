@@ -7,7 +7,7 @@ tags:
 - thoughts
 - driving
 ---
-[![]({{site.url}}/images/drunkeffect.jpg){: .align-center}]({{site.url}}/images/drunkeffect.jpg)
+[![]({{site.url}}/assets/images/drunkeffect.jpg){: .align-center}]({{site.url}}/assets/images/drunkeffect.jpg)
 _L'immagine non ha bisogno di didascalie_
 {: .text-center}
 

@@ -15,7 +15,7 @@ radio) vedere chi è collegato in quel canale, premere il tasto e parlare con
 le persone di quel canale. Ovviamente **la comunicazione è half-duplex**, come
 nella comunicazione classica radioamatoriale.
 
-[![tilimi_logo]({{site.url}}/images/tilimi_logo.png){: .align-center}]({{site.url}}/images/tilimi_logo.png)
+[![tilimi_logo]({{site.url}}/assets/images/tilimi_logo.png){: .align-center}]({{site.url}}/assets/images/tilimi_logo.png)
 _Logo di Tilimi_
 {: .text-center}
 

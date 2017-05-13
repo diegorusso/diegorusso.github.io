@@ -19,7 +19,7 @@ Io uso Prism per il mio sito. Questa piattaforma usa wordpress che è
 compatibile con Gears. Se provassi a installare Gears su Prism sicuramente
 riceverai il seguente messaggio:
 
-[![incompatible_gears]({{site.url}}/images/incompatible_gears.png){: .align-center}]({{site.url}}/images/incompatible_gears.png)
+[![incompatible_gears]({{site.url}}/assets/images/incompatible_gears.png){: .align-center}]({{site.url}}/assets/images/incompatible_gears.png)
 
 Il trucco è far credere a Google Gears che l'applicazione che gira su Prism e
 compatibile con lui. É molto semplice, segui questi punti:

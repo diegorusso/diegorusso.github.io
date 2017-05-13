@@ -16,7 +16,7 @@ aspettavo dal 2008. Classica domanda spiazzatrice. Non sapevo cosa rispondere.
 Forse perché non sono il tipo da queste domande. Quello che mi ha toccato però
 non e stata la mia risposta... ma la sua!    
 
-[![contachilometri]({{site.url}}/images/contachilometri.jpg){: .align-center}]({{site.url}}/images/contachilometri.jpg "contachilometri" )
+[![contachilometri]({{site.url}}/assets/images/contachilometri.jpg){: .align-center}]({{site.url}}/assets/images/contachilometri.jpg "contachilometri" )
 
 Io ho chiesto: _"E tu cosa vorresti fare nel 2008?"_ 10 secondi di pausa... e
 lui: __"Fare la differenza"__  

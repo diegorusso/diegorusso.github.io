@@ -12,7 +12,7 @@ Ho deciso di cambiare l'hosting del mio blog. Ci è voluto un
 po' a sistemarlo (anche se non ho ancora del tutto finito) ma la cosa
 importante che abbia sistemato le cose principali.
 
-[![barca]({{site.url}}/images/barca.jpg){: .align-center}]({{site.url}}/images/barca.jpg "barca" )
+[![barca]({{site.url}}/assets/images/barca.jpg){: .align-center}]({{site.url}}/assets/images/barca.jpg "barca" )
 
 Ho cercato di rispecchiare il più possibile il layout del vecchio blog. Il
 vecchio blog rimarrà aperto solo per reindirizzare chiunque mi abbia cercato

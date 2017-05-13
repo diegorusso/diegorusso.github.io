@@ -13,7 +13,7 @@ cosa si sta facendo. Io lo avevo da tempo ma non l'ho mai utilizzato. Ora l'ho
 configurato con il mio account di gtalk, così posso postare mandando
 semplicemente un messaggio e senza loggarmi nel loro sito. Molto comodo.
 
-![]({{site.url}}/images/twitter.png){: .align-center}
+![]({{site.url}}/assets/images/twitter.png){: .align-center}
 
 Se volete sapere cosa sto facendo basta andare qui
 <http://twitter.com/diegor>. Se anche voi vi iscriverete aggiungetemi alla

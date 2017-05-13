@@ -12,7 +12,7 @@ is a great mail client provided with OSX. It works very well, fully integrated
 and fast. Sometimes it goes crazy and doesn't indexing mails' content with
 the impossibility to perform research based on it.
 
-[![]({{site.url}}/images/mail.png){: .align-center}]({{site.url}}/images/mail.png)
+[![]({{site.url}}/assets/images/mail.png){: .align-center}]({{site.url}}/assets/images/mail.png)
   
 After some research over the web, the problem is in
 "[spotlight](http://www.apple.com/macosx/what-is-macosx/spotlight.html)". Yes,

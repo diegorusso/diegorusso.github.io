@@ -12,7 +12,7 @@ della repubblica leggo questo articolo.
 **["Sessanta milioni di donne scomparse in un anno"](http://www.repubblica.it/www1/dossier/unic/women/women.html)**
 {: .text-center}
 
-[![]({{site.url}}/images/italia.jpg){: .align-center}]({{site.url}}/images/italia.jpg)
+[![]({{site.url}}/assets/images/italia.jpg){: .align-center}]({{site.url}}/assets/images/italia.jpg)
 
 Ora mi chiedo una cosa... ma che CAZZO avete da festeggiare?!?! Il culo a
 Costantino (lui è solo il capro espiatorio) lo potete vedere tutto l'anno. Non

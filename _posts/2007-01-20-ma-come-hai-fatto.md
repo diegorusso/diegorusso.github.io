@@ -20,7 +20,7 @@ qualcuno che mi chiede: "ma come hai fatto?", "che programma hai usato?",
 ognuno (giustamente) la storia di questa immagine. Ah prima di andare
 avanti... questa qui sotto è l'immagine:
 
-[![]({{site.url}}/images/mycaricature.png){: .align-center}]({{site.url}}/images/mycaricature.png)
+[![]({{site.url}}/assets/images/mycaricature.png){: .align-center}]({{site.url}}/assets/images/mycaricature.png)
 
 Fica eh?!? A me piace da morire,
 sembro io disegnato... hahaha! Troppo simpatica! :) Comunque ora vi rispondo.

@@ -15,7 +15,7 @@ accedere ad un **listino scontato dei suoi prodotti.** Questi sono tutti i mac
 tutte le informazioni del caso. Da programma, **ogni persona può avere accesso
 allo sconto di un portatile ed un fisso per anno accademico.**
 
-[![]({{site.url}}/images/apple-education.png){: .align-center}]({{site.url}}/images/apple-education.png)
+[![]({{site.url}}/assets/images/apple-education.png){: .align-center}]({{site.url}}/assets/images/apple-education.png)
 
 In questo post però vorrei condividere la mia esperienza dell'acquisto
 dell'ultimo modello di **MacBook Pro 15'**. Essendo iscritto regolarmente

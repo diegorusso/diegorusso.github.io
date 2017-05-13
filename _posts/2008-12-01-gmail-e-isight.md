@@ -15,7 +15,7 @@ me) hanno avuto problemi riguardanti il video: quello che succedeva è che non
 si riceveva il video della persona dall'altra parte della comunicazione con il
 risultato di una **"black box".** (vedi immagine sottostante)
 
-[![]({{site.url}}/images/iSight.png){: .align-center}]({{site.url}}/images/iSight.png)
+[![]({{site.url}}/assets/images/iSight.png){: .align-center}]({{site.url}}/assets/images/iSight.png)
 
 Su google groups ci sono state molte discussioni riguardante questo problema e
 finalmente ho trovato la soluzione: **_"disattivare postgresql!"_**  

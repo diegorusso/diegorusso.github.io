@@ -16,7 +16,7 @@ tipologia di filesystem utilizzato. Steam in fase di installazione vuole un
 **file system non case sensitive**, ovvero dove la lettera minuscola e la
 lettera Maiuscola sono due caratteri uguali.
 
-[![]({{site.url}}/images/logo_steam.jpg){: .align-center}]({{site.url}}/images/logo_steam.jpg)
+[![]({{site.url}}/assets/images/logo_steam.jpg){: .align-center}]({{site.url}}/assets/images/logo_steam.jpg)
 _Logo di Steam :)_
 {: .text-center}
 

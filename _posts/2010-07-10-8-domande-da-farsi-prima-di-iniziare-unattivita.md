@@ -17,7 +17,7 @@ Dunque prima di iniziare un'attività sarebbe opportuno che ti domandassi una
 serie di domande per capire se quello che andrai a fare è una perdita di tempo
 oppure può essere un'occasione. Let's go! :)
 
-[![]({{site.url}}/images/startup.jpg){: .align-center}]({{site.url}}/images/startup.jpg)
+[![]({{site.url}}/assets/images/startup.jpg){: .align-center}]({{site.url}}/assets/images/startup.jpg)
 
 ### 1\. Cosa vuoi fare?
   

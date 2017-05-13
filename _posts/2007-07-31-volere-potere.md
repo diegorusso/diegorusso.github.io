@@ -11,7 +11,7 @@ Molti dicono che e vero, ma io sono fermamente convinto che** questa
 uguaglianza non sia vera**. O meglio forse _manca qualche cosa_ che la rende
 tale.
 
-[![potere]({{site.url}}/images/potere.jpg){: .align-center}]({{site.url}}/images/potere.jpg "potere" )
+[![potere]({{site.url}}/assets/images/potere.jpg){: .align-center}]({{site.url}}/assets/images/potere.jpg "potere" )
 
 Stamane ho assistito ad una scena dove il _"volere fare"_ ed il _"poter fare"_
 erano **molto lontani tra di loro**. Di fronte a questa scena, non nascondo

@@ -21,7 +21,7 @@ aprender y amar el español. Con el paso del tiempo este idioma me gustó
 siempre mas. **De hecho hoy tengo mi iPhone, mi OSX, mi Gmail en español así
 cada vez puedo leo en español**.
 
-[![]({{site.url}}/images/Spanish_flag.jpg){: .align-center}]({{site.url}}/images/Spanish_flag.jpg)
+[![]({{site.url}}/assets/images/Spanish_flag.jpg){: .align-center}]({{site.url}}/assets/images/Spanish_flag.jpg)
 
 Ademas tengo amigos españoles en Gtalk y en Facebook para hablar con ellos. El
 año pasato atendí una clase de español y **en mayo 2010 tuve exito al

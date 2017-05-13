@@ -15,7 +15,7 @@ il prezzo del metano, i kg (il metano si misura in kg e non in lt), il prezzo
 del rifornimento ed ovviamente i km percorsi. A questo punto penserete se sono
 matto. **La risposta è SI! :)**
 
-[![]({{site.url}}/images/prezzi_metano.jpg){: .align-center}]({{site.url}}/images/prezzi_metano.jpg "{{site.url}}/images/prezzi_metano.jpg" )
+[![]({{site.url}}/assets/images/prezzi_metano.jpg){: .align-center}]({{site.url}}/assets/images/prezzi_metano.jpg "{{site.url}}/assets/images/prezzi_metano.jpg" )
 
 Passiamo ora ai conti e all'economia (quella vera!!!). Tutti i dati si
 riferiscono al periodo che va **dal 02/04/2007 al 06/04/2008 (un anno).  

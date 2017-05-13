@@ -19,7 +19,7 @@ rivolto ai meno esperti, per permettere loro di imparare ad utilizzare Ubuntu su
 Se non sai cosa è Ubuntu, vai sul [sito ufficiale del progetto](http://www.ubuntusemplice.org/)
 e leggi. Lì troverai tutte le informazioni necessarie.  
   
-[![]({{site.url}}/images/Ubuntu_by-olivier-saraja_small.jpg){: .align-center}]({{site.url}}/images/Ubuntu_by-olivier-saraja_small.jpg)  
+[![]({{site.url}}/assets/images/Ubuntu_by-olivier-saraja_small.jpg){: .align-center}]({{site.url}}/assets/images/Ubuntu_by-olivier-saraja_small.jpg)  
   
 [Simone](http://www.ubuntista.it/), io ed altri collaboratori abbiamo iniziato
 il progetto nel settembre 2006. Il nostro obbiettivo era di terminare il libro

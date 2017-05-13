@@ -20,7 +20,7 @@ tanto ho voglia di ascoltare un nuovo cantante (anche quelli snobbati), per poi
 giudicarlo, criticarlo, per sentire nuova musica ed aprire la mente a nuovi
 testi. Così ho fatto con lui.  
   
-[![]({{site.url}}/images/fpv19.jpg){: .align-center}]({{site.url}}/images/fpv19.jpg)  
+[![]({{site.url}}/assets/images/fpv19.jpg){: .align-center}]({{site.url}}/assets/images/fpv19.jpg)  
 _«L'amore non è che si cerca. Capita»_
 {: .text-center}
   
@@ -35,7 +35,7 @@ cantautori se ne fregano di scrivere testo per vendere. E' sufficiente
 scrivere con il cuore (o con lo stomaco, come il nostro Vasco), scrivere
 esperienze, scrivere cose VERE che la vendita viene da se.  
 
-[![]({{site.url}}/images/miefoto10.jpg){: .align-center}]({{site.url}}/images/miefoto10.jpg)
+[![]({{site.url}}/assets/images/miefoto10.jpg){: .align-center}]({{site.url}}/assets/images/miefoto10.jpg)
 _Incontriamoci nella mia anima e vi convincerò..._
 {: .text-center}
 
@@ -58,7 +58,7 @@ Francesco (Rossi) abbiamo rincoglionito letteralmente Simone (quello del blog
 qui accanto) sia con Franco, Vasco, Renato etc. al punto che al nostro ritorno
 è stato lui ad organizzare la serata al Country! :)  
   
-[![]({{site.url}}/images/2006-12-30_Madrid_169.jpg){: .align-center}]({{site.url}}/images/2006-12-30_Madrid_169.jpg)
+[![]({{site.url}}/assets/images/2006-12-30_Madrid_169.jpg){: .align-center}]({{site.url}}/assets/images/2006-12-30_Madrid_169.jpg)
 io, Simone, Francesco e Chiara (Madrid 2007)
 {: .text-center}
   

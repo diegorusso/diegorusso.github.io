@@ -13,7 +13,7 @@ behavior of website with a slow connection, then "speedlimit" is for you. It's
 a small application (**preference pane** exactly) that you can find
 [here](http://mschrag.github.com/).
 
-[![]({{site.url}}/images/speedlimit.png){: .align-center}]({{site.url}}/images/speedlimit.png)
+[![]({{site.url}}/assets/images/speedlimit.png){: .align-center}]({{site.url}}/assets/images/speedlimit.png)
 
 The steps are very simple:
 

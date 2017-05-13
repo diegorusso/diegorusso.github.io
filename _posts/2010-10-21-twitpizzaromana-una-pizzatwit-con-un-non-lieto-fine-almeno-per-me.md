@@ -53,7 +53,7 @@ qui](http://twitter.com/#!/marcoMenu/twit-pizza-romana), sul profilo di
 
 Terminata la cena, la consueta foto di gruppo.
 
-[![]({{site.url}}/images/twitpizzaromana.jpg){: .align-center}]({{site.url}}/images/twitpizzaromana.jpg)
+[![]({{site.url}}/assets/images/twitpizzaromana.jpg){: .align-center}]({{site.url}}/assets/images/twitpizzaromana.jpg)
 
 Dopo la foto di gruppo, **il NON-lieto fine**. Ritornati all'auto
 (parcheggiata 200 metri dal locale), troviamo la portiera forzata ed il mio

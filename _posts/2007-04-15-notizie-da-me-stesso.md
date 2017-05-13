@@ -22,28 +22,28 @@ pappagalli, barbagianni (ODIO I BARBAGIANNI.. ma questa e un'altra storia!!!),
 due giochi acquatici. Il posto è una figata e se volete passare una bella
 giornata, andateci.. ne vale la pena! Qui sotto qualche foto.
 
-[![]({{site.url}}/images/img_1202.jpg){: .align-center}]({{site.url}}/images/img_1202.jpg)
+[![]({{site.url}}/assets/images/img_1202.jpg){: .align-center}]({{site.url}}/assets/images/img_1202.jpg)
 Wow! Ma chi e sto fico?
 {: .text-center}
 
-[![]({{site.url}}/images/img_1189.jpg){: .align-center}]({{site.url}}/images/img_1189.jpg)
+[![]({{site.url}}/assets/images/img_1189.jpg){: .align-center}]({{site.url}}/assets/images/img_1189.jpg)
 Delfini.. sono animali stupendi e intelligenti.  
 Hanno anche evitato la distruzione della terra.. stanno avanti! :)
 {: .text-center}
 
-[![]({{site.url}}/images/img_1178.jpg){: .align-center}]({{site.url}}/images/img_1178.jpg)
+[![]({{site.url}}/assets/images/img_1178.jpg){: .align-center}]({{site.url}}/assets/images/img_1178.jpg)
 Ma ciao!!! :)
 {: .text-center}
 
-[![]({{site.url}}/images/img_1134.jpg){: .align-center}]({{site.url}}/images/img_1134.jpg)
+[![]({{site.url}}/assets/images/img_1134.jpg){: .align-center}]({{site.url}}/assets/images/img_1134.jpg)
 Falco in guardia!!
 {: .text-center}
 
-[![]({{site.url}}/images/img_1112.jpg){: .align-center}]({{site.url}}/images/img_1112.jpg)
+[![]({{site.url}}/assets/images/img_1112.jpg){: .align-center}]({{site.url}}/assets/images/img_1112.jpg)
 Leone marino
 {: .text-center}
 
-[![]({{site.url}}/images/img_1096.jpg){: .align-center}]({{site.url}}/images/img_1096.jpg)
+[![]({{site.url}}/assets/images/img_1096.jpg){: .align-center}]({{site.url}}/assets/images/img_1096.jpg)
 Quattro animali in via di estinzione
 {: .text-center}
 
@@ -55,7 +55,7 @@ chi magari perché obbligato, chi per solo piacere, si ha una seconda vita.
 Questo sono io in Second Life alle prese con la mia prima costruzione! Un
 aereo! :)
 
-[![]({{site.url}}/images/second_life.jpg){: .align-center}]({{site.url}}/images/second_life.jpg)
+[![]({{site.url}}/assets/images/second_life.jpg){: .align-center}]({{site.url}}/assets/images/second_life.jpg)
 Io, costruttore di aerei.. hahaha! :)
 {: .text-center}
   
@@ -73,15 +73,15 @@ non c'era il BARBAGIANNI! La partenza verso le 4:30 per una colazione
 all'etrusca ed un rientro a casa con il sole alto. Questi piaceri in SL non
 credo che si provino! :)
 
-[![]({{site.url}}/images/img_1265.jpg){: .align-center}]({{site.url}}/images/img_1265.jpg)
+[![]({{site.url}}/assets/images/img_1265.jpg){: .align-center}]({{site.url}}/assets/images/img_1265.jpg)
 La combriccola.. che facce!!!
 {: .text-center}
 
-[![]({{site.url}}/images/img_1259.jpg){: .align-center}]({{site.url}}/images/img_1259.jpg)
+[![]({{site.url}}/assets/images/img_1259.jpg){: .align-center}]({{site.url}}/assets/images/img_1259.jpg)
 Vasca con vapori..
 {: .text-center}
 
-[![]({{site.url}}/images/img_1257.jpg){: .align-center}]({{site.url}}/images/img_1257.jpg)
+[![]({{site.url}}/assets/images/img_1257.jpg){: .align-center}]({{site.url}}/assets/images/img_1257.jpg)
 Stessa vasca da un'angolazione diversa.
 {: .text-center}
 

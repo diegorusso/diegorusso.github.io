@@ -21,7 +21,7 @@ Vedrai che ti si aprirà il **Finder** nella stessa cartella in cui ti trovi
 nel Terminale. Il comando ha la stessa funzione del _"doppio click"_ del
 mouse.
 
-[![]({{site.url}}/images/open-osx.png){: .align-center}]({{site.url}}/images/open-osx.png)
+[![]({{site.url}}/assets/images/open-osx.png){: .align-center}]({{site.url}}/assets/images/open-osx.png)
 
 Infatti se per esempio digiti
 

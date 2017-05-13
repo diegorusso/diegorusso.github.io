@@ -21,7 +21,7 @@ dell'**_[Heineken Jammin' Festival]({{site.url}}/2007/02/19/heineken-jammin-fest
 A pensare che quando Serena mi propose di accompagnarla alla data di Roma,
 neanche volevo accettare. Fortunatamente non l'ho fatto.
 
-[![grazie]({{site.url}}/images/grazie-blog.png){: .align-center}]({{site.url}}/images/grazie-blog.png "grazie" )  
+[![grazie]({{site.url}}/assets/images/grazie-blog.png){: .align-center}]({{site.url}}/assets/images/grazie-blog.png "grazie" )  
 
 **_"Le stelle stanno in cielo  
 e i Sogni....non lo so  

@@ -8,4 +8,4 @@ tags:
 ---
 ... ci sono altri tipi di pagamento, ovviamente! :)  
 
-[![soldi]({{site.url}}/images/soldi.jpg){: .align-center}]({{site.url}}/images/soldi.jpg "soldi" )
+[![soldi]({{site.url}}/assets/images/soldi.jpg){: .align-center}]({{site.url}}/assets/images/soldi.jpg "soldi" )

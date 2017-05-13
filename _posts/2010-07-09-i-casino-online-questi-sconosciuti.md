@@ -22,7 +22,7 @@ una serie di siti informativi, con le [recensioni dei
 casinò](http://www.casinorecensioni.com) e mille diverse offerte per bonus dei
 casinò che invitino a giocare.
 
-[![]({{site.url}}/images/casino.jpg){: .align-center}]({{site.url}}/images/casino.jpg)
+[![]({{site.url}}/assets/images/casino.jpg){: .align-center}]({{site.url}}/assets/images/casino.jpg)
   
 Dichiarati illegali fino a qualche anno fa, ormai uno dopo l'altro tutti gli
 stati sovrani stanno piegando la testa di fronte all'impossibilità tecnica di

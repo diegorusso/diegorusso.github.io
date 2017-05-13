@@ -34,7 +34,7 @@ seleziona Mastercard ed immetti tutti i dati della Carta di Credito. Appena
 hai fatto salva e poi passa alla "Conferma della Carta di Credito". A questo
 punto PayPal mi da questo errore:
 
-[![paypal_error]({{site.url}}/images/paypal_error.png){: .align-center}]({{site.url}}/images/paypal_error.png)
+[![paypal_error]({{site.url}}/assets/images/paypal_error.png){: .align-center}]({{site.url}}/assets/images/paypal_error.png)
 
 In verità, le prime volte che ho fatto
 questa operazione il messaggio era il seguente: **"Questa carta di credito è

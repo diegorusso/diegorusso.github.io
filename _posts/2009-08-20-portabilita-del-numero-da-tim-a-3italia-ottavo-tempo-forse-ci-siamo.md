@@ -9,7 +9,7 @@ tags:
 Oggi sull'[areaclienti del sito di 3Italia](http://areaclienti.tre.it) vedo
 che lo stato della mia portabilità e cambiato:
 
-[![stato_portabilita]({{site.url}}/images/stato_portabilita.png){: .align-center}]({{site.url}}/images/stato_portabilita.png)
+[![stato_portabilita]({{site.url}}/assets/images/stato_portabilita.png){: .align-center}]({{site.url}}/assets/images/stato_portabilita.png)
 Da notare lo stato della richiesta che ora è
 **"Accettata e in lavorazione"** mentre la data prevista è per lunedì **24
 agosto 2009 (sesta data)!!!** Forse questa volta ci siamo e questi dati

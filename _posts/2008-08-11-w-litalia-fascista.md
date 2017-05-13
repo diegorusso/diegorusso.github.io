@@ -41,7 +41,7 @@ chi non vuole supportare l'impero di Berlusconi._
 "http://www.zeusnews.it/index.php3?ar=stampa&cod=7957" )_"
 
   
-[![]({{site.url}}/images/silvio_berlusconi_fascista.jpg){: .align-center}]({{site.url}}/images/silvio_berlusconi_fascista.jpg)
+[![]({{site.url}}/assets/images/silvio_berlusconi_fascista.jpg){: .align-center}]({{site.url}}/assets/images/silvio_berlusconi_fascista.jpg)
 _Ma che cazzo ridi?!? Fascista di merda!_
 {: .text-center}
 

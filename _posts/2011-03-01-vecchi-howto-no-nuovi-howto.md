@@ -17,7 +17,7 @@ in lingua italiana**. Da oggi cosa succede? Da oggi principalmente **farò HOWTO
 ed articoli principalmente in inglese e spagnolo** ma... se vuoi un post sia
 tradotto in italiano, **fammelo sapere**, anche inviandomi una mail.
 
-[![]({{site.url}}/images/howtocc.jpg){: .align-center}]({{site.url}}/images/howtocc.jpg)
+[![]({{site.url}}/assets/images/howtocc.jpg){: .align-center}]({{site.url}}/assets/images/howtocc.jpg)
 
 Comunque farò del tutto per mantenere allineate le 3 lingue.. vediamo se
 riesco. Ah, se invece vuoi **darmi una mano nella traduzione** sappi che sei

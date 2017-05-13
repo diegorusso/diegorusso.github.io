@@ -58,7 +58,7 @@ Italia). Pensai.. cosa è successo? Poi mi ricordai che il giorno prima misi su
 PDF. Infatti fu proprio quell'azione a scatenare la tempesta di chiamate e
 mail.
 
-[![]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg){: .align-center}]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg)
+[![]({{site.url}}/assets/images/IMG_1050-2011-08-03-at-16-08-28.jpg){: .align-center}]({{site.url}}/assets/images/IMG_1050-2011-08-03-at-16-08-28.jpg)
 
 La prima domanda che mi sono fatto è stata: **perché?** La seconda è stata:
 **perché no?** Decisi di "buttarmi" nonostante il mio inglese non perfetto (a
@@ -120,7 +120,7 @@ a Cambridge così che anche in Norvegia potessero avere un feedback sulla
 persona. **Il pomeriggio del 3 agosto ricevetti entrambe le offerte: da
 Cambridge e da Trondheim.**
 
-[![]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg){: .align-center}]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg)
+[![]({{site.url}}/assets/images/IMG_2008-2011-08-22-at-19-04-22.jpg){: .align-center}]({{site.url}}/assets/images/IMG_2008-2011-08-22-at-19-04-22.jpg)
 
 Non ricordo la reazione che ebbi, ricordo che non ero più nella pelle. **Avevo
 3 offerte, avevo una scelta. Avevo delle opportunità, quelle che sognavo da

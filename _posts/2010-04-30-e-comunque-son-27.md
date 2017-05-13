@@ -28,7 +28,7 @@ e di questo ne posso solo andare fiero. É stato grazie al tempo che loro ora
 sono qui, **con me**. Vorrei condividere con te gli auguri che ho ricevuto da
 [Miriam](http://solomiri.blogspot.com), la mia ragazza:
 
-[![]({{site.url}}/images/auguri-from-miri.png){: .align-center}]({{site.url}}/images/auguri-from-miri.png)
+[![]({{site.url}}/assets/images/auguri-from-miri.png){: .align-center}]({{site.url}}/assets/images/auguri-from-miri.png)
 
 La canzone in questione è **"Standing Ovation"** del mitico Vasco. Non so,
 però mi ha fatto pensare, mi ha fatto sorridere: _"Ti ho pensato molto

@@ -11,7 +11,7 @@ essere molti, tra cui stanchezza, stress, sonno, lavoro, caldo... D'altro
 canto esistono rimedi naturali e artificiali per "curare" questo piccolo
 flagello **(a me personalmente il mal di testa mi azzera!)**
 
-[![piton]({{site.url}}/images/piton.jpg){: .align-center}](http://it.wikipedia.org/wiki/Severus_Piton "http://it.wikipedia.org/wiki/Severus_Piton" )
+[![piton]({{site.url}}/assets/images/piton.jpg){: .align-center}](http://it.wikipedia.org/wiki/Severus_Piton "http://it.wikipedia.org/wiki/Severus_Piton" )
 
 Che c'entra [Severus Piton](http://it.wikipedia.org/wiki/Severus_Piton
 "http://it.wikipedia.org/wiki/Severus_Piton" ) con il mal di testa? C'entra,

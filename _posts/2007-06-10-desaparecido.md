@@ -14,7 +14,7 @@ sono del tutto sparito. **Sono vivo. Sto bene.** Non mi è successo nulla di
 brutto, anzi. Diciamo che in questo ultimo periodo, ho avuto un po' (tanto) da
 fare.
 
-[![]({{site.url}}/images/io_senigallia.jpg){: .align-center}]({{site.url}}/images/io_senigallia.jpg)
+[![]({{site.url}}/assets/images/io_senigallia.jpg){: .align-center}]({{site.url}}/assets/images/io_senigallia.jpg)
 
 Seguo due (quasi tre) progetti e non trovo il tempo per fare nulla.
 Quando ho un pochino di tempo lo occupò per altre cose e quando finiscono
@@ -23,7 +23,7 @@ una persona molto speciale! Beh.. ci sarebbe da dire talmente tanto, che forse
 stare zitti e la migliore soluzione.
 
   
-[![]({{site.url}}/images/io_galle.jpg){: .align-center}]({{site.url}}/images/io_galle.jpg)  
+[![]({{site.url}}/assets/images/io_galle.jpg){: .align-center}]({{site.url}}/assets/images/io_galle.jpg)  
 
 Ragazzi, da oggi prometto di essere un po' più presente e ricordatevi che
 **diegor non si è scordato di voi!!!**

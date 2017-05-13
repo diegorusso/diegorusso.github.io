@@ -13,7 +13,7 @@ L'Italia fa [sempre più cagare](http://punto-informatico.it/p.aspx?i=2092327
 che ancora forse[ si salva!](http://www.beppegrillo.it/2007/10/la_legge_levipr.html
 "http://www.beppegrillo.it/2007/10/la_legge_levipr.html" )
 
-[![qualità un cazzo]({{site.url}}/images/italia.gif){: .align-center}]({{site.url}}/images/italia.gif
+[![qualità un cazzo]({{site.url}}/assets/images/italia.gif){: .align-center}]({{site.url}}/assets/images/italia.gif
 "qualità un cazzo" )
 
 _(na sega!)*_

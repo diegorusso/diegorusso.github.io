@@ -24,7 +24,7 @@ siamo spinti fino a quasi sotto il palchetto. Ad un certo punto arriva er
 Maestro e subito a scattare foto! :) Prima di tutto voglio farvi vedere la
 scaletta del concerto.  
 
-[![]({{site.url}}/images/scaletta.jpg){: .align-center}]({{site.url}}/images/scaletta.jpg)
+[![]({{site.url}}/assets/images/scaletta.jpg){: .align-center}]({{site.url}}/assets/images/scaletta.jpg)
 
 Ottima scaletta, ottime canzoni, ottime emozioni. Io sapevo che era così. Me lo
 sentivo. E' come noi, è uno di noi. Quando cantava, stavo lì a due metri e
@@ -36,7 +36,7 @@ canzoni), lui ci guardava e rideva. Non è un sorriso che dice: "Ma guarda sti
 cretini, non hanno un cazzo da fare che stare a gridare e saltare!". No,
 cazzo! Non è così! Sono sicuro, ci metterei la mano sul fuoco.  
 
-[![]({{site.url}}/images/IMG_0291.JPG){: .align-center}]({{site.url}}/images/IMG_0291.JPG)
+[![]({{site.url}}/assets/images/IMG_0291.JPG){: .align-center}]({{site.url}}/assets/images/IMG_0291.JPG)
   
 Lì, in mezzo a quel casino, stavo bene, mi sentivo come a casa, a mio agio. La
 stessa sensazione che ho provato quando sono andato a casa della mamma di
@@ -50,7 +50,7 @@ stava strillando ed ha smesso di cantarla. Rispetto... zero!!! Comunque la
 canzone in questione era "Avventura con un travestito". più che canzone, è uno
 stornello. Se potete, ascoltatela!
 
-[![]({{site.url}}/images/IMG_0268.JPG){: .align-center}]({{site.url}}/images/IMG_0268.JPG)
+[![]({{site.url}}/assets/images/IMG_0268.JPG){: .align-center}]({{site.url}}/assets/images/IMG_0268.JPG)
 
 Se domani avessi voglia e tempo metterò qualche foto della serata. Ora non mi
 resta che andare a dormire con un umore un po' più felice rispetto alle altre

@@ -13,7 +13,7 @@ importante che delle cazzate che scrivo qui. [Questo articolo](http://punto-info
 vi dovrebbe far capire in che razza di paese siamo. Non dico che tutte
 le università siano cosi, ma l'andazzo è questo. Spero solo che mi sbagli!!
 
-[![]({{site.url}}/images/priori.jpg){: .align-center}]({{site.url}}/images/priori.jpg)
+[![]({{site.url}}/assets/images/priori.jpg){: .align-center}]({{site.url}}/assets/images/priori.jpg)
 
 Inoltre, potete animare anche il [*fantastico* forum](http://www.informatica.unipg.it/phpbb/viewtopic.php?t=1054)
 dell'all'università di informatica di Perugia, visto che al momento NON FREGHI UN

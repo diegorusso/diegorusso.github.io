@@ -54,7 +54,7 @@ Da interfaccia grafica:
 2. Seleziona la voce **_"Network"_**
 3. Clicca in basso a sinistra sul pulsante **"+"**
 4. Ti apparira il tipo di interfaccia da creare (come l'immagine sottostante)
-    ![osx_alias]({{site.url}}/images/osx_alias.png){: .align-center}
+    ![osx_alias]({{site.url}}/assets/images/osx_alias.png){: .align-center}
 5. Appena selezionata clicca su **_"OK"_**
 6. Ora configura la tua interfaccia con l'ip desiderato
 7. Per eliminare l'interfaccia selezionarla e cliccare sul simbolo meno **"-"**

@@ -75,4 +75,4 @@ quelle persone che mi sono state vicine, mi hanno fatto crescere, mi hanno
 fatto diventare quel che sono. Inoltre vorrei ringraziare in anticipo tutte
 quelle persone che conoscero nel mio futuro e che incroceranno la mia strada.
 
-[![]({{site.url}}/images/Thank-You.gif){: .align-center}]({{site.url}}/images/Thank-You.gif)
+[![]({{site.url}}/assets/images/Thank-You.gif){: .align-center}]({{site.url}}/assets/images/Thank-You.gif)

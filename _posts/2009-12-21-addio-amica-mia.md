@@ -35,7 +35,7 @@ dovrò far smantellare, ti dovrò lasciare al tuo triste destino. Purtroppo le
 cose non durano per sempre e devo rassegnarmi. Addio mia piccola amica, ci
 mancherai!"
 
-[![]({{site.url}}/images/addio_escort.jpg){: .align-center}]({{site.url}}/images/addio_escort.jpg)
+[![]({{site.url}}/assets/images/addio_escort.jpg){: .align-center}]({{site.url}}/assets/images/addio_escort.jpg)
 
 Mi chiedo: **"Come è possibile affezionarsi a degli oggetti?"** Non sono
 persone o animali, sono semplice cose inanimate. Eppure a me è successo.

@@ -61,5 +61,5 @@ pensieri, nel mio cuore! Sei stata molto importante per me! Grazie di cuore.
 Concludo questa lettera (che non leggerai MAI) con una nostra e bellissima
 foto!_
 
-[![]({{site.url}}/images/IMG_0415.JPG){: .align-center}]({{site.url}}/images/IMG_0415.JPG)
+[![]({{site.url}}/assets/images/IMG_0415.JPG){: .align-center}]({{site.url}}/assets/images/IMG_0415.JPG)
 

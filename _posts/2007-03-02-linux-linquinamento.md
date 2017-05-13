@@ -15,7 +15,7 @@ dove cazzo vivi. Informati [qui](http://it.wikipedia.org/wiki/Linux),
 discorso, non sono completamente d'accordo su ciò che è scritto su
 quell'articolo. E' vero tutto ciò che dice, ma non considera i consumi.
 
-[![]({{site.url}}/images/386 mobo 1.JPG){: .align-center}]({{site.url}}/images/386 mobo 1.JPG)
+[![]({{site.url}}/assets/images/386 mobo 1.JPG){: .align-center}]({{site.url}}/assets/images/386 mobo 1.JPG)
 
 Un computer datato ha dei consumi in media più alti, dei computer attuali,
 questo perché la tecnologia va avanti anche in quel senso (nuovi processori a

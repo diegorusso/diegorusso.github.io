@@ -17,11 +17,11 @@ I siti dei loghi in questione sono questi:
     
 Ora, osserva bene i loghi:
 
-[![]({{site.url}}/images/logo_miro_example.png){: .align-center}]({{site.url}}/images/logo_miro_example.png)
+[![]({{site.url}}/assets/images/logo_miro_example.png){: .align-center}]({{site.url}}/assets/images/logo_miro_example.png)
 _Logo di Miro_
 {: .text-center}
 
-[]({{site.url}}/images/logo_miro_example.png) [![]({{site.url}}/images/logo_medinvest_example.png){: .align-center}]({{site.url}}/images/logo_medinvest_example.png)
+[]({{site.url}}/assets/images/logo_miro_example.png) [![]({{site.url}}/assets/images/logo_medinvest_example.png){: .align-center}]({{site.url}}/assets/images/logo_medinvest_example.png)
 _Logo di Medinvest_
 {: .text-center}
 

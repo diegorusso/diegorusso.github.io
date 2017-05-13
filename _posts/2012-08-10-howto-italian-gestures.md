@@ -20,11 +20,11 @@ As Italian, I like to show you how we Italians use gestures to communicate
 with other people. Following there are three images with the most popular
 Italian gestures.
 
-[![]({{site.url}}/images/italian-gestures-1.jpg){: .align-center}]({{site.url}}/images/italian-gestures-1.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-1.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-1.jpg)
 
-[![]({{site.url}}/images/italian-gestures-2.jpg){: .align-center}]({{site.url}}/images/italian-gestures-2.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-2.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-2.jpg)
 
-[![]({{site.url}}/images/italian-gestures-3.jpg){: .align-center}]({{site.url}}/images/italian-gestures-3.jpg)
+[![]({{site.url}}/assets/images/italian-gestures-3.jpg){: .align-center}]({{site.url}}/assets/images/italian-gestures-3.jpg)
 
 What do you prefer?
 

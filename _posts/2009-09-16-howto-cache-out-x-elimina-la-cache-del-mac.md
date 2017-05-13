@@ -20,7 +20,7 @@ cartelle del sistema**, liberando così GB di spazio.
 
 Qui di seguito l'interfaccia di questa applicazione:
 
-[![cache_out_x]({{site.url}}/images/cache_out_x.png){: .align-center}]({{site.url}}/images/cache_out_x.png)
+[![cache_out_x]({{site.url}}/assets/images/cache_out_x.png){: .align-center}]({{site.url}}/assets/images/cache_out_x.png)
 _Cache Out X ha un'interfaccia minimalista semplice ed intuitiva :)_  
 {: .text-center}
 

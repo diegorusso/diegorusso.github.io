@@ -141,7 +141,7 @@ avuto). Grazie a tutti voi per aver partecipato a questa giusta causa. **La
 donazione sarà però di 160$**, dovuto al cambio valuta. Grandi! :) Qui di
 seguito la prova della donazione:
 
-[![]({{site.url}}/images/donazione-acumen.png){: .align-center}]({{site.url}}/images/donazione-acumen.png)
+[![]({{site.url}}/assets/images/donazione-acumen.png){: .align-center}]({{site.url}}/assets/images/donazione-acumen.png)
 
 **Q: Per chi non è venuto, cosa vorresti dirgli?**  
 **A:** La serata e andata alla grande, così come la compagnia e le persone che

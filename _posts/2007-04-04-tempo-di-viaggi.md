@@ -20,15 +20,15 @@ ridere tutti quanti!
 
 Scegli la tua lingua! / Choose your language! / Decide tu idioma!  
 
-[![]({{site.url}}/images/terni-newyork_ita.png){: .align-center}]({{site.url}}/images/terni-newyork_ita.png)
+[![]({{site.url}}/assets/images/terni-newyork_ita.png){: .align-center}]({{site.url}}/assets/images/terni-newyork_ita.png)
 Clicca sulla immagine per ingrandirla.
 {: .text-center}
 
-[![]({{site.url}}/images/terni-newyork_eng.png){: .align-center}]({{site.url}}/images/terni-newyork_eng.png)
+[![]({{site.url}}/assets/images/terni-newyork_eng.png){: .align-center}]({{site.url}}/assets/images/terni-newyork_eng.png)
 Click on the image to enlarge it.
 {: .text-center}
 
-[![]({{site.url}}/images/terni_newyork_es.png){: .align-center}]({{site.url}}/images/terni_newyork_es.png)
+[![]({{site.url}}/assets/images/terni_newyork_es.png){: .align-center}]({{site.url}}/assets/images/terni_newyork_es.png)
 Clic su la imagen para extenderla.
 {: .text-center}
 

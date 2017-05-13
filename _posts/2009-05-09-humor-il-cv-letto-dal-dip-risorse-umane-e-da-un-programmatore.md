@@ -6,7 +6,7 @@ categories:
 tags:
 - job
 ---
-[![resume_comic]({{site.url}}/images/resume_comic.png){: .align-center}]({{site.url}}/images/resume_comic.png)
+[![resume_comic]({{site.url}}/assets/images/resume_comic.png){: .align-center}]({{site.url}}/assets/images/resume_comic.png)
 _L'immagine non ha bisogno di commenti! :)_
 {: .text-center}
 

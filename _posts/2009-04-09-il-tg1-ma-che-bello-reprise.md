@@ -11,7 +11,7 @@ vogliono essere lasciati anche in pace. Lo scrivono **anche in
 rosso**, per assicurarsi la visibilità.  
 Direttamente dal sito del TG1:
 
-[![tg1bastardo]({{site.url}}/images/tg1_bastardo.png){: .align-center}]({{site.url}}/images/tg1_bastardo.png)
+[![tg1bastardo]({{site.url}}/assets/images/tg1_bastardo.png){: .align-center}]({{site.url}}/assets/images/tg1_bastardo.png)
 _Clicca sull'immagine per incazzarti ingrandirla._
 {: .text-center}
 

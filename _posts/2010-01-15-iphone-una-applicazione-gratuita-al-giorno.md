@@ -21,7 +21,7 @@ A tal proposito è nato un sito che ti regala un'applicazione al giorno. Quello
 che devi fare è andare sul sito [freeappaday.com](freeappaday.com) e
 controllare quale applicazione è presente in quella giornata.
 
-[![]({{site.url}}/images/freeappaday.png){: .align-center}]({{site.url}}/images/freeappaday.png)
+[![]({{site.url}}/assets/images/freeappaday.png){: .align-center}]({{site.url}}/assets/images/freeappaday.png)
 
 Puoi seguire questo sito anche su [twitter](http://twitter.com/freeappaday) e
 restare aggiornato tramite mail sulle applicazioni che usciranno di giorno in

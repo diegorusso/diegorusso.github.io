@@ -13,7 +13,7 @@ tags:
 Sono passati ben 5 anni da quando ho smesso di fare
 kungfu. Sono stato obbligato per motivi di studio.
 
-[![]({{site.url}}/images/kungfu3.jpg){: .align-center}]({{site.url}}/images/kungfu3.jpg)
+[![]({{site.url}}/assets/images/kungfu3.jpg){: .align-center}]({{site.url}}/assets/images/kungfu3.jpg)
 _Chuck Norris disse: "Kung"... e Kung Fu! :P_
 {: .text-center}
 

@@ -19,8 +19,8 @@ me, ma poi le ho "distribuite" a vari amici! :)
 Il nome delle scarpe parla da solo e non ha bisogno di spiegazioni, basta
 guardare le foto sottostanti! :)
 
-[![five_fingers1]({{site.url}}/images/five_fingers1.JPG){: .align-center}]({{site.url}}/images/five_fingers1.JPG)
-[![five_fingers2]({{site.url}}/images/five_fingers2.JPG){: .align-center}]({{site.url}}/images/five_fingers2.JPG)
+[![five_fingers1]({{site.url}}/assets/images/five_fingers1.JPG){: .align-center}]({{site.url}}/assets/images/five_fingers1.JPG)
+[![five_fingers2]({{site.url}}/assets/images/five_fingers2.JPG){: .align-center}]({{site.url}}/assets/images/five_fingers2.JPG)
 
 Sicuramente avari delle domande che ti staranno balendando per la testa. Sei
 autorizzato a dirmi ed a chiedere tutto quello che vuoi. Le classiche domande

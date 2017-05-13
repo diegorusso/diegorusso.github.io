@@ -15,5 +15,5 @@ con l'account di [Simone](http://ubuntista.wordpress.com/2007/10/28/portatile-di
 interessa offrite, oppure domandate semplicemente! :)  
 [Buona asta!](http://cgi.ebay.it/ASUS-U5A-6001P-Pentium-M-750-1-86-GHz-12-1-TFT_W0QQitemZ230186200276QQihZ013QQcategoryZ46323QQssPageNameZWDVWQQrdZ1QQcmdZViewItem "http://cgi.ebay.it/ASUS-U5A-6001P-Pentium-M-750-1-86-GHz-12-1-TFT_W0QQitemZ230186200276QQihZ013QQcategoryZ46323QQssPageNameZWDVWQQrdZ1QQcmdZViewItem" )
 
-[![u5a]({{site.url}}/images/u5a.jpg){: .align-center}]({{site.url}}/images/u5a.jpg "u5a" )
+[![u5a]({{site.url}}/assets/images/u5a.jpg){: .align-center}]({{site.url}}/assets/images/u5a.jpg "u5a" )
 

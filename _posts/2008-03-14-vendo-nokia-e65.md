@@ -30,7 +30,7 @@ può fare comodo, dunque ho deciso di regalarvi anche il caricabatteria da
 auto: utile per chi viaggia spesso.**_ Qui sotto metto una foto:
   
 
-[![e65]({{site.url}}/images/nokiae65.jpg){: .align-center}]({{site.url}}/images/nokiae65.jpg
+[![e65]({{site.url}}/assets/images/nokiae65.jpg){: .align-center}]({{site.url}}/assets/images/nokiae65.jpg
 "e65" )
 
   

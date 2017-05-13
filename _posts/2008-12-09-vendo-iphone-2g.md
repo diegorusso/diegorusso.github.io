@@ -27,7 +27,7 @@ La versione è quella EDGE (no UMTS), 8GB e ha segni di normale usura. Funziona
 perfettamente in tutte le sue parti e lo do via veramente con dispiacere. Qui
 sotto una foto con tutto il corredo:
 
-[![]({{site.url}}/images/iPhone3.jpg){: .align-center}]({{site.url}}/images/iPhone3.jpg)  
+[![]({{site.url}}/assets/images/iPhone3.jpg){: .align-center}]({{site.url}}/assets/images/iPhone3.jpg)  
 _Come vedete c'è tutto! :)_
 {: .text-center}
 

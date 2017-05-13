@@ -8,7 +8,7 @@ tags:
 ---
 E che è sta cosa?!?
 
-[![]({{site.url}}/images/venturieclectic1.jpg){: .align-center}]({{site.url}}/images/venturieclectic1.jpg)
+[![]({{site.url}}/assets/images/venturieclectic1.jpg){: .align-center}]({{site.url}}/assets/images/venturieclectic1.jpg)
 
 Simone mi ha dato questo link
 

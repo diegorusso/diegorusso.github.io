@@ -46,7 +46,7 @@ Spero che non mi servi mai del sangue (non me la voglio tirare eh!), però se un
 dovesse succedere mi fa stare "tranquillo" il fatto che ce ne sia abbastanza in grado
 di aiutarmi. Si lo so.. la frase e orrenda, ma è così!  
   
-[![]({{site.url}}/images/avis.gif){: .align-center}]({{site.url}}/images/avis.gif)
+[![]({{site.url}}/assets/images/avis.gif){: .align-center}]({{site.url}}/assets/images/avis.gif)
 
 Stamane mentre stavo in ospedale ho visto un ragazzo di colore (max 27-28 anni) che
 stava facendo la fila per donare il sangue. Il dottore parlandoci gli ha

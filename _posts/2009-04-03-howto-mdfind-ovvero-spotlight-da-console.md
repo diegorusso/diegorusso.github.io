@@ -17,7 +17,7 @@ Spotlight li batte tutti.
 
 E' fatto molto bene ed e molto veloce. Ha un aspetto del genere:
 
-![spotlight]({{site.url}}/images/spotlight.png){: .align-center}
+![spotlight]({{site.url}}/assets/images/spotlight.png){: .align-center}
 _Questo e Spotlight_
 {: .text-center}
 

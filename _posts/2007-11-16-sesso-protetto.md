@@ -9,5 +9,5 @@ tags:
 ---
 Fatelo SEMPRE!  
 
-[![Sesso protetto]({{site.url}}/images/beforeyouopenit.jpg){: .align-center}]({{site.url}}/images/beforeyouopenit.jpg "Sesso protetto" )
+[![Sesso protetto]({{site.url}}/assets/images/beforeyouopenit.jpg){: .align-center}]({{site.url}}/assets/images/beforeyouopenit.jpg "Sesso protetto" )
 

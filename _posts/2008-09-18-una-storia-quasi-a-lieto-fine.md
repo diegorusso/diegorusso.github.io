@@ -20,7 +20,7 @@ Tra i circa 700 commenti, ho letto di una piccola iniziativa:
 "spammare" le principali mail dell'azienda in questione con il link a questa
 storia.  
 
-[![]({{site.url}}/images/carrefour.jpg){: .align-center}]({{site.url}}/images/carrefour.jpg)
+[![]({{site.url}}/assets/images/carrefour.jpg){: .align-center}]({{site.url}}/assets/images/carrefour.jpg)
 _Succede anche alle migliori famiglie!_
 {: .text-center}
 

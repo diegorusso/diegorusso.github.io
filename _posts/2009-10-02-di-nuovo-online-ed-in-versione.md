@@ -35,6 +35,6 @@ suggerimenti, consigli critiche ed altro, contattami! :)
 Visto che siamo in periodo di rinnovo oggi ho perso un po' di tempo per
 rimettere a posto anche il mio avatar. Spero ti piaccia! :)
 
-[![diegor]({{site.url}}/images/diegor.png){: .align-center}]({{site.url}}/images/diegor.png)
+[![diegor]({{site.url}}/assets/images/diegor.png){: .align-center}]({{site.url}}/assets/images/diegor.png)
 
 Per ora e tutto (più o meno). Ci sentiamo nei prossimi giorni! :)

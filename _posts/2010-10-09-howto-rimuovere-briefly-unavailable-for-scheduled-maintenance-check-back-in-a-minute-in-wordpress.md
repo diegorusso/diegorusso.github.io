@@ -15,7 +15,7 @@ punto vedo però qualche cosa che non va. Qualsiasi pagina chiamavo del mio
 sito (anche dell'admin) mi compariva il seguente messaggio: **"Briefly
 unavailable for scheduled maintenance. Check back in a minute."**
 
-[![]({{site.url}}/images/maintenance.png){: .align-center}]({{site.url}}/images/maintenance.png)
+[![]({{site.url}}/assets/images/maintenance.png){: .align-center}]({{site.url}}/assets/images/maintenance.png)
 
 Wordpress, quando aggiorna i plugins o temi, mette il sito in questo stato per
 evitare che delle richieste esterne possano interrompere la fase di
@@ -47,7 +47,7 @@ In SSH segui questi passi:
      ```
      dovrai vedere una schermata come la seguente:
 
-     [![]({{site.url}}/images/maintenance-console.png){: .align-center}]({{site.url}}/images/maintenance-console.png)
+     [![]({{site.url}}/assets/images/maintenance-console.png){: .align-center}]({{site.url}}/assets/images/maintenance-console.png)
      _il file `.maintenance` lo troviall'inizio della lista_
      {: .text-center}
   5. Per rimuovere il file digita: 

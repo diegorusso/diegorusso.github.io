@@ -14,7 +14,7 @@ scrivere questo post. Ancora sto a Madrid ed non parlerò di come sto, di come
 stanno andando le cose etc etc anche se qualche cosa c'entra. Dico solo che
 quando uno sta bene, il tempo vola via. Credo che basti, per ora! :)
   
-[![]({{site.url}}/images/tempo.jpg){: .align-center}]({{site.url}}/images/tempo.jpg)
+[![]({{site.url}}/assets/images/tempo.jpg){: .align-center}]({{site.url}}/assets/images/tempo.jpg)
 
 La metro e il tempo. Noi siamo quel "tio" in foto. Quando la metro si ferma noi saliamo e
 andiamo dove necessitiamo di andare. Però il tempo non si ferma, non ritorna

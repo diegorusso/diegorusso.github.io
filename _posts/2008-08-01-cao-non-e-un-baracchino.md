@@ -17,7 +17,7 @@ VX-7R](http://www.yaesu.it/index.aspx?m=53&did=87
 tribanda" operante sui 50MHz, 144MHz e 430MHz in trasmissione e da 0.5MHz a
 999MHz in ricezione. **Dunque è molto differente da un fottuto baracchino!**  
 
-[![]({{site.url}}/images/yaesu_vx-7r.jpg){: .align-center}]({{site.url}}/images/yaesu_vx-7r.jpg)
+[![]({{site.url}}/assets/images/yaesu_vx-7r.jpg){: .align-center}]({{site.url}}/assets/images/yaesu_vx-7r.jpg)
 
 _Chiamatelo come volete, ma non **"baracchino"**!_
 

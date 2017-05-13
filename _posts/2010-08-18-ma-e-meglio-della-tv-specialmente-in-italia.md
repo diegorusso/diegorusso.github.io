@@ -22,7 +22,7 @@ soprammobile, è un oggetto tecnologico, ci puoi attaccare il computer e
 console per giocarci, ci puoi vedere DVD. Il problema della TV, parte
 dall'antenna in poi. La TV è uno strumento **passivo**.
 
-[![]({{site.url}}/images/gugol.jpg){: .align-center}]({{site.url}}/images/gugol.jpg)
+[![]({{site.url}}/assets/images/gugol.jpg){: .align-center}]({{site.url}}/assets/images/gugol.jpg)
 
 **É per questo che non guardo la TV**. Ci sono tantissime cose da fare in quel momento.
 Per scrivere questo post prendo spunto dal blog di
@@ -98,7 +98,7 @@ Ultimamente solo con la TV satellitare si hanno più possibilità di avere
 accesso ad informazioni "globali". **Ma sono sicuro che lo fanno solo le
 persone che sono "già sveglie" e che già "hanno gli stimoli adatti".**
 
-[![]({{site.url}}/images/aispickinglisc.jpg){: .align-center}]({{site.url}}/images/aispickinglisc.jpg)
+[![]({{site.url}}/assets/images/aispickinglisc.jpg){: .align-center}]({{site.url}}/assets/images/aispickinglisc.jpg)
   
 Purtroppo (meglio per fortuna) con l'inglese abbiamo un accesso alla
 conoscenza globale senza precedenti. E mi dispiace che gran parte degli

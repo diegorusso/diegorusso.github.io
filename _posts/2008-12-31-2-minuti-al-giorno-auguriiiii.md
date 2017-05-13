@@ -65,10 +65,10 @@ Ora concludo altrimenti arriviamo al 2009 che ancora sto scrivendo. Devo dire
 lascio con qualche immagine con la speranza di strapparvi un sorriso e di
 **augurarvi un buon 2009 ed un buon continuo della vostra vita.**
 
-[![]({{site.url}}/images/smile1.jpg){: .align-center}]({{site.url}}/images/smile1.jpg)
-[![]({{site.url}}/images/smile2.jpg){: .align-center}]({{site.url}}/images/smile2.jpg)
-[![]({{site.url}}/images/smile3.gif){: .align-center}]({{site.url}}/images/smile3.gif)
-[![]({{site.url}}/images/smile4.jpg){: .align-center}]({{site.url}}/images/smile4.jpg)
-[![]({{site.url}}/images/smile5.jpg){: .align-center}]({{site.url}}/images/smile5.jpg)
-[![]({{site.url}}/images/smile6.jpg){: .align-center}]({{site.url}}/images/smile6.jpg)
-[![]({{site.url}}/images/smile7.jpg){: .align-center}]({{site.url}}/images/smile7.jpg)
+[![]({{site.url}}/assets/images/smile1.jpg){: .align-center}]({{site.url}}/assets/images/smile1.jpg)
+[![]({{site.url}}/assets/images/smile2.jpg){: .align-center}]({{site.url}}/assets/images/smile2.jpg)
+[![]({{site.url}}/assets/images/smile3.gif){: .align-center}]({{site.url}}/assets/images/smile3.gif)
+[![]({{site.url}}/assets/images/smile4.jpg){: .align-center}]({{site.url}}/assets/images/smile4.jpg)
+[![]({{site.url}}/assets/images/smile5.jpg){: .align-center}]({{site.url}}/assets/images/smile5.jpg)
+[![]({{site.url}}/assets/images/smile6.jpg){: .align-center}]({{site.url}}/assets/images/smile6.jpg)
+[![]({{site.url}}/assets/images/smile7.jpg){: .align-center}]({{site.url}}/assets/images/smile7.jpg)

@@ -12,7 +12,7 @@ subito una cosa: **Firefox Home non è un browser**. É un'applicazione che
 sincronizza la tua history, tabs ed altre informazioni con il tuo Firefox che
 hai sul Mac o Pc.
 
-[![]({{site.url}}/images/ff-home.jpg){: .align-center}]({{site.url}}/images/ff-home.jpg)
+[![]({{site.url}}/assets/images/ff-home.jpg){: .align-center}]({{site.url}}/assets/images/ff-home.jpg)
 
 I passi da fare sono i seguenti:
 
@@ -32,7 +32,7 @@ questa maniera:
   1. Apri Firefox e vai sulle Preferenze
   2. Clicca su tab Privacy e seleziona "Ricorda storia" (o qualche cosa del genere)
 
-[![]({{site.url}}/images/firefox-privacy.png){: .align-center}]({{site.url}}/images/firefox-privacy.png)
+[![]({{site.url}}/assets/images/firefox-privacy.png){: .align-center}]({{site.url}}/assets/images/firefox-privacy.png)
 
 In questo modo permetti a Firefox di sincronizzare i tuoi dati e di
 ritrovarteli su Firefox Home.

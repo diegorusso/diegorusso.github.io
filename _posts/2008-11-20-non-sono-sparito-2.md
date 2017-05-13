@@ -7,7 +7,7 @@ tags:
 - friends
 - thoughts
 ---
-[![]({{site.url}}/images/luciano.jpg){: .align-center}]({{site.url}}/images/luciano.jpg)
+[![]({{site.url}}/assets/images/luciano.jpg){: .align-center}]({{site.url}}/assets/images/luciano.jpg)
 
 ...voglio stare solo un po' in silenzio.
 

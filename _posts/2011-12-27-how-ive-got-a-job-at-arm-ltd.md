@@ -54,7 +54,7 @@ thought... What's happening? Then I remembered that the day before I put my CV
 (in english) as PDF on [monster.com](http://www.monster.com). In fact it was
 this action to trigger the storm of calls and mails.
 
-[![]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg){: .align-center}]({{site.url}}/images/IMG_1050-2011-08-03-at-16-08-28.jpg)
+[![]({{site.url}}/assets/images/IMG_1050-2011-08-03-at-16-08-28.jpg){: .align-center}]({{site.url}}/assets/images/IMG_1050-2011-08-03-at-16-08-28.jpg)
 
 My first question that I asked to myself was: **why?** The second one was:
 **why not?** I decided to "throw me out" despite my not perfect-english (in
@@ -111,7 +111,7 @@ my situation and I gave the name of who I talked to in Cambridge in order
 to have a feedback about my person. **On August 3rd, in the afternoon I
 receive both the offers: from Cambridge and from Trondheim.**
 
-[![]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg){: .align-center}]({{site.url}}/images/IMG_2008-2011-08-22-at-19-04-22.jpg)
+[![]({{site.url}}/assets/images/IMG_2008-2011-08-22-at-19-04-22.jpg){: .align-center}]({{site.url}}/assets/images/IMG_2008-2011-08-22-at-19-04-22.jpg)
 
 I can't remember my reaction, but I remember that I was very excited! **I had
 3 offers, I had a choice. I had opportunities, the ones that I've been dreaming of

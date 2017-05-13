@@ -25,7 +25,7 @@ cui scrivevi cose che a voce non avresti detto mai.
 A pari passo con l'era mobile, ora ci sono i social network, ovvero **"i cazzi
 nostri su web".**
 
-[![feliz_cumpleanos]({{site.url}}/images/feliz_cumpleanos.png){: .align-center}]({{site.url}}/images/feliz_cumpleanos.png)
+[![feliz_cumpleanos]({{site.url}}/assets/images/feliz_cumpleanos.png){: .align-center}]({{site.url}}/assets/images/feliz_cumpleanos.png)
 
 Ovviamente mettendo la tua data di nascita in questi siti, il resto del mondo
 sa che il **30 aprile** è il tuo compleanno.  

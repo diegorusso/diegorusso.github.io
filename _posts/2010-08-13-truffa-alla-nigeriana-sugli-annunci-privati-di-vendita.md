@@ -23,18 +23,18 @@ questo strano offerente (Clicca sulle immagini per ingrandirle)
 
 I commenti li metterò sotto le varie immagini.
 
-[![]({{site.url}}/images/01mail.png){: .align-center}]({{site.url}}/images/01mail.png)  
+[![]({{site.url}}/assets/images/01mail.png){: .align-center}]({{site.url}}/assets/images/01mail.png)  
 Fin qui nulla di strano, tranne che per **l'italiano un po' "strano".**
 
 * * *
 
-[![]({{site.url}}/images/02mail.png){: .align-center}]({{site.url}}/images/02mail.png)  
+[![]({{site.url}}/assets/images/02mail.png){: .align-center}]({{site.url}}/assets/images/02mail.png)  
 Rispondo senza problemi all'indirizzo **liveitlikenever@hotmail.com** (Live it
 like never) dandogli tutte le info che voleva sapere.
 
 * * *
 
-[![]({{site.url}}/images/03mail.png){: .align-center}]({{site.url}}/images/03mail.png)  
+[![]({{site.url}}/assets/images/03mail.png){: .align-center}]({{site.url}}/assets/images/03mail.png)  
 A questo punto lui mi risponde con un altro indirizzo di posta elettronica
 **listen2russel@hotmail.com**. Mmm.. 500€, non male! Il mio target era di
 venderlo intorno alle 400€ (il prezzo su ebay in media ho visto che era
@@ -42,16 +42,16 @@ quello). Ma quanto costano le spese di spedizione? :)
 
 * * *
 
-[![]({{site.url}}/images/04mail.png){: .align-center}]({{site.url}}/images/04mail.png)  
+[![]({{site.url}}/assets/images/04mail.png){: .align-center}]({{site.url}}/assets/images/04mail.png)  
 Ancora non capisco che potrebbe essere una truffa e vado avanti..
 
 * * *
 
-[![]({{site.url}}/images/05mail.png){: .align-center}]({{site.url}}/images/05mail.png)
+[![]({{site.url}}/assets/images/05mail.png){: .align-center}]({{site.url}}/assets/images/05mail.png)
 
 * * *
 
-[![]({{site.url}}/images/06mail.png){: .align-center}]({{site.url}}/images/06mail.png)  
+[![]({{site.url}}/assets/images/06mail.png){: .align-center}]({{site.url}}/assets/images/06mail.png)  
 Qui ho fatto tutte le verifiche del caso. EMS in Italia lo gestisce [Poste
 Italiane](http://www.poste.it/postali/pacchi_estero/internazionale.shtml).
 **500€-63€ di spedizione sono 437€. Beh buono.** Cosi in buona fede gli chiedo
@@ -59,18 +59,18 @@ anche se voleva inviare una nota al suo nipote.
 
 * * *
 
-[![]({{site.url}}/images/07mail.png){: .align-center}]({{site.url}}/images/07mail.png)
+[![]({{site.url}}/assets/images/07mail.png){: .align-center}]({{site.url}}/assets/images/07mail.png)
 
 * * *
 
-[![]({{site.url}}/images/08mail.png){: .align-center}]({{site.url}}/images/08mail.png)  
+[![]({{site.url}}/assets/images/08mail.png){: .align-center}]({{site.url}}/assets/images/08mail.png)  
 Visto che avevo la scelta per il metodo di pagamento** ho deciso il bonifico
 bancario**. Semmai quello a rischio era lui. E poi PayPal aveva una trattenuta
 sull'importo scambiato :)
 
 * * *
 
-[![]({{site.url}}/images/09mail.png){: .align-center}]({{site.url}}/images/09mail.png)
+[![]({{site.url}}/assets/images/09mail.png){: .align-center}]({{site.url}}/assets/images/09mail.png)
 
 E qui arrivano i primi dubbi. Infatti prima di ricevere questa mail, ne ho
 ricevute altre due da Bank of America. Le mail sono abbastanza lunghe e le ho
@@ -89,7 +89,7 @@ mi quadravano:
   5. Il "from" della mail inizia con una lettera maiuscola. Strano, così sono passato a fare il punto 6.
   6. Inoltre grazie a qualche conoscenza tecnica ho analizzato i dati grezzi della mail ed ho scoperto qualche cosa di interessante. Guarda l'immagine sottostante.
   
-[![]({{site.url}}/images/bank1_raw.png){: .align-center}]({{site.url}}/images/bank1_raw.png)
+[![]({{site.url}}/assets/images/bank1_raw.png){: .align-center}]({{site.url}}/assets/images/bank1_raw.png)
 
 Praticamente è stato cambiato il campo _"from"_ della mail ma l'indirizzo di
 partenza della mail non è stato cambiato. Infatti si vede che la mail è stata
@@ -102,37 +102,37 @@ soldi nel mio conto! :)**
 
 * * *
 
-[![]({{site.url}}/images/10mail.png){: .align-center}]({{site.url}}/images/10mail.png)  
+[![]({{site.url}}/assets/images/10mail.png){: .align-center}]({{site.url}}/assets/images/10mail.png)  
 Intanto mi ero informato da un amico carabiniere e mi ha detto che l'unica
 cosa che potevo fare era prenderlo in giro! :)  
 Ho voluto farlo credere.. ed intanto prendevo tempo.
 
 * * *
 
-[![]({{site.url}}/images/11mail.png){: .align-center}]({{site.url}}/images/11mail.png)
+[![]({{site.url}}/assets/images/11mail.png){: .align-center}]({{site.url}}/assets/images/11mail.png)
 
 * * *
 
-[![]({{site.url}}/images/12mail.png){: .align-center}]({{site.url}}/images/12mail.png)
+[![]({{site.url}}/assets/images/12mail.png){: .align-center}]({{site.url}}/assets/images/12mail.png)
 
 * * *
 
-[![]({{site.url}}/images/13mail.png){: .align-center}]({{site.url}}/images/13mail.png)
+[![]({{site.url}}/assets/images/13mail.png){: .align-center}]({{site.url}}/assets/images/13mail.png)
 
 * * *
 
-[![]({{site.url}}/images/14mail.png){: .align-center}]({{site.url}}/images/14mail.png)
+[![]({{site.url}}/assets/images/14mail.png){: .align-center}]({{site.url}}/assets/images/14mail.png)
 Ho perso tempo a scrivere anche la nota! :P
 
 * * *
 
-[![]({{site.url}}/images/15mail.png){: .align-center}]({{site.url}}/images/15mail.png)
+[![]({{site.url}}/assets/images/15mail.png){: .align-center}]({{site.url}}/assets/images/15mail.png)
 Ma che italiano è? Sento puzza di Google Translate. Eh certo, ora te lo spedisco il pacco,
 non ti preoccupare! :)
 
 * * *
 
-[![]({{site.url}}/images/16mail.png){: .align-center}]({{site.url}}/images/16mail.png)
+[![]({{site.url}}/assets/images/16mail.png){: .align-center}]({{site.url}}/assets/images/16mail.png)
 Presa per il culo a go-go! :)
 
 Mentre me lo stavo rigirando come volevo, ho avuto un'ulteriore conferma della
@@ -140,7 +140,7 @@ truffa. Miriam mi ha fatto notare anche anche un'altra persona e stata vittima
 di una truffa, poiché aveva fatto un twit particolare. Questa persona (d'ora
 in poi Mister Twit), ha fatto questo twit:
 
-[![]({{site.url}}/images/twit.png){: .align-center}]({{site.url}}/images/twit.png)
+[![]({{site.url}}/assets/images/twit.png){: .align-center}]({{site.url}}/assets/images/twit.png)
 
 Non ho potuto che piegarmi in due dalle risate! Così ho contattato Mister Twit
 per chiedergli se mi dava una mano a scrivere questo post. Infatti dopo la mia
@@ -148,18 +148,18 @@ per chiedergli se mi dava una mano a scrivere questo post. Infatti dopo la mia
 
 * * *
 
-[![]({{site.url}}/images/17mail.png){: .align-center}]({{site.url}}/images/17mail.png)
+[![]({{site.url}}/assets/images/17mail.png){: .align-center}]({{site.url}}/assets/images/17mail.png)
 Certo, come no! :P
 
 * * *
 
-[![]({{site.url}}/images/19mail.png){: .align-center}]({{site.url}}/images/19mail.png)
+[![]({{site.url}}/assets/images/19mail.png){: .align-center}]({{site.url}}/assets/images/19mail.png)
 E qui arriva il bello! Grazie al mio amico @jibbolo abbiamo messo su un sito anonimo
 con una bella immagine di un ca\*\*o :)  
 Fatto ciò ho preparato una bella mail da inviare al signo Russel con tanto di
 link per tracciare il.. "PACCO".  
 [Il sito per il tracciamento del pacco si presentava
-così]({{site.url}}/images/ems_tracking.png) (ho coperto alcune zone per
+così]({{site.url}}/assets/images/ems_tracking.png) (ho coperto alcune zone per
 correttezza) :)
 
 **Da qui, silenzio assoluto! :)**
@@ -219,7 +219,7 @@ Rimango a Sua disposizione per ogni questione._
 A questo punto arriva direttamente il pagamento PayPal, come questa
 sottostante:
 
-[![]({{site.url}}/images/misterx_paypal.jpg){: .align-center}]({{site.url}}/images/misterx_paypal.jpg)
+[![]({{site.url}}/assets/images/misterx_paypal.jpg){: .align-center}]({{site.url}}/assets/images/misterx_paypal.jpg)
 
 Dopo di ciò ho la conferma matematica che è una fregatura colossale ed invio
 altre mail. Eccole

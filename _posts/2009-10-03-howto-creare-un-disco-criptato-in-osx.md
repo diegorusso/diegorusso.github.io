@@ -16,10 +16,10 @@ nessun tipo di software aggiuntivo. Dunque segui questi passi:
 
   1. Apri **"Utility Disco"** e clicca su **"Nuova Immagine"**
   2. Compila tutti i campi: posizione dell'imagine, grandezza, formato, cifratura, formati come nella figura sottostante
-     ![disco-crittato-osx1]({{site.url}}/images/disco-crittato-osx1.png)
+     ![disco-crittato-osx1]({{site.url}}/assets/images/disco-crittato-osx1.png)
   3. Appena finito clicca su **"Crea"**
   4. Dopo aver creato l'immagine inserisci la password per proteggerla.
-     ![disco-crittato-osx2]({{site.url}}/images/disco-crittato-osx2.png)
+     ![disco-crittato-osx2]({{site.url}}/assets/images/disco-crittato-osx2.png)
   5. Clicca su **"Accetta"** ed il gioco è fatto! :)
   
 **Ti consiglio inoltre di non salvare la password nel portachiavi.** Questo fa si che ogni volta che apri l'immagine crittata ti verrà chiesta la password. Questo ovviamente per una maggiore sicurezza.

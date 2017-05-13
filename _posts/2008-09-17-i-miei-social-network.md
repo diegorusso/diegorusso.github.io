@@ -13,7 +13,7 @@ social network in cui sono presente. Un po' di questi sono presenti nel mio
 sito [a questo link.](http://www.diegor.it/home/social_network.html
 "http://www.diegor.it/home/social_network.html" )
 
-[![]({{site.url}}/images/social_network.jpg){: .align-center}]({{site.url}}/images/social_netwo
+[![]({{site.url}}/assets/images/social_network.jpg){: .align-center}]({{site.url}}/assets/images/social_netwo
 rk.jpg)
 
 _Rappresentazione del Social Network_

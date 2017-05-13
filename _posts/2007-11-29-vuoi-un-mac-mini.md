@@ -14,7 +14,7 @@ Allora partecipa al logo contest organizzato da
 logo per questo nuovo sito. Il progetto tratta di vacanze, annunci,
 appartamenti, vacanze, holiday, affitti, viaggi, hotel.  
 
-[![nuovi-macmini.jpg]({{site.url}}/images/nuovi-macmini.jpg){: .align-center}](http://www.itineralis.com "nuovi-macmini.jpg" )
+[![nuovi-macmini.jpg]({{site.url}}/assets/images/nuovi-macmini.jpg){: .align-center}](http://www.itineralis.com "nuovi-macmini.jpg" )
 
   
 Se vuoi sapere le regole del concorso o semplici informazioni clicca

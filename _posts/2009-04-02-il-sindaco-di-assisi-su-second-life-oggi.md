@@ -19,7 +19,7 @@ fedelmente tutti i luoghi della Basilica si San Francesco come la piazza
 inferiore e superiore, la Basilica superiore ed inferiore e perfino la tomba
 di San Francesco.
 
-[![assisi_sl]({{site.url}}/images/assisi_sl.jpg){: .align-center}]({{site.url}}/images/assisi_sl.jpg)
+[![assisi_sl]({{site.url}}/assets/images/assisi_sl.jpg){: .align-center}]({{site.url}}/assets/images/assisi_sl.jpg)
 _La piazza inferiore di Assisi... in Second Life! :)_
 {: .text-center}
 
@@ -37,7 +37,7 @@ di Claudio Ricci.
 Scarica il client di Second Life, crea un account e clicca qui sotto per
 teletrasportarti:
 
-[![teleport_now]({{site.url}}/images/teleport_now.png){: .align-center}](http://slurl.com/secondlife/San%20Francesco%20Assisi/249/107/65/?img=http%3A//www.secundavita.com/images/assisi.jpg&title=San%20Francesco%20di%20Assisi&msg=Benvenuto%20ad%20Assisi%20-%20Welcome%20to%20Assisi "Teleport Now" )
+[![teleport_now]({{site.url}}/assets/images/teleport_now.png){: .align-center}](http://slurl.com/secondlife/San%20Francesco%20Assisi/249/107/65/?img=http%3A//www.secundavita.com/assets/images/assisi.jpg&title=San%20Francesco%20di%20Assisi&msg=Benvenuto%20ad%20Assisi%20-%20Welcome%20to%20Assisi "Teleport Now" )
 
 PS: Se puoi fai girare questo link per pubblicizzare l'evento! Gracias! :)
 

@@ -52,7 +52,7 @@ di Dreamhost.
 Una nota se vuoi lasciare l'hosting con Aruba. Come scritto sul contratto
 l'hosting cessa di esistere nelle seguenti condizioni:
 
-[![cessazione-contratto-aruba]({{site.url}}/images/cessazione-contratto-aruba.png){: .align-center}]({{site.url}}/images/cessazione-contratto-aruba.png)
+[![cessazione-contratto-aruba]({{site.url}}/assets/images/cessazione-contratto-aruba.png){: .align-center}]({{site.url}}/assets/images/cessazione-contratto-aruba.png)
 
 **Dunque in caso di trasferimento esegui subito un backup dei tuoi file e del database altrimenti andrà tutto perso! **Ho avuto la fortuna che anche dopo la chiusuta dell'hosting un'operatrice mi ha fatto accedere lo stesso per eseguire il backup di tutti i miei dati. :)
 

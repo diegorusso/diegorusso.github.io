@@ -17,7 +17,7 @@ facendo sono due:
   
 Ok ti rispondo subito e con una un'unica risposta!
 
-[![]({{site.url}}/images/Italy_flag.gif){: .align-center}]({{site.url}}/images/Italy_flag.gif)
+[![]({{site.url}}/assets/images/Italy_flag.gif){: .align-center}]({{site.url}}/assets/images/Italy_flag.gif)
   
 Hai ragione, **non è un nuovo blog**. Il blog è lo stesso ma ho fatto molti
 cambiamenti tali che lo rendono "nuovo". Tempo fa ero in "crisi" per decidere

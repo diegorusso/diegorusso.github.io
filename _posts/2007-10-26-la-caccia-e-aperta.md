@@ -8,5 +8,5 @@ tags:
 - leopard
 ---
 
-[![Viaaa]({{site.url}}/images/zerooooo.jpg){: .align-center}]({{site.url}}/images/zerooooo.jpg "Viaaa" )
+[![Viaaa]({{site.url}}/assets/images/zerooooo.jpg){: .align-center}]({{site.url}}/assets/images/zerooooo.jpg "Viaaa" )
 

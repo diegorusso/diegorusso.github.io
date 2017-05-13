@@ -26,7 +26,7 @@ twittare e seguire tutti i miei followers. Credo che non sia l'unico ad avere
 questo "problema". Non mi va di fare un #followfriday in fretta ed in mezzo
 alla mole di lavoro che ho.
 
-[![followsaturday]({{site.url}}/images/followsaturday.png){: .align-center}]({{site.url}}/images/followsaturday.png)
+[![followsaturday]({{site.url}}/assets/images/followsaturday.png){: .align-center}]({{site.url}}/assets/images/followsaturday.png)
 
 Preferisco prendermi del tempo il sabato che solitamente lo dedico allo
 studio/cazzeggio/blog/social/etc e consigliare ai miei followers altre persone

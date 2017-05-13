@@ -15,7 +15,7 @@ quantità.
 A tal proposito vorrei segnalare un sito che raccoglie una lista di
 applicazioni open source per OSX:
 
-[![]({{site.url}}/images/opensourcemac.png)](http://www.opensourcemac.org/)  
+[![]({{site.url}}/assets/images/opensourcemac.png)](http://www.opensourcemac.org/)  
 _Clicca sull'immagine per andare sul sito! :)_
 {: .text-center}
 

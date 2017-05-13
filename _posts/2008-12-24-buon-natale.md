@@ -8,7 +8,7 @@ tags:
 - friends
 - languages
 ---
-[![]({{site.url}}/images/buon_natale.jpg){: .align-center}]({{site.url}}/images/buon_natale.jpg)
+[![]({{site.url}}/assets/images/buon_natale.jpg){: .align-center}]({{site.url}}/assets/images/buon_natale.jpg)
 _... in tutte le lingue del mondo! :P_
 {: .text-center}
 

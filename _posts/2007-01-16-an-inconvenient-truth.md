@@ -22,7 +22,7 @@ cosi innocui rispetto al nostro Pianeta?!? Beh la risposta la potete trovare
 da fare per rallentare il riscaldamento globale (il pdf e in inglese, ma si
 capisce facilmente)!
 
-[![]({{site.url}}/images/an_inconvenient_truth.jpg){: .align-center}]({{site.url}}/images/an_inconvenient_truth.jpg)
+[![]({{site.url}}/assets/images/an_inconvenient_truth.jpg){: .align-center}]({{site.url}}/assets/images/an_inconvenient_truth.jpg)
 
 Anche Beppe Grillo (vedi il suo blog) ha trattato l'argomento. Inoltre esiste
 un film/documentario acquistabile dal sito

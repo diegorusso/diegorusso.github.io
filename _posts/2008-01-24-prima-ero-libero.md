@@ -8,5 +8,5 @@ tags:
 ---
 .. ed ora sto aspettando Alice. Ma quando arrivi? Sono in astinenza! :)
 
-![Alice]({{site.url}}/images/alice_adsl.jpg){: .align-center}
+![Alice]({{site.url}}/assets/images/alice_adsl.jpg){: .align-center}
 

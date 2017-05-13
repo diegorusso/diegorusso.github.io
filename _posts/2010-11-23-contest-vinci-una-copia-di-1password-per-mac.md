@@ -28,13 +28,13 @@ registri ad un servizio, 1Password intercetta il form e registra le tue
 credenziali in modo da riproporle quando le necessiterai per il login, senza
 doverle necessariamente ricordare.
 
-[![]({{site.url}}/images/1password1.png){: .align-center}]({{site.url}}/images/1password1.png)
+[![]({{site.url}}/assets/images/1password1.png){: .align-center}]({{site.url}}/assets/images/1password1.png)
 
 Oltre alle password puoi salvare, key di software, dati di carte di credito,
 dati di conti corrente, note personali, account vari (iTunes, DropBox, etc) e
 login. Inoltre ha anche un sistema di generazione della password.
 
-[![]({{site.url}}/images/1password2.png){: .align-center}]({{site.url}}/images/1password2.png)
+[![]({{site.url}}/assets/images/1password2.png){: .align-center}]({{site.url}}/assets/images/1password2.png)
   
 Come partecipare il contest? Semplice, tramite twitter:
 

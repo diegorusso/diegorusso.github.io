@@ -22,7 +22,7 @@ spending hours to read documentation and figuring out how to do things. **It
 goes straightway to the point: write a fully functional Django-powered
 application**.
 
-[![djangobook]({{site.url}}/images/djangobook.png){: .align-center}](http://link.packtpub.com/Oefh5q)
+[![djangobook]({{site.url}}/assets/images/djangobook.png){: .align-center}](http://link.packtpub.com/Oefh5q)
 _Click on the image to see book's details_
 {: .text-center}
 

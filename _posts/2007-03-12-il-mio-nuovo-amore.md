@@ -12,10 +12,10 @@ ne avrei trovata una così! :) Sono proprio contentissimo ed ora ho deciso di
 presentarvela (anche se qualcuno di voi già la conosce). Ecco qui il mio nuovo
 amore!!
 
-[![]({{site.url}}/images/IMG_0713.JPG){: .align-center}]({{site.url}}/images/IMG_0713.JPG)
+[![]({{site.url}}/assets/images/IMG_0713.JPG){: .align-center}]({{site.url}}/assets/images/IMG_0713.JPG)
 Bella eh...
 
-[![]({{site.url}}/images/IMG_0715.JPG){: .align-center}]({{site.url}}/images/IMG_0715.JPG)
+[![]({{site.url}}/assets/images/IMG_0715.JPG){: .align-center}]({{site.url}}/assets/images/IMG_0715.JPG)
 ... e che "culo"!!! :)
 
 Questa è anche molto meno esigente dell'altra... l'ho messa a metano! :P Ah..

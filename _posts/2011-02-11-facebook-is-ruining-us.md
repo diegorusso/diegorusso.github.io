@@ -9,7 +9,7 @@ tags:
 ---
 Yep, it's true. Simply look the image below and.. **think**.
 
-[![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit.jpg)
+[![]({{site.url}}/assets/images/facebook_shit.jpg){: .align-center}]({{site.url}}/assets/images/facebook_shit.jpg)
 
 Now ask yourself the reason.. **where is the fault?** In Facebook or in people
 who use it?

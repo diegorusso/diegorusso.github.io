@@ -6,5 +6,5 @@ categories:
 tags:
 - languages
 ---
-[![]({{site.url}}/images/italiano_o_fottiti.jpg){: .align-center}]({{site.url}}/images/italiano_o_fottiti.jpg)
+[![]({{site.url}}/assets/images/italiano_o_fottiti.jpg){: .align-center}]({{site.url}}/assets/images/italiano_o_fottiti.jpg)
 

@@ -20,7 +20,7 @@ Il modello messo in palio è il fantastico **MacBook Pro 13 pollici (modello
 base) con processore Intel Core 2 Duo da 2,4Ghz, 4GB di RAM, Processore
 grafico NVIDIA GeForce 320M e Hard Disk da 250GB.**
 
-[![]({{site.url}}/images/Vinci-un-MacBook-Pro-13.jpg){: .align-center}](http://drp.ly/1qA86s)
+[![]({{site.url}}/assets/images/Vinci-un-MacBook-Pro-13.jpg){: .align-center}](http://drp.ly/1qA86s)
 _Clicca sull'immagine per andare alla pagina del concorso_
 {: .text-center}
 

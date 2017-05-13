@@ -21,7 +21,7 @@ uno studio moooolto piacevole!
 Intanto vi incollo una foto (scattatami da Francesco) durante le vacanze
 natalizie madrileñe. Guardate un po' che forza?!? In tempo in tempo...  
   
-[![]({{site.url}}/images/2007-01-05_giorno7_017.jpg){: .align-center}]({{site.url}}/images/2007-01-05_giorno7_017.jpg)
+[![]({{site.url}}/assets/images/2007-01-05_giorno7_017.jpg){: .align-center}]({{site.url}}/assets/images/2007-01-05_giorno7_017.jpg)
 
 Altri 5 minuti e sarebbe caduto! :P
 

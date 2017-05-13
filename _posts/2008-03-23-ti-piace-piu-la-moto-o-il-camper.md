@@ -7,7 +7,7 @@ tags:
 ---
 A me, tutte e due! :)
 
-[![moto-camper]({{site.url}}/images/9ffbd4e1c0c6c0eb6e110b0zr5.jpg){: .align-center}]({{site.url}}/images/9ffbd4e1c0c6c0eb6e110b0zr5.jpg "moto-camper" )
+[![moto-camper]({{site.url}}/assets/images/9ffbd4e1c0c6c0eb6e110b0zr5.jpg){: .align-center}]({{site.url}}/assets/images/9ffbd4e1c0c6c0eb6e110b0zr5.jpg "moto-camper" )
 
 Buona Pasqua a tutti.
 

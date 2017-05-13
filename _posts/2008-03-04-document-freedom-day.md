@@ -13,9 +13,9 @@ senso di utenza domestica, ma anche per la sua applicazione su vasta scala a
 livello di pubbliche amministrazioni, scuole, università ed enti governativi.
 
   
-[]({{site.url}}/images/sup_banner_df.png "Fsugitalia" )
+[]({{site.url}}/assets/images/sup_banner_df.png "Fsugitalia" )
 
-[![Fsugitalia]({{site.url}}/images/sup_banner_df.png){: .align-center}]({{site.url}}/images/sup
+[![Fsugitalia]({{site.url}}/assets/images/sup_banner_df.png){: .align-center}]({{site.url}}/assets/images/sup
 _banner_df.png "Fsugitalia" )
 
 Il loro utilizzo consentirebbe, oltre ad una piena interoperabilita tra i vari

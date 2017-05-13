@@ -22,7 +22,7 @@ tags:
 riuscito a prenderli. Poi lassù c'è l'Heineken Jammin' Festival. Direi che ne
 vale proprio la pena!! :)
 
-[![]({{site.url}}/images/hjf.jpg){: .align-center}]({{site.url}}/images/hjf.jpg)
+[![]({{site.url}}/assets/images/hjf.jpg){: .align-center}]({{site.url}}/assets/images/hjf.jpg)
 
 **Come mai?**: il sito e stato intasato tutto il giorno (cazzo!!)  
 **Sei contento di andarci?**: fuck you #2!  

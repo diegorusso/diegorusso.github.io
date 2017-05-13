@@ -16,7 +16,7 @@ del tempo**. Inoltre nel suo blog ci sono ottimi consigli per migliorare la
 tua esperienza con linux e come usare questo strumento a tuo vantaggio
 facendoti risparmiare tempo :)  
   
-[![]({{site.url}}/images/personal_productivity.jpg){: .align-center}]({{site.url}}/images/personal_productivity.jpg)
+[![]({{site.url}}/assets/images/personal_productivity.jpg){: .align-center}]({{site.url}}/assets/images/personal_productivity.jpg)
 
 Ah dimenticavo, i post di questo anno **li ha scritti tutti in inglese**.
 Dunque se conosci l'inglese non hai problemi, altrimenti te lo studi e ti godi

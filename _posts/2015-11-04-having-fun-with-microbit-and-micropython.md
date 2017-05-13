@@ -10,7 +10,7 @@ tags:
 Last night I attended the usual [CamPUG](http://www.meetup.com/CamPUG/)
 monthly meeting and the main topic was about micro:bit and micropython.
 
-[![IMG_6734]({{site.url}}/images/IMG_6734.jpg){: .align-center}]({{site.url}}/images/IMG_6734.jpg)
+[![IMG_6734]({{site.url}}/assets/images/IMG_6734.jpg){: .align-center}]({{site.url}}/assets/images/IMG_6734.jpg)
 
 micro:bit is a board that BBC will distribute to every year 7 student in the
 UK (early 2016, roughly 1 million units) and it will be shipped with
@@ -20,7 +20,7 @@ can be found [here](https://www.microbit.co.uk/device): it has a Cortex-M0,
 compass, accelerometer, 5x5 leds, bluetooth, uart, i2c, two buttons and other
 stuff you can use.
 
-[![IMG_6731]({{site.url}}/images/IMG_6731.jpg){: .align-center}]({{site.url}}/images/IMG_6731.jpg)
+[![IMG_6731]({{site.url}}/assets/images/IMG_6731.jpg){: .align-center}]({{site.url}}/assets/images/IMG_6731.jpg)
 
 In a such tiny little board you can run python... well
 [micropython](https://micropython.org), a fast implementation of [Python

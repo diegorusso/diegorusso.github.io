@@ -7,7 +7,7 @@ tags:
 - microsoft
 - apple
 ---
-[![]({{site.url}}/images/macpc.jpg){: .align-center}]({{site.url}}/images/macpc.jpg)
+[![]({{site.url}}/assets/images/macpc.jpg){: .align-center}]({{site.url}}/assets/images/macpc.jpg)
 _Simpaticissimo! :) E voi quale preferite?_
 {: .text-center}
 

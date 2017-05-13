@@ -20,7 +20,7 @@ language. You can switch among languages using the menu on the right or
 putting "/it/" or "/es/" after the domain.. et voila, the site changes
 language! :P
 
-[![]({{site.url}}/images/English.gif){: .align-center}]({{site.url}}/images/English.gif)
+[![]({{site.url}}/assets/images/English.gif){: .align-center}]({{site.url}}/assets/images/English.gif)
 
 Now I explain rapidly the structure and features of my site:
 

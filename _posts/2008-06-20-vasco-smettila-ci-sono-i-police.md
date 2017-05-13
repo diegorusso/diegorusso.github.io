@@ -16,7 +16,7 @@ quello di altri tre pazzi (Miri, Francesco e Fred) **all'Heineken Jammin'
 Festival** per gustarmi un po' di sano divertimento con Vasco, i Police,
 Alanis Morissette, Marlene Kuntz, Counting Crows etc etc etc.
 
-[![]({{site.url}}/images/heineken_jammin_festival-big.jpg){: .align-center}]({{site.url}}/images/heineken_jammin_festival-big.jpg)
+[![]({{site.url}}/assets/images/heineken_jammin_festival-big.jpg){: .align-center}]({{site.url}}/assets/images/heineken_jammin_festival-big.jpg)
 
 Armati di sacco a pelo, biglietti, cambiate, scarpe, spazzolino e dentifricio
 ed ovviamente di un [asciugamano](http://en.wikipedia.org/wiki/Towel_Day

@@ -76,16 +76,16 @@ che hanno incrociato la mia vita e che l'hanno resa particolarmente unica (ho
 scelto le foto a caso, dunque mi scuso per tutte quelle persone che non ho
 messo qui in queste foto!) :)
 
-[![]({{site.url}}/images/img_1274.jpg){: .align-center}]({{site.url}}/images/img_1274.jpg)
-[![]({{site.url}}/images/img_0582.jpg){: .align-center}]({{site.url}}/images/img_0582.jpg)
-[![]({{site.url}}/images/2007-01-02_giorno4_025.jpg){: .align-center}]({{site.url}}/images/2007-01-02_giorno4_025.jpg)
+[![]({{site.url}}/assets/images/img_1274.jpg){: .align-center}]({{site.url}}/assets/images/img_1274.jpg)
+[![]({{site.url}}/assets/images/img_0582.jpg){: .align-center}]({{site.url}}/assets/images/img_0582.jpg)
+[![]({{site.url}}/assets/images/2007-01-02_giorno4_025.jpg){: .align-center}]({{site.url}}/assets/images/2007-01-02_giorno4_025.jpg)
 
 Tra le tante foto che ho sul mio hard disk ne ho trovata una
 veramente bella. Risale al 2002 (o 2001, non ricordo bene. Guardate che tipo
 che ero! Non é mio fratello (anche perché non ho fratelli), sono io!!! :P
 Capelli lunghi, fascia sulla testa.. ero un ragazzaccio! :)
 
-[![]({{site.url}}/images/ioealessia.jpg){: .align-center}]({{site.url}}/images/ioealessia.jpg)
+[![]({{site.url}}/assets/images/ioealessia.jpg){: .align-center}]({{site.url}}/assets/images/ioealessia.jpg)
 
 Concludo dicendo che le foto insieme ai ricordi ed i sentimenti possono
 rallegrare i momenti di una persona. Dunque, ti scatteró una foto!

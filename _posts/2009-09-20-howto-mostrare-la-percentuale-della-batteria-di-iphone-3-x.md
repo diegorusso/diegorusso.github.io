@@ -19,7 +19,7 @@ Segui questi passi:
   4. In questa schermata potrai **abilitare/disabilitare la percentuale della batteria** con l'apposito switch. Inoltre qui puoi tenere sotto controllo ed azzerare vari contatori sull'utilizzo del telefono.
   
 
-[![batteria_iPhone]({{site.url}}/images/batteria_iPhone.png){: .align-center}]({{site.url}}/images/batteria_iPhone.png)
+[![batteria_iPhone]({{site.url}}/assets/images/batteria_iPhone.png){: .align-center}]({{site.url}}/assets/images/batteria_iPhone.png)
 
 **Ora in alto a destra accanto al simbolo della batteria** potrei sempre monitorare la percentuale della stessa.
 

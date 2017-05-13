@@ -13,7 +13,7 @@ singolo non è in vendita in nessun negozio. E' scaricabile solamente da
 internet (dopo il pagamento della modica cifra di 0,99€) su qualsiasi sito che
 venda musica on-line - compreso iTunes. La copertina dell'album è questa
 
-[![]({{site.url}}/images/1912007211830.jpg){: .align-center}]({{site.url}}/images/1912007211830.jpg)
+[![]({{site.url}}/assets/images/1912007211830.jpg){: .align-center}]({{site.url}}/assets/images/1912007211830.jpg)
 
 A me non piace! C'è un pupazzo che prende fuoco. Questo è un disegno del
 figlio di Vasco riadattato in 3D. Beh almeno l'idea è originale, come è

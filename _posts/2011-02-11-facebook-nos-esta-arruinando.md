@@ -9,7 +9,7 @@ tags:
 ---
 Eh si, es la verdad. Simplemente mira la imagen a continuación y.. **piensa**.
 
-[![]({{site.url}}/images/facebook_shit.jpg){: .align-center}]({{site.url}}/images/facebook_shit.jpg)
+[![]({{site.url}}/assets/images/facebook_shit.jpg){: .align-center}]({{site.url}}/assets/images/facebook_shit.jpg)
 
 Ahora preguntate a ti mismo la motivación.. **¿donde está el error?** ¿En
 Facebook o en la personas que lo utilizan?
