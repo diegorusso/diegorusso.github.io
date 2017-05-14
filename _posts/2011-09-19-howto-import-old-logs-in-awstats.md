@@ -2,7 +2,7 @@
 title: 'HOWTO: import old logs in AWStats'
 categories:
 - howto
-- ensglish
+- english 
 tags:
 - python
 - apache
