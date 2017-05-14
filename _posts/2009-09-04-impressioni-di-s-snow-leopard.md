@@ -3,7 +3,6 @@ title: Impressioni di S... Snow Leopard
 categories:
 - personal
 - italian
-- blog
 tags:
 - snow leopard
 ---
