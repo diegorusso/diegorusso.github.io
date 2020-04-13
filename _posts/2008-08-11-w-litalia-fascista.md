@@ -58,16 +58,5 @@ Comunque il sito [www.thepiratebay.org](http://www.thepiratebay.org
 "http://www.thepiratebay.org" ) mi risulta raggiungibile (connessione NGI). E
 a voi??
 
-PS: giusto per restare nel clima berlusconiano leggete
-[qui](http://solomiri.blogspot.com/2008/08/costituzione-italiana.html
-"http://solomiri.blogspot.com/2008/08/costituzione-italiana.html" ),
-[qua](http://solomiri.blogspot.com/2008/08/scandalo-europa-7.html
-"http://solomiri.blogspot.com/2008/08/scandalo-europa-7.html" ),
-[li](http://solomiri.blogspot.com/2008/05/il-cavaliere.html
-"http://solomiri.blogspot.com/2008/05/il-cavaliere.html" ), [poi
-qui](http://solomiri.blogspot.com/2008/05/ilcavaliere.html
-"http://solomiri.blogspot.com/2008/05/ilcavaliere.html" ) ed [infine
-la](http://solomiri.blogspot.com/2008/04/programmi-elettoralioh-mio-dio.html
-"http://solomiri.blogspot.com/2008/04/programmi-elettoralioh-mio-dio.html" ).  
-PPS: l'Italia sta andando... Ci sta portando verso un punto di non ritorno.
+PS: l'Italia sta andando... Ci sta portando verso un punto di non ritorno.
 Svegliamoci!!!

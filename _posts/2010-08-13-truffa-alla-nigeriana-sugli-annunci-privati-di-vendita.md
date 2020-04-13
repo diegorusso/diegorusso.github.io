@@ -136,7 +136,7 @@ non ti preoccupare! :)
 Presa per il culo a go-go! :)
 
 Mentre me lo stavo rigirando come volevo, ho avuto un'ulteriore conferma della
-truffa. Miriam mi ha fatto notare anche anche un'altra persona e stata vittima
+truffa. Mi è stato fatto notare anche anche un'altra persona e stata vittima
 di una truffa, poiché aveva fatto un twit particolare. Questa persona (d'ora
 in poi Mister Twit), ha fatto questo twit:
 

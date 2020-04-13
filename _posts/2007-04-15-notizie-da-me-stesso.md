@@ -63,19 +63,15 @@ La mia seconda vita (SL = second life) mi porta via molto tempo della mia
 prima vita (RL = real life). Anche se il tempo e poco, lo si trova sempre per
 gli amici, per uscire o per dire e fare due stronzate. Ieri sera, ho scoperto
 un posto in RL, che ne avevo sempre sentito parlare ma mai visitato. Le terme
-di San Casciano. In compagnia di Flavio, Elena e Miriam (una mia carissima
-amica!) siamo andati a queste terme, localizzate nella provincia di Siena,
-dimenticate da Dio. Anche qui.. serata.. anzi nottata magnifica. Arrivati
-verso le 2 di notte ci siamo messi costume e ci siamo immersi in queste
-vasche. La temperatura dell'acqua si aggirava intorno ai 40°. Un vera figata.
+di San Casciano. In compagnia di amici siamo andati a queste terme, localizzate
+nella provincia di Siena, dimenticate da Dio. Anche qui,serata magnifica.
+Arrivati verso le 2 di notte ci siamo messi costume e ci siamo immersi in
+queste vasche.
+La temperatura dell'acqua si aggirava intorno ai 40°. Un vera figata.
 Relax completo, qualche birretta, due risate, qualche chiacchiera. Fortuna che
 non c'era il BARBAGIANNI! La partenza verso le 4:30 per una colazione
 all'etrusca ed un rientro a casa con il sole alto. Questi piaceri in SL non
 credo che si provino! :)
-
-[![]({{site.url}}/assets/images/img_1265.jpg){: .align-center}]({{site.url}}/assets/images/img_1265.jpg)
-La combriccola.. che facce!!!
-{: .text-center}
 
 [![]({{site.url}}/assets/images/img_1259.jpg){: .align-center}]({{site.url}}/assets/images/img_1259.jpg)
 Vasca con vapori..

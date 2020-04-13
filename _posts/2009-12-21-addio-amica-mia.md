@@ -23,9 +23,8 @@ Potrei continuare per ore ad elencare i posti in cui mi hai portato. Sei stata
 la mia casa mobile, mi hai protetto dalle intemperie, dal vento e mi hai fatto
 stare caldo quando fuori si battevano i denti. Con te ho ricordi infiniti. Con
 te ci sono state tante "prime volte" che hanno cambiato la mia vita. Con te ho
-pianto, ho riso, ho dormito fino alle 3 di notte in parcheggi insieme a
-Miriam. Anche in quei casi ci hai scaldati, ci hai fatto compagnia con la
-musica, ci hai protetti, ci hai fatto stare "comodi". Hai sentito parole
+pianto, ho riso. Anche in quei casi ci hai scaldati, ci hai fatto compagnia con
+la musica, ci hai protetti, ci hai fatto stare "comodi". Hai sentito parole
 bellissime, hai sentito confessioni, hai sentito sogni. Sei stata il nostro
 nido, il nostro angolo. Noi dentro e tutto il resto fuori! Oggi mi piangeva il
 cuore nello spogliarti di tutte le mie cose: l'autoradio, i CD, la coperta, i

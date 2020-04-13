@@ -28,10 +28,6 @@ _tutti all'appello!_
 _gallè_  
 {: .text-center}
 
-[![io e miri]({{site.url}}/assets/images/2007-12-23_io_miri.JPG){: .align-center}]({{site.url}}/assets/images/2007-12-23_io_miri.JPG "io e miri" )  
-_io e l'intrusa_  
-{: .text-center}
-
 [![luca]({{site.url}}/assets/images/2007-12-23_luca.JPG){: .align-center}]({{site.url}}/assets/images/2007-12-23_luca.JPG "luca" )  
 _luca_  
 {: .text-center}

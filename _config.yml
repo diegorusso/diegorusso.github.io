@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Diego Russo"
 description              : "just another special module"
-url                      : "http://www.diegor.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.diegor.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "diegorusso/cv" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,7 +103,6 @@ author:
   avatar           : "assets/images/diegor.jpg"
   bio              : "smile :)"
   location         : "Cambridge"
-  email            : "me@diegor.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

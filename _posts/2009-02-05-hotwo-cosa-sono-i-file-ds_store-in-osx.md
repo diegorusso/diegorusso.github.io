@@ -1,5 +1,5 @@
 ---
-title: 'HOTWO: Cosa sono i file ".DS_Store" in OSX?'
+title: 'HOWTO: Cosa sono i file ".DS_Store" in OSX?'
 categories:
 - howto
 - italian
