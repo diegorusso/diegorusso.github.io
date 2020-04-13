@@ -74,7 +74,10 @@ As you can see it has 4 CPUs running at 1.5GHz. Not bad for a small board.
 Just follow [this tutorial](
 https://magpi.raspberrypi.org/articles/how-to-overclock-raspberry-pi-4).
 I did try to overclock it to 2GHz but it kept power cycling (likely due to
-power consumption) so **I stuck with 1.75GHz**.
+power consumption) so **I stuck with 1.75GHz**.  
+If you overclock it, I strongly suggest something **to cool down the CPU.**
+I have a [Fan SHIM](https://shop.pimoroni.com/products/fan-shim): a bit noisy
+but it does the job.
 
 **High memory usage**  
 Even I have the 4GB version, I found the Raspberry Pi4 to be very unstable
