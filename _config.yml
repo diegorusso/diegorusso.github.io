@@ -53,7 +53,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true #, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true #, false (default)
 search_provider          : lunr # (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -91,7 +91,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-46991369-1"
+    tracking_id          : "G-YJ976281YY"
     anonymize_ip         : # true, false (default)
 
 # Google AdSense
