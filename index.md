@@ -1,8 +1,10 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 ---
 
+## 👋 About Me
 - :snake: I’m a [CPython](https://github.com/python/cpython/) Core Developer
 - :office: I work as Principal Software Engineer at [Arm Ltd](https://www.arm.com)
 - :computer: I'm part of the Runtimes team where my main goal is to make CPython :snake: and its ecosystem work flawlessly for developers around the world on Arm platforms
