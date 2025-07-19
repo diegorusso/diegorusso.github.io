@@ -4,7 +4,9 @@ classes: wide
 author_profile: true
 ---
 
-# 👋 About Me
+#
+
+## 👋 About Me
 
 - :snake: I’m a [CPython](https://github.com/python/cpython/) Core Developer
 - :office: I work as Principal Software Engineer at [Arm Ltd](https://www.arm.com)
@@ -17,7 +19,7 @@ author_profile: true
 - :yin_yang: I practice Wing Chun
 - :male_sign: Pronouns: he/him/his
 
-# 🎤 Conference Talks
+## 🎤 Conference Talks
 
 - **EuroPython 2025: Exploring the CPython JIT**  
   [Slides](https://github.com/diegorusso/diegorusso/blob/main/2025/ep2025_exploring_the_cpython_jit.pdf) | Recording: _coming soon_
@@ -26,7 +28,7 @@ author_profile: true
 - **EuroPython 2023: Python on Arm Architecture**  
   [Slides](https://github.com/diegorusso/diegorusso/blob/main/2023/ep2023_python_on_arm.pdf) | [Recording](https://www.youtube.com/watch?v=nYf7r0lkTIs)
 
-# 🎧 Podcasts
+## 🎧 Podcasts
 
 - **2025 - Intervista Pythonista: Runtime e Interpreter con un Core Developer! #66 ( :it: )**  
   [YouTube](https://www.youtube.com/watch?v=Xx09D359mR4) | [Spotify](https://creators.spotify.com/pod/profile/marco-santoni/episodes/Runtime-e-Interpreter-con-un-Core-Developer--66-e35gcjl) | [Apple Podcast](https://podcasts.apple.com/lu/podcast/runtime-e-interpreter-con-un-core-developer-66/id1561566952?i=1000717070862)
