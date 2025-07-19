@@ -14,6 +14,21 @@ author_profile: true
 - :yin_yang: I practice Wing Chun
 - :male_sign: Pronouns: he/him/his
 
+## 🎤 Conference Talks
+
+- **EuroPython 2025: Exploring the CPython JIT**  
+  [Slides](https://github.com/diegorusso/diegorusso/blob/main/2025/ep2025_exploring_the_cpython_jit.pdf) | Recording: _coming soon_
+- **Microsoft Build 2024: Run PyTorch natively on Windows on Arm using GitHub runners**  
+  [Session page](https://build.microsoft.com/en-US/sessions/ODFP974)
+- **EuroPython 2023: Python on Arm Architecture**  
+  [Slides](https://github.com/diegorusso/diegorusso/blob/main/2023/ep2023_python_on_arm.pdf) | [Recording](https://www.youtube.com/watch?v=nYf7r0lkTIs)
+
+## 🎧 Podcasts
+
+- **2025 - Intervista Pythonista: Runtime e Interpreter con un Core Developer! #66 ( :it: )**  
+  [YouTube](https://www.youtube.com/watch?v=Xx09D359mR4) | [Spotify](https://creators.spotify.com/pod/profile/marco-santoni/episodes/Runtime-e-Interpreter-con-un-Core-Developer--66-e35gcjl) | [Apple Podcast](https://podcasts.apple.com/lu/podcast/runtime-e-interpreter-con-un-core-developer-66/id1561566952?i=1000717070862)
+
+
 
 ```
 >>> import diegor
