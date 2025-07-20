@@ -2,7 +2,10 @@
 layout: single
 classes: wide
 author_profile: true
+hide_title: true
 ---
+
+## 👋 About Me
 
 - :snake: I’m a [CPython](https://github.com/python/cpython/) Core Developer
 - :office: I work as Principal Software Engineer at [Arm Ltd](https://www.arm.com)
