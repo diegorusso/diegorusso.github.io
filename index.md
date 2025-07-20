@@ -2,9 +2,8 @@
 layout: single
 classes: wide
 author_profile: true
-hide_title: true
 ---
-
+<!-- Title: Diego Russo -->
 ## 👋 About Me
 
 - :snake: I’m a [CPython](https://github.com/python/cpython/) Core Developer
