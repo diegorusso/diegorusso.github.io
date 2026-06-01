@@ -19,6 +19,8 @@ author_profile: true
 
 ## 🎤 Conference Talks
 
+- **PyCon Italia 2026 Keynote: From "Fast Enough" to "Fast by Design" - The Evolution of CPython Performance**  
+  [Slides](https://github.com/diegorusso/diegorusso/blob/main/2026/pycon_italia_2026-evolution_of_cpython_performance.pdf) | *YouTube Coming soon...*
 - **Python SDQ January 2026 Meetup: Python por dentro: personas, procesos, código**  
   [Slides](https://github.com/diegorusso/diegorusso/blob/main/2026/python_sdq_python_por_dentro.pdf) | [YouTube](https://www.youtube.com/watch?v=PbLSttImQ3k)
 - **EuroPython 2025/PyCon UK 2025: Exploring the CPython JIT**  
@@ -39,7 +41,7 @@ author_profile: true
 ```python
 >>> import diegorusso as diegor
 >>> diegor.talks()
-['PyCon UK', 'EuroPython', 'Microsoft Build', 'Podcast']
+['PyCon Italia', 'PyCon UK', 'EuroPython', 'Microsoft Build', 'Podcast']
 >>> diegor.smile()
 😄
 ```
