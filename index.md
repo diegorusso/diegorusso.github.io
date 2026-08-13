@@ -3,6 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
+<!-- Generated from diegorusso/README.md; do not edit by hand. -->
 <!-- Title: Diego Russo -->
 ## 👋 About Me
 
@@ -13,7 +14,7 @@ author_profile: true
 - :page_facing_up: My CV can be found [here](https://www.diegor.it/cv/)
 - :speaking_head: You can talk to me in Italian :it:, Spanish :argentina:, and English :uk:
 - :memo: I used to [blog](https://www.diegor.it/posts/) but I stopped many years ago. :hourglass:
-- :zap: I use some social networks: [Linkedin](https://www.linkedin.com/in/diegor/), [bsky](http://bsky.app/profile/diegor.it), [X](https://x.com/diegor), and [Instagram](https://www.instagram.com/diegor.it)
+- :zap: I use some social networks: [Linkedin](https://www.linkedin.com/in/diegor/), [bsky](http://bsky.app/profile/diegor.it), [X](https://x.com/diegor), and [Instagram](https://www.instagram.com/diegor.it/)
 - :yin_yang: I practice Wing Chun
 - :male_sign: Pronouns: he/him/his
 
@@ -46,12 +47,12 @@ author_profile: true
 
 ## 🎧 Podcasts
 
-- **2025 - Intervista Pythonista: Runtime e Interpreter con un Core Developer! #66 ( :it: )**  
+- **2025 - Intervista Pythonista: Runtime e Interpreter con un Core Developer! #66 ( :it: )**<br>
   [YouTube](https://www.youtube.com/watch?v=Xx09D359mR4) | [Spotify](https://creators.spotify.com/pod/profile/marco-santoni/episodes/Runtime-e-Interpreter-con-un-Core-Developer--66-e35gcjl) | [Apple Podcast](https://podcasts.apple.com/lu/podcast/runtime-e-interpreter-con-un-core-developer-66/id1561566952?i=1000717070862)
-- **2024 - Arm Innovation Coffee: GitHub Arm-hosted Runners with Larissa Fortuna and Diego Russo**  
+- **2024 - Arm Innovation Coffee: GitHub Arm-hosted Runners with Larissa Fortuna and Diego Russo**<br>
   [YouTube](https://www.youtube.com/watch?v=CMO4rL2msoQ)
 
-  
+
 ```python
 >>> import diegorusso as diegor
 >>> diegor.talks()
