@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'; frame-src 'none'; connect-src 'none'">
+<title>AllValid — Privacy policy</title>
+<meta name="description" content="How AllValid handles local household records, backups, reminders, purchases and support messages.">
+<link rel="canonical" href="https://www.diegor.it/allvalid/privacy/">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header>
+<a class="brand" href="../">Is it <em>All Valid</em>?</a>
+<nav aria-label="Main">
+<a href="../">Support</a>
+<a href="./">Privacy</a>
+</nav>
+</header>
+<main id="main" class="policy">
+<p class="eyebrow">Your information, explained.</p>
+<h1>AllValid privacy policy.</h1>
+<p class="lead">Your household records live on your device. Transfers and support messages happen only when you choose them.</p>
+<p class="fine">Last updated 26 October 2026 · Publisher: Diego Russo</p>
+<nav aria-label="Privacy policy contents">
+<ul class="contents">
+<li>
+<a href="#publisher">Who provides AllValid</a>
+</li>
+<li>
+<a href="#records">Your household stays on your device</a>
+</li>
+<li>
+<a href="#pictures">Saved pictures and capture</a>
+</li>
+<li>
+<a href="#protection">Device protection and backups</a>
+</li>
+<li>
+<a href="#permissions">Optional permissions and reminders</a>
+</li>
+<li>
+<a href="#transfers">Transfers you choose</a>
+</li>
+<li>
+<a href="#retention">Keeping and deleting records</a>
+</li>
+<li>
+<a href="#purchases">Purchases through Apple</a>
+</li>
+<li>
+<a href="#support">Support messages</a>
+</li>
+<li>
+<a href="#website">These website pages</a>
+</li>
+<li>
+<a href="#beta">TestFlight and Apple diagnostics</a>
+</li>
+<li>
+<a href="#contact">Questions and updates</a>
+</li>
+</ul>
+</nav>
+<section id="publisher">
+<h2>Who provides AllValid</h2>
+<p>AllValid is provided by Diego Russo. For support or privacy questions, email <a href="mailto:allvalid@diegor.it">allvalid@diegor.it</a>. This policy describes the current Release candidate and these support pages.</p>
+</section>
+<section id="records">
+<h2>Your household stays on your device</h2>
+<p>AllValid stores profiles, optional descriptors and citizenships; item titles, types, issuers and identifier hints; confirmed Start by and Expiry dates; notes, reminders, renewal history, record identities and app preferences. An item can be held or still needed. A needed item can be saved without dates.</p>
+<p>There is no AllValid account, backend, live cloud sync, application network client, analytics SDK, advertising or tracking in the app. Diego Russo does not receive your household records. Core record workflows work offline. Apple services and destinations you choose have their own network and account behaviour.</p>
+</section>
+<section id="pictures">
+<h2>Saved pictures and capture</h2>
+<p>Scanning, OCR, camera/Photos/Files intake and new profile-photo selection are disabled in Release. A supported photo backup can import one saved picture per item or profile. Imported pictures can be viewed or removed. They are bounded, sanitised JPEGs, but their visible pixels may still contain a portrait, signature, full identifier or machine-readable zone. Removing metadata does not redact a picture.</p>
+<p>Item pictures remain through archive, date edits and renewal until explicitly removed or the item is permanently deleted. Profile pictures remain until removed or the profile is deleted. Metadata-only exports and one-way copies exclude pictures.</p>
+</section>
+<section id="protection">
+<h2>Device protection and backups</h2>
+<p>Database and durable picture files use iOS Data Protection. File access can remain possible after the first unlock, including during later locks. Optional App lock authenticates the device owner and covers inactive screens; it adds no separate database encryption. AllValid does not receive biometric data or the device passcode.</p>
+<p>Database references and picture files are separate storage systems. Missing, unreadable or corrupt files and unfinished cleanup can block access until recovery. OS backups may include the database and picture files, but backup eligibility is not a guarantee of consistent recovery. Keep a separate backup of important records. Screenshot prevention, secure memory zeroisation and forensic erasure are not promised.</p>
+</section>
+<section id="permissions">
+<h2>Optional permissions and reminders</h2>
+<p>Onboarding and help request no permissions. Notification permission follows an explanation and your explicit Continue action. Declining preserves records and rules. Notifications are generic by default. Detailed content may show names, titles and dates on the Lock Screen; notes and identifier hints are excluded. iOS retains notification content and an item identity for opening the record. Content changes update pending notifications when reconciliation succeeds; already-delivered alerts remain unchanged. iOS settings and Focus can affect delivery.</p>
+<p>Optional App lock uses device-owner authentication with passcode fallback. Calendar copies use Apple’s editor without Calendar database access. Apple Reminders requests full access only after its explanation and Continue action; AllValid reads writable list names and sources, never existing tasks, and saves only your confirmed copy. Release requests no camera or Photos access.</p>
+</section>
+<section id="transfers">
+<h2>Transfers you choose</h2>
+<p>Export creates an internal protected temporary file for your chosen destination. JSON metadata backups preserve identities, relationships and history. CSV cannot restore data. Backup with photos explicitly includes metadata and exact saved pictures. Exported files have no extra encryption and can be read without AllValid’s app lock. Internal cleanup is attempted after completion, cancellation, interruption and next launch; failures remain available for retry.</p>
+<p>Import validates a bounded supported backup, previews changes and asks for your conflict choices and confirmation. Invalid input, cancellation, stale previews and failed database saves preserve existing records. Absent records or pictures are kept. Imports do not restore app settings or notification delivery state, and the source file remains at its original destination.</p>
+<p>Send a copy shares one reviewed item. Notes, history and identifier hint start off; history notes follow the Notes choice. Calendar and Apple Reminders receive only the reviewed title, selected date and optional alert. Destinations may retain, forward or sync their copies. Later edits, renewal, archive, deletion or erase do not update those copies. Repeated transfers and external alerts can create duplicates.</p>
+</section>
+<section id="retention">
+<h2>Keeping and deleting records</h2>
+<p>Records stay until explicitly removed. Archive retains an item, picture and history. Permanent item deletion is available from Archived after confirmation; pictures can be removed separately. Erase All Data requires two confirmations and fresh device authentication when App lock is enabled.</p>
+<p>A failed database save preserves records. A committed erase with unfinished cleanup is reported as cleanup pending and blocks access for retry; it is not reported as a complete erase. Removal is logical, not forensic: earlier bytes may remain in SQLite/WAL files or backups. Erase does not reset iOS permissions or remove external exports, shared copies, Calendar events, Reminders tasks or earlier backups. Remove those separately.</p>
+</section>
+<section id="purchases">
+<h2>Purchases through Apple</h2>
+<p>Five active household items are free; archived items do not count. The optional non-consumable lifetime unlock allows unlimited active items with one payment and no subscription. Apple supplies the current localised price and processes and retains transactions. Purchase and Restore are explicit actions and may require Apple Account authentication.</p>
+<p>AllValid keeps product, price, eligibility, ownership, access and operation status in memory. It has no receipt server and does not receive Apple Account credentials. Existing records remain readable, archivable, restorable, exportable and deletable in every purchase state. The five oldest active items are editable for free; surplus active items are read-only until a slot is freed or unlimited access is verified. Existing reminders continue. Family Sharing, where configured, provides purchase access rather than household records.</p>
+</section>
+<section id="support">
+<h2>Support messages</h2>
+<p>AllValid sends no automatic support upload or app analytics. If you email support, your address and the information you choose to send are processed by the email services used to deliver and store the message. Diego Russo uses the correspondence to answer your request, investigate defects and maintain the app. Please send fictional steps, app/iOS versions and non-sensitive error codes rather than household documents, saved pictures, databases, backups, full identifiers or unredacted diagnostics.</p>
+<p>Access is limited to Diego Russo and the email service providers needed to deliver and store the correspondence. Support messages in the support mailbox are deleted within 90 days after the request is resolved, unless a longer period is legally required. You can request earlier deletion by email. Provider backups and records follow their own retention policies. No marketing list is created from support requests.</p>
+</section>
+<section id="website">
+<h2>These website pages</h2>
+<p>These support and privacy pages are hosted on GitHub Pages. GitHub may process IP addresses, request times, browser/device information and other service logs to serve and secure the site, under its <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">privacy statement</a>. GitHub controls retention of its own service logs.</p>
+<p>These two AllValid pages include no analytics scripts, ads, comment system, remote fonts, social embeds or support form. Email links open your email application; no message is sent unless you choose to send it.</p>
+</section>
+<section id="beta">
+<h2>TestFlight and Apple diagnostics</h2>
+<p>If you join a TestFlight beta, Apple automatically collects beta crash logs and usage information and shares them with the app provider. This is separate from the app having no analytics SDK. Feedback may include screenshots, comments and contact details. Read <a href="https://www.apple.com/legal/privacy/data/en/test-flight/">Apple’s TestFlight privacy notice</a> before participating.</p>
+<p>Diego Russo uses beta reports to investigate faults and evaluate app quality, not for advertising. Any downloaded copies are deleted within 90 days after the beta ends or the associated issue is resolved, whichever is later, unless a longer period is legally required. You can request earlier deletion of copies held by Diego Russo. Apple retains its own records under its terms. </p>
+</section>
+<section id="contact">
+<h2>Questions and updates</h2>
+<p>Contact <a href="mailto:allvalid@diegor.it">allvalid@diegor.it</a> for privacy questions or requests concerning support correspondence. Your household records are local; Diego Russo cannot access or remotely delete them. Use the app’s export and removal controls for those records. This policy will be updated when the app’s supported capabilities or data handling change.</p>
+</section>
+</main>
+<footer>
+<p>© 2026 Diego Russo · AllValid</p>
+<a href="mailto:allvalid@diegor.it">allvalid@diegor.it</a>
+</footer>
+</body>
+</html>
