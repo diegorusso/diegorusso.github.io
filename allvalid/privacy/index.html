@@ -23,7 +23,7 @@
 <p class="eyebrow">Your information, explained.</p>
 <h1>AllValid privacy policy.</h1>
 <p class="lead">Your household records live on your device. Transfers and support messages happen only when you choose them.</p>
-<p class="fine">Last updated 27 October 2026 · Publisher: Diego Russo</p>
+<p class="fine">Last updated 29 October 2026 · Publisher: Diego Russo</p>
 <nav aria-label="Privacy policy contents">
 <ul class="contents">
 <li>
@@ -66,7 +66,7 @@
 </nav>
 <section id="publisher">
 <h2>Who provides AllValid</h2>
-<p>AllValid is provided by Diego Russo. For support or privacy questions, email <a href="mailto:allvalid@diegor.it">allvalid@diegor.it</a>. This policy describes the current Release candidate and these support pages. The first TestFlight beta is being prepared; scanning and photo selection are planned for version 1.0 but are not yet enabled in this Release candidate. This policy will be updated before an enabled build is distributed.</p>
+<p>AllValid is provided by Diego Russo. For support or privacy questions, email <a href="mailto:allvalid@diegor.it">allvalid@diegor.it</a>. This policy describes the capture-enabled controlled-beta candidate and these support pages. The first TestFlight beta is being prepared; public release remains pending. During this beta, use fictional records or secondary copies, and keep a separate copy of important information.</p>
 </section>
 <section id="records">
 <h2>Your household stays on your device</h2>
@@ -75,18 +75,19 @@
 </section>
 <section id="pictures">
 <h2>Saved pictures and capture</h2>
-<p>Scanning, OCR, camera/Photos/Files intake and new profile-photo selection are disabled in Release. A supported photo backup can import one saved picture per item or profile. Imported pictures can be viewed or removed. They are bounded, sanitised JPEGs, but their visible pixels may still contain a portrait, signature, full identifier or machine-readable zone. Removing metadata does not redact a picture.</p>
+<p>Camera scanning and recognition are processed on-device. You can also explicitly select one image from Photos or one image or PDF from Files, choosing one page for review. Review or correct the suggested dates before continuing into the ordinary form and saving. Keep photo is off by default for every capture; only the exact sanitised picture you review and choose is kept with the item after Save. You can separately select one profile picture, and supported photo backups can include saved item and profile pictures. Saved pictures can be viewed, replaced or removed. They are bounded, sanitised JPEGs, but their visible pixels may still contain a portrait, signature, full identifier or machine-readable zone. Removing metadata does not redact a picture.</p>
+<p>Source images, recognised text, full machine-readable zones, crops and rejected or default-off pages are temporary and are not intentionally saved by AllValid. Owned temporary camera files are cleaned after the flow and on relaunch; a cleanup failure blocks further camera capture until recovery. This is not a promise to erase every operating-system buffer. AllValid does not delete originals in Photos or Files, and it cannot control copies held by their providers.</p>
 <p>Item pictures remain through archive, date edits and renewal until explicitly removed or the item is permanently deleted. Profile pictures remain until removed or the profile is deleted. Metadata-only exports and one-way copies exclude pictures.</p>
 </section>
 <section id="protection">
 <h2>Device protection and backups</h2>
 <p>Database and durable picture files use iOS Data Protection. File access can remain possible after the first unlock, including during later locks. Optional App lock authenticates the device owner and covers inactive screens; it adds no separate database encryption. AllValid does not receive biometric data or the device passcode.</p>
-<p>Database references and picture files are separate storage systems. Missing, unreadable or corrupt files and unfinished cleanup can block access until recovery. OS backups may include the database and picture files, but backup eligibility is not a guarantee of consistent recovery. Keep a separate backup of important records. Screenshot prevention, secure memory zeroisation and forensic erasure are not promised.</p>
+<p>Database references and picture files are separate storage systems. Missing, unreadable or corrupt files and unfinished cleanup can block access until recovery. OS backups may include the database and picture files, but backup eligibility is not a guarantee of consistent recovery. Actual OS backup/restore and the remaining locked-device checks are still being validated before public release. During the controlled beta, AllValid must not hold the only copy of important information. Keep a separate backup of important records. Screenshot prevention, secure memory zeroisation and forensic erasure are not promised.</p>
 </section>
 <section id="permissions">
 <h2>Optional permissions and reminders</h2>
 <p>Onboarding and help request no permissions. Notification permission follows an explanation and your explicit Continue action. Declining preserves records and rules. Notifications are generic by default. Detailed content may show names, titles and dates on the Lock Screen; notes and identifier hints are excluded. iOS retains notification content and an item identity for opening the record. Content changes update pending notifications when reconciliation succeeds; already-delivered alerts remain unchanged. iOS settings and Focus can affect delivery.</p>
-<p>Optional App lock uses device-owner authentication with passcode fallback. Calendar copies use Apple’s editor without Calendar database access. Apple Reminders requests full access only after its explanation and Continue action; AllValid reads writable list names and sources, never existing tasks, and saves only your confirmed copy. Release requests no camera or Photos access.</p>
+<p>Optional App lock uses device-owner authentication with passcode fallback. Calendar copies use Apple’s editor without Calendar database access. Apple Reminders requests full access only after its explanation and Continue action; AllValid reads writable list names and sources, never existing tasks, and saves only your confirmed copy. Camera permission is requested only when you choose Open camera. Photos uses Apple’s picker for your explicit selection, without requesting full-library access. Files accepts one selected image or PDF; its provider may download a cloud-backed file at your request.</p>
 </section>
 <section id="transfers">
 <h2>Transfers you choose</h2>
